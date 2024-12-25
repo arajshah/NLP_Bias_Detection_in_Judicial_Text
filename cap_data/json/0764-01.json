@@ -1,0 +1,64 @@
+{
+  "id": 12513581,
+  "name": "IN RE PRISCILLA A.",
+  "name_abbreviation": "In re Priscilla A.",
+  "decision_date": "2017-07-12",
+  "docket_number": "S241995",
+  "first_page": "764",
+  "last_page": "764",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 764"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 1093"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 532,
+    "sha256": "60f5e1b9ff255c86bbb569bc142b3ff999896a3c5cb6710359425091ee5c629c",
+    "simhash": "1:c651b42590c0eec6",
+    "word_count": 85
+  },
+  "last_updated": "2021-08-27T20:59:04.095976+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE PRISCILLA A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for review is granted. Further action in this matter is deferred pending consideration and disposition of a related issue in In re R.T., S226416 (see Cal. Rules of Court, rule 8.512 (d)(2) ), or pending further order of the court. Submission of additional briefing, pursuant to California Rules of Court, rule 8.520, is deferred pending further order of the court."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE PRISCILLA A.\nS241995\nSupreme Court of California\nJuly 12, 2017\nThe petition for review is granted. Further action in this matter is deferred pending consideration and disposition of a related issue in In re R.T., S226416 (see Cal. Rules of Court, rule 8.512 (d)(2) ), or pending further order of the court. Submission of additional briefing, pursuant to California Rules of Court, rule 8.520, is deferred pending further order of the court.\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0764-01",
+  "first_page_order": 764,
+  "last_page_order": 764
+}

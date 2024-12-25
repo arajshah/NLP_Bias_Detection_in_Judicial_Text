@@ -1,0 +1,332 @@
+{
+  "id": 12513539,
+  "name": "The PEOPLE, Plaintiff and Respondent, v. CHR HERBAL REMEDIES et al., Defendants and Appellants.",
+  "name_abbreviation": "People v. CHR Herbal Remedies",
+  "decision_date": "2017-05-30",
+  "docket_number": "BR 053028",
+  "first_page": "1",
+  "last_page": "5",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 1"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. Supp. 5th 26"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. Super. Ct.",
+    "id": 15278,
+    "name": "California Superior Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "196 Cal.Rptr.3d 82",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "242 Cal.App.4th Supp. 24",
+      "category": "reporters:state",
+      "reporter": "Cal. App. Supp. 4th",
+      "case_ids": [
+        6053054
+      ],
+      "pin_cites": [
+        {
+          "page": "36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/242/Supp. 24-01"
+      ]
+    },
+    {
+      "cite": "212 Cal.Rptr.3d 860",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Cal.App.5th Supp. 7",
+      "category": "reporters:state",
+      "reporter": "Cal. App. Supp. 5th",
+      "case_ids": [
+        12452470
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/7/Supp. 7-01"
+      ]
+    },
+    {
+      "cite": "195 Cal.Rptr.3d 561",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "242 Cal.App.4th 1155",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4221427
+      ],
+      "pin_cites": [
+        {
+          "page": "1162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/242/1155-01"
+      ]
+    },
+    {
+      "cite": "171 Cal.Rptr.3d 34",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Cal.App.4th 759",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6054287
+      ],
+      "pin_cites": [
+        {
+          "page": "764"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/225/0759-01"
+      ]
+    },
+    {
+      "cite": "214 Cal.Rptr.3d 521",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cal.App.5th 977",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12461952
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "983"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/8/0977-01"
+      ]
+    },
+    {
+      "cite": "191 Cal.Rptr.3d 846",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "239 Cal.App.4th Supp. 9",
+      "category": "reporters:state",
+      "reporter": "Cal. App. Supp. 4th",
+      "case_ids": [
+        6056133
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/239/Supp. 9-01"
+      ]
+    },
+    {
+      "cite": "167 Cal.Rptr.3d 60",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 Cal.App.4th 1406",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6051783
+      ],
+      "pin_cites": [
+        {
+          "page": "1420"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/222/1406-01"
+      ]
+    },
+    {
+      "cite": "93 P.3d 386",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.Rptr.3d 793",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Cal.4th 601",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        493340
+      ],
+      "pin_cites": [
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/33/0601-01"
+      ]
+    },
+    {
+      "cite": "33 Cal.Rptr.3d 859",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Cal.App.4th 747",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5567833
+      ],
+      "pin_cites": [
+        {
+          "page": "791"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/132/0747-01"
+      ]
+    },
+    {
+      "cite": "74 Cal.Rptr.3d 256",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Cal.App.4th 133",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3995864
+      ],
+      "pin_cites": [
+        {
+          "page": "140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/161/0133-01"
+      ]
+    },
+    {
+      "cite": "195 Cal.Rptr.3d 312",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "242 Cal.App.4th 377",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6053480
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/242/0377-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 640,
+    "char_count": 13285,
+    "pagerank": {
+      "raw": 5.8591662004228935e-08,
+      "percentile": 0.3676747177152027
+    },
+    "sha256": "bfe8fd5e6b869ea3b36c2ccf06bbb4c7b120f08bc8a6a6bdf9b5ab46ce46301c",
+    "simhash": "1:621c66ccc7b55cee",
+    "word_count": 2058
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The PEOPLE, Plaintiff and Respondent,\nv.\nCHR HERBAL REMEDIES et al., Defendants and Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Ricciardulli, J.\nINTRODUCTION\nDefendants CHR Herbal Remedies, aka California Herbal Remedies, Inc., and Orlando Yepes appeal the judgment after they were found guilty of four counts of operating an unlawful medical marijuana business (MMB) (L.A. Mun. Code (LAMC), \u00a7 45.19.6.2, subd. A). Defendants contend the judgment should be reversed because they substantially complied with the requirements needed to obtain limited immunity from prosecution, despite the fact their MMB was located within 1,000 feet of a high school and within 600 feet of a child care facility (see LAMC, \u00a7 45.19.6.3, subd. O). As discussed below, we affirm.\nFACTUAL AND PROCEDURAL BACKGROUND\nDefendants were charged in an amended complaint with violating LAMC section 45.19.6.2, subdivision A, on June 16, July 16, July 21, and July 30, 2015, by owning and operating an MMB in the City of Los Angeles (City). Prior to the start of trial, defendants filed two motions requesting they be allowed to present evidence, and argue at trial, that they substantially complied with the limited immunity provision provided by LAMC section 45.19.6.3.\nAttaching to their motions maps of the areas at issue, defendants admitted their MMB on 1343 North Highland Avenue was located within 1,000 feet to the south of Hollywood High School and within 600 feet to the north of the Little Red Schoolhouse child care facility. Defendants acknowledged they did not strictly comply with the 1,000-foot and 600-foot requirements in LAMC section 45.19.6.3, subdivision O, but they maintained the MMB nearly complied with the above distances by being hundreds of feet away from the locations. Defendants also pointed out they satisfied other requirements necessary to obtain immunity, including having been in operation since 2007 (see LAMC, \u00a7 45.19.6.3, subd. A). Defendants argued they should thus be allowed to present a defense at trial that they qualified for immunity because they substantially complied with the distance requirements. The trial court ruled the immunity provision could not be satisfied by substantial compliance with the distance requirements, and denied their motions.\nDefendants subsequently waived their right to a jury trial and agreed to a court trial. The parties stipulated that on the alleged dates defendants owned and operated an MMB located at 1343 North Highland in violation of LAMC section 45.19.6.2, subdivision A, and the location of the MMB was within 1,000 feet of Hollywood High School (880 feet away) and within 600 feet of the Little Red Schoolhouse child care facility (550 feet away). The court found defendants guilty based on the stipulations, suspended imposition of sentence, and placed them on probation.\nDISCUSSION\nBecause the contention that defendants substantially complied with the limited immunity provided by the ordinance is one of law based on undisputed facts, we exercise de novo review. (People v. McGowan (2015) 242 Cal.App.4th 377, 380, 195 Cal.Rptr.3d 312 ; In re Bush (2008) 161 Cal.App.4th 133, 140, 74 Cal.Rptr.3d 256.)\nLAMC section 45.19.6.2, subdivision A, makes it a misdemeanor to \"own, establish, operate, use, or permit the establishment or operation of a[n] [MMB]....\" in the City. LAMC section 45.19.6.3 provides limited immunity from prosecution for violating LAMC section 45.19.6.2. LAMC section 45.19.6.3 states, in relevant part, \"limited immunity is available and may be asserted as an affirmative defense only so long as subsections A. through D. and G. through O. of this Section 45.19.6.3 remain in effect in their entirety, only by a[n] [MMB] at the one location identified in its original or any amended business tax registration certificate issued by the City, and only if that [MMB] does not violate any of the [specified MMB] restrictions.\" (LAMC, \u00a7 45.19.6.3.)\nA defendant is barred from asserting immunity if any listed restrictions apply, including if the MMB was not in operation since 2007 as evidenced by a specified business tax registration or tax exemption certificate; the MMB did not register with the City Clerk in 2007 in accord with an interim control ordinance; the MMB failed to obtain a specified business tax registration in 2011 or 2012, and renew the registration; and if marijuana in the MMB is visible from the exterior of the business. (LAMC, \u00a7 45.19.6.3, subds. A, B, E, J.)\nAs pertinent to the present appeal, the restriction in LAMC section 45.19.6.3, subdivision O, provides in relevant part, \"Every [MMB] is prohibited that is located within a 1,000-foot radius of a school, or within a 600-foot radius of a public park, public library, religious institution, child care facility, youth center, alcoholism, drug abuse recovery or treatment facility, or other [MMB]. The distance specified in this paragraph shall be the horizontal distance measured in a straight line from the property line of the school, public park, public library, religious institution, child care facility, youth center, alcoholism or drug abuse recovery or treatment facility, or other [MMB], to the closest property line of the lot on which the [MMB] is located without regard to intervening structures.\"\nBased on the stipulated facts in the trial court, defendants' MMB failed to satisfy LAMC section 45.19.6.3, subdivision O. The MMB was situated between a high school located 880 feet to the north, and a child care facility 550 feet to the south. Contrary to defendants' contention, substantial compliance in order to render the MMB eligible for immunity was inapplicable.\n\" ' \" 'Substantial compliance means \" 'actual compliance in respect to the substance essential to every reasonable objective of the statute,' as distinguished from 'mere technical imperfections of form.' \" ' [Citation.]\" ' [Citation.]\" (People v. Urziceanu (2005) 132 Cal.App.4th 747, 791, 33 Cal.Rptr.3d 859, italics omitted.)\nSubstantial compliance can be found inapplicable when the text of the provision at issue shows all of its provisions were intended to be satisfied. (See Kulshrestha v. First Union Commercial Corp. (2004) 33 Cal.4th 601, 610, 15 Cal.Rptr.3d 793, 93 P.3d 386 (Kulshrestha ) [\"[t]he plain statutory language\" of the provision at issue by itself can defeat a substantial compliance claim].) But, \"[e]ven if a statute is considered mandatory, substantial compliance may suffice in some circumstances if the purpose of the statute is satisfied.\" (People v. Carroll (2014) 222 Cal.App.4th 1406, 1420, 167 Cal.Rptr.3d 60.) In this regard, \" '[t]he essential inquiry is whether, under the circumstances, the policies underlying the [requirement at issue] were served.' [Citation.]\" (People v. Trinity Holistic Caregivers, Inc. (2015) 239 Cal.App.4th Supp. 9, 19, 191 Cal.Rptr.3d 846 (Trinity ).)\nThe clear terms of the ordinance indicate strict compliance with the immunity provisions was required. (See People v. Smith (2017) 8 Cal.App.5th 977, 983, 214 Cal.Rptr.3d 521 [in discerning the intent of a law we first look to the words of the statute because they are \"generally the most reliable indicator of legislative intent\"]; see also Lyles v. Sangadeo-Patel (2014) 225 Cal.App.4th 759, 764, 171 Cal.Rptr.3d 34 [rules of interpretation of statutes apply to interpretation of ordinances].) Nothing in the text of the ordinance shows the 1,000-foot and 600-foot requirements in LAMC section 45.19.6.3, subdivision O, were intended to be discretionary.\nThe ordinance provides the exact manner in which to measure the relevant distances: \"horizontal distance measured in a straight line from the property line of [the school or other listed sensitive facility] to the closest property line of the lot on which the [MMB] is located without regard to intervening structures.\" (LAMC, \u00a7 45.19.6.3, subd. O.) This shows the drafters of the ordinance intended distances and measurements to be precise. (See Kulshrestha , supra , 33 Cal.4th at p. 611, 15 Cal.Rptr.3d 793, 93 P.3d 386 [finding substantial compliance inapplicable because \"[n]othing suggests that the [required item] is pointless or optional\"].)\nThe ordinance states, \"Every [MMB] is prohibited that is located within a 1,000-foot radius of a school, or within a 600-foot radius [of a specified location including] ... a child care facility.\" (LAMC, \u00a7 45.19.6.3, subd. O, italics added.) This imports an intent to forbid MMB's from operating if the specified requirements were unsatisfied. Emphasizing the importance of strict compliance, the ordinance states immunity is available only when an MMB \"does not violate any of the [listed] [MMB] restrictions.\" (LAMC, \u00a7 45.19.6.3, italics added.) In addition, the ordinance provides all the requirements in LAMC section 45.19.6.3, subdivision O, are sufficiently important that, if any are repealed or otherwise eliminated, no immunity will be available. (See LAMC, \u00a7 45.19.6.3 [\"limited immunity is available and may be asserted as an affirmative defense only so long as subdivisions A. through D. and G. through O. of this Section 45.19.6.3 remain in effect in their entirety ,\" italics added].)\nFurthermore, even going beyond the clear terms of the ordinance, it is evident the purposes of the ordinance would not be satisfied if substantial compliance sufficed to confer immunity. The intent of the ordinance is reflected in its stated purposes and is relevant in discerning the enactment's purposes. (See People v. Johnson (2015) 242 Cal.App.4th 1155, 1162, 195 Cal.Rptr.3d 561 [in discerning intent, \"courts may consider various extrinsic aids, including the purpose of the statute, [and] the evils to be remedied ...\"].)\nTrinity found that one of the purposes of the ordinance was to \"freeze the status of all MMB's as of September 14, 2007, in order to allow the City time to assess how best to permanently regulate MMB's.\" (Trinity , supra , 239 Cal.App.4th at p. Supp. 19, 191 Cal.Rptr.3d 846.) We rejected the argument that substantial compliance applied to the requirement that an MMB have registered in 2007 with the City Clerk (LAMC, \u00a7 45.19.6.3, subd. B), because proof of registration was \"critical to substantiating that all MMB's registered with the City were in fact open and operational as of the ... 2007 deadline.\" (Trinity , supra , 239 Cal.App.4th at p. Supp. 19, 191 Cal.Rptr.3d 846.)\nSimilarly, in People v. Onesra Enterprises, Inc. (2016) 7 Cal.App.5th Supp. 7, 212 Cal.Rptr.3d 860 (Onesra ), we held substantial compliance did not apply to the requirement that an MMB obtain a specified business tax registration in 2011 or 2012 and have renewed the registration (LAMC, \u00a7 45.19.6.3, subd. E). Onesra reasoned \"in the context of the [C]ity's ban on MMB's and the stringent standard for immunity, ... substantial compliance would defeat the purpose of the statute, which is to stem the proliferation of MMB's and their deleterious effects in the [C]ity. [Citation.]\" (Onesra , supra , 7 Cal.App.5th at p. Supp. 16, 212 Cal.Rptr.3d 860.)\nWe arrive at the same conclusion Trinity and Onesra reached regarding the ordinance's registration requirements with respect to LAMC section 45.19.6.3, subdivision O. Substantial compliance would disserve the purposes underlying the distance requirements in the ordinance.\nEnsuring MMB's were located sufficiently away from schools and child care facilities was necessary to minimize the harmful consequences generated by MMB's. The stated intent of the City's MMB ordinance was to allow a limited number of MMB's to operate in order for qualified patients to obtain medical marijuana, but also to \"stem the negative impacts and secondary effects associated with the ongoing [MMB's] in the City.\" (LAMC, \u00a7 45.19.6.) As germane to the case at hand, these \"impacts and secondary effects\" included \"the exposure of school-age children and other sensitive residents to medical marijuana.\" (LAMC, \u00a7 45.19.6.) Allowing immunity for an MMB that \"substantially complies\" with the requirement that it not be located closer than 1,000 feet of schools and closer than 600 feet of child care facilities would increase the risk of marijuana exposure to a child attending those institutions and thereby undermine the intent of the ordinance.\nDISPOSITION\nThe judgment is affirmed.\nWe concur:\nKumar, Acting P.J.\nRichardson, J.\nEven assuming, without deciding, defendants' MMB was in compliance with other restrictions specified in LAMC section 45.19.6.3, that did not mean defendants qualified for immunity based on substantial compliance. To qualify for immunity, a defendant charged under the ordinance had the burden \"to prove all the requirements in [LAMC] section 45.19.6.3, subdivisions A through O.\" (People v. West Valley Caregivers, Inc. (2015) 242 Cal.App.4th Supp. 24, 36, 196 Cal.Rptr.3d 82.)",
+        "type": "majority",
+        "author": "Ricciardulli, J."
+      }
+    ],
+    "attorneys": [
+      "Eric D. Shevin, West Hollywood, Stephen J. Fisch, Ryan M. D'Ambrosio, Los Angeles, and Benjamin S. Reccius of the Shevin Law Group for defendants and appellants CHR Herbal Remedies, aka California Herbal Remedies, Inc., and Orlando Yepes.",
+      "Michael N. Feuer, City Attorney, Asha Greenberg, Assistant City Attorney, and John R. Prosser, Deputy City Attorney, for plaintiff and respondent the City of Los Angeles."
+    ],
+    "corrections": "",
+    "head_matter": "The PEOPLE, Plaintiff and Respondent,\nv.\nCHR HERBAL REMEDIES et al., Defendants and Appellants.\nBR 053028\nAppellate Division, Superior Court, LOS ANGELES COUNTY.\nFiled May 30, 2017\nEric D. Shevin, West Hollywood, Stephen J. Fisch, Ryan M. D'Ambrosio, Los Angeles, and Benjamin S. Reccius of the Shevin Law Group for defendants and appellants CHR Herbal Remedies, aka California Herbal Remedies, Inc., and Orlando Yepes.\nMichael N. Feuer, City Attorney, Asha Greenberg, Assistant City Attorney, and John R. Prosser, Deputy City Attorney, for plaintiff and respondent the City of Los Angeles."
+  },
+  "file_name": "0001-01",
+  "first_page_order": 1,
+  "last_page_order": 5
+}

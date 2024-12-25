@@ -1,0 +1,82 @@
+{
+  "id": 12513546,
+  "name": "MELAMED v. CEDARS-SINAI MEDICAL CENTER",
+  "name_abbreviation": "Melamed v. Cedars-Sinai Med. Ctr.",
+  "decision_date": "2017-06-21",
+  "docket_number": "S241146",
+  "first_page": "27",
+  "last_page": "27",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 27"
+    },
+    {
+      "type": "parallel",
+      "cite": "395 P.3d 1110"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Cal.5th 1057",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12513468
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-rptr-3d/217/0130-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 442,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2586552343399171
+    },
+    "sha256": "b6d601d1b9ddd4536c748ebf8a6923dda422e71cb7d17cbadf1c7936aaffda55",
+    "simhash": "1:d901197f5cb2acf0",
+    "word_count": 68
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MELAMED\nv.\nCEDARS-SINAI MEDICAL CENTER"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for review is granted. The matter is transferred to the Court of Appeal, Second District, Division One, for reconsideration in light of Park v. Board of Trustees of the California State University (2017) 2 Cal.5th 1057, 217 Cal.Rptr.3d 130, 393 P.3d 905."
+    ],
+    "corrections": "",
+    "head_matter": "MELAMED\nv.\nCEDARS-SINAI MEDICAL CENTER\nS241146\nSupreme Court of California\nJune 21, 2017\nThe petition for review is granted. The matter is transferred to the Court of Appeal, Second District, Division One, for reconsideration in light of Park v. Board of Trustees of the California State University (2017) 2 Cal.5th 1057, 217 Cal.Rptr.3d 130, 393 P.3d 905.\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0027-02",
+  "first_page_order": 27,
+  "last_page_order": 27
+}

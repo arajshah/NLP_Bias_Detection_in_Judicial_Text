@@ -1,0 +1,64 @@
+{
+  "id": 12513580,
+  "name": "PEOPLE v. VELA",
+  "name_abbreviation": "People v. Vela",
+  "decision_date": "2017-07-12",
+  "docket_number": "S242298",
+  "first_page": "763",
+  "last_page": "763",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 763"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 1093"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 676,
+    "sha256": "d3421a92931798ed92b8a8b52536c41bb708d29ad30c68a783b63c56daed68f0",
+    "simhash": "1:c6d92020938a92e3",
+    "word_count": 103
+  },
+  "last_updated": "2021-08-27T20:59:04.095976+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE\nv.\nVELA"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for review granted; briefing deferred. Respondent the Attorney General's petition for review is granted. Further action in this matter is deferred pending consideration and disposition of a related issue in People v. Mendoza, et al., S241647 (see Cal. Rules of Court, rule 8.512(d)(2) ), or pending further order of this court. Submission of additional briefing, pursuant to California Rules of Court, rule 8.520, is deferred pending further order of the court. Appellant Adrian Vela's petition for review is denied."
+    ],
+    "corrections": "",
+    "head_matter": "PEOPLE\nv.\nVELA\nS242298\nSupreme Court of California\nJuly 12, 2017\nPetition for review granted; briefing deferred. Respondent the Attorney General's petition for review is granted. Further action in this matter is deferred pending consideration and disposition of a related issue in People v. Mendoza, et al., S241647 (see Cal. Rules of Court, rule 8.512(d)(2) ), or pending further order of this court. Submission of additional briefing, pursuant to California Rules of Court, rule 8.520, is deferred pending further order of the court. Appellant Adrian Vela's petition for review is denied.\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0763-01",
+  "first_page_order": 763,
+  "last_page_order": 763
+}

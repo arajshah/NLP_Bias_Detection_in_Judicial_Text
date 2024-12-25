@@ -1,0 +1,504 @@
+{
+  "id": 12513568,
+  "name": "The ROSSDALE GROUP, LLC, Plaintiff and Appellant, v. Timothy WALTON, Defendant and Respondent.",
+  "name_abbreviation": "Rossdale Grp., LLC v. Walton",
+  "decision_date": "2017-06-15",
+  "docket_number": "H043476",
+  "first_page": "605",
+  "last_page": "612",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 605"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 936"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "133 P.2d 3",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Cal.App.2d 624",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        4425488
+      ],
+      "pin_cites": [
+        {
+          "page": "628-629"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/56/0624-01"
+      ]
+    },
+    {
+      "cite": "174 Cal.Rptr. 169",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Cal.App.3d 605",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2058351
+      ],
+      "pin_cites": [
+        {
+          "page": "615"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/119/0605-01"
+      ]
+    },
+    {
+      "cite": "259 Cal.Rptr. 582",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 Cal.App.3d 879",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6039655
+      ],
+      "pin_cites": [
+        {
+          "page": "881"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/211/0879-01"
+      ]
+    },
+    {
+      "cite": "115 Cal.Rptr.3d 191",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 6,
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 Cal.App.4th 758",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6054000
+      ],
+      "pin_cites": [
+        {
+          "page": "765-766"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/188/0758-01"
+      ]
+    },
+    {
+      "cite": "97 P. 17",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Cal. 83",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1984649
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/154/0083-01"
+      ]
+    },
+    {
+      "cite": "69 Cal.Rptr.3d 87",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Cal.App.4th 662",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4099928
+      ],
+      "pin_cites": [
+        {
+          "page": "669-670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/157/0662-01"
+      ]
+    },
+    {
+      "cite": "175 P.3d 1184",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Cal.Rptr.3d 129",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.4th 1100",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3673279
+      ],
+      "pin_cites": [
+        {
+          "page": "1117, fn. 13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/42/1100-01"
+      ]
+    },
+    {
+      "cite": "103 Cal.Rptr.3d 426",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Cal.App.4th 980",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4212060
+      ],
+      "pin_cites": [
+        {
+          "page": "991"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/180/0980-01"
+      ]
+    },
+    {
+      "cite": "4 Cal.Rptr.3d 317",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Cal.App.4th 912",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1229283
+      ],
+      "pin_cites": [
+        {
+          "page": "921"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/111/0912-01"
+      ]
+    },
+    {
+      "cite": "153 Cal.Rptr. 322",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Cal.App.3d 259",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2048494
+      ],
+      "pin_cites": [
+        {
+          "page": "264"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/90/0259-01"
+      ]
+    },
+    {
+      "cite": "89 P. 1097",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Cal. 1",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2085370
+      ],
+      "pin_cites": [
+        {
+          "page": "14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/151/0001-01"
+      ]
+    },
+    {
+      "cite": "71 P.2d 1118",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Cal.App.2d 661",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        6042102
+      ],
+      "pin_cites": [
+        {
+          "page": "663-664"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/22/0661-01"
+      ]
+    },
+    {
+      "cite": "151 Cal.Rptr.3d 146",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "212 Cal.App.4th 126",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3700797
+      ],
+      "pin_cites": [
+        {
+          "page": "133-134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/212/0126-01"
+      ]
+    },
+    {
+      "cite": "52 Cal.Rptr.2d 443",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 6,
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.App.4th 1599",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4770737
+      ],
+      "pin_cites": [
+        {
+          "page": "1604"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/44/1599-01"
+      ]
+    },
+    {
+      "cite": "425 P.2d 790",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Cal.Rptr. 846",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Cal.2d 368",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2331135
+      ],
+      "pin_cites": [
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/66/0368-01"
+      ]
+    },
+    {
+      "cite": "777 P.2d 610",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "261 Cal.Rptr. 574",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.3d 432",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1974343
+      ],
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/49/0432-01"
+      ]
+    },
+    {
+      "cite": "884 So.2d 324",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9152216
+      ],
+      "pin_cites": [
+        {
+          "page": "327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/884/0324-01"
+      ]
+    },
+    {
+      "cite": "57 Cal.Rptr.2d 356",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.App.4th 1342",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4681892
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/49/1342-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1028,
+    "char_count": 22802,
+    "pagerank": {
+      "raw": 4.6922169990516086e-08,
+      "percentile": 0.29509789953004983
+    },
+    "sha256": "2b3568f979f8c5693d0fb33dad361a3a22d7b84dd28e85497f53b6e2cb17563f",
+    "simhash": "1:73a6469e455db5ac",
+    "word_count": 3690
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The ROSSDALE GROUP, LLC, Plaintiff and Appellant,\nv.\nTimothy WALTON, Defendant and Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "RUSHING, P.J.\nINTRODUCTION\nWe are asked in this appeal to reverse a dismissal of a malicious prosecution lawsuit. Defendant and respondent Timothy Walton (Walton) asked the trial court to dismiss the case for lack of standing and lack of jurisdiction because the named plaintiff, The Rossdale Group, LLC, was only a fictitious business name and the entity to which that name was registered was a dissolved Florida limited liability company called Miami Legal Resources, LLC. Because no legitimate standing or jurisdictional issue was raised by Walton's motion, we will reverse.\nFACTUAL AND PROCEDURAL BACKGROUND\nThis lawsuit had its genesis in an earlier action filed in 2010 by Walton against a defendant he called The Rossdale Group, LLC (Rossdale). Walton, who the complaint in this case alleges is a licensed California attorney, \"maintained a litigation factory\" by \"placing dozens of e-mail addresses on the Internet,\" collecting \" 'spam' \" messages sent to those addresses, and then demanding \"compensation\" for supposed violations of California law. After Rossdale refused to pay in response to a demand letter for \"prohibited forms of e-mail advertising,\" Walton filed suit against Rossdale, claiming, among other things, a violation of the Consumer Legal Remedies Act, Civil Code sections 1750 et seq. Walton's lawsuit against Rossdale was dismissed after the trial court granted a motion for judgment on the pleadings with prejudice, and judgment was entered on May 2, 2012.\nThe same day, this action was filed against Walton, stating a single claim for malicious prosecution, based on the allegation that Walton's prior lawsuit was pursued on legal theories Walton knew to be erroneous and discovery tactics meant to prolong a meritless lawsuit. The plaintiff in this lawsuit is identified as \"The Rossdale Group, LLC,\" \"a Florida Limited Liability Company.\" As it turns out, however, Rossdale was merely a fictitious business name registered in Florida to a Florida limited liability company called Miami Legal Resources, LLC (Miami Legal).\nBefore we go further, we pause to note the following, given the somewhat convoluted history of the various related entities: the plaintiff in this case always has been Miami Legal (and Miami Legal is also the appellant here). When suit was filed in May 2014, the plaintiff was identified as the \"Rossdale Group, LLC.\" The records show (and the parties never disputed below) that, at that time, the Rossdale name was duly registered to Miami Legal and Miami Legal was itself in active status as a Florida limited liability company. \"Use of a fictitious business name does not create a separate legal entity.\" (Pinkerton's, Inc. v. Superior Court (1996) 49 Cal.App.4th 1342, 1348, 57 Cal.Rptr.2d 356 ; see also Osmo Tec SACV Co. v. Crane Envtl., Inc. (Fla.Ct.App. 2004) 884 So.2d 324, 327 [a fictitious name has \"no independent legal existence\"].) No substitution of parties ever occurred so Miami Legal remained the plaintiff below and is, because the notice of appeal was filed by Rossdale, the appellant here as well.\nIn January 2016, Walton filed what he called a \"motion to dismiss.\" Basing his motion on Code of Civil Procedure section 367 and case authority on standing as a jurisdictional defect, Walton argued that the lawsuit had to be dismissed because \"[i]n actuality, The Rossdale Group, LLC, is a fictitious business name registered by a company that has now dissolved\"-a dissolution that occurred after the lawsuit was filed. With the dissolution of Miami Legal, Walton argued, \"the legal entity that is the Plaintiff in this action disappeared.\"\nMiami Legal, filing under the Rossdale name, opposed the motion, supported by a declaration from Susan Lunden (Lunden), who identified herself as the \"CEO\" for the \"Rossdale Group, LLC.\" The opposition contained no denial that Miami Legal had been dissolved. Instead, Miami Legal argued that all of its assets and liabilities had been transferred to a Delaware entity called Rossdale, CLE, Inc. (Rossdale Delaware). According to Miami Legal, Rossdale Delaware had become its \"owner\" in April 2013 (apparently Miami Legal was Rossdale Delaware's subsidiary). The process of transferring the assets and liabilities of Miami Legal to Rossdale Delaware had started in 2013 and by September 2014, the \"entire business\" of Miami Legal had been transferred to Rossdale Delaware, which Miami Legal referred to as its \"successor in interest to the causes of action asserted in their [sic ] lawsuit.\" The opposition also referred to an \"amend[ment]\" of Rossdale's fictitious business name statement with Florida, which was filed to \"to reflect that The Rossdale Group, LLC is now owned by the new successor in interest, [Rossdale Delaware].\" (Although there are references to this amendment in the supporting declaration to Miami Legal's opposition, no copy of it is in the record.)\nIn his reply, Walton asserted that no documentary evidence was provided by Lunden to support her claim that the assets and liabilities of Miami Legal had in fact been assigned to Rossdale Delaware. He also implied that any such assignment would have been void because it would have been done by the time Miami Legal was dissolved.\nAfter a hearing on March 3, 2016, the court granted the motion to dismiss. The order states as follows: \"The Rossdale Group, LLC, lacks standing to sue. The Rossdale Group, LLC ('Rossdale') asserts that Defendant Timothy Walton waived any right to complain concerning lack of standing. However, lack of capacity to sue is a jurisdictional defect which may be raised at any time. Common Cause of California v. Board of Supervisors of Los Angeles County (1989) 49 Cal.3d 432, 438 [261 Cal.Rptr. 574, 777 P.2d 610] [ (Common Cause ) ] (contentions based on lack of standing involve a jurisdictional challenge and may be raised at any point in the proceeding). [\u00b6] Rossdale was never a corporate entity, it was at all times a fictitious business name, and at no time was it a valid entity, either when sued by Walton or when suing Walton. [\u00b6] Rossdale does not have legal capacity to sue because it is simply a fictitious business name, not a stand-alone legal entity. At the time it filed suit, ... it lacked legal capacity to sue. [\u00b6] There is no party to whom relief may be granted in that capacity. [\u00b6] So for those reasons, the Court grants the motion to dismiss the action without leave to amend.\" Notice of entry of the order granting the dismissal was served. This timely appeal followed.\nDISCUSSION\nMiami Legal's primary argument is that the use of a fictitious name does not raise standing or jurisdictional issues. Because we agree on this point, which is dispositive of this appeal, we do not find it necessary to address the remaining arguments made.\nI. Pleas of Abatement and Standard of Review\nWalton's only statutory authority for his motion was Code of Civil Procedure section 367. That statute, however, merely provides the general rule that every action must be prosecuted in the name of the real party in interest. (Code Civ. Proc., \u00a7 367.) In fact, Walton was pursuing what is called a plea in abatement. \"At common law a number of special pleas in abatement, also called 'dilatory pleas,' were made preliminarily as separate pleadings prior to both the demurrer and pleas in bar. A plea in abatement did not challenge the plaintiff's claim on the merits but merely objected to the particular proceeding to enforce it. The code system abolished the separate pleading but allowed the same kind of objections to be raised by demurrer or answer.\" (5 Witkin, California Procedure (5th ed. 2008) Pleading, \u00a7 1129, p. 556.) As our Supreme Court has stated, \"a plea of lack of capacity of a corporation to maintain an action by reason of a suspension of corporate powers ... 'is a plea in abatement which is not favored in law, is to be strictly construed and must be supported by facts warranting the abatement' at the time of the plea. [Citations].\" (Traub Co. v. Coffee Break Service, Inc . (1967) 66 Cal.2d 368, 370, 57 Cal.Rptr. 846, 425 P.2d 790.)\n\"[A] plea in abatement such as lack of capacity to sue 'must be raised by defendant at the earliest opportunity or it is waived.... The proper time to raise a plea in abatement is in the original answer or by demurrer at the time of the answer.' \" (Color-Vue, Inc. v. Abrams (1996) 44 Cal.App.4th 1599, 1604, 52 Cal.Rptr.2d 443 (Color-Vue ).) \"This principle derives from the governing provisions in the Code of Civil Procedure. Under those provisions, a defendant may object to a complaint by demurrer or answer on the ground that '[t]he person who filed the pleading does not have the legal capacity to sue.' (Code Civ. Proc., \u00a7 430.10, subd. (b).) The objection may be raised by demurrer when the ground for objection appears on the face of the complaint or from any matter that is subject to judicial notice; otherwise, the objection may be raised by answer. (Id ., \u00a7 430.30, subds. (a) & (b).)\" (V & P Trading Co., Inc. v. United Charter, LLC (2012) 212 Cal.App.4th 126, 133-134, 151 Cal.Rptr.3d 146.)\nWhere, as here, a suspension or other event causing a lack of capacity is claimed to have \"occurred after the time to demur or answer ha[s] passed, [the parties claiming a lack of capacity] should ... move[ ] the court for leave to file an amended answer asserting the plea.\" (Color-Vue, supra, 44 Cal.App.4th at p. 1604, fn. 5, 52 Cal.Rptr.2d 443.) (See also Stewart v. San Fernando Refining Co. (1937) 22 Cal.App.2d 661, 663-664, 71 P.2d 1118 [affirming denial of motion to amend answer to include plea of abatement].) Had Walton filed a motion to amend his answer, as he should have, the trial court's decision on that motion would have been reviewed for an abuse of discretion. (Tingley v. Times Mirror (1907) 151 Cal. 1, 14, 89 P. 1097.)\nThat, however, is not what Walton did. Instead, he filed a motion to dismiss supported by evidence, which the court decided on the merits. It has been held that, where there are no material factual disputes, a trial court's determination of whether a party was a \"jural entity\" and had the capacity to sue was a legal question subject to independent review. (Barr v. United Methodist Church (1979) 90 Cal.App.3d 259, 264, 153 Cal.Rptr. 322.) Given that we do not see any factual dispute that affects the outcome of the questions raised, we will apply a de novo standard of review as well.\nII. Neither Standing Nor Jurisdiction Was Implicated By Walton's Motion\nWalton's motion was based on his apparent belief that Code of Civil Procedure section 367 (section 367 ) provides a sort of baseline standing requirement for California courts. As we mentioned, the text of that statute provides that \"[e]very action must be prosecuted in the name of the real party in interest, except as otherwise provided by statute.\" (Code Civ. Proc., \u00a7 367.) Its purpose is to \"protect a defendant from harassment from other claimants on the same demand.\" (Redevelopment Agency of San Diego v. San Diego Gas & Electric Co . (2003) 111 Cal.App.4th 912, 921, 4 Cal.Rptr.3d 317.)\nSection 367\"is not the equivalent of, and provides no occasion to import, federal-style 'standing' requirements.\" (Jasmine Networks, Inc. v. Superior Court (2009) 180 Cal.App.4th 980, 991, 103 Cal.Rptr.3d 426 (Jasmine Networks ).) \"Properly understood, the concept of 'standing' contemplates a requirement that the plaintiff 'establish an entitlement to judicial action, separate from proof of the substantive merits of the claim advanced.' (13A Wright et al., Fed. Practice and Procedure (3d ed. 2008) \u00a7 3531, p. 6, italics added.) This concept 'has been largely a creature of twentieth century decisions of the federal courts.' (Ibid ., fn. omitted.) It is rooted in the constitutionally limited subject matter ju risdiction of those courts. (See id. at p. 9 ['The threshold requirements are attributed to the \"case\" and \"controversy\" terms that define the federal judicial power in Article III. Absent constitutional standing, the courts believe they lack power to entertain the proceeding .' (italics added) ]; see 13 Wright et al., supra , \u00a7 3522, pp. 103-104 [presumption that federal court lacks subject matter jurisdiction].) But as our Supreme Court has written, no such wariness surrounds the subject matter jurisdiction of California courts: 'Article III of the federal Constitution imposes a \"case-or-controversy limitation on federal court jurisdiction,\" requiring \" 'the party requesting standing [to allege] \"such a personal stake in the outcome of the controversy as to assure that concrete adverseness which sharpens the presentation of issues.\" ' \" [Citation.] There is no similar requirement in our state Constitution. [Citation.]' (Grosset v. Wenaas (2008) 42 Cal.4th 1100, 1117, fn. 13 [72 Cal.Rptr.3d 129, 175 P.3d 1184] [citation]; [Citations.]\" (Jasmine Networks, supra, 180 Cal.App.4th at p. 990, 103 Cal.Rptr.3d 426.) (See also Cal. Const., art. VI, \u00a7 10 [empowering superior court to adjudicate any \"cause\" brought before it].)\nWhatever the exact contours of the concept of standing as it is used in California, the fact that a corporate entity's status has been suspended does not implicate it. \"Defects or errors in relation to parties do not affect subject matter jurisdiction.\" (2 Witkin, Cal. Procedure (5th Ed. 2008) Jurisdiction, \u00a7 99, p. 672.) \" 'There is a difference between the capacity to sue, which is the right to come into court, and the standing to sue, which is the right to relief in court.' \" (Color-Vue [supra], 44 Cal.App.4th [at p.] 1604 [52 Cal.Rptr.2d 443] [citation].) 'A plaintiff lacks standing to sue if, for example, it [is] not ... a real party in interest.' (Id . at p. 1604, fn. 4 [52 Cal.Rptr.2d 443].) Incapacity, on the other hand, is merely a legal disability, such as minority or incompetency, that can be cured during the pendency of the litigation. (Id . at p. 1604 [52 Cal.Rptr.2d 443].) 'Suspension of corporate powers results in a lack of capacity to sue, not a lack of standing to sue.' (Id . at pp. 1603-1604 [52 Cal.Rptr.2d 443].)\" (Washington Mutual Bank v. Blechman (2007) 157 Cal.App.4th 662, 669-670, 69 Cal.Rptr.3d 87.) Any claim, therefore, that Miami Legal's dissolved status prohibited further prosecution of its lawsuit does not raise matters of jurisdiction or standing.\nFurther, the Common Cause case, relied upon by Walton in his motion (and cited by the trial court in its order of dismissal), is inapposite. (See Common Cause, supra, 49 Cal.3d at pp. 438-441, 261 Cal.Rptr. 574, 777 P.2d 610.) The question presented in that case was whether taxpayer plaintiffs had standing to require a county to implement what was, in essence, a kind of voter outreach program, without which, plaintiffs claimed, provisions of California's Elections Code and the equal protection guarantees of the United States and California Constitutions would be violated. (Id. at pp. 437-439, 261 Cal.Rptr. 574, 777 P.2d 610.) Our Supreme Court held that the taxpayers did have standing because they were seeking, by a writ of mandamus, to procure the enforcement of a public duty. (Id. at pp. 439-440, 261 Cal.Rptr. 574, 777 P.2d 610.) These facts are far afield from what Walton argued in his motion. This case involves simply a corporate capacity issue. We are not being asked to discern here whether members of the taxpaying public might have standing nor to discern the dividing line between a generalized grievance and particularized injury.\nWe also reject the notion that either section 367 or the concept of standing prohibited Miami Legal from pursuing its case under a fictitious name. As our Supreme Court noted over a century ago, \"a person may adopt any name in which to prosecute business, and may sue or be sued in such a name.\" (Emery v. Kipp (1908) 154 Cal. 83, 86, 97 P. 17.) In addition, the argument that a \"plaintiff has no standing to sue under a fictitious name\" was more recently rejected in Doe v. Lincoln Unified School Dist. (2010) 188 Cal.App.4th 758, 765-766, 115 Cal.Rptr.3d 191 (Lincoln Unified ). In that case, a school teacher brought an action against her school district (among other defendants), seeking a writ of mandate to compel the district to initiate certain proceedings under the Education Code to determine her mental fitness. (Id. at p. 762, 115 Cal.Rptr.3d 191.) The teacher brought suit under a fictitious name to protect her privacy and the school district objected, arguing that plaintiff's remedy was to file her documents under seal pursuant to California Rules of Court, rule 2.551. (Id. at p. 765, 115 Cal.Rptr.3d 191.)\nThe district's arguments were rejected: \"The question here is not one of standing.\" (Lincoln Unified, supra, 188 Cal.App.4th at p. 765, 115 Cal.Rptr.3d 191.) \"The question for purposes of standing is not the name used by the party suing but whether the party suing is the party possessing the right sued upon. In this matter, there is no question plaintiff is the party injured by virtue of defendants' actions and, therefore, she is the party possessing the right sued upon. Thus, the question is not whether plaintiff has standing to sue but whether she may do so using a fictitious name.\" (Ibid. ) The Lincoln Unified court then examined a long line of cases allowing plaintiffs to proceed under a fictitious name. (Id. at pp. 766-767, 115 Cal.Rptr.3d 191.)\nThe Lincoln Unified court also rejected the assertion that section 367\"requires that a party sue in his or her own name. It does not. Notwithstanding its wording, this provision requires that an action be brought by the real party in interest. [Citation.] ' \"A real party in interest ordinarily is defined as the person possessing the right sued upon by reason of the substantive law.\" [Citation.] A complaint filed by someone other than the real party in interest is subject to general demurrer on the ground that it fails to state a cause of action. [Citation.]' \" (Lincoln Unified, supra, 188 Cal.App.4th at p. 765, 115 Cal.Rptr.3d 191.)\nOf course, this case does not involve an individual seeking to sue under a fictitious name to protect his or her identity nor does this case invoke the same kind of privacy concerns at issue in Lincoln Unified . Nor did Walton's motion in fact raise any supposed violation of any fictitious name statute. Both this case and Lincoln Unified , however, stand for the proposition that, whatever other complications might arise from the use of fictitious names, doing so does not, in and of itself, raise a question of standing or jurisdiction.\nDISPOSITION\nThe judgment is reversed. The trial court is instructed to enter an order denying Walton's motion to dismiss. Costs on appeal are awarded to the appellant, Miami Legal.\nWE CONCUR:\nPREMO, J.\nELIA, J.\nWalton's motion to dismiss acknowledged the relationship between the Rossdale name and Miami Legal, and Walton never argued that the suit should be dismissed because of what appears to be a misnomer.\nCode of Civil Procedure section 367 reads: \"Every action must be prosecuted in the name of the real party in interest, except as otherwise provided by statute.\"\nAs we alluded to earlier, the history of the different entities and their relationship with each other is more than convoluted. For example, in Walton's motion to dismiss, he brought to the trial court's attention the existence of another limited liability company, also called \"Miami Legal Resources, LLC,\" which had filed its articles of organization with the state of Florida in September 2015. Walton appears to have been anticipating that Miami Legal would argue that all of its assets were transferred to this new entity and so could continue the lawsuit as before. In its opposition, however, Miami Legal conceded that this new entity was \"irrelevant\" to Walton's motion. Why there is or was a second entity using the same name as the first (or even whether it is or was indeed a truly separate entity) has never been explained by Miami Legal and has only added to the convoluted background of this case. The record does show that the first Miami Legal was dissolved in September 2014. And the current status report available from Florida's Division of Corporations, which we take judicial notice of on our own motion, shows the second Miami Legal appears to be operating under the same taxpayer identification number as the first Miami Legal. (See Florida Division of Corporations, < http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName& directionType=Initial& searchNameOrder=MIAMILEGALRESOURCESL\u00a8150001509300& aggregateId=flal-l15000150930-fc58a47e-9a4f-4a34-ba92-46fbed3e9c8c& searchTerm=MiamiL\u00a8egal& listNameOrder=MIAMILEGALASSISTP\u00a8160000012750>, as of Jun. 6, 2017.) Because Walton's motion did not cite any state statute regarding Miami Legal's status and relied only on standing and jurisdictional arguments, we need not discuss this topic in detail.\nWalton's brief as respondent was stricken for his failure to pay the filing fee required by Government Code section 68926, subdivision (b). As a result, we may accept as true the facts stated in appellant's opening brief. (See Miles v. Speidel (1989) 211 Cal.App.3d 879, 881, 259 Cal.Rptr. 582 ; Cal. Rules of Court, rule 8.220(a)(2).)\nAlthough Miami Legal's appellate brief raises Florida's fictitious name statute and whether violations of it can be waived, we do not read Walton's original motion as even raising this issue. As we have mentioned, neither Walton's motion nor the memorandum in support of it state statute relating to either a fictitious name registration problem or capacity to sue based on a dissolution. Walton's motion was instead based solely on standing and jurisdiction (which he argued were inherent in Code of Civil Procedure section 367 ).\nWe note that at least one court has treated a motion to strike pleadings raising corporate capacity issues as akin to a motion for summary judgment because of the disputed nature of the evidence and applied the same standard of review applicable to such motions. (See Mediterranean Exports, Inc. v. Superior Court (1981) 119 Cal.App.3d 605, 615, 174 Cal.Rptr. 169.) The procedural difficulties raised by pleas in abatement are perhaps caused by the fact that their common law origins fit uneasily in today's code centered environment. (See Burnand v. Irigoyen (1943) 56 Cal.App.2d 624, 628-629, 133 P.2d 3 [\"The terms abate and abatement are not defined by statute and neither has any specific application to any statutory procedure\"].)",
+        "type": "majority",
+        "author": "RUSHING, P.J."
+      }
+    ],
+    "attorneys": [
+      "David Alan Makman, San Mateo, for Plaintiff and Appellant"
+    ],
+    "corrections": "",
+    "head_matter": "The ROSSDALE GROUP, LLC, Plaintiff and Appellant,\nv.\nTimothy WALTON, Defendant and Respondent.\nH043476\nCourt of Appeal, Sixth District, California.\nFiled June 15, 2017\nDavid Alan Makman, San Mateo, for Plaintiff and Appellant\nTimothy J. Walton, Pro Per"
+  },
+  "file_name": "0605-01",
+  "first_page_order": 605,
+  "last_page_order": 612
+}

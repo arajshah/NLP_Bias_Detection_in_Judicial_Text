@@ -1,0 +1,749 @@
+{
+  "id": 12513551,
+  "name": "Laura BARTONI, et al., Plaintiffs and Appellants, v. AMERICAN MEDICAL RESPONSE WEST, Defendant and Respondent.",
+  "name_abbreviation": "Bartoni v. Am. Med. Response W.",
+  "decision_date": "2017-04-25",
+  "docket_number": "A143784",
+  "first_page": "46",
+  "last_page": "65",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 46"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "53 Cal.4th 1004",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        5719335
+      ],
+      "pin_cites": [
+        {
+          "page": "1026"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/53/1004-01"
+      ]
+    },
+    {
+      "cite": "155 P.3d 284",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Cal.Rptr.3d 880",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Cal.4th 1094",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3159384
+      ],
+      "pin_cites": [
+        {
+          "page": "1102, fn. 4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/40/1094-01"
+      ]
+    },
+    {
+      "cite": "32 Cal.Rptr.3d 373",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Cal.App.4th 893",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5530318
+      ],
+      "pin_cites": [
+        {
+          "page": "902, fn. 2"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/131/0893-01"
+      ]
+    },
+    {
+      "cite": "927 P.2d 296",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Cal.Rptr.2d 186",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Cal.4th 557",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        341424
+      ],
+      "pin_cites": [
+        {
+          "page": "561"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/14/0557-01"
+      ]
+    },
+    {
+      "cite": "156 Cal.Rptr.3d 632",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Cal.App.4th 220",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6054967
+      ],
+      "pin_cites": [
+        {
+          "page": "232-233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/216/0220-01"
+      ]
+    },
+    {
+      "cite": "995 P.2d 139",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Cal.Rptr.2d 3",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Cal.4th 575",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        158011
+      ],
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/22/0575-01"
+      ]
+    },
+    {
+      "cite": "340 P.3d 355",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Cal.Rptr.3d 124",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Cal.5th 257",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12513355
+      ],
+      "weight": 24,
+      "pin_cites": [
+        {
+          "page": "264"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-rptr-3d/211/0634-01"
+      ]
+    },
+    {
+      "cite": "22 Cal.Rptr.2d 419",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Cal.App.4th 644",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4683255
+      ],
+      "pin_cites": [
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/18/0644-01"
+      ]
+    },
+    {
+      "cite": "2 P.3d 27",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Cal.Rptr.2d 179",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Cal.4th 429",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        277044
+      ],
+      "pin_cites": [
+        {
+          "page": "435"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/23/0429-01"
+      ]
+    },
+    {
+      "cite": "154 Cal.Rptr.3d 480",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "214 Cal.App.4th 974",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4264067
+      ],
+      "pin_cites": [
+        {
+          "page": "989"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/214/0974-01"
+      ]
+    },
+    {
+      "cite": "15 P.3d 1071",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Cal.Rptr.2d 320",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "525 P.2d 701",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Cal.Rptr. 797",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Cal.3d 447",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2315549
+      ],
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/12/0447-01"
+      ]
+    },
+    {
+      "cite": "484 P.2d 964",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Cal.Rptr. 796",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Cal.3d 800",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2319608
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "809"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/4/0800-01"
+      ]
+    },
+    {
+      "cite": "636 P.2d 575",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Cal.Rptr. 612",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Cal.3d 256",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2013862
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "266"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/30/0256-01"
+      ]
+    },
+    {
+      "cite": "96 P.3d 194",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal.Rptr.3d 906",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.4th 319",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        633022
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/34/0319-01"
+      ]
+    },
+    {
+      "cite": "63 P.3d 913",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Cal.Rptr.2d 1",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Cal.4th 1096",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        777210
+      ],
+      "pin_cites": [
+        {
+          "page": "1104-1105, 1108"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/29/1096-01"
+      ]
+    },
+    {
+      "cite": "497 P.2d 225",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Cal.Rptr. 1",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Cal.3d 232",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2277318
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "238"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/7/0232-01"
+      ]
+    },
+    {
+      "cite": "327 P.3d 165",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Cal.Rptr.3d 332",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Cal.4th 522",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        4264198
+      ],
+      "pin_cites": [
+        {
+          "page": "529-530"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/59/0522-01"
+      ]
+    },
+    {
+      "cite": "142 Cal.Rptr. 325",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Cal.App.3d 122",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2038446
+      ],
+      "pin_cites": [
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/75/0122-01"
+      ]
+    },
+    {
+      "cite": "118 Cal.Rptr.2d 71",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Cal.App.4th 1357",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        987361
+      ],
+      "pin_cites": [
+        {
+          "page": "1367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/96/1357-01"
+      ]
+    },
+    {
+      "cite": "78 Cal.Rptr.3d 666",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Cal.App.4th 1545",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        8164191
+      ],
+      "pin_cites": [
+        {
+          "page": "1547"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/163/1545-01"
+      ]
+    },
+    {
+      "cite": "248 P.3d 681",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Cal.Rptr.3d 153",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.4th 751",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3914768
+      ],
+      "pin_cites": [
+        {
+          "page": "757"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/51/0751-01"
+      ]
+    },
+    {
+      "cite": "2016 WL 693230",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Cal.Rptr.3d 134",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 6,
+      "opinion_index": 0
+    },
+    {
+      "cite": "238 Cal.App.4th 291",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4361238
+      ],
+      "pin_cites": [
+        {
+          "page": "310"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/238/0291-01"
+      ]
+    },
+    {
+      "cite": "325 P.3d 916",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Cal.Rptr.3d 371",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Cal.4th 1",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        4264108
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/59/0001-01"
+      ]
+    },
+    {
+      "cite": "273 P.3d 513",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 15,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Cal.Rptr.3d 315",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 15,
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 P.3d 923",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Cal.Rptr.3d 588",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Cal.4th 969",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3896184
+      ],
+      "pin_cites": [
+        {
+          "page": "975"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/46/0969-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1693,
+    "char_count": 56298,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25865562046281465
+    },
+    "sha256": "060c870dd0f40e19d49b30454fd0dcebfbb37f6230ec4145b2208df3ab9ca5cf",
+    "simhash": "1:28edf70e060a9174",
+    "word_count": 8943
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Laura BARTONI, et al., Plaintiffs and Appellants,\nv.\nAMERICAN MEDICAL RESPONSE WEST, Defendant and Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Miller, J.\nCurrent and former employees of an ambulance service company sued their employer, alleging that its meal and rest period policies violate California law. Their complaint alleges claims on behalf of a proposed class as well as non-class claims concerning those same meal and rest period policies under Labor Code section 2698 et seq., the Private Attorneys General Act of 2004 (PAGA).\nBefore us is plaintiffs' appeal of the trial court's denial of their motion for class certification. The appeal raises two issues. First, is the order denying class certification appealable under the \"death knell\" doctrine, where plaintiffs' PAGA claims remain pending? Second, did the trial court err in denying class certification? We will exercise our discretion to treat the appeal as a writ petition, and therefore we need not decide the first question. We conclude that the trial court's denial of class certification rests in part on an incorrect legal assumption about the nature of rest periods, and therefore we will remand part of the matter for further consideration.\nFACTUAL AND PROCEDURAL BACKGROUND\nDefendant American Medical Response West (AMR) provides ambulance services in more than 15 Northern California counties, and employs dispatchers, call takers, drivers, emergency medical technicians (EMT's), paramedics and nurses. Plaintiffs are four of AMR's current or former employees: dispatcher Laura Bartoni, EMT Cameron Francis, dispatcher and EMT Heather Murray, and EMT Jefferson Todd Willhoyte (collectively, plaintiffs).\nThe gravamen of the operative Third Amended Complaint is that AMR failed to provide the meal and rest periods to which plaintiffs are entitled under Labor Code sections 226.7 and 512 and the applicable wage orders issued by the California Industrial Welfare Commission (IWC). Plaintiffs allege three causes of action: first, a class claim under the Labor Code; second, a class claim under Business and Professions Code section 17200 et seq., the Unfair Competition Law (UCL); and third, a claim for civil penalties under PAGA. The PAGA cause of action is a representative action not subject to class action requirements. (Arias v. Superior Court (2009) 46 Cal.4th 969, 975, 95 Cal.Rptr.3d 588, 209 P.3d 923 (Arias ).)\nPlaintiffs moved to certify a class for their first two causes of action. The proposed class includes AMR's employees in various Northern California locations who were covered by any of a succession of collective bargaining agreements from 2004 onward. Plaintiffs argued that these collective bargaining agreements contain employment policies that apply to all class members, including a policy requiring class members to remain on duty and subject to interruption during all meal periods, a policy that does not permit off-duty rest periods, and policies that do not comply with requirements for the accrual, timing, and duration of meal and rest periods.\nThe proposed class encompasses two subclasses: the Communication Center Employee Subclass, which includes dispatchers and call takers, and the Field Employee Subclass, which includes EMT's, paramedics, nurses and drivers. We adopt the trial court's convention and refer to the Communication Center Employee Subclass as the \"Comm Center Class\" and to the Field Employee Subclass as the \"Field Employee Class.\" As of May 2013, AMR\nhad identified approximately 400 potential members of the Comm Center Class and 5,200 potential members of the Field Employees Class.\nPlaintiffs supported their motion with their own declarations, but not declarations from any other potential class members; excerpts from the depositions of individuals designated by AMR to testify as to various issues; copies of collective bargaining agreements and agreements for on-duty meal periods; documents reflecting AMR's policies and procedures; excerpts from AMR's responses to discovery requests; a printout from AMR's web site, and a stipulation about the use and contents of the on-duty meal period agreement that class members signed.\nAMR opposed plaintiffs' motion on multiple grounds. Among other things, it argued that plaintiffs failed to identify class-wide policies regarding meal and rest periods that are consistently applied. AMR also argued that because the proposed classes include field employees working in 18 different geographic operations and employees working in 5 different communications centers, which have different approaches to meal and rest periods, plaintiffs cannot show that issues of law or fact common to the class predominate, and therefore cannot establish the existence of a community of interest, a requirement for class certification.\nAMR presented declarations from potential class members who described their varied experiences as to when and how they took meal and rest periods; deposition testimony from the plaintiffs describing their experiences in taking meal and rest periods; and declarations and policy documents describing the variety of operations and practices across the 18 operating units and 5 communications centers covered by the proposed class, including practices regarding meal and rest periods. At AMR's request, the trial court took judicial notice of orders denying class certification in other cases, including cases filed against AMR, \"but only as to the existence of these trial court decisions.\" The trial court also took judicial notice of materials prepared by the Division of Labor Standards Enforcement (DLSE), which is the state agency empowered to enforce California's labor laws, including IWC wage orders. (Lab. Code, \u00a7\u00a7 61, 95 ; Brinker, supra, 53 Cal.4th at p. 1029, fn. 11, 139 Cal.Rptr.3d 315, 273 P.3d 513.)\nThe trial court's thorough and thoughtful consideration of the certification issues here is shown in its request for supplemental briefing from the parties on the possible impact on this case of Duran v. U.S. Bank National Association (2014) 59 Cal.4th 1, 172 Cal.Rptr.3d 371, 325 P.3d 916 (Duran ), which emphasized that in deciding whether to certify a class, a trial court must consider the manageability of individual issues as well as the existence of common questions (id. at p. 29, 172 Cal.Rptr.3d 371, 325 P.3d 916 ), and held that in cases where a class claim \"has the potential to raise numerous individual questions that may be difficult, or even impossible to litigate on a classwide basis[, c]lass certification is appropriate only if these individual questions can be managed with an appropriate trial plan.\"\nThen, after the parties submitted the material requested, the court requested further supplemental briefing, and directed plaintiffs to \" '(1) clearly articulate each of AMR's policies that are being challenged in this action, (2) clearly articulate why and in what way each of the challenged policies in unlawful, and (3) clearly articulate either (a) the manner in which each of the challenged policies could be modified to make it lawful, or (b) a lawful alternative policy that would be suitable to those of AMR's operations in which the putative members of both classes work.' \" In response to this second request for supplemental briefing, plaintiffs identified 11 policies.\nThe first is AMR's uniform policy of providing only on-duty meal periods to members of both classes. Plaintiffs argue that although California law requires off-duty meal periods unless (a) the nature of the work prevents an employee from being relieved of all duty, and (b) the parties have agreed in writing to an on-the-job paid meal period, AMR uniformly, and improperly, requires all class members to sign on-duty meal period agreements.\nThe second is AMR's uniform requirement that members of both classes remain \"on duty\" at all times. Plaintiffs arguing that this policy deprives class members of rest periods, which must be \"off duty.\"\nThe remaining nine policies govern meal or rest periods and affect the Comm Center Class (or a portion of it) or the Field Employee Class (or a portion of it), or both. Plaintiffs characterize these as \"uniform policies regarding number, duration and timing of meal and rest periods,\" and identify them in a chart they submitted to the trial court as part of the supplemental briefing.\nAfter a hearing, and after receiving further supplemental briefing from AMR, the trial court denied class certification for plaintiffs' causes of action under the Labor Code and the UCL arising from the 11 identified policies. The court found that plaintiffs satisfied the numerosity and ascertainability requirements, but failed to satisfy the community of interest requirement. With respect to the first two policies that plaintiffs identified, described as \"overarching policies\" because the policies apply to all members of both classes, the trial court rested its ruling on its conclusion that a meal or rest period during which an employee remains \"on call\" but is not actually interrupted is properly characterized as an \"off duty\" period. As we discuss below, this conclusion was based on an erroneous legal premise insofar as rest periods are concerned. With respect to the remaining nine policies, the trial court concluded that plaintiffs had failed to identify any policy that was uniformly applicable across either class. The court also determined \"that the inclusion or exclusion of certain employees from certain policies (e.g., Burlingame Comm Center employees excluded from policy 10; policies 5 and 11 applicable only to Monterey[ ]) raises questions of standing and adequacy of representation. In sum, Plaintiffs have not established that any of their claims based on timing, duration and accrual of rest or meal breaks may be adjudicated on a class wide basis. Individual issues clearly predominate.\"\nPlaintiffs appealed, arguing that the order denying class certification is appealable under the \"death knell\" doctrine because it terminates their class claims.\nAfter plaintiffs filed their opening brief, AMR moved to dismiss the appeal, relying on the recently-filed decision in Munoz v. Chipotle Mexican Grill, Inc. (2015) 238 Cal.App.4th 291, 310, 189 Cal.Rptr.3d 134 (Munoz ), in which the Court of Appeal held that an order denying class certification was not appealable where representative PAGA claims remained pending. We took the fully-briefed motion under submission to be decided with the merits of the appeal.\nAMR subsequently requested we take judicial notice of an unpublished opinion dismissing appeal filed in Banta v. American Medical Response, Inc. , Case No. B255239, 2016 WL 693230 (Banta ) on February 22, 2016, and an order dismissing appeal filed in Karapetian v. American Medical Response, Inc. , Case No. BC405195 (Karapetian ) on August 17, 2016. AMR explains that Banta and Karapetian were previously coordinated with plaintiffs' case at the trial court, all three cases involve claims that related companies did not provide meal periods or rest periods in compliance with California law, and all the complaints assert class claims as well as PAGA claims. The plaintiffs in Banta , like the plaintiffs here, sought appellate review of a trial court order denying class certification. The plaintiffs in Karapetian sought appellate review of an order decertifying classes. In each case, the Court of Appeal dismissed the appeal, citing Munoz .\nWe took the unopposed requests under submission to decide with the merits of the appeal and now deny them. The opinion and order in Banta and Karapetian are court records, and we may take judicial notice of them as such pursuant to Evidence Code section 452, subdivision (d)(1). But AMR does not ask us to take judicial notice of the documents simply as court records. Instead, AMR argues that although the opinion and order are \"not binding,\" they are \"persuasive authority.\" Under California Rules of Court, rule 8.1115, we may not cite or rely on an unpublished opinion absent certain exceptions, which do not apply here. Accordingly, we deny the requests for judicial notice.\nDISCUSSION\nA. Appealability\n1. Applicable Law\nAMR's motion to dismiss the appeal turns on the scope of the \"death knell\" doctrine, by which a trial court decision denying class certification is appealable when its impact is to strip a case of all but the plaintiff's individual claims. (In re Baycol Cases I and II (2011) 51 Cal.4th 751, 757, 122 Cal.Rptr.3d 153, 248 P.3d 681 (Baycol ).) The doctrine is an exception to the fundamental principle of appellate practice, codified in Code of Civil Procedure section 904.1, that an appeal may be taken only from the final judgment in an entire action. (Id . at p. 756, 122 Cal.Rptr.3d 153, 248 P.3d 681.) Because an order denying class certification \"effectively [rings] the death knell for the class claims, we [treat] it as in essence a final judgment on those claims.\" (Id. at p. 757, 122 Cal.Rptr.3d 153, 248 P.3d 681.) The death knell doctrine is \" 'a tightly defined and narrow concept' \" (Id. at p. 760, 122 Cal.Rptr.3d 153, 248 P.3d 681, quoting Farwell v. Sunset Mesa Property Owners Assn., Inc. (2008) 163 Cal.App.4th 1545, 1547, 78 Cal.Rptr.3d 666 ) that depends on \"the contrast between the continuing viability of individual claims and the terminated status of absent class member claims.\" (Baycol at p. 760, 122 Cal.Rptr.3d 153, 248 P.3d 681.) Two procedural circumstances underlie the rule: \"first, that the appealed-from order was the practical equivalent of a final judgment for some parties, and second, that in the absence of our treating the order as a de facto final judgment, any appeal likely would be foreclosed.\" (Id. at p. 757, 122 Cal.Rptr.3d 153, 248 P.3d 681.) Thus, the doctrine \"require[s] an order that (1) amounts to a de facto final judgment for absent plaintiffs, under circumstances where (2) the persistence of viable but perhaps de minimis individual plaintiff claims creates a risk no formal final judgment will ever be entered.\" (Id. at p. 759, 122 Cal.Rptr.3d 153, 248 P.3d 681.)\nThe Court of Appeal analyzed the relationship between the death knell doctrine and class and PAGA claims in Munoz , where plaintiffs alleged Labor Code, UCL and PAGA claims arising from defendant's taking improper deductions from employee paychecks and providing improper pay stubs. (Munoz , supra , 238 Cal.App.4th at pp. 294-295, 189 Cal.Rptr.3d 134.) The trial court denied plaintiffs' motion to certify a class of about 26,000 current and former employees for the Labor Code and UCL claims, leaving plaintiffs with their individual Labor Code and UCL claims, and their PAGA claims. (Id. at p. 294, 189 Cal.Rptr.3d 134.) The Court of Appeal observed that the civil penalties available under PAGA are substantial, and that a prevailing plaintiff may also recover attorney fees and costs, and concluded that in a case where the alleged violator \"has had many employees with earnings over many pay periods, the recovery could be quite substantial.\" ( Id. at p. 311, 189 Cal.Rptr.3d 134.) Munoz was therefore unlike a case in which the denial of class certification leaves only individual claims, where \"recovery is too small to justify pursuing the action\" to final judgment. (Id. at p. 312, 189 Cal.Rptr.3d 134.) The Munoz court concluded, \"Given the potential for recovery of significant civil penalties if the PAGA claims are successful, as well as attorney fees and costs, plaintiffs have ample financial incentive to pursue the remaining representative claims under ... PAGA and, thereafter, pursue their appeal from the trial court's order denying class certification. Denial of class certification where the PAGA claims remain in the trial court would not have the 'legal effect' of a final judgment under the reasoning of Baycol .\" (Id. at p. 311, 189 Cal.Rptr.3d 134.)\n2. Analysis\nAMR argues that the analysis of Munoz applies here, and that therefore plaintiffs' appeal should be dismissed. Plaintiffs respond that Munoz is wrongly decided and request that that we treat the appeal as a petition for writ of mandate if we are inclined to grant the motion to dismiss. We need not decide whether the order challenged here is appealable, because we will exercise our discretion to treat the appeal as a writ petition.\nAs we discuss below in Section B, the trial court's ruling on class certification rests in part on its erroneous determination of an issue that is central to the merits of plaintiffs' claims, including their claims under PAGA. We properly exercise our discretion to treat an appeal from a nonappealable order as a petition for extraordinary writ where the following conditions are met: \"requiring the parties to wait for a final judgment might lead to unnecessary trial proceedings, the briefs and record include in substance the necessary elements for a proceeding for a writ of mandate, there is no indication the trial court would appear as a party in a writ proceeding, [and] the appealability of the order is not clear.\" (H.D. Arnaiz, Ltd. v. County of San Joaquin (2002) 96 Cal.App.4th 1357, 1367, 118 Cal.Rptr.2d 71.) All those considerations are present here. The record before us allows us to resolve the issue now. There is no indication the trial court would be more than a nominal party to a writ proceeding. It was not clear whether the order denying class certification was appealable, as Munoz was not decided until after plaintiffs initiated this appeal. Most important, there will be needless delay and waste of the parties' and the courts' time and resources if the appeal is dismissed and the case proceeds in the trial court, only to have us later conclude that an erroneous ruling underlies not only the denial of class certification, but also the determination of the merits. (See Hogya v. Superior Court (1977) 75 Cal.App.3d 122, 128, 142 Cal.Rptr. 325 [listing some of the factors to consider in evaluating the adequacy of the appellate remedy, including whether the asserted error might \"infect the trial\"].) We conclude that writ review is appropriate.\nB. Class Certification\n1. Applicable Law\nClass actions are authorized by statute \"when the question is one of a common or general interest of many persons, or when the parties are numerous, and it is impracticable to bring them all before the court.\" (Code Civ. Proc., \u00a7 382.)\nAs the party advocating class treatment, plaintiffs \" 'must demonstrate the existence of an ascertainable and sufficiently numerous class, a well-defined community of interest, and substantial benefits from certification that render proceeding as a class superior to the alternatives. [Citations.] \"In turn, the 'community of interest requirement embodies three factors: (1) predominant common questions of law or fact; (2) class representatives with claims or defenses typical of the class; and (3) class representatives who can adequately represent the class.' \" ' (Brinker [, supra ,] 53 Cal.4th [at p.] 1021 [139 Cal.Rptr.3d 315, 273 P.3d 513].)\" (Ayala v. Antelope Valley Newspapers, Inc. (2014) 59 Cal.4th 522, 529-530, 173 Cal.Rptr.3d 332, 327 P.3d 165 (Ayala ).) In this case, the primary issue on appeal is the presence or absence of predominant common questions.\n\"[T]he 'ultimate question' for predominance is whether 'the issues which may be jointly tried, when compared with those requiring separate adjudication, are so numerous or substantial that the maintenance of a class action would be advantageous to the judicial process and to the litigants.' (Collins v. Rocha (1972) 7 Cal.3d 232, 238 [102 Cal.Rptr. 1, 497 P.2d 225] ; see Lockheed Martin Corp. v. Superior Court (2003) 29 Cal.4th 1096, 1104-1105, 1108 [131 Cal.Rptr.2d 1, 63 P.3d 913].) 'The answer hinges on \"whether the theory of recovery advanced by the proponents of certification is, as an analytical matter, likely to prove amenable to class treatment.\" (Sav-On [Drug Stores, Inc. v. Superior Court (2004) 34 Cal.4th 319,] 327 [17 Cal.Rptr.3d 906, 96 P.3d 194].) ... \"As a general rule if the defendant's liability can be determined by facts common to all members of the class, a class will be certified even if the members must individually prove their damages.\" [Citations.]' (Brinker [, supra ,] 53 Cal.4th [at pp.] 1021-1022 [139 Cal.Rptr.3d 315, 273 P.3d 513] ; see also Employment Development Dept. v. Superior Court (1981) 30 Cal.3d 256, 266 [178 Cal.Rptr. 612, 636 P.2d 575] ; Vasquez v. Superior Court (1971) 4 Cal.3d 800, 809 [94 Cal.Rptr. 796, 484 P.2d 964].) However, ... class treatment is not appropriate 'if every member of the alleged class would be required to litigate numerous and substantial questions determining his individual right to recover following the \"class judgment\" ' on common issues. (City of San Jose v. Superior Court (1974) 12 Cal.3d 447, 459 [115 Cal.Rptr. 797, 525 P.2d 701].)\" (Duran , supra , 59 Cal.4th at p. 28, 172 Cal.Rptr.3d 371, 325 P.3d 916.) \"Claims alleging that a uniform policy consistently applied to a group of employees is in violation of the wage and hour laws are of the sort routinely, and properly, found suitable for class treatment.\" (Brinker , supra , 53 Cal.4th at p. 1033, 139 Cal.Rptr.3d 315, 273 P.3d 513.)\nBut \"predominance of common issues is ... not the only consideration. In certifying a class action, the court must also conclude that litigation of individual issues, including those arising from affirmative defenses, can be managed fairly and efficiently. (Washington Mutual [Bank. v. Superior Court (2001) ] 24 Cal.4th [906,] 922-923 [103 Cal.Rptr.2d 320, 15 P.3d 1071].) '[W]hether in a given case affirmative defenses should lead a court to approve or reject certification will hinge on the manageability of any individual issues. [Citation.]' (Brinker [supra , 53 Cal.4th] at p. 1054 [139 Cal.Rptr.3d 315, 273 P.3d 513] (conc. opn. of Werdegar, J.).) ... [W]here a party seeks class certification based on allegations that the employer consistently imposed a uniform policy or de facto practice on class members, the party must still demonstrate that the illegal effects of this conduct can be proven efficiently and manageably within a class setting. ( Brinker [supra , 53 Cal.4th] at p. 1033 [139 Cal.Rptr.3d 315, 273 P.3d 513] ; Dail e y v. Sears, Roebuck & Co. (2013) 214 Cal.App.4th 974, 989 [154 Cal.Rptr.3d 480].)\" (Duran , supra , 59 Cal.4th at pp. 28-29, 172 Cal.Rptr.3d 371, 325 P.3d 916.)\n\"Presented with a class certification motion, a trial court must examine the plaintiff's theory of recovery, assess the nature of the legal and factual disputes likely to be presented, and decide whether individual or common issues predominate. To the extent the propriety of certification depends upon disputed threshold legal or factual questions, a court may, and indeed must, resolve them.\" (Brinker , supra , 53 Cal.4th at p. 1025, 139 Cal.Rptr.3d 315, 273 P.3d 513.)\nWe review a trial court's ruling on class certification for abuse of discretion. (Brinker , supra , 53 Cal.4th at p. 1017, 139 Cal.Rptr.3d 315, 273 P.3d 513 ; Linder v. Thrifty Oil Co. (2000) 23 Cal.4th 429, 435, 97 Cal.Rptr.2d 179, 2 P.3d 27 (Linder ) [\"[b]ecause trial courts are ideally situated to evaluate the efficiencies and practicalities of permitting group action, they are afforded great discretion in granting or denying certification\"].) We will not disturb the ruling \" 'unless (1) it is unsupported by substantial evidence, (2) it rests on improper criteria, or (3) it rests on erroneous legal assumptions.' \" (Brinker , supra , 53 Cal.4th at p. 1022, 139 Cal.Rptr.3d 315, 273 P.3d 513.) \"We review the trial court's actual reasons for granting or denying certification; if they are erroneous, we must reverse, whether or not other reasons not relied upon might have supported the ruling.\" (Ayala , supra , 59 Cal.4th at p. 530, 173 Cal.Rptr.3d 332, 327 P.3d 165, citing Linder , supra , 23 Cal.4th at p. 436, 97 Cal.Rptr.2d 179, 2 P.3d 27.) \" 'Any valid pertinent reason stated will be sufficient to uphold the order.' \" (Linder , supra , 23 Cal.4th at p. 436, 97 Cal.Rptr.2d 179, 2 P.3d 27, quoting Caro v. Procter & Gamble Co. (1993) 18 Cal.App.4th 644, 656, 22 Cal.Rptr.2d 419.)\n2. Analysis\nBecause the trial court's ruling on class certification addresses the merits of plaintiffs' legal claims, we begin our analysis with background on the law requiring employers to provide meal and rest periods to their employees.\na. The Obligation to Provide Meal and Rest Periods\nCalifornia employers must provide meal periods of at least 30 minutes to employees who work more than five hours per day, except that if a work period of six hours or less will complete the day's work, the meal period may be waived by mutual agreement of employer and employee. (Lab. Code, \u00a7 512, subd. (a) ; Cal. Code Regs., tit. 8, \u00a7 11090, subd. (11)(A).) Employers must provide a second meal period of at least 30 minutes to employees who work more than 10 hours per day, except that if the total hours worked is 12 or less and the first meal period has not been waived, the second meal period may be waived by mutual agreement of employer and employee. (\u00a7 512, subd. (a) ; Cal. Code Regs., tit. 8, \u00a7 11090, subd. (11)(B).)\nEmployers may not require employees to work during those meal periods. (\u00a7 226.7, subd. (a). ) \"Unless the employee is relieved of all duty during a 30 minute meal period, the meal period shall be considered an 'on duty' meal period and counted as time worked. An 'on duty' meal period shall be permitted only when the nature of the work prevents an employee from being relieved of all duty and when by written agreement between the parties an on-the-job paid meal period is agreed to. The written agreement shall state that the employee may, in writing, revoke the agreement at any time.\" (Cal. Code Regs., tit. 8, \u00a7 11090, subd. (11)(C).) Thus, \"[a]bsent circumstances permitting an on-duty meal period, an employer's obligation is to provide an off duty meal period: an uninterrupted 30-minute period during which the employee is relieved of all duty.\" (Brinker, supra , 53 Cal.4th at p. 1035, 139 Cal.Rptr.3d 315, 273 P.3d 513 [construing Cal. Code Regs., tit 8, \u00a7 11050, subd. (11)(A), which contains the same language as Cal. Code Regs., tit. 8, \u00a7 11090, subd. (11)(C) ].) \"The employer satisfies this obligation if it relieves its employees of all duty, relinquishes control over their activities and permits them a reasonable opportunity to take an uninterrupted 30-minute break, and does not impede or discourage them from doing so. What will suffice may vary from industry to industry.\" (Brinker at p. 1040, 139 Cal.Rptr.3d 315, 273 P.3d 513.) If an employer does not provide a meal period as required, the employer must pay the employee an hour of pay at the employee's regular hourly rate for each workday that the meal period is not provided. (\u00a7 226.7, subd. (b) ; Cal. Code Regs., tit. 8, \u00a7 11090, subd. (11)(D).)\nCalifornia law requires employers to provide employees who work at least three and one-half hours with paid rest periods at the rate of 10 minutes rest time for every four hours \"or major fraction thereof\" of work. ( Cal. Code Regs., tit. 8, \u00a7 11090, subd. (12)(A).) Rest periods count as time worked (ibid. ), but employers may not require employees to work during those rest periods. (\u00a7 226.7, subd. (a).)\nIn Augustus v. ABM Security Services, Inc. (2016) 2 Cal.5th 257, 264, 211 Cal.Rptr.3d 634, 385 P.3d 823 (Augustus ), our Supreme Court recently interpreted the rest period requirement for security guards by reference to a wage order containing language that also appears in the wage order at issue here. In Augustus , the Supreme Court addressed two questions. First, the court asked whether the wage order requires employers to provide employees with off-duty rest periods, defined as \"time during which an employee is relieved from all work-related duties and free from employer control.\" (Augustus , supra , 2 Cal.5th at p. 264, 211 Cal.Rptr.3d 634, 385 P.3d 823.) The court answered that question in the affirmative. (Id. at p. 269, 211 Cal.Rptr.3d 634, 385 P.3d 823.) Second, the court asked whether an employer can satisfy its obligation to provide an off-duty rest period when it requires employees to remain on call, and concluded that the answer is no. (Ibid. )\nThe court noted that the length of a required rest period, 10 minutes, \"impose[s] practical limitations on an employee's movement\" during that time: \"[D]uring a rest period an employee generally can travel at most five minutes from a work post before returning to make it back on time. Thus, one would expect that employees will ordinarily have to remain onsite or nearby. This constraint, ... common to all rest periods, is not sufficient to establish employer control. But now add to this state of affairs the additional constraints imposed by on-call arrangements. Whatever else being on call entails in the context of a required rest break, that status compels employees to remain at the ready and capable of being summoned to action (see e.g. Mendiola [v. CPS Security Solutions, Inc. (2015) ] 60 Cal.4th [833,] 837 [182 Cal.Rptr.3d 124, 340 P.3d 355].) Employees forced to remain on call during a 10-minute rest period must fulfill certain duties: carrying a device or otherwise making arrangements so the employer can reach the employee during a break, responding when the employer seeks contact with the employee, and performing other work if the employer so requests. These obligations are irreconcilable with employees' retention of freedom to use rest periods for their own purposes. (Morill i on v. Royal Packing Co. (2000) 22 Cal.4th 575, 586 [94 Cal.Rptr.2d 3, 995 P.2d 139].)\" (Augustus, supra, 2 Cal.5th at p. 270, 211 Cal.Rptr.3d 634, 385 P.3d 823.) Therefore, during rest periods, an employer must \"relinquish any control over how employees spend their break time, and relieve their employees of all duties-including the obligation that an employee remain on call.\" (Id. at p. 273, 211 Cal.Rptr.3d 634, 385 P.3d 823.) If an employer does not provide a rest period as required, the employer must pay the employee an hour of pay at the employee's regular hourly rate for each workday that the rest period is not provided. (\u00a7 226.7, subd. (b) ; Cal. Code Regs., tit. 8, \u00a7 11090, subd. (12)(B).)\nb. AMR's Overarching Meal and Rest Period Policies\nThe trial court believed that \"in order to determine whether the lawfulness of AMR's overarching meal and rest break policies can be established on a class wide basis, it must resolve\" a preliminary legal issue, specifically, \"whether a break during which an employee remains 'on call' can ever be in compliance with the applicable sections of the Labor Code and the IWC Wage Orders.\" The trial court drew on authority that there is nothing inherently illegal about a \" 'blanket agreement for on-duty meal periods ... so long as the conditions necessary to establish that the nature of the employee's work prevents the employee from being relieved of all duty are met for each applicable on-duty meal period taken.' \" (DLSE Opinion Letter, June 9, 2009, p. 9. ) From that, the trial court concluded that a \"meal break or a rest break may be legally compliant even if the employee remains 'on call' during the break.\" (Italics added.) The trial court then went further, and without citing any authority, concluded that \"if a break is not actually interrupted, then it may properly be characterized as 'off-duty' if it otherwise meets the criteria set forth in the applicable Wage Orders.\" The court concluded that this interpretation of off-duty meal and rest breaks was \"reasonable as applied to the work performed by the putative class members in this case.\"\nPlaintiffs argue that the trial court's conclusions as to predominance rest on erroneous assumptions about the characteristics of off-duty meal and rest periods.\ni. Meal Periods\nOur Supreme Court has held that an employer satisfies its obligation to provide meal periods \"if it relieves its employees of all duty, relinquishes control over their activities and permits them a reasonable opportunity to take an uninterrupted 30-minute break, and does not impede or discourage them from doing so. What will suffice may vary from industry to industry and we cannot in the context of this class certification proceeding delineate the full range of approaches that in each instance might be sufficient to satisfy the law. (Brinker , supra , 53 Cal.4th at p. 1040 [139 Cal.Rptr.3d 315, 273 P.3d 513].) Further, what will suffice requires a factual determination. The DLSE has opined that an employee required to carry a pager has a duty-free meal period for purposes of compensation unless he or she \"responds, as required, to a pager call during the meal period.\" (DLSE Opinion Letter, Jan. 28, 1992, p. 3.) Accordingly, the trial court appropriately rejected plaintiffs' view that an on-call meal period is necessarily \"on-duty\" for purposes of the wage and hour laws. Thus we disagree with plaintiffs' contention that the trial court's denial of class certification as to the overarching meal period policy relied on an erroneous legal assumption.\nThe trial court reasoned that to determine whether AMR's meal break policy is lawful, the court must determine \"whether there is a valid on-duty meal break agreement [and] also the circumstances in which any such agreement is invoked to justify an interruption.\" AMR came forward with evidence to show that employees in different operations are dispatched and take meal periods in different ways. As a result, substantial evidence supports the trial court's conclusion that individual inquiries would be necessary to determine which particular meal breaks were uninterrupted (and thus off-duty) and which were interrupted (and thus on-duty), and then, as to the interrupted periods, whether the necessary conditions were met to establish that the nature of the work prevented the employee from being relieved of all duty. Substantial evidence also supports the trial court's conclusion that these individual inquiries would predominate over common inquiries, and therefore that the overarching meal period policy should not be adjudicated on a class-wide basis.\nPlaintiffs argue that this case is like Faulkinbury v. Boyd & Associates, Inc. (2013) 216 Cal.App.4th 220, 232-233, 156 Cal.Rptr.3d 632 (Faulkinbury ), in which a potential class of security guards presented evidence that their employer required all class members to sign on-duty meal period agreements and to take on-duty meal breaks, regardless of the job duties or locations where they worked. The Court of Appeal reversed a trial court order denying class certification, and remanded with directions to grant plaintiffs' class certification motion. (Id. at p. 241, 156 Cal.Rptr.3d 632.) In Faulkinbury , the Court of Appeal concluded that \"[t]he lawfulness of [defendant's] policy of requiring all security guard employees to sign the on-duty meal break agreement can be determined on a classwide basis.\" (Id. at p. 233, 156 Cal.Rptr.3d 632.) The Court of Appeal further concluded \"by requiring blanket off-duty meal break waivers in advance from all security guard employees, regardless of the working conditions at a particular station, [defendant] treated the off-duty meal break issue on a classwide basis.\" (Id. at p. 234, 156 Cal.Rptr.3d 632.)\nWe agree with the trial court here that plaintiffs' case is distinguishable from Faulkinbury . There, the evidence showed that the employer's policy was consistently implemented such that employees were never \"given a 30-minute, uninterrupted, off-duty meal period,\" (Faulkinbury , supra , 216 Cal.App.4th at p. 225, 156 Cal.Rptr.3d 632.) while the evidence here is that AMR's operating units have different approaches to meal periods, and that AMR employees have received uninterrupted breaks of 30-minutes or more. The only similarity with Faulkinbury is the existence of a policy that employees sign on-duty meal period agreements, which does not in itself violate the law.\nHere, in addition to concluding that individual issues predominate, the trial court's order expressed a second reason for denying class certification as to the overarching meal break policy. The court wrote that \"[p]laintiffs failed to present a credible trial plan\" that would allow individual inquiries to be developed in a manageable way. The lack of a credible trial plan is another ground to uphold the trial court's order denying certification as to the overarching meal period claim. (Duran , supra , 59 Cal.4th at p. 32, 172 Cal.Rptr.3d 371, 325 P.3d 916.)\nii. Rest Periods\nIn its brief discussion of plaintiffs' overarching rest period claim, the trial court framed the issue as follows: \"Here, Plaintiffs assert that AMR's policy was for rest breaks to be taken 'on-duty,' i.e., during periods subject to 'downtime' control.[ ] In other words, Plaintiffs' theory of liability similarly rests on the concept that a rest break is not 'off-duty' if the employee remains 'on-call.' As the court concluded in connection with the meal period claims, this theory is fundamentally flawed, and cannot support the conclusion that a uniform unlawful policy applied to the entire class. ... [W]ithout a basis for a finding of uniformity, all rest break claims devolve to individual inquiries.\"\nThe trial court reached this conclusion without the benefit of our Supreme Court's decision in Augustus , which holds that on-call time is not off-duty and is not a rest period under California law. (Augustus , supra , 2 Cal.5th at pp. 269, 211 Cal.Rptr.3d 634, 385 P.3d 823.) Because the trial court's decision to deny class certification with respect to AMR's overarching rest period policy rests on its legal conclusion that a rest period during which an employee remains on call may be considered an off-duty rest period, and because that conclusion is incorrect under Augustus , we must reverse and remand even if other reasons not relied upon might support the trial court's decision. (Ayala , supra , 59 Cal.4th at p. 530, 173 Cal.Rptr.3d 332, 327 P.3d 165.)\nWe recognize that there may well be other bases on which the trial court may conclude on remand that plaintiffs have not shown the predominance of common issues required for class certification of their overarching rest period claim. For example, although plaintiffs presented evidence that AMR's policy is for employees to be on-call during rest periods, and that AMR has no policy or practice of paying additional compensation to employees who are not provided a rest period, as required by the wage order (Cal. Code Regs., tit. 8, \u00a7 11090, subd. (12)(A)), AMR presented evidence that different policies and practices have applied at different times and places and to different types of employees.\nIn any event, we will vacate the trial court's order insofar as it applies to the overarching rest period policy and we leave the question whether to certify the overarching rest break claims to the trial court on remand.\nc. AMR's Other Meal and Rest Period Policies\nWe turn now to the trial court's denial of class certification with respect to nine other AMR meal and rest period policies, which plaintiffs contend are reflected in collective bargaining agreements and are \"facially non-compliant with California law governing timing, duration, and accrual\" of meal and rest periods. Plaintiffs argue that these \"uniform policies,\" which they numbered 3 through 11 and identified in a chart, violate the law independent of AMR's overarching policies. Plaintiffs concede that they cannot represent employees affected by policy 11, which applies only to AMR's employees in Monterey starting in July 2010. This leaves eight policies, numbered 3 through 10, at issue on appeal.\nThe trial court's reason for denying certification was that plaintiffs failed to identify \"any policy ... that is uniformly applicable across either class,\" and therefore did not establish that their claims can be adjudicated on a class-wide basis and did not show that common issues predominate. In addition, the trial court questioned whether plaintiffs had demonstrated standing and adequacy of representation for those claims.\nIn arguing that the trial court erred, plaintiffs do not discuss the nine policies individually, nor do they urge us to consider the policies individually. They do not challenge the trial court's finding that none of the policies is uniform as to either class. Instead, plaintiffs advance two arguments to support their view that the trial court erred in denying class certification, but neither of them has merit. First, plaintiffs argue that the trial court erroneously assumed that for a class to be certified, all class members' claims must be uniform. This argument mischaracterizes the trial court's ruling. The trial court stated that class members' claims must rest on a uniform policy, not that the claims must be uniform. The trial court's inquiry on class certification necessarily considers how plaintiffs will show AMR's potential liability to a class. Plaintiffs' argument, however, rests on case law that addresses damages, rather than liability. Plaintiffs cite Sav-On Drug Stores, Inc. v. Superior Court, supra, 34 Cal.4th 319, 17 Cal.Rptr.3d 906, 96 P.3d 194 (Sav-on Drug ), for the proposition that class certification does not require that the \"class members' claims be uniform or identical.\" (Id. at p. 338, 17 Cal.Rptr.3d 906, 96 P.3d 194.) That our Supreme Court in Sav-on Drug was referring to questions of damages is clear from its citation to Vasquez v. Superior Court (1971) 4 Cal.3d 800, 94 Cal.Rptr. 796, 484 P.2d 964 (Vasquez ) to support the statement and its including a pertinent quotation from Vasquez : \" 'a community of interest does not depend upon an identical recovery.' \" (Sav-on Drug , supra , 34 Cal.4th at p. 338, 17 Cal.Rptr.3d 906, 96 P.3d 194, quoting Vasquez , supra , 4 Cal.3d at p. 809, 94 Cal.Rptr. 796, 484 P.2d 964.) The trial court concluded that plaintiffs failed to identify a uniform policy, and plaintiffs do not argue otherwise. Indeed, they appear to concede that none of the policies covers the entirety of either of the subclasses they have proposed.\nSecond, plaintiffs argue that substantial evidence does not support the trial court's conclusion that the creation of subclasses would not permit effective management of proceedings concerning the allegedly improper policies. Plaintiffs contend that the trial court has the obligation to \"consider and certify subclasses when that will 'facilitate class treatment' or one or more parts of the case,\" even if the class proponent has not moved for subclasses. The trial court here fulfilled that obligation by considering subclasses, and concluding that class treatment was not appropriate on the record before it. On its own motion, the trial court considered whether plaintiffs' \"chart might provide a basis for identifying some narrower class or classes (e.g., all Field Employees in Burlingame or all employees subject to a particular [collective bargaining agreement] ) and allowing Plaintiffs to certify such a class or classes and proceed on that basis. Unfortunately, Plaintiffs did not develop a record in a manner that would allow the court to assess the viability of one or more such narrower classes, to identify which Plaintiffs would be in a position to represent that narrower class(es) and to determine whether with respect to that narrower class(es) common issues would predominate.\"\nFurthermore, at the hearing on plaintiffs' motion, the trial court asked plaintiffs' counsel whether additional subclasses would be required for the court to properly address the policies raised in plaintiffs' chart, and whether the named plaintiffs were affected by each of the policies. Plaintiffs' counsel said that additional subclasses were not needed, and that no additional class representatives would be required. Although the trial court specifically inquired whether the named plaintiffs had standing to raise certain claims, plaintiffs' counsel never identified which plaintiff(s) could be a representative for which subclass. Plaintiffs assert that \"[t]he record shows that the group of proposed class representatives worked under all three of the CBAs as field staff and/or dispatchers. This means that at least one plaintiff is typical and adequate to represent a class or narrowed subclass on each of the nine policies.\" This assertion does not suffice to show that plaintiffs have met their burden to establish the predominant common questions and appropriate class representatives that are required to demonstrate a community of interest. (Brinker , supra , 53 Cal.4th at p. 1021, 139 Cal.Rptr.3d 315, 273 P.3d 513.) For example, plaintiffs contend that a class of Comm Center employees, excluding those in Burlingame, has claims arising from a collective bargaining agreement that is silent as to rest periods \"except to provide 'the opportunity to take breaks as operationally feasible.' \" Yet plaintiffs have failed to identify any representative for such a class of Comm Center employees. They have proposed Bartoni and Murray as the sole class representatives for the Comm Center Class. The only communications center at which either of them worked was in Burlingame, which means they are excluded from any subclass that might assert claims from this particular policy. As the trial court noted, this \"raises questions of standing and adequacy of representation,\" which plaintiffs failed to address below, and likewise fail to address here.\nOn this record, we conclude that the trial court did not abuse its discretion in declining to certify a class, or classes, with respect to the nine AMR policies that plaintiffs identified in their chart.\nDISPOSITION\nAMR's requests for judicial notice are denied. AMR's motion to dismiss the appeal is denied, and plaintiffs' appeal from the order denying the motion for class certification, which has been fully briefed, is deemed a petition for writ of mandate. Let a peremptory writ of mandate issue commanding the superior court to vacate the portion of its order denying class certification for plaintiffs' claims under the Labor Code and the UCL that AMR failed to provide off-duty rest periods (plaintiffs' \"overarching\" rest period claims). The cause is remanded to the trial court for further proceedings consistent with this opinion. The parties shall bear their own costs in this proceeding.\nWe concur:\nKline, P.J.\nRichman, J.\nThe IWC \"is the state agency empowered to formulate wage orders governing employment in California. (Tidewater Marine Western, Inc. v. Bradshaw (1996) 14 Cal.4th 557, 561 [59 Cal.Rptr.2d 186, 927 P.2d 296].) The Legislature defunded the IWC in 2004, however its wage orders remain in effect. (Huntington Memorial Hospital v. Superior Court (2005) 131 Cal.App.4th 893, 902, fn. 2 [32 Cal.Rptr.3d 373].)\" (Murphy v. Kenneth Cole Productions, Inc. (2007) 40 Cal.4th 1094, 1102, fn. 4, 56 Cal.Rptr.3d 880, 155 P.3d 284.) Wage and hour claims like the ones at issue here are governed by the Labor Code and IWC wage orders. (See Brinker Restaurant Corp v. Superior Court (2012) 53 Cal.4th 1004, 1026, 139 Cal.Rptr.3d 315, 273 P.3d 513 (Brinker ).) Plaintiffs bring their claims under subdivisions 11 and 12 of Wage Order 9-2001, codified in the California Code of Regulations at title 8, section 11090.\nThe Third Amended Complaint also alleged failure to pay overtime wages. The overtime claims were dismissed with prejudice pursuant to stipulation.\nPAGA claims may be brought as class actions, but need not be. (Arias, supra, 46 Cal.4th at p. 981, fn. 5, 95 Cal.Rptr.3d 588, 209 P.3d 923.) Plaintiffs here have not alleged their PAGA claim as a class action.\nThe Comm Center Class includes \"[a]ll individuals currently or formerly employed by [AMR] as dispatchers and/or call takers at any time from April 16, 2004, until resolution of this action, on a full-time or part-time basis, in one or more of the following Counties in California: Monterey, Tulare, Santa Cruz, Santa Clara, San Mateo, Stanislaus (excluding Turlock Operations), Alameda, San Francisco, Contra Costa, San Joaquin (excluding Tracy Operations), Calaveras, Marin, Solano, Sonoma, Yolo, Sacramento, Placer, and Shasta.\" Bartoni and Murray are proposed as representatives of the Comm Center Class. From 1998 to November 2012, Bartoni worked as a dispatcher at the Burlingame communications center, and Murray was employed from April 2000 to some time before 2012 as a dispatcher at the Burlingame communications center.\nThe Field Employee Class includes \"[a]ll individuals currently or formerly employed by [AMR] at any time from June 23, 2004, until resolution of this action, on a full-time or part-time basis, in one or more of the following positions and Counties in California: [\u00b6] [1] For the entire class period: [\u00b6] EMT-1s, EMT-2s, EMT-Ps, Drivers, and Wheelchair Van Drivers in Monterey, Tulare, Santa Cruz, Santa Clara, San Mateo (excluding EMT-Ps), Stanislaus (excluding Turlock Operations), Alameda, San Francisco, Contra Costa, San Joaquin (excluding Tracy Operations), Calaveras, Marin, Solano, Sonoma, Yolo, Sacramento, Placer, and Shasta counties. [\u00b6] [2] For the period from July 1, 2006 to the end of the class period: [\u00b6] EMT-1s and Paramedics in San Benito County; [\u00b6] CCTs and EMT/CCTs in Alameda, Contra Costa, San Mateo, and Yolo Counties; [\u00b6] Paramedic CCTs in Contra Costa, Monterey, Placer, Sacramento, San Joaquin, Calaveras, and Santa Clara Counties; [\u00b6] RNs and CCT/RNs employed in Alameda, Contra Costa, Monterey, Sacramento, Santa Clara, and Sonoma Counties. [\u00b6] [3] For the period from July 1, 2008 to the end of the class period: [\u00b6] EMT-2s, EMT-Ps, Drivers, and Wheelchair Van Drivers in San Benito County.\" Francis, Murray and Willhoyte are proposed as representatives of the Field Employees Class. Francis was employed from January 2002 to November 2009 as an EMT in Alameda County, Murray was employed from sometime after April 2000 to April 2012 as an EMT based in Santa Clara and Contra Costa Counties, and Willhoyte was employed from January 1987 until at least December 2013 as an EMT.\nPlaintiffs concede that they cannot represent employees who worked solely under the collective bargaining agreement that has been in effect in Monterey since 2010.\nThe parties stipulated that throughout the class period, AMR's practice was to request that all putative class members sign on-duty meal period agreements with the following language: \"It is hereby agreed between [AMR] and the Employee signing below that the nature of AMR's business prevents Employee from being relieved of all duty during meal periods. Accordingly, it is further agreed that Employee's meal periods shall be considered on-duty meal periods and shall be counted as time worked for all purposes, including payment of regular and overtime compensation. [\u00b6] I certify that I have read and understand the above information and agree to these conditions of my pay. I enter into this authorization and agreement freely and voluntarily. I understand that I may revoke this agreement in writing at any time. Revocation will be effective from the date received. I further understand, that the revocation of this agreement may limit my scheduling opportunities as the nature of ... AMR's business prevents employees from being relieved of all duty during meal periods.\"\nOne of the nine policies, identified in plaintiffs' chart as policy 11, pertains only to class members in Monterey for the period starting in July 2010. Plaintiffs concede that they cannot represent employees for these claims, which arise under a collective bargaining agreement that never affected any of the four named plaintiffs.\nAMR argues that plaintiffs did not ask the trial court to certify classes for their claims for declaratory and injunctive relief under the UCL. This suggestion is belied by the trial court's order, which states, \"Plaintiffs assert that because their UCL ... claims are derivative of their meal and rest break ... claims, they too should be certified.\"\nThe trial court's reference to policy 5 appears to be an error. Plaintiffs' chart states that policy 5 applies in Monterey and in other locations.\nThe civil penalties available under PAGA are $100 \"for each aggrieved employee per pay period for the initial violation and [$200] for each aggrieved employee per pay period for each subsequent violation.\" (Lab. Code, \u00a7 2699, subd. (f)(2).) Seventy-five percent of the penalties recovered are to be distributed to the Labor and Workforce Development Agency, with the remaining 25percent distributed to the aggrieved employees. (Lab. Code, \u00a7 2699, subd. (i).)\nSubsequent statutory references are to the Labor Code unless otherwise stated.\nHere and elsewhere, we refer to section 226.7 as originally enacted. (Stats. 2000, ch. 876, \u00a7 7.) Section 226.7 has been amended twice since plaintiffs filed their complaint, but the revisions are not relevant here. (Stats. 2013, ch. 719, \u00a7 1; Stats. 2014, ch. 72, \u00a7 1.)\nAugustus interpreted the rest period language in IWC Wage Order 4-2001, codified in subdivision 12 of California Code of Regulations, title 8, section 11040. (Augustus, supra, 2 Cal.5th at p. 260, 211 Cal.Rptr.3d 634, 385 P.3d 823.) IWC Wage Order 9-2001, which applies in this case, contains identical rest period language. (Cal. Code Regs., tit. 8, \u00a7 11090, subd. (12).)\nOur Supreme Court emphasized that Augustus does not prohibit an employer from recalling employees while they are on rest breaks should it be necessary, and stated that \"[n]othing in our holding circumscribes an employer's ability to reasonably reschedule a rest period when the need arises.\" (Augustus, supra, 2 Cal.5th at p. 271, 211 Cal.Rptr.3d 634, 385 P.3d 823.) The Supreme Court observed that \"employers who find it especially burdensome to relieve their employees of all duties during rest periods-including the duty to remain on call\" could provide another rest period to replace the one that was interrupted, or pay the employee the premium set forth in the applicable wage order and section 226.7. (Id. at p. 272, 211 Cal.Rptr.3d 634, 385 P.3d 823.) These \"options should be the exception rather than the rule,\" so any \"employer [who] seeks to be excused generally from compliance\" with the rest period requirement should request an exemption from the DLSE. (Id. at p. 272, fn. 14, 211 Cal.Rptr.3d 634, 385 P.3d 823 ; see Cal. Code Regs., tit 8, \u00a7 11090, subd. (17) [authorizing applications for exemption from rest period requirements of subdivision (12) ].)\nThe trial court took judicial notice of this opinion letter on its own motion. Although DLSE opinion letters are not controlling upon the courts, they \"constitute a body of experience and informed judgment to which courts and litigants may properly resort for guidance.\" (Brinker, supra, 53 Cal.4th at p. 1029, fn. 11, 139 Cal.Rptr.3d 315, 273 P.3d 513, internal quotation marks omitted.)\nAll Field Employees and Comm Center Employees sign on-duty meal period agreements and are paid for their meal time. Furthermore, AMR's agreements with its Field Employees provide that if employees are unable to take an uninterrupted 30-minute meal period, they are entitled to receive a meal period premium of one hour's wages. To receive the payment, employees submit \"time exception reports.\"\nAMR submitted declarations from employees who stated that they do not have scheduled rest periods, but rather have periods of downtime during which they can engage in personal activities.\nIn a focus letter, we asked the parties to be prepared to address at oral argument how Augustus applies to this case, which they did.",
+        "type": "majority",
+        "author": "Miller, J."
+      }
+    ],
+    "attorneys": [
+      "Aaron D. Kaufman, David P. Pogrel, Leonard Carder LLP, Joshua Konecky, Todd M. Schneider, Schneider Wallace Cottrell Konecky, Wotkyns LLP, Emeryville, Kimberly A. Kralowec, San Francisco, Chad A. Saunders, The Kralowec Law Group, Theodore Franklin, Jannah V. Manansala, Weinberg Roger & Rosenfeld, Alameda, Attorneys for Appellants",
+      "Michael S. Kun, Epstein Becker & Green, PC, Los Angeles, Attorney for Respondent"
+    ],
+    "corrections": "",
+    "head_matter": "Laura BARTONI, et al., Plaintiffs and Appellants,\nv.\nAMERICAN MEDICAL RESPONSE WEST, Defendant and Respondent.\nA143784\nCourt of Appeal, First District, Division 2, California.\nFiled April 25, 2017\nAs Modified on Denial of Rehearing May 24, 2017\nAaron D. Kaufman, David P. Pogrel, Leonard Carder LLP, Joshua Konecky, Todd M. Schneider, Schneider Wallace Cottrell Konecky, Wotkyns LLP, Emeryville, Kimberly A. Kralowec, San Francisco, Chad A. Saunders, The Kralowec Law Group, Theodore Franklin, Jannah V. Manansala, Weinberg Roger & Rosenfeld, Alameda, Attorneys for Appellants\nMichael S. Kun, Epstein Becker & Green, PC, Los Angeles, Attorney for Respondent"
+  },
+  "file_name": "0046-01",
+  "first_page_order": 46,
+  "last_page_order": 65
+}

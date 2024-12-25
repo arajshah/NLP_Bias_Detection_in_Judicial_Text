@@ -1,0 +1,442 @@
+{
+  "id": 12513571,
+  "name": "YU QIN ZHU, Petitioner, v. WORKERS' COMPENSATION APPEALS BOARD and Department of Social Services, Respondents.",
+  "name_abbreviation": "Yu Qin Zhu v. Workers' Comp. Appeals Bd.",
+  "decision_date": "2017-06-20",
+  "docket_number": "No. B278696",
+  "first_page": "630",
+  "last_page": "637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 630"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 1031"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "69 Cal.2d 814",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2304335
+      ],
+      "pin_cites": [
+        {
+          "page": "819-820"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/69/0814-01"
+      ]
+    },
+    {
+      "cite": "162 Cal.Rptr.3d 280",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "219 Cal.App.4th 886",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6050416
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "895"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/219/0886-01"
+      ]
+    },
+    {
+      "cite": "8 Cal.3d 150",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2321918
+      ],
+      "pin_cites": [
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/8/0150-01"
+      ]
+    },
+    {
+      "cite": "545 P.2d 225",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Cal.Rptr. 313",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Cal.3d 181",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2295087
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/16/0181-01"
+      ]
+    },
+    {
+      "cite": "708 P.2d 673",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Cal.Rptr. 94",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Cal.3d 345",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        404445
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/40/0345-01"
+      ]
+    },
+    {
+      "cite": "144 Cal.Rptr. 105",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 Cal.App.3d 151",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2013744
+      ],
+      "pin_cites": [
+        {
+          "page": "157-158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/78/0151-01"
+      ]
+    },
+    {
+      "cite": "391 P.2d 832",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Cal.Rptr. 352",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Cal.2d 289",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2337804
+      ],
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/61/0289-01"
+      ]
+    },
+    {
+      "cite": "495 P.2d 433",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Cal.Rptr. 105",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Cal.3d 860",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2274631
+      ],
+      "pin_cites": [
+        {
+          "page": "868"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/6/0860-01"
+      ]
+    },
+    {
+      "cite": "447 P.2d 365",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Cal.Rptr. 253",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 P.2d 815",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Cal.2d 461",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2229050
+      ],
+      "pin_cites": [
+        {
+          "page": "466"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/21/0461-01"
+      ]
+    },
+    {
+      "cite": "215 P.2d 736",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.2d 33",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4399615
+      ],
+      "pin_cites": [
+        {
+          "page": "35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/35/0033-01"
+      ]
+    },
+    {
+      "cite": "428 P.2d 606",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Cal.Rptr. 622",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Cal.2d 944",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2331216
+      ],
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "948"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/66/0944-01"
+      ]
+    },
+    {
+      "cite": "12 Cal.Rptr.2d 114",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Cal.App.4th 1476",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2330171
+      ],
+      "pin_cites": [
+        {
+          "page": "1482"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/9/1476-01"
+      ]
+    },
+    {
+      "cite": "501 P.2d 1176",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 12,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Cal.Rptr. 456",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 12,
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Cal.Rptr. 750",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Cal.App.3d 528",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        1976929
+      ],
+      "pin_cites": [
+        {
+          "page": "534-535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/104/0528-01"
+      ]
+    },
+    {
+      "cite": "210 Cal.Rptr.3d 101",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.App.5th 658",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12456790
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "663"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/5/0658-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 829,
+    "char_count": 19705,
+    "pagerank": {
+      "raw": 4.6922169990516086e-08,
+      "percentile": 0.29509809259149855
+    },
+    "sha256": "6509521753599bcab1431a098f5ca7b3151709ed2e77674c825062af2aa058da",
+    "simhash": "1:91b4812e8eb23bd5",
+    "word_count": 3264
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "YU QIN ZHU, Petitioner,\nv.\nWORKERS' COMPENSATION APPEALS BOARD and Department of Social Services, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "KRIEGLER, Acting P.J.\nThe petitioner, an in-home caretaker, was riding her bicycle from one private home where she worked to another home where she was scheduled to work when she was struck and injured by a car. Her employer, the California State Department of Social Services (Department), paid the petitioner for working at both of these locations.\nA majority of the Workers' Compensation Appeals Board (appeals board) concluded that the going and coming rule barred the petitioner's claim for workers' compensation benefits. However, the dissent and the workers' compensation judge (WCJ) found that the required vehicle exception to the going and coming rule applied because the petitioner was impliedly required to provide her own transportation between patients' homes.\nAfter we granted the petition for a writ of review, the appeals board filed a brief stating that upon further consideration the appeals board has concluded that the required vehicle exception applies with the result that petitioner's injury arose out of and in the course of employment. The appeals board requests that we either annul its earlier decision and affirm the WCJ's decision or remand the matter to the appeals board for a new opinion and decision. The Department, however, insists that the required vehicle exception does not apply and that the going and coming rule bars recovery. Since we do not agree with the Department, we annul the appeals board's decision and remand with directions to issue a new decision and opinion consistent with this opinion.\nTHE FACTS\nAfter an interview with the Department, petitioner Yu Qin Zhu (Zhu) was hired as a home caretaker by the Department. The Department added Zhu to the registry of qualified workers. Zhu reviewed the registry of patients, contacted persons on the registry, and then interviewed her selections so that both parties could decide whether Zhu would work as their caretaker. The patients Zhu cared for set the schedule and told her what her duties were for each day.\nZhu worked as a caretaker for the Department from 2003 through 2015. Zhu was paid by the Department every two weeks with one paycheck for all the work performed. She was not paid for transportation to, from, or in between locations.\nOn December 16, 2015, Zhu cared for a couple living in Monterey Park from approximately 8:30 a.m. to 11:30 a.m. Zhu was scheduled to care for a woman in Alhambra in the afternoon. While she was riding her bike from Monterey Park to the house in Alhambra, Zhu was involved in a bicycle-automobile collision.\nPROCEDURAL HISTORY\nZhu's claim was heard on the limited issues of employment and injury arising out of and in the course of the employment. The WCJ found Zhu's injury compensable because her \"transportation between the clients' homes was a mandatory part of the employment.\"\nOn September 19, 2016, a majority of the appeals board rescinded the WCJ's decision, finding that the Hinojosa (fn. 1) and Smith (fn. 2) cases were distinguishable because the employees in both cases were required to furnish personal vehicles for their jobs. Zhu, on the other hand, chose her own clients, work locations and hours, and merely used the Department to obtain client referrals. The means of transit were immaterial to the Department, and travel by bicycle was for Zhu's own convenience and benefit.\nThe dissent agreed with the WCJ and found \"there was an implied requirement that [Zhu] furnish her own transportation to travel between disabled clients, care for whom is the responsibility of defendant .\" The dissent found Zhu qualified for the \"required vehicle exception\" to the going and coming rule because the employer received a benefit from the employee's provision of her own transportation between job sites. Zhu therefore was performing services growing out of and incidental to her employment when she brought her bicycle to work, making it available for use on a regular basis.\nThe appeals board's decision of September 19, 2016 is reviewable by a writ of review in that it is a final determination of a threshold issue that disposed of the petitioner's claim. (Capital Builders Hardware, Inc. v. Workers' Comp. Appeals Bd. (Gaona) (2016) 5 Cal.App.5th 658, 663, 210 Cal.Rptr.3d 101 [order is reviewable because it terminated workers' compensation proceedings]; Safeway Stores, Inc. v. Workers' Comp. Appeals Bd. (1980) 104 Cal.App.3d 528, 534-535, 163 Cal.Rptr. 750.)\nDISCUSSION\nA. The going and coming rule\nThe history of the going and coming rule and the exceptions to that rule are authoritatively set forth in Hinojosa , supra , 8 Cal.3d at pages 153-160, 104 Cal.Rptr. 456, 501 P.2d 1176, and need not be repeated. Suffice it to say that the history of this rule is \"tortuous,\" that Dean Pound thought in 1954 that the rule was \" 'moribund,' \" and that some think that the exceptions have swallowed the rule. (Id. at p. 156, 104 Cal.Rptr. 456, 501 P.2d 1176.) Given this unprepossessing background, and the requirements of the case before us, the best course is to inquire to what facts the rule is intended to apply. On this question, Hinojosa is helpful.\nAfter noting the conflict between the employer's interest to be immune from liability \"for the employee's injury or death that occurs in the everyday transit from home to office or plant [and] the contrary interest of the employee [ ] in his desire to be protected from loss by injury or death that occurs in the non-routine transit\" (Hinojosa , supra , at pp. 156-157, 104 Cal.Rptr. 456, 501 P.2d 1176 ), the court concluded:\nWe think a careful analysis of the decisions will develop the formula that reconciles the divergent positions. The cases have suggested a sensible line under workmen's compensation between the extremes of absolute coverage and absolute rejection for all transit-suffered injuries. In substance the courts have held non-compensable the injury that occurs during a local commute enroute to a fixed place of business at fixed hours in the absence of special or extraordinary circumstances. The decisions have thereby excluded the ordinary, local commute that marks the daily transit of the mass of workers to and from their jobs ; the employment, there, plays no special role in the requisites of portage except the normal need of the presence of the person for the performance of the work.\n(Hinojosa , supra , at p. 157, 104 Cal.Rptr. 456, 501 P.2d 1176, italics added.)\nIt appears therefore that the going and coming rule applies when the employee is commuting between his home and work or, as Hinojosa characterizes it, it applies to a \"local commute enroute to fixed a place of business at fixed hours.\" (Hinojosa , supra , 8 Cal.3d at p. 157, 104 Cal.Rptr. 456, 501 P.2d 1176.) Thus, if the employee is commuting between his or her home and place of work at the time of day that is usual for the commute, the going and coming rule applies. The reason for this is that on such a commute the employment \"plays no special role in the requisites of portage except the normal need of the presence of the person for the performance of the work.\" (Ibid. ) That is, no special benefit is conferred upon the employer or the employment relationship by the commute.\nZhu was not commuting between home and the workplace at a fixed time for that commute when she was injured. Thus, the going and coming rule does not apply if the rule is understood to apply to commutes between home and the workplace at a fixed time.\nB. Transit for the benefit of the employer or employment\nHowever, the going and coming rule has in practice been invoked when the employee was in transit between points other than the home and workplace. In these cases the real issue is not whether the going and coming rule applies, but whether the transit is part of the employment or the employment relationship. Thus, a transit for the purposes of lunch and the lunch break is not a part of the employment relationship (Tryer v. Ojai Valley School (1992) 9 Cal.App.4th 1476, 1482, 12 Cal.Rptr.2d 114 ), but where the employer expressly or impliedly requires the employee to furnish his own car for the employer's own purposes, the transit is part of the employment. (Hinojosa , supra , 8 Cal.3d at pp. 160-161, 104 Cal.Rptr. 456, 501 P.2d 1176.)\nWhether the transit is part of the employment relationship tends to be a more subtle issue than whether the transit was between home and work. Hinojosa is again helpful:\nThese are the extraordinary transits that vary from the norm because the employer requires a special, different transit, means of transit, or use of a car, for some particular reason of his own. When the employer gains that kind of a particular advantage, the job does more than call for routine transport to it; it plays a different role, bestowing a special benefit upon the employer by reason of the extraordinary circumstances. The employer's special request, his imposition of an unusual condition, removes the transit from the employee's choice or convenience and places it within the ambit of the employer's choice or convenience, restoring the employer-employee relationship.\n(Hinojosa , supra , 8 Cal.3d at p. 157, 104 Cal.Rptr. 456, 501 P.2d 1176.)\nOnce it is clear that the transit is not a commute between home and work at a fixed time, the inquiry should be whether the transit was the employer's choice or was of some benefit to the employer or the employment relationship. This is by no means a novel inquiry. The courts, in crafting the so-called exceptions to the going and coming rule, responded to this very inquiry. The exceptions to the going and coming rule are, in the main, instances where the transit is the employer's choice or confers some benefit on the employer.\nA review of some of these exceptions will illustrate this point. One exception is when travel expenses are paid by the employer. (1 Hanna, Cal. Law of Employee Injuries and Workers' Compensation (rev. 2d ed.) \u00a7 4.154[1], p. 4-191.) The \"employer who makes a substantial payment for travel expenses in order to induce an employee to accept work at an extensive distance from his home has impliedly agreed that the employment 'relationship shall continue during the period of \"going and coming\"....' \" (Zenith Nat. Ins. Co. v. Workmen's Comp. App. Bd. (1967) 66 Cal.2d 944, 948, 59 Cal.Rptr. 622, 428 P.2d 606, quoting Kobe v. Industrial Acci. Com. (1950) 35 Cal.2d 33, 35, 215 P.2d 736 (Kobe ).) In these cases, it is clear that the employer has made the decision to make the transit part of the employment relationship by actually paying for it.\nTo the same effect are the cases where the employer furnishes transportation to and from work. (Kobe , supra , 35 Cal.2d at p. 35, 215 P.2d 736.) \"The essential prerequisite to compensation is that the danger from which the injury results be one to which he is exposed as an employee in his particular employment,\" and \"[t]his requirement is met when, as an employee and solely by reason of his relationship as such to his employer, he enters a vehicle regularly provided by his employer for the purpose of transporting him to or from the place of employment.\" (California Casualty Indem. Exchange v. Industrial Acci. Com. (1942) 21 Cal.2d 461, 466, 132 P.2d 815.) Here, again, it is the employer's decision to make the transit part of the employment relationship.\nThe same is true where the employer expressly or impliedly requires the employee to furnish his own car for the employer's own purposes. (Hinojosa , supra , 8 Cal.3d at pp. 160-161, 104 Cal.Rptr. 456, 501 P.2d 1176 ; Smith , supra , 69 Cal.2d at p. 820, 73 Cal.Rptr. 253, 447 P.2d 365.) The exception \"arises from the principle that an employee 'is performing service growing out of and incidental to his employment' (Lab. Code, \u00a7 3600 ) when he engages in conduct reasonably directed toward the fulfillment of his employer's requirements, performed for the benefit and advantage of the employer.\" (Smith , 69 Cal.2d at pp. 819-820, 73 Cal.Rptr. 253, 447 P.2d 365.)\nLikewise, \"when the employee engages in a special activity which is within the course of his employment, and which is reasonably undertaken at the request or invitation of the employer, an injury suffered while traveling to and from the place of such activity is also within the course of employment and is compensable.\" (Dimmig v. Workmen's Comp. Appeals Bd. (1972) 6 Cal.3d 860, 868, 101 Cal.Rptr. 105, 495 P.2d 433 (Dimmig ).) The employer's special request for a service outside the employee's regular duty is a decisive factor, including the performance of the usual service but at an odd hour. (Schreifer v. Industrial Acci. Com. (1964) 61 Cal.2d 289, 291, 38 Cal.Rptr. 352, 391 P.2d 832.) Like the furnishing of the employee's vehicle, the travel is at the employer's request and provides a particular advantage to the employer through \" ' \"the bother and effort of the trip itself.\" ' \" (Dimmig , supra , at p. 868, 101 Cal.Rptr. 105, 495 P.2d 433.)\nFinally, where an employee is required by the employment to work at both the employer's premises and at home, he is in the course of employment while traveling between the employer's premises and home. (Bramall v. Workers' Comp. Appeals Bd. (1978) 78 Cal.App.3d 151, 157-158, 144 Cal.Rptr. 105.) \"The basic question to be answered in a particular case is whether 'the trip involves an incidental benefit to the employer, not common to commute trips by ordinary members of the work force.' [Citations.]\" (Ibid . )\nWith these guideposts in mind, we turn to the facts of this case to determine whether the transit in this case was at the employer's express or implied request, or whether the transit was part of the employment relationship.\nC. Zhu's transit was for the Department's benefit and was impliedly requested by the Department\nThe Department's statutory mandate is \"to provide in every county ... supportive services ... to aged, blind, or disabled persons, ... who are unable to perform the services themselves and who cannot safely remain in their homes or abodes of their own choosing unless these services are provided.\" (Welf. & Inst. Code, \u00a7 12300, subd. (a).) Thus, the provision of care in the home is one of the Department's tasks.\nZhu worked for the Department for twelve years. The Department, which paid Zhu, was fully aware of Zhu's workload and obviously knew that Zhu was providing home care to more than one home per day. It was ineluctable that Zhu would have to transit from one home to another and that the Department knew that she was doing so.\nBut there is more than the Department's passive knowledge that Zhu was traveling between homes she was servicing. The Department was a direct beneficiary of this since it allowed Zhu to service more than one home per day. This directly increased the Department's ability to service persons in need. Given the length of time that Zhu worked for the Department and that the Department knew that Zhu traveled between the homes she was servicing, it is a reasonable inference that the Department at least impliedly required Zhu to provide for her own transportation between homes so that she could service more than one home per day. In other words, since the Department did not furnish Zhu with transport, the only way the Department could obtain the benefit of multiple homes being serviced in a day was to require Zhu to furnish her own transportation. The benefit obtained by the Department distinguishes Zhu's case from those where the employees chose to work at home solely for the employees' own convenience. (Santa Rosa Junior College v. Workers' Comp. Appeals Bd. (1985) 40 Cal.3d 345, 220 Cal.Rptr. 94, 708 P.2d 673 ; Wilson v. Workers' Comp. Appeals Bd. (1976) 16 Cal.3d 181, 127 Cal.Rptr. 313, 545 P.2d 225.)\nThis case is much like Hinojosa where the employee, a farm laborer, was shifted by the employer during the day between seven or eight non-contiguous ranches. (Hinojosa , supra , 8 Cal.3d at p. 152, 104 Cal.Rptr. 456, 501 P.2d 1176.) The employees were required to use their own means of transportation for this purpose. However, what was decisive was not that they were required to furnish their own transportation, but that the employer directly benefited from the transits which rendered the transits part of the employment. (Id . at p. 160, 104 Cal.Rptr. 456, 501 P.2d 1176.) The direct benefit to the Department of the transit is certainly a hallmark of this case.\nThe Department contends that since it did not require Zhu to service more than one patient per day, the required vehicle exception does not apply. To the same effect is the Department's argument that it did not \"structure\" the work in such manner that required transportation between homes. This may be so, but the Department accepted the benefit provided by Zhu servicing multiple homes in one day, and it did so for a number of years. Under these circumstances, a reasonable person would conclude that transiting between homes was part and parcel of Zhu's job.\nThe appeals board contends that the so-called \"required vehicle\" exception applies. We do not disagree. However, we prefer to state that under the particular facts of this case, the going and coming rule does not apply because Zhu was not commuting between her home and the workplace at a fixed time (Hinojosa , supra , 8 Cal.3d at p. 157, 104 Cal.Rptr. 456, 501 P.2d 1176 ), and Zhu's transit bestowed a direct benefit on the Department, as the Department knew that Zhu had to transit between homes to service more than one home a day, her transit was at the implied request of the Department and was thus a part of her employment relationship.\nDISPOSITION\nThe decision of the Workers' Compensation Appeals Board entered on September 19, 2016 is annulled and the matter is remanded to the Workers' Compensation Appeals Board for further proceedings consistent with this opinion.\nWe concur:\nBAKER, J.\nDUNNING, J.\n\"In substance the courts have held non-compensable the injury that occurs during a local commute enroute to a fixed place of business at fixed hours in the absence of special or extraordinary circumstances. The decisions have thereby excluded the ordinary, local commute that marks the daily transit of the mass of workers to and from their jobs; the employment, there, plays no special role in the requisites of portage except the normal need of the presence of the person for the performance of the work.\" (Hinojosa v. Workmen's Comp. Appeals Bd. (1972) 8 Cal.3d 150, 157, 104 Cal.Rptr. 456, 501 P.2d 1176 (Hinojosa ).)\nThe \"required vehicle\" exception to the going and coming rule \" ' \"arises where the [employee's] use of [his or her own] car gives some incidental benefit to the employer. Thus, the key inquiry is whether there is an incidental benefit derived by the employer.\" ' \" (Moradi v. Marsh USA, Inc. (2013) 219 Cal.App.4th 886, 895, 162 Cal.Rptr.3d 280, italics in original; see also Smith v. Workers' Comp. Appeals Bd. (1968) 69 Cal.2d 814, 819-820, 73 Cal.Rptr. 253, 447 P.2d 365 (Smith ).)\nJudge of the Orange Superior Court, assigned by the Chief Justice pursuant to article VI, section 6 of the California Constitution.",
+        "type": "majority",
+        "author": "KRIEGLER, Acting P.J."
+      }
+    ],
+    "attorneys": [
+      "Law Offices of F. Michael Sabzevar and F. Michael Sabzevar for Petitioner.",
+      "Anne Schmitz and Allison J. Fairchild for Respondent Workers' Compensation Appeals Board.",
+      "Lewis Brisbois Bisgaard & Smith, Jeffry A. Miller, Arezoo Jamshidi, Jonna D. Lothyan, Catherine M. Asuncion, San Diego, Sebastian E. Lee, and Caroline E. Chan, Los Angeles, for Respondent Department of Social Services."
+    ],
+    "corrections": "",
+    "head_matter": "YU QIN ZHU, Petitioner,\nv.\nWORKERS' COMPENSATION APPEALS BOARD and Department of Social Services, Respondents.\nNo. B278696\nCourt of Appeal, Second District, Division 5, California.\nFiled June 20, 2017\nLaw Offices of F. Michael Sabzevar and F. Michael Sabzevar for Petitioner.\nAnne Schmitz and Allison J. Fairchild for Respondent Workers' Compensation Appeals Board.\nLewis Brisbois Bisgaard & Smith, Jeffry A. Miller, Arezoo Jamshidi, Jonna D. Lothyan, Catherine M. Asuncion, San Diego, Sebastian E. Lee, and Caroline E. Chan, Los Angeles, for Respondent Department of Social Services."
+  },
+  "file_name": "0630-01",
+  "first_page_order": 630,
+  "last_page_order": 637
+}

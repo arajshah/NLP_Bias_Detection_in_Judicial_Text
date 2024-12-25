@@ -1,0 +1,629 @@
+{
+  "id": 12513579,
+  "name": "Barbara LYNCH et al., Plaintiffs and Respondents, v. CALIFORNIA COASTAL COMMISSION, Defendant and Appellant.",
+  "name_abbreviation": "Lynch v. Cal. Coastal Comm'n",
+  "decision_date": "2017-07-06",
+  "docket_number": "S221980",
+  "first_page": "754",
+  "last_page": "763",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 754"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 1085"
+    },
+    {
+      "type": "parallel",
+      "cite": "3 Cal. 5th 470"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "241 Cal.Rptr. 477",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 Cal.App.3d 8",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2218727
+      ],
+      "pin_cites": [
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/196/0008-01"
+      ]
+    },
+    {
+      "cite": "258 Cal.Rptr. 567",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Cal.App.3d 1488",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6038995
+      ],
+      "pin_cites": [
+        {
+          "page": "1496"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/210/1488-01"
+      ]
+    },
+    {
+      "cite": "55 Cal.Rptr.3d 795",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Cal.App.4th 537",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6046431
+      ],
+      "pin_cites": [
+        {
+          "page": "543-544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/148/0537-01"
+      ]
+    },
+    {
+      "cite": "194 Cal.Rptr. 594",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Cal.App.3d 772",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2099106
+      ],
+      "pin_cites": [
+        {
+          "page": "776-777"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/146/0772-01"
+      ]
+    },
+    {
+      "cite": "310 P.3d 925",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Cal.Rptr.3d 2",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Cal.4th 1193",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        4237420
+      ],
+      "pin_cites": [
+        {
+          "page": "1206-1207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/57/1193-01"
+      ]
+    },
+    {
+      "cite": "255 P.2d 772",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Cal.2d 642",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2346890
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/40/0642-01"
+      ]
+    },
+    {
+      "cite": "710 P.2d 338",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Cal.Rptr. 538",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Cal.3d 808",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        404478
+      ],
+      "pin_cites": [
+        {
+          "page": "815"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/40/0808-01"
+      ]
+    },
+    {
+      "cite": "218 Cal.Rptr. 839",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Cal.App.3d 914",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2154657
+      ],
+      "pin_cites": [
+        {
+          "page": "941"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/172/0914-01"
+      ]
+    },
+    {
+      "cite": "137 Cal.Rptr. 804",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Cal.App.3d 74",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        1985687
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/69/0074-01"
+      ]
+    },
+    {
+      "cite": "876 P.2d 1043",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Cal.Rptr.2d 244",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cal.4th 1",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1985983
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/8/0001-01"
+      ]
+    },
+    {
+      "cite": "260 Cal.Rptr. 736",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "212 Cal.App.3d 642",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4438503
+      ],
+      "pin_cites": [
+        {
+          "page": "654"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/212/0642-01"
+      ]
+    },
+    {
+      "cite": "564 P.2d 14",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Cal.Rptr. 472",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Cal.3d 505",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2291147
+      ],
+      "pin_cites": [
+        {
+          "page": "511"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/19/0505-01"
+      ]
+    },
+    {
+      "cite": "27 Cal.Rptr.3d 675",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Cal.App.4th 1123",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        54966
+      ],
+      "pin_cites": [
+        {
+          "page": "1136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/128/1123-01"
+      ]
+    },
+    {
+      "cite": "82 P.3d 727",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cal.Rptr.3d 517",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal.4th 1187",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        17990
+      ],
+      "pin_cites": [
+        {
+          "page": "1196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/31/1187-01"
+      ]
+    },
+    {
+      "cite": "187 P.3d 56",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Cal.Rptr.3d 334",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.4th 386",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3888005
+      ],
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/44/0386-01"
+      ]
+    },
+    {
+      "cite": "90 P.3d 746",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Cal.Rptr.3d 786",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Cal.4th 1287",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        801097
+      ],
+      "pin_cites": [
+        {
+          "page": "1293, fn. 2"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/32/1287-01"
+      ]
+    },
+    {
+      "cite": "56 Cal.Rptr.3d 591",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Cal.App.4th 1346",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6045909
+      ],
+      "pin_cites": [
+        {
+          "page": "1359"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/148/1346-01"
+      ]
+    },
+    {
+      "cite": "57 Cal.Rptr.3d 215",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Cal.App.4th 588",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6047790
+      ],
+      "pin_cites": [
+        {
+          "page": "598"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/149/0588-01"
+      ]
+    },
+    {
+      "cite": "410 P.2d 369",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.Rptr. 865",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Cal.2d 104",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        12122972
+      ],
+      "pin_cites": [
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/64/0104-01"
+      ]
+    },
+    {
+      "cite": "900 P.2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.Rptr.2d 370",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Cal.4th 1",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1960673
+      ],
+      "pin_cites": [
+        {
+          "page": "31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/11/0001-01"
+      ]
+    },
+    {
+      "cite": "946 P.2d 427",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 5,
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Cal.Rptr.2d 758",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 5,
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Cal.4th 1040",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1217918
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1048"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/16/1040-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1286,
+    "char_count": 28297,
+    "pagerank": {
+      "raw": 7.017528252646125e-08,
+      "percentile": 0.4236030749283066
+    },
+    "sha256": "7e0b0aaa1fc77c2b5c07852656784889055be0d4d2aad30a469ce57b55401dfc",
+    "simhash": "1:76e3c749a4124b28",
+    "word_count": 4347
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Barbara LYNCH et al., Plaintiffs and Respondents,\nv.\nCALIFORNIA COASTAL COMMISSION, Defendant and Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Corrigan, J.\nAfter winter storms damaged the seawall protecting their blufftop properties, homeowners sought a permit from the California Coastal Commission (Commission) to build a new seawall and repair their beach access stairway. The Commission granted the permit subject to several mitigation conditions. The owners filed an administrative mandate petition objecting to two conditions but then proceeded with construction. We hold that the owners forfeited their challenge because they accepted the benefits the permit conferred.\nI. BACKGROUND\nPlaintiffs Barbara Lynch and Thomas Frick own adjacent oceanfront properties in Encinitas. Their homes sit on a coastal bluff that cascades steeply down to the beach and Pacific Ocean. The Encinitas shoreline is especially susceptible to landslides. Since 1986, the properties have been protected by a shared seawall at the base of the bluff and a midbluff erosion control structure. The original seawall contained 20-foot wooden poles embedded in the sandy beach and cabled to the bluff. In the midbluff structure, railroad ties and supporting wooden poles were tied into the bluff with steel cables. A shared stairway provided the only access from the blufftop to the beach below. In 1989, the Commission retroactively approved a coastal development permit for the seawall, midbluff structure, and stairway. Plaintiffs later added concrete footings at the base of the poles.\nWhen the wooden poles showed significant decay, plaintiffs applied to the City of Encinitas (City) for authorization to replace the wooden seawall and midbluff structure with an integrated concrete wall. They also sought to rebuild the lower portion of the stairway, which would be attached to the new wall. The City approved the project in 2009, finding it consistent with the general plan and municipal code. Final approval required a coastal development permit from the Commission. While plaintiffs' application for this permit was pending, unusually heavy winter storms caused the bluff below Lynch's home to collapse, destroying part of the seawall, most of the midbluff structure, and the lower portion of the stairway.\nPlaintiffs sought a new permit to demolish the old structure, construct a new tied-back seawall across both properties, and rebuild the lower stairway. Commission staff recommended approving the proposed seawall, even though the existing support under Frick's property was adequate, because the new wall would provide greater stability and visual appeal. The proposed seawall would be located eight feet inland from its current location, providing additional beach area for recreation. But staff recommended disapproving the stairway, finding it inconsistent with local coastal plan requirements discouraging private access stairways on the bluff.\nUltimately, the Commission approved a coastal development permit allowing seawall demolition and reconstruction, with the addition of midbluff geogrid protection below Lynch's home. The permit was subject to several conditions, three of which are at issue here. Special condition No. 1(a) prohibits reconstruction of the lower stairway. Special condition No. 2 provides that the seawall permit will expire in 20 years and prohibits future blufftop redevelopment from relying on the seawall as a source of geologic stability or protection. Special condition No. 3 requires that, before expiration of the 20-year period, plaintiffs must apply for a new permit to remove the seawall, change its size or configuration, or extend the authorization period. Before the permit could issue, plaintiffs had to record deed restrictions stating that special conditions of the permit were covenants, conditions and restrictions on the use and enjoyment of their properties. They did so. Around the same time, plaintiffs filed a petition for writ of administrative mandate challenging the 20-year expiration conditions and the condition prohibiting reconstruction of the lower stairway. (Code Civ. Proc., \u00a7 1094.5.) While this litigation proceeded, plaintiffs satisfied all other permit conditions, obtained the permit, and built the seawall.\nAbout a year later, the Commission moved for judgment on the mandate petition, arguing plaintiffs had waived their objections by accepting the permit conditions and constructing the project. The trial court denied the motion. Plaintiffs then moved for judgment, arguing the permit's 20-year expiration date was unconstitutional and beyond the Commission's authority because it did not mitigate impacts of this particular project. In addition, plaintiffs maintained the Commission could not prohibit reconstruction of the lower stairway because that activity did not require a permit. The trial court agreed with plaintiffs and issued a writ directing the Commission to remove the challenged conditions. The Court of Appeal reversed in a split decision. The majority determined that plaintiffs had waived their claims and, in any event, both conditions were valid. The dissenting justice disagreed with all of these conclusions.\nWe granted review. Because we determine plaintiffs' claims have been forfeited, we do not decide the legality of the challenged conditions.\nII. DISCUSSION\nAs we have explained in various contexts, \" 'waiver' means the intentional relinquishment or abandonment of a known right.\" (Bickel v. City of Piedmont (1997) 16 Cal.4th 1040, 1048, 68 Cal.Rptr.2d 758, 946 P.2d 427 ; see Waller v. Truck Ins. Exchange, Inc. (1995) 11 Cal.4th 1, 31, 44 Cal.Rptr.2d 370, 900 P.2d 619.) Waiver requires an existing right, the waiving party's knowledge of that right, and the party's \"actual intention to relinquish the right.\" (Bickel , at p. 1053, 68 Cal.Rptr.2d 758, 946 P.2d 427.) \" 'Waiver always rests upon intent.' \" (City of Ukiah v. Fones (1966) 64 Cal.2d 104, 107, 48 Cal.Rptr. 865, 410 P.2d 369.) The intention may be express, based on the waiving party's words, or implied, based on conduct that is \" 'so inconsistent with an intent to enforce the right as to induce a reasonable belief that such right has been relinquished.' \" (Savaglio v. Wal-Mart Stores, Inc. (2007) 149 Cal.App.4th 588, 598, 57 Cal.Rptr.3d 215 ; see Waller , at pp. 31, 33-34, 44 Cal.Rptr.2d 370, 900 P.2d 619.)\nWaiver differs from estoppel, which generally requires a showing that a party's words or acts have induced detrimental reliance by the opposing party. (See, e.g., Feduniak v. California Coastal Com. (2007) 148 Cal.App.4th 1346, 1359, 56 Cal.Rptr.3d 591.) It also differs from the related concept of forfeiture, which results when a party fails to preserve a claim by raising a timely objection. (See In re S.B. (2004) 32 Cal.4th 1287, 1293, fn. 2, 13 Cal.Rptr.3d 786, 90 P.3d 746.) Although the distinctions between waiver, estoppel, and forfeiture can be significant, the terms are not always used with care. \"As we have observed previously, forfeiture results from the failure to invoke a right, while waiver denotes an express relinquishment of a known right; the two are not the same.\" (People v. Romero (2008) 44 Cal.4th 386, 411, 79 Cal.Rptr.3d 334, 187 P.3d 56.) The parties and courts below have analyzed the issue here in terms of waiver . However, the more accurate term to describe the effect of plaintiffs' actions is equitable forfeiture .\nWhether a waiver or forfeiture has occurred is often a factual question, typically reviewed for substantial evidence. (Bickel v. City of Piedmont , supra , 16 Cal.4th at pp. 1052-1053, 68 Cal.Rptr.2d 758, 946 P.2d 427.) \" 'When, however, the facts are undisputed and only one inference may reasonably be drawn, the issue is one of law and the reviewing court is not bound by the trial court's ruling.' \" (St. Agnes Medical Center v. PacifiCare of California (2003) 31 Cal.4th 1187, 1196, 8 Cal.Rptr.3d 517, 82 P.3d 727.) Moreover, the determination whether a party's actions constitute forfeiture is essentially legal in nature, and thus subject to independent review. (Cf. Evans v. City of San Jose (2005) 128 Cal.App.4th 1123, 1136, 27 Cal.Rptr.3d 675 [legal issues concerning administrative exhaustion are reviewed de novo].)\nThe relevant facts are not in dispute. During the review process, plaintiffs submitted written objections to the conditions they now challenge. After the Commission voted to approve a coastal development permit subject to the challenged conditions, plaintiffs timely filed for a writ of mandate. While the mandate action was pending, however, they satisfied all other conditions, obtained the permit, and built the seawall. The trial court concluded plaintiffs' actions did not bar their petition. It explained that, \"by proceeding with the repairs,\" plaintiffs \"have not necessarily accepted the conditions in question. No action has been taken as to the twenty year condition[,] which can be removed after review of the instant petition.\" In addition, plaintiffs had \"not undertaken any action as to the staircase.\" Contrary to the trial court, we conclude plaintiffs forfeited their right to challenge the permit's conditions by complying with all pre-issuance requirements, accepting the permit, and building the seawall.\nIn the land use context, a landowner may not challenge a permit condition if he has acquiesced to it either by specific agreement, or by failure to challenge the condition while accepting the benefits afforded by the permit.\n(County of Imperial v. McDougal (1977) 19 Cal.3d 505, 511, 138 Cal.Rptr. 472, 564 P.2d 14 (County of Imperial ); Rossco Holdings Inc. v. State of California (1989) 212 Cal.App.3d 642, 654, 260 Cal.Rptr. 736.) Generally, challenges to allegedly unlawful conditions must be litigated in administrative mandate proceedings. (Hensler v. City of Glendale (1994) 8 Cal.4th 1, 19, 32 Cal.Rptr.2d 244, 876 P.2d 1043 ; see Code Civ. Proc., \u00a7 1094.5.)\nIn County of Imperial , supra , 19 Cal.3d at page 507, 138 Cal.Rptr. 472, 564 P.2d 14, a conditional use permit allowed the commercial sale of water from a residential well but required that sales be kept within the county. The original property owner limited his sales accordingly but sold the property two years later. The new owner refused to comply with the restriction. (Id . at pp. 507-509, 138 Cal.Rptr. 472, 564 P.2d 14.) We explained that, while the benefits of a permit run with the land, so too do its restrictions. (Id . at p. 510, 138 Cal.Rptr. 472, 564 P.2d 14.) The original landowner waived any objection by voluntarily withdrawing his application to export water and accepting the permit's benefits. (Id . at pp. 510-511, 138 Cal.Rptr. 472, 564 P.2d 14.) His successor in title was bound by this waiver. (Ibid . )\nPfeiffer v. City of La Mesa (1977) 69 Cal.App.3d 74, 137 Cal.Rptr. 804 (Pfeiffer ) reached a similar result. There, the city issued a building permit but required the property owners to grant an easement and construct a storm drain. The owners objected to the conditions but said they would comply \" 'under protest and without waiving their rights to demand compensation.' \" (Id . at p. 76, 137 Cal.Rptr. 804 ) After completing the project, they sued the city for inverse condemnation, seeking compensation for the easement and the cost of constructing the storm drain. (Ibid . ) The court held they could not state a cause of action for inverse condemnation because \"a landowner who accepts a building permit and complies with its conditions waives the right to assert the invalidity of the conditions and sue the issuing public entity for the costs of complying with them.\" (Id . at p. 78, 137 Cal.Rptr. 804.) The property owners should have challenged the conditions by a petition for writ of mandate, rather than complying and later suing for damages. (Ibid . ) The court explained that Code of Civil Procedure section 1094.5 creates the right and furnishes the procedures to eliminate invalid permit conditions. Property owners cannot \"convert that right\" into an inverse condemnation claim by declining to pursue their proper remedy in mandate proceedings. (Pfeiffer , at p. 78, 137 Cal.Rptr. 804 ; see Hensler v. City of Glendale , supra , 8 Cal.4th at p. 19, 32 Cal.Rptr.2d 244, 876 P.2d 1043 ; Salton Bay Marina, Inc. v. Imperial Irrigation Dist. (1985) 172 Cal.App.3d 914, 941, 218 Cal.Rptr. 839.) Plaintiffs seek to distinguish these authorities. They point out that, unlike the original landowner in County of Imperial , they did challenge the imposed condition. And unlike the plaintiffs in Pfeiffer , they did not comply with the conditions and later sue for damages. Instead, they sought to invalidate the conditions in an administrative mandate proceeding. Plaintiffs may be correct that, on these facts, they cannot be fairly said to have waived their objection, in the sense of having intentionally relinquished it. (See Bickel v. City of Piedmont , supra , 16 Cal.4th at p. 1048, 68 Cal.Rptr.2d 758, 946 P.2d 427.) That conclusion, however, does not save their case. The crucial point is that they went forward with construction before obtaining a judicial determination on their objections . By accepting the benefits of the permit and building the seawall, plaintiffs effectively forfeited the right to maintain their otherwise timely objections. In general, permit holders are obliged to accept the burdens of a permit along with its benefits. (See Sports Arenas Properties, Inc. v. City of San Diego (1985) 40 Cal.3d 808, 815, 221 Cal.Rptr. 538, 710 P.2d 338.) This rule stems from the equitable maxim, \"He who takes the benefit must bear the burden.\" (Civ. Code, \u00a7 3521.) Plaintiffs obtained all the benefits of their permit when they built the seawall. They cannot now be heard to complain of its burdens.\nPlaintiffs' position is analogous to that of the landowners in Edmonds v. County of Los Angeles (1953) 40 Cal.2d 642, 255 P.2d 772. The Edmonds family operated a large trailer court in violation of zoning regulations and state law. (Id . at p. 644, 255 P.2d 772.) Local authorities agreed to grant an exception allowing additional trailers on the property, subject to a requirement that the nonconforming use be abandoned within three years. (Id . at pp. 645-646, 255 P.2d 772.) Edmonds protested this limitation when it was first proposed but ultimately accepted all the benefits afforded by the conditional exception. (Id . at pp. 646-650, 255 P.2d 772.) For three years the exception gave the Edmonds family \"definite advantages to which they were not otherwise entitled.\" (Id . at p. 650, 255 P.2d 772 ) Accordingly, they could not later challenge it. (Id . at pp. 650, 653, 255 P.2d 772.) Similarly, because plaintiffs here took advantage of their permit's benefits by building a seawall, they must now accept the permit's conditions.\nPlaintiffs urge that because the objectionable permit conditions did not affect the design or construction of the seawall, it was possible to challenge the conditions while the project was being built. Noting the instability of the coastal bluffs, plaintiffs argue they should not have had to await the outcome of litigation before taking action to protect their homes. They essentially ask us to create a new exception to the forfeiture rule, allowing landowners to accept the benefits of a permit under protest if the challenged restrictions can be severed from the project's construction. We decline to do so for a number of reasons.\nWhen the Legislature addressed this subject, it authorized a narrow exception for challenges to permit conditions imposing a fee or similar exaction. The Mitigation Fee Act (Gov. Code, \u00a7 66000 et seq. ) establishes a procedure by which developers may proceed with a project and still protest the imposition of fees or a possessory interest in property. (See Sterling Park, L.P. v. City of Palo Alto (2013) 57 Cal.4th 1193, 1206-1207, 163 Cal.Rptr.3d 2, 310 P.3d 925 (Sterling Park ).) In general, if a developer has tendered payment of the disputed fee and given written notice of the grounds for protest, local agencies cannot withhold project approval during litigation of the dispute. (Gov. Code, \u00a7 66020, subds. (a) -(b).) If the challenge is successful, the agency must refund the unlawful fees with interest. (Gov. Code, \u00a7 66020, subd. (e).)\nBefore the Mitigation Fee Act, developers that wished to challenge the legality of a fee had to delay construction until mandamus proceedings ended. (See McLain Western #1 v. County of San Diego (1983) 146 Cal.App.3d 772, 776-777, 194 Cal.Rptr. 594 ; Pfeiffer , supra , 69 Cal.App.3d at p. 78, 137 Cal.Rptr. 804.) The Mitigation Fee Act authorized a simultaneous challenge, but only for \"fees, dedications, reservations, or other exactions.\" (Gov. Code, \u00a7 66020, subd. (a).) While the term \"other exactions\" encompasses \"actions that divest the developer of money or a possessory interest in property, ... it does not include land use restrictions.\" (Sterling Park , supra , 57 Cal.4th at p. 1204, 163 Cal.Rptr.3d 2, 310 P.3d 925.) Plaintiffs essentially seek to extend the Mitigation Fee Act to land use restrictions that can be separated from a project's construction. Their rule would significantly expand the statute, contrary to its language and evident legislative intent. (See Fogarty v. City of Chico (2007) 148 Cal.App.4th 537, 543-544, 55 Cal.Rptr.3d 795.) If such an expansion is needed, the Legislature is the appropriate body to create it.\nCreating an under protest exception would also potentially swallow the general rule that landowners must take the burdens along with the benefits of a permit. Permit applicants frequently accept conditions they dislike in order to obtain a permit. \"If every owner who disagrees with the conditions of a permit could unilaterally decide to comply with them under protest, do the work, and file an action in inverse condemnation on the theory of economic coercion, complete chaos would result in the administration of this important aspect of municipal affairs.\" (Pfeiffer , supra , 69 Cal.App.3d at p. 78, 137 Cal.Rptr. 804.) An exception allowing applicants to challenge a permit's restrictions after taking all of its benefits would change the dynamics of permit negotiations and would foster litigation.\nAlthough plaintiffs argue their exception would be limited to conditions that can be challenged without disrupting a project's construction, it could be difficult to determine whether a particular condition is truly severable. For example, here plaintiffs contend the 20-year expiration condition has no bearing on the seawall's construction. If the condition is valid, the seawall's permit will expire in 20 years; if it is not valid, the permit will continue beyond 20 years. The example illustrates the problem. The Commission imposed the expiration condition as a means of mitigating the seawall's adverse effects on the coastal environment. If a court invalidated the condition before the wall's construction, the Commission could have adjusted by directing that the seawall be located farther inland, for example, to account for additional sand loss beyond 20 years. Or, it might have required alterations in the wall's size or design. But if the condition is invalidated after the seawall has been built, alternative mitigation measures related to the design or placement of the wall, which might follow such a ruling, would be rendered unrealistic or impossible. Plaintiffs complain that whether the Commission would have required alternative mitigation measures rests on speculation. As a matter of equity, however, plaintiffs bear the weight of this uncertainty because their actions created it.\nRequiring that parties seek to invalidate permit conditions in administrative mandate proceedings before proceeding with a project \"serves the salutary purpose of promptly alerting the [agency] that its decision is being questioned\" and allows the government to mitigate potential damages. (California Coastal Com. v. Superior Court (1989) 210 Cal.App.3d 1488, 1496, 258 Cal.Rptr. 567.) After a project has been built, it may be too late for agencies to propose alternative mitigation measures. They may be left with no practical means of addressing a project's significant impacts. Land use planning decisions entail a delicate balancing of interests. An under protest exception to the general waiver rule would upset this balance and inject uncertainty into the planning process.\nOne might argue the Commission could have avoided this problem by declining to issue the permit after plaintiffs filed their administrative mandate action. Plaintiffs do not stress this point, presumably because they would prefer a rule allowing projects to proceed under protest over one encouraging permits to be withheld if they have challenged conditions. Denial of the permit may not have been possible here. According to the Commission, once a landowner satisfies all pre-issuance conditions, including recording deed restrictions that expressly promise all permit conditions will be honored, issuance of the permit is a purely ministerial act that Commission staff are powerless to interrupt. Even assuming the Commission's authority could be broadened in this regard, however, we believe the better rule puts the onus on landowners to resolve their challenges before accepting the benefits of a permit. The landowner is in the best position to know how strongly he objects to a particular condition, and to weigh the chance a challenge will succeed against the costs of delaying the project.\nPlaintiffs protest that imposing a forfeiture under these circumstances could put homeowners in a serious bind. The Commission approved the seawall because Lynch's blufftop home was in danger of collapsing into the sea. Postponing construction until mandate proceedings had concluded would have left plaintiffs' homes at significant risk. If proceeding with a project constitutes a forfeiture, plaintiffs argue property owners under similar duress could be coerced to accept unlawful permit conditions, simply because they cannot wait months or years for litigation to conclude.\nHowever, when safety is an issue, property owners can address imminent dangers by obtaining an emergency permit. (Pub. Resources Code, \u00a7 30624.) Emergency permits generally authorize temporary improvements, needed for immediate relief when loss or damage is threatened. (Barrie v. California Coastal Com. (1987) 196 Cal.App.3d 8, 17, 241 Cal.Rptr. 477.) In Barrie , for example, coastal homeowners began constructing an unpermitted seawall in anticipation of heavy storms. (Id . at p. 12, 241 Cal.Rptr. 477.) The Commission authorized the work under an emergency permit, though it required that the homeowners obtain a regular permit for a permanent seawall at the location. (Id . at pp. 12-13, 241 Cal.Rptr. 477.) Similarly, here, plaintiffs could have sought an emergency permit for a temporary seawall to protect their properties during litigation. Plaintiffs would have been aware of this option because they obtained an emergency permit to clean up debris from storm damage to the previous seawall.\nTemporary erosion protection under an emergency permit would have preserved the status quo pending the outcome of litigation. Because administrative mandate proceedings are often streamlined and subject to local fast track requirements (see Smith-Chavez et al., 2 Cal. Civil Practice: Real Property Litigation (1st ed. 2005) Land Use and Zoning Litigation, \u00a7 14:42, p. 14-52 et seq.), delay of a project's construction may be minimized. Moreover, although it was likely impossible here, in some cases the parties may be able to reach an agreement allowing construction to proceed while a challenge to permit conditions is resolved in court. A clear agreement of this sort could prevent a finding of equitable forfeiture. In conclusion, although plaintiffs filed an administrative mandate petition, they forfeited their objections by constructing the project. Without an express agreement with the agency providing otherwise, landowners who object to permit conditions not covered by the Mitigation Fee Act must litigate their objections in an administrative mandate proceeding before constructing the permitted project. Landowners who proceed with a project before the merits of their claims have been decided risk a finding that their objections were forfeited.\nIII. DISPOSITION\nThe judgment of the Court of Appeal is affirmed.\nWe Concur:\nCantil-Sakauye, C.J.\nWerdegar, J.\nChin, J.\nLiu, J.\nCu\u00e9llar, J.\nKruger, J.\nWe refer to this authorization as a permit, but technically it was an amendment to the coastal development permit the Commission issued for the original seawall in 1989.\nAlthough the court used waiver terminology, the facts are more consistent with forfeiture. The Pfeiffers objected to the permit's conditions and complained throughout that they were complying \" 'under protest.' \" (Pfeiffer, supra, 69 Cal.App.3d at p. 76, 137 Cal.Rptr. 804.) Arguably, their conduct was not an \"intentional relinquishment or abandonment of a known right.\" (Bickel v. City of Piedmont, supra, 16 Cal.4th at p. 1048, 68 Cal.Rptr.2d 758, 946 P.2d 427.)\nOur holding in Edmonds was phrased in terms of estoppel because the zoning authorities had \"relied to their detriment\" on the plaintiffs' promise to end their nonconforming use. (Edmonds v. County of Los Angeles, supra, 40 Cal.2d at p. 653, 255 P.2d 772.) However, the principles expressed are equally applicable in the context of equitable forfeiture.\nAlthough the bluff supporting Frick's home was more stable, the Commission allowed the seawall to extend across his property because continuing erosion would likely threaten it in the near future.\nIn truly dire circumstances, immediate repairs can be made without an emergency permit. (See Pub. Resources Code, \u00a7 30611 ; Cal. Code Regs., tit. 14, \u00a7 13144.)\nAlthough some amici curiae protest that an agency's notice of intent to issue a permit could expire before mandate litigation has concluded, courts can presumably address such problems by issuing appropriate stay orders. (See Code Civ. Proc., \u00a7 1094.5, subd. (g).)\nThe Commission also contends plaintiffs expressly agreed to accept the challenged permit conditions when they recorded deed restrictions referencing the permit. Because we conclude plaintiffs forfeited their claims by constructing the seawall project, we need not address this alternative argument.",
+        "type": "majority",
+        "author": "Corrigan, J."
+      }
+    ],
+    "attorneys": [
+      "Kamala D. Harris and Xavier Becerra, Attorneys General, Mark J. Breckler, Chief Assistant Attorney General, John A. Saurenman, Assistant Attorney General, Jamee Jordan Patterson and Hayley Peterson, Deputy Attorneys General, for Defendant and Appellant.",
+      "Janis L. Herbstman for California State Association of Counties, League of California Cities and International Municipal Lawyers Association as Amici Curiae on behalf of Defendant and Appellant.",
+      "Shute, Mihaly & Weinberger, Fran M. Layton, San Francisco, and Catherine Malina for American Planning Association and American Planning Association California Chapter as Amici Curiae on behalf of Defendant and Appellant.",
+      "Ralph Faust ; Environmental Law Clinic Mills Legal Clinic at Stanford Law School, Deborah A. Sivas, Alicia E. Thesing and Matthew J. Sanders, San Francisco, for Surfrider Foundation as Amicus Curiae on behalf of Defendant and Appellant.",
+      "Axelson & Corn, Jonathan C. Corn, Del Mar; Pacific Legal Foundation, James S. Burling, John M. Groen, Sacramento, Paul J. Beard II, Los Angeles, and Jennifer F. Thompson for Plaintiffs and Respondents.",
+      "Briscoe Ivester & Bazel and Peter Prows, San Francisco, for Beach and Bluff Conservancy, Protect the Beach.org, Seacoast Preservation Association and Coastal Property Owners Association of Santa Cruz County as Amici Curiae on behalf of Plaintiffs and Respondents.",
+      "Alston & Bird and Paul J. Beard II, Los Angeles, for California Association of Realtors and National Association of Realtors as Amici Curiae on behalf of Plaintiffs and Respondents.",
+      "Rutan & Tucker and David P. Lanferman, Palo Alto, for California Building Industry Association, California Cattlemen's Association and California Farm Bureau Federation as Amici Curiae on behalf of Plaintiffs and Respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Barbara LYNCH et al., Plaintiffs and Respondents,\nv.\nCALIFORNIA COASTAL COMMISSION, Defendant and Appellant.\nS221980\nSupreme Court of California\nFiled July 6, 2017\nKamala D. Harris and Xavier Becerra, Attorneys General, Mark J. Breckler, Chief Assistant Attorney General, John A. Saurenman, Assistant Attorney General, Jamee Jordan Patterson and Hayley Peterson, Deputy Attorneys General, for Defendant and Appellant.\nJanis L. Herbstman for California State Association of Counties, League of California Cities and International Municipal Lawyers Association as Amici Curiae on behalf of Defendant and Appellant.\nShute, Mihaly & Weinberger, Fran M. Layton, San Francisco, and Catherine Malina for American Planning Association and American Planning Association California Chapter as Amici Curiae on behalf of Defendant and Appellant.\nRalph Faust ; Environmental Law Clinic Mills Legal Clinic at Stanford Law School, Deborah A. Sivas, Alicia E. Thesing and Matthew J. Sanders, San Francisco, for Surfrider Foundation as Amicus Curiae on behalf of Defendant and Appellant.\nAxelson & Corn, Jonathan C. Corn, Del Mar; Pacific Legal Foundation, James S. Burling, John M. Groen, Sacramento, Paul J. Beard II, Los Angeles, and Jennifer F. Thompson for Plaintiffs and Respondents.\nBriscoe Ivester & Bazel and Peter Prows, San Francisco, for Beach and Bluff Conservancy, Protect the Beach.org, Seacoast Preservation Association and Coastal Property Owners Association of Santa Cruz County as Amici Curiae on behalf of Plaintiffs and Respondents.\nAlston & Bird and Paul J. Beard II, Los Angeles, for California Association of Realtors and National Association of Realtors as Amici Curiae on behalf of Plaintiffs and Respondents.\nRutan & Tucker and David P. Lanferman, Palo Alto, for California Building Industry Association, California Cattlemen's Association and California Farm Bureau Federation as Amici Curiae on behalf of Plaintiffs and Respondents."
+  },
+  "file_name": "0754-01",
+  "first_page_order": 754,
+  "last_page_order": 763
+}

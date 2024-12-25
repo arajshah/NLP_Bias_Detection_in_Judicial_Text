@@ -1,0 +1,1102 @@
+{
+  "id": 12513550,
+  "name": "K.R., Petitioner, v. The SUPERIOR COURT of Sacramento County, Respondent; The People, Real Party in Interest.",
+  "name_abbreviation": "K.R. v. Superior Court of Sacramento Cnty.",
+  "decision_date": "2017-06-29",
+  "docket_number": "S231709",
+  "first_page": "451",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 451"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 581"
+    },
+    {
+      "type": "parallel",
+      "cite": "3 Cal. 5th 295"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "70 P.3d 1054",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Cal.Rptr.2d 639",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Cal.4th 1245",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        269729
+      ],
+      "pin_cites": [
+        {
+          "page": "1258"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/30/1245-01"
+      ]
+    },
+    {
+      "cite": "776 F.2d 955",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1516423
+      ],
+      "pin_cites": [
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/776/0955-01"
+      ]
+    },
+    {
+      "cite": "262 N.J.Super. 367",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        338595
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/262/0367-01"
+      ]
+    },
+    {
+      "cite": "169 Misc.2d 525",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        839127
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "247-249"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/169/0525-01"
+      ]
+    },
+    {
+      "cite": "263 Cal.Rptr. 224",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "214 Cal.App.3d 1327",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4369558
+      ],
+      "pin_cites": [
+        {
+          "page": "1337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/214/1327-01"
+      ]
+    },
+    {
+      "cite": "214 Cal.Rptr. 502",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Cal.App.3d 516",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2133634
+      ],
+      "pin_cites": [
+        {
+          "page": "521"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/168/0516-01"
+      ]
+    },
+    {
+      "cite": "101 P.3d 994",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Cal.Rptr.3d 46",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.4th 798",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        633038
+      ],
+      "pin_cites": [
+        {
+          "page": "809"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/34/0798-01"
+      ]
+    },
+    {
+      "cite": "377 P.3d 832",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "206 Cal.Rptr.3d 588",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cal.5th 676",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12446752
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "696"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-5th/1/0676-01"
+      ]
+    },
+    {
+      "cite": "282 P.3d 291",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Cal.Rptr.3d 286",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Cal.4th 262",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3931936
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "271"
+        },
+        {
+          "page": "271"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/55/0262-01"
+      ]
+    },
+    {
+      "cite": "369 P.2d 937",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Cal.Rptr. 321",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Cal.2d 450",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4375244
+      ],
+      "pin_cites": [
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/57/0450-01"
+      ]
+    },
+    {
+      "cite": "50 Cal.Rptr. 178",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "240 Cal.App.2d 870",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2164884
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "872"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/240/0870-01"
+      ]
+    },
+    {
+      "cite": "247 Cal.Rptr. 322",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "201 Cal.App.3d 761",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6043202
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "764"
+        },
+        {
+          "page": "764"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/201/0761-01"
+      ]
+    },
+    {
+      "cite": "274 Cal.Rptr. 629",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "224 Cal.App.3d 1540",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4418994
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1543"
+        },
+        {
+          "page": "1543"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/224/1540-01"
+      ]
+    },
+    {
+      "cite": "85 Cal.Rptr.3d 566",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Cal.App.4th 397",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5731250
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "409"
+        },
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/168/0397-01"
+      ]
+    },
+    {
+      "cite": "98 Cal.Rptr.3d 901",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 5,
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Cal.App.4th 534",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5742342
+      ],
+      "weight": 5,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "542-543"
+        },
+        {
+          "page": "541"
+        },
+        {
+          "page": "542-543"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/177/0534-01"
+      ]
+    },
+    {
+      "cite": "214 Cal.Rptr. 93",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Cal.App.3d 311",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2133605
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/168/0311-01"
+      ]
+    },
+    {
+      "cite": "4 Cal.Rptr.3d 713",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Cal.App.4th 1360",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1229291
+      ],
+      "pin_cites": [
+        {
+          "page": "1363"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/111/1360-01"
+      ]
+    },
+    {
+      "cite": "127 Cal.Rptr.2d 723",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Cal.App.4th 1308",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        747489
+      ],
+      "pin_cites": [
+        {
+          "page": "1320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/103/1308-01"
+      ]
+    },
+    {
+      "cite": "26 Cal.Rptr.3d 234",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Cal.App.4th 1156",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        18760
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1160"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/127/1156-01"
+      ]
+    },
+    {
+      "cite": "168 Cal.Rptr. 8",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Cal.App.3d 413",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6044844
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/110/0413-01"
+      ]
+    },
+    {
+      "cite": "203 Cal.Rptr. 856",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Cal.App.3d 832",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2149839
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "837"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/157/0832-01"
+      ]
+    },
+    {
+      "cite": "158 Cal.Rptr. 550",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Cal.App.3d 136",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        1999111
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "139-140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/97/0136-01"
+      ]
+    },
+    {
+      "cite": "212 Cal.Rptr. 61",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 6,
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Cal.App.3d 911",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2128914
+      ],
+      "weight": 4,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "917"
+        },
+        {
+          "page": "920"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/165/0911-01"
+      ]
+    },
+    {
+      "cite": "194 Cal.Rptr.3d 658",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 Cal.App.4th 1304",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4137072
+      ],
+      "pin_cites": [
+        {
+          "page": "1307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/241/1304-01"
+      ]
+    },
+    {
+      "cite": "244 P.3d 496",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Cal.Rptr.3d 99",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.4th 75",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3915050
+      ],
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/51/0075-01"
+      ]
+    },
+    {
+      "cite": "602 P.2d 396",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Cal.Rptr. 696",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.3d 754",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2270574
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/25/0754-01"
+      ]
+    },
+    {
+      "cite": "266 P.3d 287",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Cal.Rptr.3d 779",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Cal.4th 1171",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3919195
+      ],
+      "pin_cites": [
+        {
+          "page": "1178-1179"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/52/1171-01"
+      ]
+    },
+    {
+      "cite": "125 P.3d 290",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Cal.Rptr.3d 354",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Cal.4th 759",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3772043
+      ],
+      "pin_cites": [
+        {
+          "page": "767"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/37/0759-01"
+      ]
+    },
+    {
+      "cite": "302 P.3d 598",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Cal.Rptr.3d 290",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Cal.4th 64",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6054111
+      ],
+      "pin_cites": [
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/57/0064-01"
+      ]
+    },
+    {
+      "cite": "96 Cal.Rptr.3d 684",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Cal.App.4th 992",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6051146
+      ],
+      "pin_cites": [
+        {
+          "page": "997"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/175/0992-01"
+      ]
+    },
+    {
+      "cite": "226 P.3d 998",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Cal.Rptr.3d 518",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.4th 426",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6050679
+      ],
+      "pin_cites": [
+        {
+          "page": "436-437"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/48/0426-01"
+      ]
+    },
+    {
+      "cite": "81 Cal.Rptr.2d 734",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Cal.App.4th 634",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1662452
+      ],
+      "pin_cites": [
+        {
+          "page": "639"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/69/0634-01"
+      ]
+    },
+    {
+      "cite": "163 Cal.Rptr.3d 369",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Cal.App.4th 688",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3801409
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "698"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/220/0688-01"
+      ]
+    },
+    {
+      "cite": "913 P.2d 1061",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.Rptr.2d 851",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Cal.4th 68",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1965927
+      ],
+      "pin_cites": [
+        {
+          "page": "79-80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/13/0068-01"
+      ]
+    },
+    {
+      "cite": "188 P.3d 649",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 Cal.Rptr.3d 715",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.4th 921",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3888355
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "929"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/44/0921-01"
+      ]
+    },
+    {
+      "cite": "261 Cal.Rptr. 814",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 6,
+      "opinion_index": 0
+    },
+    {
+      "cite": "213 Cal.App.3d 701",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4441103
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "707-708"
+        },
+        {
+          "page": "707-708"
+        },
+        {
+          "page": "707-708"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/213/0701-01"
+      ]
+    },
+    {
+      "cite": "666 P.2d 22",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 17,
+      "opinion_index": 0
+    },
+    {
+      "cite": "193 Cal.Rptr. 165",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 17,
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.3d 171",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4552621
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/34/0171-01"
+      ]
+    },
+    {
+      "cite": "587 P.2d 220",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 23,
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Cal.Rptr. 778",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 23,
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Cal.3d 749",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2282066
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "756-757"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/22/0749-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1851,
+    "char_count": 63210,
+    "pagerank": {
+      "raw": 6.263440174314247e-08,
+      "percentile": 0.38653682125869115
+    },
+    "sha256": "7126a4885bfa5fe6ed929f70318511074a666904258c4e39424efc24c9286e9d",
+    "simhash": "1:382bc926462b4f58",
+    "word_count": 10265
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "K.R., Petitioner,\nv.\nThe SUPERIOR COURT of Sacramento County, Respondent;"
+    ],
+    "opinions": [
+      {
+        "text": "Werdegar, J.\nIn 1978, this court established a basic background rule applicable to plea negotiations in criminal cases, holding that \"[a]s a general principle ... whenever a judge accepts a plea bargain and retains sentencing discretion under the agreement, an implied term of the bargain is that sentence will be imposed by that judge.\" (People v. Arbuckle (1978) 22 Cal.3d 749, 756-757, 150 Cal.Rptr. 778, 587 P.2d 220 (Arbuckle ).) We later found the same rule applied to pleas in juvenile court. (In re Mark L. (1983) 34 Cal.3d 171, 177, 193 Cal.Rptr. 165, 666 P.2d 22 (Mark L. ).) In the ensuing years, some intermediate appellate courts have perceived some leeway in the Arbuckle rule, and declined to recognize a right to the same judge at sentencing unless the record contained sufficient evidence that the defendant subjectively intended, as a condition of his or her plea, that the judge who accepted the plea would also pronounce sentence. (See, e.g., People v. Horn (1989) 213 Cal.App.3d 701, 707-708, 261 Cal.Rptr. 814.) The Court of Appeal below joined in this view, denying petitioner K.R.'s petition for a writ of mandate because he \"failed to show that he entered into the plea agreement in expectation of and reliance upon\" having the same judge who took his plea also preside at sentencing.\nAs we explain, neither Arbuckle nor its progeny support the notion that a defendant's ability to enforce the same-judge guarantee, a term implied in every plea agreement, is dependent on a defendant (or juvenile) first making a factual showing that he or she subjectively intended the judge taking the plea would also pronounce sentence. Because the Court of Appeal held otherwise, we reverse.\nI. FACTUAL AND PROCEDURAL BACKGROUND\nIn March 2013, when petitioner K.R. was 13 years old, the People filed a delinquency petition against him pursuant to Welfare and Institutions Code section 602 alleging he had committed the crimes of robbery and making criminal threats, both felonies (Pen. Code, \u00a7\u00a7 211, 422 ), as well as brandishing a knife, a misdemeanor (id. , \u00a7 417, subd. (a)(1)). In August 2013, Judge James P. Arguelles presided over a jurisdictional hearing on the petition in department 97 of the Sacramento County Superior Court, sitting as a juvenile court, and found the allegations true. In September 2013, Judge Arguelles presided at a disposition hearing and adjudged K.R. a ward of the juvenile court, committed him to the custody of his mother, and placed him on probation subject to a number of conditions, including 150 days in juvenile hall (less 76 days' custody credit).\nOn March 10, 2014, the People filed a violation of probation (VOP) petition (Welf. & Inst. Code, \u00a7\u00a7 602, 777 ) alleging K.R. had violated his probation by committing two counts of threatening school officials, both felonies (Pen. Code, \u00a7 71 ), two counts of issuing criminal threats against school officials, also felonies (id. , \u00a7 422 ), and trespassing on a school campus, a misdemeanor (id. , \u00a7 626.8). The next day, the People filed a second VOP petition, alleging the minor violated seven conditions of his probation stemming from his antisocial behavior in school and failure to complete court-ordered counseling. K.R. thereafter admitted one felony count of making criminal threats, as alleged in the first petition, and four probation violations, as alleged in the second petition. The court dismissed the remaining counts in the interest of justice, continued K.R. as a ward of the court, ordered him to serve 45 days in juvenile hall, and released him to his mother's custody and reinstated probation.\nOn May 16, 2014, the People filed a third VOP petition, this time alleging K.R. had violated the terms of his probation by committing two new felonies: carrying a concealed firearm and carrying a loaded firearm. (Pen. Code, \u00a7\u00a7 25400, subd. (a)(2), former 12031, subd. (a)(1).) The juvenile court later dismissed this petition as superseded by another VOP petition (also designated the third petition) alleging the same two counts. On June 18, 2014, K.R. admitted the first alleged violation (carrying a concealed weapon) and the court dismissed the second allegation; the court continued K.R. as a ward of the court and ordered him to serve 75 days in juvenile hall. His probation was then reinstated and he was released to the care and custody of his mother.\nOn April 9, 2015, the People filed a fourth VOP petition alleging that K.R. had again violated the terms of his probation. This new petition alleged the minor had remained away from his home overnight without parental permission, failed to keep his probation officer informed of his address and telephone number, used marijuana, and had committed three misdemeanors: possession of marijuana on a school campus, falsely identifying himself to a law enforcement officer, and being a disruptive presence on a school campus. (Health & Saf. Code, \u00a7 11357, subd. (e) ; Pen. Code, \u00a7\u00a7 148.9, subd. (a), 626.8, subd. (a).) A week later, on April 14, the People filed a fifth VOP petition, alleging that K.R. had violated his probation yet again by brandishing a firearm (Pen. Code, \u00a7 417, subd. (a)(2) ), and brandishing a replica firearm (id. , \u00a7 417.4), both misdemeanors. Judge Doris Shockley, sitting on assignment in department 92, presided over a hearing held on the fourth and fifth VOP petitions. Judge Shockley ordered K.R. detained at juvenile hall and set a settlement conference hearing for April 28, 2015, in department 97, Judge Arguelles's department. She also ordered the probation department to prepare and submit a memorandum with recommendations for that hearing.\nThe probation department's subsequently prepared report indicated that although K.R. had been supervised for 20 months, his adjustment to probation continued to be poor. The report indicated that he refused to follow the directives of his mother, continued to incur numerous school infractions, and had been named as a suspect in a recent armed robbery. The department felt \"a placement recommendation may be warranted,\" but noted, \"the family [specifically, K.R.'s mother] has moved to the state of Nevada.\" The department, therefore, recommended that K.R.'s probation be revoked and reinstated, that he be permitted to travel to Las Vegas to reside with his mother \"pursuant to Interstate Compact protocol,\" and that the proceedings be transferred to the juvenile court of Clark County, Nevada, for final disposition.\nOn April 28, 2015, the parties appeared in department 97 before Judge Jack Sapunor, a regular visiting judge in Sacramento County juvenile court. With Judge Sapunor presiding, the parties stipulated to continue the settlement conference hearing regarding the fourth and fifth VOP petitions to May 12. On that day, the parties again appeared in department 97. Judge Arguelles presided over the continued settlement conference hearing but, at the request of K.R.'s attorney, continued the hearing again, this time to May 28.\nOn May 28, 2015, the parties again appeared in department 97 for the continued settlement conference hearing. Judge Sapunor was again presiding as a visiting judge. At that time, K.R.'s attorney told the court that the minor was prepared to admit two allegations (from the fourth petition, that he had remained away overnight without parental permission, and from the fifth petition, that he had brandished a replica firearm) \"with an understanding that the disposition would be 54 days in custody of juvenile hall. He has 47 days as of today. [\u00b6] The intention is in one week from today to recalendar this for proof that [K.R.'s grandmother] has purchased the plane ticket to Nevada as the minor's mother is currently a resident of the state of Nevada, and this case would be transferred out for [supervision] to Nevada.\"\nJudge Sapunor confirmed with K.R.'s attorney that \"[w]e're going to order the transfer today and then calendar it for a week to make sure that's been accomplished,\" and further confirmed with the prosecutor that this was the \"recommended disposition.\" The court advised K.R. of his constitutional rights and obtained his waiver of them, whereupon K.R. admitted the two probation violations and Judge Sapunor granted the prosecutor's motion to dismiss the remaining allegations. The court then revoked and reinstated all previous orders. Before Judge Sapunor could finish the disposition, however, the probation officer serving as the presenter to the court interrupted, stating: \"Your Honor, just a thought real quick, I know we just took the admission. My only concern is if we come back a week from now and there's not a ticket bought and if we do the dispo[sition] today, we may have to unravel all that we're doing right now-not the admission necessarily, just the disposition.\" The following colloquy then took place:\n\" THE COURT: Maybe we ought to put this out for a week to make sure that the disposition goes as planned.\n\" THE PRESENTER: That was just my thought that it all worked cleanly together. If for some reason it fell apart, we'll have to undo everything we're doing.\n\" MS. CONTRERAS: I am fine with putting whatever we need necessary [sic ]. My only request is that if we put the case over for one week, the time slots have to coordinate with the flight information. What is the quickest that he will be able to be processed to be released to get out to get on the plane?\n\" THE PRESENTER: If we come in first thing in the morning, 8:30, 9:00, 9:30, let's say the flight's purchased for 1:30, 2:00 in the afternoon, the later the better, we would be good to go.\n\" MS. CONTRERAS: That's agreeable. We can continue putting dispo[sition] over for the final terms to one week from today in the morning.\n\" THE PRESENTER: We can sign all the interstate [compact forms] on that date also.\n\" THE COURT: You want to have disposition one week from today which is going to be the 4th of June?\n\" MS. CONTRERAS: Yes. The intention is for him to be deemed time served at that time.\n\" THE COURT: Yes. He's to be deemed time served on June 4th at 8:30. All the other conditions, this case would be transferred to Clark County, Nevada, for final disposition, and then he will be released to go to Las Vegas. [\u00b6] Okay. So come back, then, on the 4th at 8:30.\"\nThe minute order for the May 28 hearing shows that K.R. admitted two probation violations and the remaining allegations were dismissed, although the parties agreed they could be considered at the time of disposition. The disposition hearing was scheduled for June 4 in department 97.\nOn June 4, 2015, the parties again appeared in department 97, Judge Arguelles presiding. Judge Arguelles noted that he was not present when the plea was taken, but that the minute order indicated K.R. had admitted a violation of probation and the probation department \"is recommending that he just be shipped off to [Las] Vegas to live with his mother.\" Based on his familiarity with K.R.'s criminal history, the nature and extent of his probation violations, and his overall poor performance while on probation, Judge Arguelles stated his view that it would not be in K.R.'s best interest to \"just go live in [Las] Vegas.\" He said that his intention was \"probably to send him to DJJ [Division of Juvenile Justice] but [he was] willing to hear argument for [a lesser level placement].\" Because K.R.'s regular attorney was not present, however, Judge Arguelles agreed to continue the disposition hearing to June 8, when Ms. Contreras could be present.\nAt the continued hearing on June 8, K.R.'s regular attorney, Patricia Contreras, was present and objected to Judge Arguelles presiding over the disposition, citing the People's failure to secure an Arbuckle waiver from the minor at the May 28 hearing. Ms. Contreras requested the matter instead be set for hearing in front of Judge Sapunor, who she believed would be available for the next two weeks. Judge Arguelles reiterated his disagreement with the proposed disposition of sending K.R. to live with his mother in Las Vegas, set a schedule for the parties to brief the application of Arbuckle , and continued the matter to July 2.\nBefore the next hearing, however, K.R. filed a petition for writ of mandate with the Court of Appeal, requesting an order that Judge Arguelles either impose the agreed-upon disposition or set the case for a disposition hearing in front of Judge Sapunor. K.R. also requested a stay of further proceedings pending the appellate court's resolution of the matter. The Court of Appeal issued the requested stay, excepting from it \" 'the superior court's determination on the Arbuckle waiver.' \" Judge Arguelles subsequently denied K.R.'s claim under Arbuckle based on his finding the minor did not have a reasonable expectation that the judge who accepted his plea would also impose the disposition. As previously noted, the Court of Appeal agreed and denied K.R.'s petition for writ of mandate.\nII. DISCUSSION\nA. Arbuckle 's General Principle Relating to Plea Bargains\n\"Plea negotiations and agreements are an accepted and 'integral component of the criminal justice system and essential to the expeditious and fair administration of our courts.' [Citations.] Plea agreements benefit that system by promoting speed, economy, and the finality of judgments.\" (People v. Segura (2008) 44 Cal.4th 921, 929, 80 Cal.Rptr.3d 715, 188 P.3d 649 ; see People v. Panizzon (1996) 13 Cal.4th 68, 79-80, 51 Cal.Rptr.2d 851, 913 P.2d 1061.) The same is true in proceedings involving juvenile offenders. \"Plea bargaining is a common feature in juvenile delinquency proceedings, just as it is in criminal proceedings in adult court. Similar principles apply in both settings.\" (In re Ricardo C. (2013) 220 Cal.App.4th 688, 698, 163 Cal.Rptr.3d 369 ; accord, In re Jermaine B. (1999) 69 Cal.App.4th 634, 639, 81 Cal.Rptr.2d 734 [plea bargaining is an accepted practice in juvenile delinquency proceedings].)\n\"A plea agreement 'is a tripartite agreement which requires the consent of the defendant, the People and the court.' [Citations.] 'Acceptance of the agreement binds the court and the parties to the agreement.' \" (People v. Feyrer (2010) 48 Cal.4th 426, 436-437, 106 Cal.Rptr.3d 518, 226 P.3d 998.) \"Although a plea agreement does not divest the court of its inherent sentencing discretion, 'a judge who has accepted a plea bargain is bound to impose a sentence within the limits of that bargain.' \" (People v. Segura, supra , 44 Cal.4th at p. 931, 80 Cal.Rptr.3d 715, 188 P.3d 649.) \" 'Should the court consider the plea bargain to be unacceptable, its remedy is to reject it, not to violate it, directly or indirectly.' \" (Ibid . ; see People v. Blount (2009) 175 Cal.App.4th 992, 997, 96 Cal.Rptr.3d 684.)\n\"[A] negotiated plea agreement is a form of contract and is interpreted according to general contract principles.\" (Doe v. Harris (2013) 57 Cal.4th 64, 69, 158 Cal.Rptr.3d 290, 302 P.3d 598.) When enforcing such an agreement, courts will apply general contract principles \" 'to give effect to the mutual intention of the parties.' \" (People v. Shelton (2006) 37 Cal.4th 759, 767, 37 Cal.Rptr.3d 354, 125 P.3d 290.) Not all contract terms, however, are expressly stated in a contract. Experience and practice can, in some circumstances, lead courts to recognize the incorporation of implied terms to a contractual agreement. (Retired Employees Assn. of Orange County, Inc. v. County of Orange (2011) 52 Cal.4th 1171, 1178-1179, 134 Cal.Rptr.3d 779, 266 P.3d 287.)\nOne such implied term of a plea agreement was recognized in People v. Harvey (1979) 25 Cal.3d 754, 159 Cal.Rptr. 696, 602 P.2d 396. In Harvey , the defendant complained the trial court improperly sentenced him to the upper term for robbery by relying on the facts underlying a dismissed count to establish a circumstance in aggravation. We agreed. \"[I]t would be improper and unfair to permit the sentencing court to consider any of the facts underlying the dismissed count three for purposes of aggravating or enhancing defendant's sentence. Count three was dismissed in consideration of defendant's agreement to plead guilty to counts one and two. Implicit in such a plea bargain , we think, is the understanding (in the absence of any contrary agreement) that defendant will suffer no adverse sentencing consequences by reason of the facts underlying, and solely pertaining to, the dismissed count.\" (Id. , at p. 758, 159 Cal.Rptr. 696, 602 P.2d 396, italics added.) In other words, the pleading defendant need make no showing he subjectively intended, before entering his plea, to prohibit the trial judge from considering the facts of dismissed counts. We recently cited Harvey with approval in People v. Martin (2010) 51 Cal.4th 75, 81, 119 Cal.Rptr.3d 99, 244 P.3d 496. Where the parties anticipate the trial court will consider the facts underlying a dismissed count when sentencing, it is now routine procedure for the prosecutor to extract what is known as a \"Harvey waiver\" from the pleading defendant. (See, e.g., People v. Hoffman (2015) 241 Cal.App.4th 1304, 1307, 194 Cal.Rptr.3d 658 [pleading defendant executed a Harvey waiver].)\nWe recognized a different implied term for all plea agreements in Arbuckle, supra , 22 Cal.3d 749, 150 Cal.Rptr. 778, 587 P.2d 220, holding that a defendant's negotiated plea agreement necessarily included an implied term that the same judge who accepted his plea would preside at sentencing. Although Arbuckle began its analysis by noting the plea bargain in that particular case \"was entered in expectation of and in reliance upon sentence being imposed by the same judge\" (id. at p. 756, 150 Cal.Rptr. 778, 587 P.2d 220 ), we then explained that \"[a]s a general principle , moreover, whenever a judge accepts a plea bargain and retains sentencing discretion under the agreement, an implied term of the bargain is that sentence will be imposed by that judge. Because of the range of dispositions available to a sentencing judge, the propensity in sentencing demonstrated by a particular judge is an inherently significant factor in the defendant's decision to enter a guilty plea.\" (Id. at pp. 756-757, 150 Cal.Rptr. 778, 587 P.2d 220, italics added.) Because the defendant in that case was denied that aspect of his plea bargain, Arbuckle reversed and remanded, explaining that he should be sentenced by the same judge who accepted his plea, \"or if internal court administrative practices render that impossible, then in the alternative defendant should be permitted to withdraw his plea.\" (Id. at p. 757, 150 Cal.Rptr. 778, 587 P.2d 220.) We later applied the Arbuckle rule to a plea before a commissioner in juvenile court, where the parties impliedly stipulated that the judicial officer could act as a temporary judge. (Mark L. , supra , 34 Cal.3d 171, 193 Cal.Rptr. 165, 666 P.2d 22.) The rule has since been extended to juvenile proceedings generally. (See In re James H. (1985) 165 Cal.App.3d 911, 917, 212 Cal.Rptr. 61 ; In re Ray O. (1979) 97 Cal.App.3d 136, 139-140, 158 Cal.Rptr. 550 [\"whenever a juvenile enters a plea bargain before a judge he has the right to be sentenced by that same judge\"].)\nLike the Harvey rule, the Arbuckle rule has entered the standard lexicon of California criminal procedure, and has been routinely applied in the courts. (People v. Rosaia (1984) 157 Cal.App.3d 832, 837, 203 Cal.Rptr. 856 [noting the appellate courts had \"consistently applied the rule of People v. Arbuckle \"]; People v. DeJesus (1980) 110 Cal.App.3d 413, 418, 168 Cal.Rptr. 8 [calling the point \"settled\"]; In re Ray O. , supra , 97 Cal.App.3d at pp. 139-140, 158 Cal.Rptr. 550 [the Arbuckle rule applies to pleas in juvenile court].) In the years following our Arbuckle decision, many secondary sources and criminal practice guides echoed this view, as did a bench guide for trial judges and a leading treatise on practice in the juvenile courts.\nEven after Arbuckle , however, parties to a plea agreement-i.e., the pleading defendant and the prosecuting attorney-remained free to chart a different course by making explicit on the record that the defendant did not care if the same judge pronounced sentence. To do so, the prosecutor need only secure, at the time the plea is accepted, what has come to be known as an \"Arbuckle waiver.\" (See People v. Martinez (2005) 127 Cal.App.4th 1156, 1160, 26 Cal.Rptr.3d 234 [defendant waived his Arbuckle rights]; People v. Letteer (2002) 103 Cal.App.4th 1308, 1320, 127 Cal.Rptr.2d 723 (Letteer ) [\"the prosecution can protect itself in advance from the withdrawal of a plea by requiring an Arbuckle waiver as a condition of the [plea] bargain\"]; People v. Ellison (2003) 111 Cal.App.4th 1360, 1363, 4 Cal.Rptr.3d 713 [trial judge \"directed the clerk of the court to '[n]ote in the minutes there's an Arbuckle waiver' \"].) B. The Continuing Vitality of Arbuckle\nFollowing this court's decision in Mark L. , supra , 34 Cal.3d 171, 193 Cal.Rptr. 165, 666 P.2d 22, some intermediate appellate courts began questioning the continued vitality of Arbuckle 's holding that the same-judge guarantee was a term implied in every plea agreement. The genesis of this reevaluation was a renewed focus on language in Arbuckle itself, where the court began its analysis by noting that \"the plea bargain herein was entered in expectation of and in reliance upon sentence being imposed by the same judge\" (Arbuckle , supra , 22 Cal.3d at p. 756, 150 Cal.Rptr. 778, 587 P.2d 220, italics added), an observation that might suggest the same-judge guarantee was dependent on the particular facts surrounding the plea bargain in that case. Subsequently, in Mark L. , this court reasoned that, \"as in Arbuckle , the record indicates an actual assumption by the court and parties that the officer taking the plea would have final and exclusive dispositional authority.\" (Mark L. , supra , at p. 177, 193 Cal.Rptr. 165, 666 P.2d 22, italics added.) Further, \"[i]f any doubt on that score remained, [the judge] laid it to rest by announcing Mark's right to have 'the same judicial officer' who took the plea handle the disposition. That was an obvious reference to Arbuckle , and the deputy district attorney did not object. Despite [the judge's] usual assignment elsewhere, considerable effort was expended to ensure that he, rather than some other judge or referee, would act at the dispositional phase. There seems ample basis to conclude 'that the plea bargain herein was entered in expectation of and reliance upon [disposition] being imposed by the same [judicial officer].' \" (Ibid. , quoting Arbuckle , supra , at p. 756, 150 Cal.Rptr. 778, 587 P.2d 220.)\nAccordingly, a number of post-Mark L. appellate courts declined to apply Arbuckle 's same-judge rule as a categorical presumption, and instead began examining the trial record for evidence of the parties' actual intent. For example, in In re James H., supra , 165 Cal.App.3d 911, 212 Cal.Rptr. 61 (James H. ), the appellate court focused on this court's individualized examination of the records in both Arbuckle and Mark L. to conclude that we did not mean \"that it is always an implied term of a plea bargain that the judge who accepts the admission or plea will impose the sentence; instead, Arbuckle stated that such was 'a general principle.' \" (James H., supra, at p. 919, 212 Cal.Rptr. 61.) The James H. court held the trial record must be examined for \"the type of factors relied on in Arbuckle and In re Mark L. to support the assumption that the admission was entered in expectation of and reliance upon disposition being imposed by the same judge.\" (James H., supra , at p. 920, 212 Cal.Rptr. 61.)\nSimilarly, in People v. Ruhl (1985) 168 Cal.App.3d 311, 214 Cal.Rptr. 93, the appellate court agreed with James H. and concluded, after examining the record before it, that the defendant lacked a reasonable expectation he would be sentenced by the same judicial officer who accepted his negotiated plea. (Ruhl, supra , at p. 315, 214 Cal.Rptr. 93 ; see also People v. McIntosh (2009) 177 Cal.App.4th 534, 542-543, 98 Cal.Rptr.3d 901 [same-judge guarantee not an implied term in all pleas]; People v. Hsu (2008) 168 Cal.App.4th 397, 409, 85 Cal.Rptr.3d 566 [\"Arbuckle does not stand for the blanket proposition that under all circumstances, a defendant is entitled to assert his or her right to have the same judge who presided over the plea hearing also preside over the sentencing hearing\"]; People v. Adams (1990) 224 Cal.App.3d 1540, 1543, 274 Cal.Rptr. 629 [\"In order for an Arbuckle right to arise, the record must affirmatively show the defendant had a reasonable expectation of sentencing by the judge who took the plea.\"]; cf. People v. Serrato (1988) 201 Cal.App.3d 761, 764, 247 Cal.Rptr. 322 [under the specific circumstances shown by the record, defendant had a reasonable expectation of sentencing by the same judge].) And in People v. Horn, supra , 213 Cal.App.3d 701, 261 Cal.Rptr. 814, the court agreed with Ruhl and James H. , finding that not every plea includes an implied term that the same judge who accepts a plea will be the sentencing judge, disapproving its previous decisions that had held otherwise. (Horn , supra , at pp. 707-708, 261 Cal.Rptr. 814, disapproving People v. Rosaia , supra , 157 Cal.App.3d 832, 203 Cal.Rptr. 856, and In re Ray O. , supra , 97 Cal.App.3d 136, 158 Cal.Rptr. 550.)\nThis purported modification of the rule in Arbuckle by some intermediate appellate courts has begun to creep into secondary sources as well. (See 4 Witkin & Epstein, Cal. Criminal Law (4th ed. 2012) Pretrial Proceedings, \u00a7 363, pp. 657-658 [\"It is not always an implied term of a plea bargain that the judge who accepts the plea will impose the sentence; rather the record must affirmatively show some basis on which a defendant may reasonably expect the same judge to do the sentencing.\"] ; Levenson, Cal. Criminal Procedure, supra , Plea Bargaining, \u00b6 14:18, p. 14-20 [Arbuckle right depends on \"whether the defendant's plea bargain carried with it an implied or expressed promise to be sentence[d] by a particular judge.\"] ; Seiser & Kumli, Cal. Juvenile Courts Practice and Procedure, supra , Delinquency Proceedings, Disposition of Ward, \u00a7 3.92[1], p. 3-159 [Arbuckle right to the same judge is enforceable \"only if the record affirmatively demonstrates a basis for the defendant's reasonable expectation that the same judge will retain sentencing discretion\"] .) The Court of Appeal below followed this new interpretation of Arbuckle .\nOf course, \"it is established that a holding of the Supreme Court binds all of the lower courts in the state, including an intermediate appellate court.\" (Wall v. Sonora Union High School Dist. (1966) 240 Cal.App.2d 870, 872, 50 Cal.Rptr. 178 ; see Auto Equity Sales, Inc. v. Superior Court (1962) 57 Cal.2d 450, 455, 20 Cal.Rptr. 321, 369 P.2d 937 [\"Courts exercising inferior jurisdiction must accept the law declared by courts of superior jurisdiction. It is not their function to attempt to overrule decisions of a higher court.\"].) Nevertheless, legal doctrine evolves over time, and appellate courts have the capability and the responsibility to recognize and explain such changes when they occur. Have these several intermediate appellate courts accurately perceived a shift in doctrine?\nWith all respect, we conclude they have not. Despite the belt-and-suspenders approach in both Arbuckle , supra , 22 Cal.3d 749, 150 Cal.Rptr. 778, 587 P.2d 220, and Mark L. , supra , 34 Cal.3d 171, 193 Cal.Rptr. 165, 666 P.2d 22, in which this court applied a general rule recognizing an implied term in all plea agreements but also found the facts of those individual cases supported the same result, the language in Arbuckle is plain: It sets forth a \"general principle\" that \"whenever a judge accepts a plea bargain and retains sentencing discretion under the agreement, an implied term of the bargain is that sentence will be imposed by that judge.\" (Arbuckle , supra , at pp. 756-757, 150 Cal.Rptr. 778, 587 P.2d 220, italics added.) The clear import of Arbuckle 's holding is thus contrary to the notion that the implied term of the plea is somehow dependent on a defendant's pointing to evidence in the record of his or her expectation regarding the identity of the sentencing judge.\nOur conclusion is buttressed by the two dissenting justices' understanding of the opinion. Justice Frank Richardson, who dissented in part, explained his position: \"I respectfully dissent ... from that portion of the majority opinion which holds that, as a general principle , whenever a judge accepts a plea bargain one of the implied and enforceable terms of the bargain is that sentence will be imposed by the particular judge who accepts the plea. In my opinion no express promise should be made by a court, the prosecutor, or defense counsel; nor should such a condition in the usual case be routinely implied .\" (Arbuckle , supra , 22 Cal.3d at p. 758, 150 Cal.Rptr. 778, 587 P.2d 220, conc. & dis. opn. of Richardson, J., italics added.) Justice William Clark, also dissenting in part, expressly joined that part of Justice Richardson's separate opinion disagreeing with the majority's general rule that all plea agreements would \" 'routinely impl[y]' \" such a term. (Id. at p. 758, 150 Cal.Rptr. 778, 587 P.2d 220, conc. & dis. opn. of Clark, J.) Although reliance on the views of a dissenting justice when interpreting a majority opinion can be of questionable value (see People v. Caballero (2012) 55 Cal.4th 262, 271, 145 Cal.Rptr.3d 286, 282 P.3d 291 (conc. opn. of Werdegar, J.)), Arbuckle is not a case in which the dissenters attempted to overstate the reach of, or to place an interpretive gloss on, the majority opinion. Instead, the Arbuckle dissenters simply read the majority opinion at face value, consistently with its plain meaning, and disagreed with the majority's holding that implied in every plea bargain is the understanding that the judge accepting the plea would be the sentencing judge.\nNor did we modify that position in Mark L. , supra , 34 Cal.3d 171, 193 Cal.Rptr. 165, 666 P.2d 22. We addressed in that case a double variation of the standard Arbuckle plea bargain situation: (1) The plea was by a minor in juvenile court and not by an adult offender in superior court; and (2) the plea was taken by a court commissioner, not a regular judge. We made short work of the first point, agreeing with the weight of appellate authority that Arbuckle applied to pleas in juvenile court. (Mark L. , supra , at p. 177, 193 Cal.Rptr. 165, 666 P.2d 22.) That is still the law and not at issue here. On the second point, Mark L. held that because the actions of the parties constituted an implied stipulation that the commissioner could act as a temporary judge, his dispositional order thus \"had the same force as that of any other juvenile judge [and therefore] could not be reheard in the juvenile court, and [the presiding judge's] subsequent order on rehearing [modifying the original sentence] is therefore void.\" (Id. at pp. 179-180, 193 Cal.Rptr. 165, 666 P.2d 22.)\nIn support of its conclusion that the commissioner's dispositional order had the same force as that of any juvenile court judge, a conclusion in contravention of statute, the Mark L. court examined the actual facts of the case, stating that \"the record indicates an actual assumption by the court and the parties that the officer taking the plea would have final and exclusive dispositional authority.\" (Mark L ., supra , 34 Cal.3d at p. 177, 193 Cal.Rptr. 165, 666 P.2d 22.) Observing that commissioners may, \"if the parties properly stipulate, act as temporary judges\" (id. at p. 178, 193 Cal.Rptr. 165, 666 P.2d 22 ), the court concluded that the parties' conduct in the case constituted a sufficient stipulation that the commissioner was acting as a temporary judge. (Ibid . ) Yet after Mark L ., intermediate appellate courts, relying on the court's perceived reliance on the facts of the case, began holding that contrary to the previous understanding, Arbuckle did not state or establish a general default rule.\nIn so doing, the courts went astray. As explained above, Mark L . addressed and resolved a particular double variation of the standard Arbuckle situation: a juvenile offender instead of an adult, and a court commissioner instead of a judge. The court's remarks about the juvenile's intent related solely to the authority of the commissioner. That the court did not purport to undermine or recharacterize the basic Arbuckle premise is clear from its citation to and copious quotation from the Arbuckle opinion. Thus, before evaluating the \"actual assumption\" of the parties when the court received the minor's admissions, the Mark L. court said: \"In [Arbuckle ] this court held that 'whenever a judge accepts a plea bargain and retains sentencing discretion under the agreement, an implied term of the bargain is that sentence will be imposed by that judge. Because of the range of dispositions available to a sentencing judge, the propensity in sentencing demonstrated by a particular judge is an inherently significant factor in the defendant's decision to enter a guilty plea. [Citations.]' Thus, the sentence imposed by a judge other than the one who took the plea 'cannot be allowed to stand.' \" (Mark L. , supra , 34 Cal.3d at pp. 176-177, 193 Cal.Rptr. 165, 666 P.2d 22.) We reject the notion that Mark L. changed the law.\nFinally, we note that this court recently cited with apparent approval Arbuckle 's general rule of a term implied in all plea bargains, albeit in a slightly different context. In People v. Rodriguez (2016) 1 Cal.5th 676, 206 Cal.Rptr.3d 588, 377 P.3d 832 (Rodriguez ), the People sought to relitigate a suppression motion they had initially lost by dismissing the complaint and refiling a new complaint alleging the same charges. Under such circumstances, a defendant has a statutory right to have the same judge who initially granted his first suppression motion hear the new motion if the judge is available. (Pen. Code, \u00a7 1538.5, subd. (p).)\nFocusing on whether the first trial judge is \"available\" within the meaning of Penal Code section 1538.5, subdivision (p), we held that \"to adequately protect a defendant's statutory right under section 1538.5(p), ... a trial court must take reasonable steps in good faith to ensure that the same judge who granted the previous suppression motion is assigned to hear the relitigated motion. Only if the trial court has done so may it make a finding of unavailability. And the trial court must make such a finding on the record, so appellate review proves meaningful. [Citations.] Such a finding, unsupported by record evidence demonstrating the reasonable measures a trial court has taken to honor a defendant's section 1538.5(p) right, is an abuse of discretion.\" (Rodriguez , supra , 1 Cal.5th at p. 691, 206 Cal.Rptr.3d 588, 377 P.3d 832.)\nIn reaching this conclusion, we observed our conclusion in Rodriguez was \"in line\" with that reached in Arbuckle (Rodriguez , supra , 1 Cal.5th at p. 691, 206 Cal.Rptr.3d 588, 377 P.3d 832 ), recognizing Arbuckle , supra , 22 Cal.3d 749, 150 Cal.Rptr. 778, 587 P.2d 220 as a case in which we \"stat[ed] generally that 'whenever a judge accepts a plea bargain and retains sentencing discretion under the agreement, an implied term of the bargain is that sentence will be imposed by that judge.' \" (Rodriguez , supra , at p. 692, 206 Cal.Rptr.3d 588, 377 P.3d 832, quoting Arbuckle , supra , at pp. 756-757, 150 Cal.Rptr. 778, 587 P.2d 220.) We then analogized to Arbuckle to explain that \"a showing of more than mere inconvenience is necessary before a judge can be deemed unavailable\" under Penal Code section 1538.5, subdivision (p). (Rodriguez , supra , at p. 692, 206 Cal.Rptr.3d 588, 377 P.3d 832.) Had we believed Arbuckle had been overtaken by current circumstances and subject to a new understanding, we would not just a few months ago have quoted Arbuckle 's key language establishing a general rule applicable to all plea bargains, and approved of Arbuckle 's handling of administrative concerns.\nIn sum, because of the plain meaning of the Arbuckle opinion, the contemporaneous understanding of that opinion by the Arbuckle dissenters, the understanding by the intermediate appellate courts and legal commentators in the years immediately following the case, this court's citation of Arbuckle with approval in both Mark L. , supra , 34 Cal.3d 171, 193 Cal.Rptr. 165, 666 P.2d 22, and Rodriguez , supra , 1 Cal.5th 676, 206 Cal.Rptr.3d 588, 377 P.3d 832, and Mark L. 's failure to question or undermine the basic reasoning of Arbuckle , we reject the appellate court's position below that it has \"been settled law for more than 25 years that an Arbuckle right to be sentenced by the judge who accepted a negotiated plea arises not as a matter of general principle, but only when the specific facts of a given case show that the plea was given 'in expectation of and in reliance upon sentence being imposed by the same judge.' \" Instead, we adhere to the plain and original understanding of Arbuckle that in every plea in both adult and juvenile court, an implied term is that the judge who accepts the plea will be the judge who pronounces sentence. Should the People wish to allow a different judge to preside at sentencing (or, in juvenile cases, disposition), they should seek to obtain a waiver from the pleading defendant or juvenile.\nIn light of our conclusion today, the People's argument that the record does not indicate K.R. subjectively intended to retain his right to sentencing before Judge Sapunor is rendered moot. But the People also argue that even if the original understanding of Arbuckle is retained, K.R. is not entitled to relief because Judge Sapunor did not retain discretion over sentencing when he took the plea, as required by Arbuckle . It does not appear the People raised this argument below (Cal. Rules of Court, rule 8.500(c)(1) ; People v. Braxton (2004) 34 Cal.4th 798, 809, 22 Cal.Rptr.3d 46, 101 P.3d 994 ), but assuming without deciding the issue is properly before us, we reject it. As a rule, trial courts accepting a plea always retain discretion over sentencing. Should the court later decide not to impose the negotiated sentence, the court can withdraw its prior approval of the bargain and allow the pleading defendant (or juvenile) to withdraw his or her plea. Moreover, the facts of this case show Judge Sapunor was ready to impose the disposition to which defense counsel, K.R., and the deputy district attorney had agreed: time served plus a transfer of jurisdiction to Clark County, Nevada. It was only when the probation officer interjected and sought to coordinate sentencing with the purchase of an airplane ticket for K.R. to fly to Las Vegas that the matter was put over for one week. Defense counsel agreed to the plan, and Judge Sapunor ruled: \"[K.R. is] to be deemed time served on June 4th at 8:30. All the other conditions [remain in effect], [and] this case would be transferred to Clark County, Nevada, for final disposition, and then he will be released to go to Las Vegas. [\u00b6] Okay. So come back, then, on the 4th at 8:30.\" As seems clear, Judge Sapunor fully expected to be sentencing K.R. the next week in accordance with the bargain worked out by the parties.\nThe People further argue a pleading defendant (or juvenile) can protect their Arbuckle rights by striking an express agreement to have the same judge preside at both change of plea (admissions) and sentencing (disposition). Such a rule, the People argue, \"would encourage defendants to specifically negotiate an Arbuckle term and ensure it is placed on the record,\" and will \"foster greater accuracy in the enforcement of plea agreements.\" But so long as parties to a plea agreement understand the same-judge guarantee is implied in every plea agreement (absent an Arbuckle waiver), the terms of the plea should be clear to all. To the extent the People seek to place the burden on a pleading defendant or juvenile to make his or her preferences explicit on pain of forfeiting the right to the same judge at sentencing, the People would turn Arbuckle on its head. Under the law as proposed by the People, the Arbuckle rule will have morphed from one in which courts should assume the same judge will be the sentencer unless the prosecution can show otherwise , to one in which courts will find the same judge will be the sentencer only if the defendant can show that the parties so intended . Were we to accept the People's argument, instead of opting out with an Arbuckle waiver , pleading defendants (and juveniles) would have to affirmatively opt in by providing an Arbuckle invocation . Considerations of stare decisis aside, the People have provided no persuasive reason to abandon the original meaning of Arbuckle .\nIII. CONCLUSION\nThe judgment of the Court of Appeal denying K.R.'s petition for writ of mandate is reversed, and the cause remanded with directions to grant the petition.\nWe Concur:\nLiu, J.\nCu\u00e9llar, J.\nKruger, J.\nDISSENTING OPINION BY CANTIL-SAKAUYE, C.J.\nCantil-Sakauye, C.J.\nThe majority today purports to return California law to the original rule intended by the majority of this court in People v. Arbuckle (1978) 22 Cal.3d 749, 150 Cal.Rptr. 778, 587 P.2d 220 (Arbuckle ). In so doing, the majority, in my view, misrepresents the Arbuckle opinion as having a plain meaning, ignores more than 25 years of established appellate court understanding of the decision, places our law out of step with every other jurisdiction to have considered the issue, and injects opportunities for gamesmanship and practical difficulties into our system of plea bargaining. Respectfully, I dissent.\nContrary to the view of the majority, the \"clear import\" of Arbuckle was not that a \"same judge\" term is necessarily implicit in every plea bargain in California. (Maj. opn., ante , at p. 461.) Indeed, Arbuckle 's statement that \"[a]s a general principle ... whenever a judge accepts a plea bargain and retains sentencing discretion under the agreement, an implied term of the bargain is that sentence will be imposed by that judge\" (Arbuckle, supra, 22 Cal.3d at pp. 756-757, 150 Cal.Rptr. 778, 587 P.2d 220 ) has never had a \"plain meaning.\" (Maj. opn., ante , at pp. 463-464.) It is susceptible of at least two meanings-recognition of a categorical rule or an acknowledgement simply of a generally true expectation, not a universal one, on the part of parties entering into negotiated plea bargains.\nThe latter meaning is more reasonable because it reads Arbuckle in light of the fundamental principles on which it was based.\nAs courts have recognized, \"Arbuckle was not premised on constitutional or statutory mandates, but rather on contract principles, speaking to a 'defendant's expectations and reliance on the plea bargain's implied terms.' \" (People v. McIntosh (2009) 177 Cal.App.4th 534, 541, 98 Cal.Rptr.3d 901 (McIntosh ), and cased cited therein; accord, People v. Poole (1985) 168 Cal.App.3d 516, 521, 214 Cal.Rptr. 502.) \"Arbuckle was based on a contract enforcement analysis.\" (People v. Rodriguez (2016) 1 Cal.5th 676, 696, 206 Cal.Rptr.3d 588, 377 P.3d 832 (conc. opn. of Corrigan, J.).) Its holding rested on the mutual intentions of the parties to the specific plea bargain (Civ. Code, \u00a7 1636 ), which we found would generally include an assumption that the judge taking the plea would be the sentencing judge. (Arbuckle, supra , 22 Cal.3d at pp. 756-757, 150 Cal.Rptr. 778, 587 P.2d 220.) The Arbuckle majority looked to the specific circumstances of Arbuckle's plea to see if such an assumption existed in Arbuckle's case and found that it did. Therefore, an implied \"same judge\" term was included as part of Arbuckle's plea bargain. (Id. , at p. 756, 150 Cal.Rptr. 778, 587 P.2d 220.) The factual showing concerning the subjective intent of the parties was integral to the court's holding because Arbuckle drew its analysis from contract principles that examine case-specific circumstances regarding the contracting parties' mutual intent and reasonable expectations. It did not announce a rule divorced from the reality of the intent and expectations of the actual parties to the plea bargain at issue.\nThe majority contends, however, that the two concurring and dissenting opinions in Arbuckle make clear that the contemporaneous understanding of the majority's language was that of a categorical rule, not simply of a generally true expectation that must find factual support in the circumstances of each case. I disagree. Although the majority opinion picks out certain phrases to highlight in Justice Richardson's concurrence and dissent and rephrases Justice Clark's concurrence and dissent to suggest that the dissenters understood the Arbuckle majority's language as recognizing a same-judge term would be implied in \"all\" plea bargains (maj. opn., ante , at pp. 461-462), I do not read their dissents to be making that point. Justice Richardson's position, with which Justice Clark agreed, was that \"no express promise should be made by a court, the prosecutor, or defense counsel; nor should such a condition in the usual case be routinely implied. A promise to a defendant that a particular judge will impose sentence has been held to be improper, because it encourages 'judge-shopping,' an undesirable practice that should be discouraged.\" ( Arbuckle, supra , 22 Cal.3d at p. 758, 150 Cal.Rptr. 778, 587 P.2d 220 (conc. & dis. opn. of Richardson, J.; accord, id. at p. 758, 150 Cal.Rptr. 778, 587 P.2d 220 (conc. & dis. opn. of Clark, J.).) The dissenters' views, reasonably read, supports a contemporaneous view that the quoted language in Arbuckle 's majority opinion recognized only a \"general principle\" that a same-judge term would typically or \"routinely\" be implied in plea bargaining situations, a position with which they disagreed. (Arbuckle , at p. 758, 150 Cal.Rptr. 778, 587 P.2d 220.)\nRegardless, what is clear is that a dissenting justice's views should not be used to construe the meaning of the majority opinion. \"Characterization by the ... dissenters of the scope of the majority opinion is, of course, dubious authority....\" (People v. Caballero (2012) 55 Cal.4th 262, 271, 145 Cal.Rptr.3d 286, 282 P.3d 291 (conc. opn. of Werdegar, J.).) \"[A] majority opinion stands on its own, and a private view expressed by a dissenting justice cannot be used to construe the majority opinion or to limit or affect its meaning unless the majority opinion expressly takes account of the dissent.\" (Glover v. Board of Retirement (1989) 214 Cal.App.3d 1327, 1337, 263 Cal.Rptr. 224.) The majority's attempt to distinguish and evade the application of this settled rule (maj. opn., ante , at p. 462) is unsupported by any authority and is ultimately unpersuasive.\nMore relevant than the views of the dissenting justices is this court's method of analyzing the Arbuckle claim asserted in In re Mark L. (1983) 34 Cal.3d 171, 193 Cal.Rptr. 165, 666 P.2d 22 (Mark L. ). We first concluded that Arbuckle applies to plea bargains entered in juvenile delinquency proceedings. (Mark L. , at p. 177, 193 Cal.Rptr. 165, 666 P.2d 22.) We then determined that Mark L.'s plea bargain was entered in expectation of and reliance upon disposition being imposed by the same judicial officer who took the plea. (Ibid. ) Importantly, although we quoted Arbuckle 's general principle, \"[w]e emphasize[d] that here, as in Arbuckle , the record indicates an actual assumption by the court and parties that the officer taking the plea would have final and exclusive dispositional authority.\" (Mark L. , at p. 177, 193 Cal.Rptr. 165, 666 P.2d 22.) We noted that the commissioner \"made repeated references to the dispositions 'the Court' could or might impose,\" which, considered in the context of the commissioner's \"interchangeable use of the personal pronoun with the phrase 'the Court' implied that he and 'the Court' were one and the same.\" (Ibid. ) Indeed, we observed that the commissioner gave the minor an Arbuckle admonishment, the prosecutor did not object, and considerable effort was expended to ensure that the commissioner would act at the dispositional phase. (Ibid . ) In other words, we engaged in an individualized analysis of the record to determine whether the plea was actually given in expectation of and reliance upon disposition being imposed by the same judge. It was only later that we turned to the question of whether the commissioner could have such dispositional authority, concluding he had the authority as a stipulated temporary judge. (Id. , at pp. 178-180, 193 Cal.Rptr. 165, 666 P.2d 22 ; contra, maj. opn., ante , at pp. 462-463.) Our analysis, in short, did not treat Arbuckle as imposing a categorical rule.\nAs the majority opinion points out, decisions of the Fifth District Court of Appeal initially applied Arbuckle 's principle categorically. (Maj. opn., ante , at pp. 458-459, citing People v. Rosaia (1984) 157 Cal.App.3d 832, 203 Cal.Rptr. 856 (Rosaia ); People v. DeJesus (1980) 110 Cal.App.3d 413, 168 Cal.Rptr. 8 (DeJesus ); In re Ray O. (1979) 97 Cal.App.3d 136, 158 Cal.Rptr. 550 (Ray O. ).) What the majority fails to note is that within a few years that same court reconsidered its position and agreed with the vast majority of other courts of appeal that the rule was simply a general principle, not a universally implied term. (People v. Horn (1989) 213 Cal.App.3d 701, 707-708, 261 Cal.Rptr. 814 ; accord, In re James H. (1985) 165 Cal.App.3d 911, 212 Cal.Rptr. 61 ; People v. Ruhl (1985) 168 Cal.App.3d 311, 214 Cal.Rptr. 93 ; People v. Serrato (1988) 201 Cal.App.3d 761, 247 Cal.Rptr. 322 ; People v. Adams (1990) 224 Cal.App.3d 1540, 274 Cal.Rptr. 629 ; People v. Hsu (2008) 168 Cal.App.4th 397, 85 Cal.Rptr.3d 566 ; People v. McIntosh, supra , 177 Cal.App.4th 534, 98 Cal.Rptr.3d 901.) Such understanding by the courts of appeal is solidly rooted in our method of reasoning in both Arbuckle and Mark L. , where we specifically looked to the record to determine if the parties intended the term to be an implied condition of their plea bargain.\nIndeed, as the Court of Appeal recognized here, \"[n]otwithstanding ... vestiges of Arbuckle 's'general principle,' it appears ... to have been settled law for more than 25 years that an Arbuckle right to be sentenced by the judge who accepted a negotiated plea arises ... only when the specific facts of a given case show that the plea was given 'in expectation of and in reliance upon sentence being imposed by the same judge.' \" This long-established view represents the better understanding of Arbuckle , supra , 22 Cal.3d 749, 150 Cal.Rptr. 778, 587 P.2d 220 and is fully consistent with Mark L. , supra , 34 Cal.3d 171, 193 Cal.Rptr. 165, 666 P.2d 22.\nMoreover, if Arbuckle had actually identified a term universally implied in plea bargaining-that parties always intend the judge who accepts the plea bargain to be the judge who imposes sentence-one would expect to find common recognition of this principle by other courts in other jurisdictions. In fact, however, no other state or federal jurisdiction before or after Arbuckle has ever held that such an implied term exists in all plea bargaining situations. (See e.g., People v. Simmons (N.Y.Crim.Ct. 1996) 169 Misc.2d 525, 646 N.Y.S.2d 245, 247-249 [finding there was no express or implied agreement that the defendant was to be sentenced by the same judge who took his plea]; State v. Russo (N.J.Super.Ct. 1993) 262 N.J.Super. 367, 621 A.2d 50, 54 [rejecting the contention that a defendant may withdraw a plea when the judge who accepts the plea is not the sentencing judge]; U.S. v. Russell (11th Cir. 1985) 776 F.2d 955, 959 [holding that the defendant is not entitled to be sentenced by the judge who took his plea when the judge made no promise to sentence him].) That's right; not one.\nIn my view, the majority's interpretation of Arbuckle also builds in an opportunity for gamesmanship. Under Arbuckle \"mere administrative convenience\" cannot thwart a defendant's reasonable expectation of having the same judge for sentencing. (Arbuckle, supra , 22 Cal.3d at p. 757, fn. 5, 150 Cal.Rptr. 778, 587 P.2d 220.) Now knowing that a failure to address the issue of who will be the sentencing judge will still preserve a right to the same judge, regardless of the parties' actual expectations (maj. opn., ante , at pp. 463-464 [K.R.'s subjective intention is \"moot\"] ), a defendant entering a negotiated plea will have little incentive to bring to the court's attention a failure to expressly address the issue if it slips the prosecution's attention. Such a defendant may thereby try to delay his or her sentencing or retain a potential right to withdraw his or her plea.\nAnd given that a same-judge term will hereafter always be implied in negotiated pleas, without reference to the record, and that some defendants may strategically decline to enter an Arbuckle waiver, the routine rotation of assignments for judges in multi-judge courts, perhaps sitting in different locations, may be hampered. The use of visiting and temporarily assigned judges, vital in many courts with judicial vacancies or case overloads, will be more difficult. Other practical problems for the administration of our system of plea bargaining may be posed. Although I accept that such difficulties must be accommodated when a same-judge term is part of the parties' actual plea bargain, the burden on our courts under the majority's opinion today is unjustified by any actual expectation of the defendant, prosecutor, or trial judge.\nIn my view, this case presents a clear example. On May 28, when K.R. appeared in department 97 for the settlement conference hearing, his attorney notified the court that a plea agreement had been reached and she summarized its terms for visiting Judge Sapunor. She gave no indication that Judge Sapunor's presence as a visiting, assigned judge was material to the agreement. After Judge Sapunor accepted K.R.'s admissions and as he was proceeding with disposition, the probation department presenter interrupted to raise a concern regarding the anticipated travel arrangements to be made by K.R.'s grandmother. In discussing whether, in light of such concern, the disposition should be \"put ... out for a week,\" Judge Sapunor did not use the personal pronoun \"I\" in referring to any action to be taken at the continued disposition hearing. No mention was made of setting the hearing for a time when Judge Sapunor would be available. Nor was there any representation that Judge Sapunor would be returning to department 97 the following week. According to the ruling and order of Judge Arguelles, at the time of the plea, he was scheduled to be presiding over department 97 on the continued hearing date. It appears that department 97 was Judge Arguelles's regular department. Indeed, Judge Arguelles had presided over K.R.'s original delinquency proceedings in that department and had previously handled his violations of probation. Yet K.R.'s attorney stated that her \"only request is that if we put the case over for one week, the time slots have to coordinate with the flight information.\" (Italics added.) In sum, there is simply nothing in the record to support the claim that K.R.'s admissions were given in expectation of and reliance upon disposition being imposed by Judge Sapunor the following week. By the majority's decision, K.R. is, therefore, reaping the benefit of a plea term that was not part of his plea deal.\nI would affirm the judgment of the Court of Appeal in this case and therefore, dissent from the majority's decision.\nWe Concur:\nChin, J.\nCorrigan, J.\nOur factual summary is principally drawn from the record provided by K.R. with his petition for writ of mandate in the Court of Appeal, as supplemented with additional factual information contained in the juvenile court's July 6, 2015 order denying K.R.'s Arbuckle claim. As did the Court of Appeal below, we take judicial notice of that order on our own motion. (Evid. Code, \u00a7\u00a7 452, subd. (d), 459, subd. (a).)\nArbuckle recognized that enforcing the same-judge rule might sometimes be inconvenient. \"We recognize that in multi-judge courts, a judge hearing criminal cases one month may be assigned to other departments in subsequent months. However[,] a defendant's reasonable expectation of having his sentence imposed, pursuant to bargain and guilty plea, by the judge who took his plea and ordered sentence reports should not be thwarted for mere administrative convenience. If the original judge is not available for sentencing purposes after a plea bargain, the defendant must be given the option of proceeding before the different judge available or of withdrawing his plea.\" (Arbuckle, supra, 22 Cal.3d at p. 757, fn. 5, 150 Cal.Rptr. 778, 587 P.2d 220.)\nSee, e.g., 2 Erwin et al., California Criminal Defense Practice (2016) Arraignment and Pleas, chapter 42.44[1], pages 42-154.8(5) to 42-154.9 (\"whenever a judge accepts a plea bargain and retains sentencing discretion under the agreement, an implied term of the bargain is that sentence will be imposed by that judge\"); California Criminal Law: Procedure and Practice (Cont.Ed.Bar 2015) Pronouncing Judgment, section 35.11, page 1028 (\"A defendant who pleads guilty has the right to be sentenced by the judge before whom the guilty plea was entered if that judge retained sentencing discretion under the agreement\" (italics omitted)). Early editions of treatises by Professor Laurie Levenson and Bernard Witkin similarly interpreted Arbuckle as stating a general rule. (Levenson, Cal. Criminal Procedure (2002-2003) Plea Bargaining, \u00b6 14:17, p. 598 [\"When the plea agreement provides that the judge who accepts the plea retains sentencing discretion, that judge must sentence the defendant\"]; Witkin, Cal. Criminal Procedure (1985 Supp.) Proceedings Before Trial, \u00a7 265-O, p. 335 quoting Arbuckle.)\nCalifornia Judges Benchguides: Criminal Proceedings (CJER 2013) Felony Arraignment and Pleas, section 91.29, page 91-26 (\"When a judge accepts a plea bargain and retains sentencing discretion under the agreement, an implied term of the bargain is that sentence will be imposed by that judge\").\nIn the 1997 edition of their treatise, authors Seiser and Kumli, citing Arbuckle, stated without qualification that \"[a] minor has the right to have the same judge who took his or her admission conduct the disposition hearing.\" (Seiser & Kumli, Cal. Juvenile Courts Practice and Procedure (1997) Delinquency, \u00a7 3.92[1], p. 3-94.)\nLetteer was disapproved on another point in Peracchi v. Superior Court (2003) 30 Cal.4th 1245, 1258, footnote 6, 135 Cal.Rptr.2d 639, 70 P.3d 1054.\nThis qualifying statement, which appears in the 2012 edition of the Witkin and Epstein treatise, was first added by the treatise writers for the 1989 edition, citing People v. Ruhl, supra, 168 Cal.App.3d 311, 214 Cal.Rptr. 93, as authority.\nThis qualifying statement, which appears in the 2016 edition of the Levenson treatise, was first added by the treatise writer for the 2010-2011 edition, citing People v. McIntosh, supra, 177 Cal.App.4th 534, 98 Cal.Rptr.3d 901, as authority.\nThis qualifying statement, which appears in the 2016 edition of the Seiser and Kumli treatise, was first added by the treatise writers in the 2000 edition, citing People v. Horn, supra, 213 Cal.App.3d 701, 261 Cal.Rptr. 814, as authority.\nTo the extent People v. McIntosh, supra, 177 Cal.App.4th 534, 542-543, 98 Cal.Rptr.3d 901, People v. Hsu, supra, 168 Cal.App.4th 397, 409, 85 Cal.Rptr.3d 566, People v. Adams, supra, 224 Cal.App.3d 1540, 1543, 274 Cal.Rptr. 629, People v. Horn, supra, 213 Cal.App.3d 701, 707-708, 261 Cal.Rptr. 814, People v. Serrato, supra, 201 Cal.App.3d 761, 764, 247 Cal.Rptr. 322, People v. Ruhl, supra, 168 Cal.App.3d 311, 315, 214 Cal.Rptr. 93, and In re James H., supra, 165 Cal.App.3d 911, 920, 212 Cal.Rptr. 61, are inconsistent with this opinion, they are disapproved.\nAccording to the majority opinion, the Arbuckle rule, as understood by the appellate courts in Rosaia, DeJesus, and Ray O., \"has entered the standard lexicon of California criminal procedure.\" (Maj. opn., ante, at p. 459.) In support, the majority opinion points to a number of secondary sources-treatises, practice manuals, and a bench guide. (Maj. opn., ante, at p. 459, fns. 3, 4, 5.) It is true that the \"Arbuckle rule\" has become part of our standard lexicon, but it is not true that secondary authorities uniformly understand that rule to be a categorical one. Indeed, later editions of several of the treatises cited by the majority opinion, as the majority acknowledges (maj. opn., ante, at p. 461), reflect a different view. (4 Witkin & Epstein, Cal. Criminal Law (4th ed. 2012) Pretrial Proceedings, \u00a7 363, pp. 657-658 [\"It is not always an implied term of a plea bargain that the judge who accepts the plea will impose the sentence; rather the record must affirmatively show some basis on which a defendant may reasonably expect the same judge to do the sentencing\"]; Levenson, Cal. Criminal Procedure (The Rutter Group 2016) Plea Bargaining, \u00b6 14:18, p. 14-20 [\"The key to whether a defendant has the right to withdraw his plea when he will be sentenced by a different judge is a determination of whether the defendant's plea bargain carried with it an implied term or express promise to be sentence[d] by a particular judge\"]; Seiser & Kumli, Cal. Juvenile Courts Practice & Procedure (2016) Delinquency Proceedings, Disposition of Ward, \u00a7 3.92[1], p. 3-159 [\"A minor will have a right to have the same judge who took his or her admission conduct the disposition hearing [citation], only if the record affirmatively demonstrates a basis for the defendant's reasonable expectation that the same judge will retain sentencing discretion\"].) The history of these secondary authorities parallels the views expressed by the Fifth District Court of Appeal, which, as we have noted, also changed its mind regarding the meaning of the pertinent language of Arbuckle. The differing views among the secondary authorities further demonstrate that Arbuckle does not have a \"plain\" meaning. (Maj. opn., ante, at p. 464.) Nor is the common reference to an \" 'Arbuckle waiver' \" (maj. opn., ante, at p. 459) inconsistent with the understanding of the Arbuckle rule as the recognition of a commonly implied term regarding who will be the sentencing judge, which must in turn be factually supported by the record.",
+        "type": "majority",
+        "author": "Werdegar, J."
+      }
+    ],
+    "attorneys": [
+      "Paulino G. Duran, Public Defender, Arthur L. Bowie, Patricia Beza Contreras and David Lynch, Assistant Public Defenders, for Petitioner.",
+      "No appearance for Respondent.",
+      "Kamala D. Harris and Xavier Becerra, Attorneys General, Gerald A. Engler, Chief Assistant Attorney General, Michael P. Farrell, Assistant Attorney General, Jesse Witt, Rachelle A. Newcomb, Michael A. Canzoneri and Eric L. Christoffersen, Deputy Attorneys General, for Real Party in Interest."
+    ],
+    "corrections": "",
+    "head_matter": "K.R., Petitioner,\nv.\nThe SUPERIOR COURT of Sacramento County, Respondent;\nThe People, Real Party in Interest.\nS231709\nSupreme Court of California\nFiled June 29, 2017\nPaulino G. Duran, Public Defender, Arthur L. Bowie, Patricia Beza Contreras and David Lynch, Assistant Public Defenders, for Petitioner.\nNo appearance for Respondent.\nKamala D. Harris and Xavier Becerra, Attorneys General, Gerald A. Engler, Chief Assistant Attorney General, Michael P. Farrell, Assistant Attorney General, Jesse Witt, Rachelle A. Newcomb, Michael A. Canzoneri and Eric L. Christoffersen, Deputy Attorneys General, for Real Party in Interest."
+  },
+  "file_name": "0451-01",
+  "first_page_order": 451,
+  "last_page_order": 470
+}

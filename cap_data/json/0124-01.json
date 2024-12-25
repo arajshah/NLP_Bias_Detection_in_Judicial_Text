@@ -1,0 +1,348 @@
+{
+  "id": 12513531,
+  "name": "The PEOPLE, Plaintiff and Appellant, v. Kevin NGUYEN, Defendant and Respondent.",
+  "name_abbreviation": "People v. Nguyen",
+  "decision_date": "2017-06-07",
+  "docket_number": "H042795",
+  "first_page": "124",
+  "last_page": "135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 124"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 574"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "131 Cal.Rptr.2d 840",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Cal.App.4th 254",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        204713
+      ],
+      "pin_cites": [
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/107/0254-01"
+      ]
+    },
+    {
+      "cite": "96 Cal.Rptr.3d 918",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Cal.App.4th 1499",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3974986
+      ],
+      "pin_cites": [
+        {
+          "page": "1508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/175/1499-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 897",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340969
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0897-01"
+      ]
+    },
+    {
+      "cite": "62 Va.App. 151",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        3857348
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/62/0151-01"
+      ]
+    },
+    {
+      "cite": "93 L.Ed. 1879",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "338 U.S. 160",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3943769
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "175-176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/338/0160-01"
+      ]
+    },
+    {
+      "cite": "44 Cal.Rptr. 165",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "234 Cal.App.2d 136",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2147842
+      ],
+      "pin_cites": [
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/234/0136-01"
+      ]
+    },
+    {
+      "cite": "26 Cal.Rptr.2d 580",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Cal.App.4th 942",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2365761
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "951"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/21/0942-01"
+      ]
+    },
+    {
+      "cite": "88 P.3d 498",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Cal.Rptr.3d 592",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Cal.4th 1107",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        801074
+      ],
+      "pin_cites": [
+        {
+          "page": "1119"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/32/1107-01"
+      ]
+    },
+    {
+      "cite": "41 Cal.Rptr.3d 211",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Cal.App.4th 200",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6051260
+      ],
+      "pin_cites": [
+        {
+          "page": "207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/138/0200-01"
+      ]
+    },
+    {
+      "cite": "496 U.S. 128",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12122066
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0128-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 798",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6191830
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0798-01"
+      ]
+    },
+    {
+      "cite": "529 P.2d 590",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Cal.Rptr. 166",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Cal.3d 238",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2317619
+      ],
+      "pin_cites": [
+        {
+          "page": "250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/13/0238-01"
+      ]
+    },
+    {
+      "cite": "480 U.S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131098
+      ],
+      "weight": 7,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0079-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1043,
+    "char_count": 31574,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2586534967868783
+    },
+    "sha256": "590123d95f4dd9f1f2002d45f19d74e927bfce8c9e7d75fc8e5f79fa9bcfb1cc",
+    "simhash": "1:2eebb03a31f296a1",
+    "word_count": 5095
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The PEOPLE, Plaintiff and Appellant,\nv.\nKevin NGUYEN, Defendant and Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Premo, J.\nThis case concerns the scope of a warrant to search a property based on probable cause that a computer on the property was used in a crime.\nPolice identified an IP address for an Internet account sharing child pornography online. Comcast identified the account subscriber as Jennie Reynolds at 309 South 23rd Street in San Jos\u00e9. The police obtained a search warrant for the residence, garages, and outbuildings at the address. While searching Reynolds' house, the police discovered defendant Kevin Nguyen was living in a separate residence behind the house. The police then searched Nguyen's residence and found a laptop with child pornography. The trial court found the search overbroad and granted Nguyen's motion to suppress.\nThe Attorney General appeals. He contends the warrant expressly authorized the search. He argues the warrant affidavit set forth probable cause to search any residence on the property because anyone on the property could have accessed Reynolds' computer network wirelessly. Finally, the Attorney General contends the police acted in good faith reliance on the warrant.\nWe hold the police lacked probable cause to search defendant's residence because they had no basis to believe the suspect network was accessed from defendant's residence. We further hold the warrant did not expressly authorize the search, and the police lacked good faith reliance on the warrant. We will affirm the judgment.\nI. FACTUAL AND PROCEDURAL BACKGROUND\nA. Facts of the Search\nDetective Sean Pierce of the San Jos\u00e9 Police Department investigated child pornography on the Internet. Pierce identified an IP address (Internet Protocol address) used by a Comcast account sharing child pornography online. An IP address is an identifier assigned to a device on a network, such as a router, computer, or printer. The IP address allows the device to be identified and located by other devices. When a user connects to the Internet through a router, the user's Internet service provider (e.g., Comcast) assigns an IP address to the user's router.\nComcast informed Pierce that the account subscriber with the suspect IP address was Jennie Reynolds at 309 South 23rd Street in San Jos\u00e9. Pierce searched a database and found three names associated with that address: Jennie Reynolds, Joshua Blankenship, and Kevin Nguyen.\nPierce searched for 309 South 23rd Street on Google Maps to get an overhead \"bird's eye\" view of the property. The overhead view revealed two distinct structures on the lot: a house facing the street on the front of the lot, and a separate L-shaped structure about 25 feet behind the front house. The rear structure appeared to cover an area of about 1,000 square feet spanning the width of the lot.\nPierce went to the address and viewed the property from the sidewalk in front of the house. The house appeared to be a single family residence. Pierce saw only one mailbox, one driveway, and one set of numbers affixed to the front of the house identifying it as \"309.\" The rear structure was behind a fence at the end of the driveway. Pierce testified that the only part of the structure he could see over the fence was a garage door, leading him to believe the building was a garage.\nPierce searched for wireless network signals in the area in front of the house. He did not locate any \"open\" wireless networks-i.e., networks unprotected by a password. He detected multiple closed (password-protected) wireless network signals, but he could not determine whether any of the signals were connected to computers on the property. Nor could he determine whether any of the signals were associated with Reynolds' Comcast account. He did not know whether there were any wireless routers on the property.\nPierce saw two cars parked on the property. He saw a car registered to Reynolds parked on a cement area in front of the house. In the driveway, he saw a black Lexus registered to Nguyen at the Mountain View Police Department. The police discovered Nguyen was a police officer for the Mountain View Police Department.\nPierce obtained a warrant for a search of: \"The residence located at: 309 South 23rd Street in San Jose, CA described as a single story single family residence.\" The warrant described the appearance of the front house as viewed from the street. The warrant also authorized the search of \"any and all yards, garages, carports, outbuildings, storage areas and sheds assigned to the above-described premises.\"\nThe supporting affidavit identified Jennie Reynolds as the subscriber to the Comcast account with the suspect IP address. The affidavit stated that \"the person responsible for the trading of child pornography from this residence can be anyone with access to the internet signal associated with this residence.\" Neither the warrant nor the affidavit mentioned Nguyen. Pierce testified that at the time he sought the warrant he did not know Nguyen lived in the rear residence, and he had no information on the relationship between Nguyen, Reynolds, and Blankenship. The day before police executed the search warrant, they notified the Mountain View Police Department of the impending search of Nguyen's residence. On the day of the search, San Jos\u00e9 police officers surreptitiously followed Nguyen driving from the property at 309 South 23rd Street to the Mountain View Police Department. When Nguyen arrived at work to report for duty, two Mountain View police officers took him aside, informed him of the search, and told him to wait with them until the search was complete.\nSoon thereafter, San Jos\u00e9 police officers executed the search warrant at 309 South 23rd Street. Police went to the front house first, where Reynolds let them in the front door. Reynolds told Pierce that Nguyen, her landlord, lived in back. Reynolds showed Pierce a mail slot where she put Nguyen's mail to give to him later. She told Pierce she had a key to an outer, metal cage-type door on Nguyen's residence, but she did not have a key to an inner wooden door behind the metal door.\nPolice found a computer network router in the front house. They did not know whether the signal from the network extended to the rear structure. Nor did they know whether Nguyen had a password to access the network.\nDetective Daniel Garcia was one of the officers who searched the rear residence. Garcia testified they were aware before entering the residence that Reynolds had informed them Nguyen lived there. The entrance to the residence was separate from the main house. The officers used the key supplied by Reynolds to open the outer metal door, and they used a battering ram to break through the inner wooden door. In a protective sweep of the residence, police found a bedroom, a bathroom, a living room, a kitchen, and windows. Police subsequently found a laptop computer in the residence. A forensic search of the laptop located child pornography on it.\nIn the front house, police seized another computer containing child pornography. The prosecution charged Reynolds' husband, Joshua Blankenship, with possession of child pornography.\nB. Procedural Background\nThe prosecution charged Nguyen by information with one count of possessing child pornography. (Pen. Code, \u00a7 311.11, subd. (a).)\nNguyen moved to quash and traverse the warrant and to suppress the fruits of the search under Penal Code section 1538.5, subdivision (i). Nguyen argued that nothing in the warrant affidavit established probable cause to believe he or his residence had any connection to the network with the suspect IP address. He further argued that the warrant affidavit intentionally or negligently failed to include material facts known to the affiant-e.g., that Nguyen lived in the separate rear residence, that he was a police officer, and that he would be detained at his workplace when the warrant was executed.\nIn support of his motion, Nguyen submitted a sworn declaration stating he had purchased the property at 309 South 23rd Street in 2012. At the time, the structure in the rear had been converted to add a separate living space to the attached garage. Nguyen asserted that the city was aware of the separate residence, and he attached a publicly available real estate listing from Zillow describing the property as having a separate \"back unit\" with one bedroom and one bathroom.\nThe prosecution opposed Nguyen's motion on the same grounds now asserted on appeal, set forth below. At a hearing on the motion, several police officers testified to the facts of the search as described above.\nThe trial court denied the motion to traverse the warrant. The court found the police conducted a reasonable investigation into the location to be searched and they reasonably believed the location was a single dwelling with a detached garage before executing the warrant. But the court granted the motion to quash on the ground the execution of the warrant was overbroad, and the court suppressed the fruits of the search.\nThe trial court made several findings of fact supporting quashal. First, the court rejected the assertion that the rear structure was simply a garage: \"Had that been the case (i.e. the detached building was simply a garage) to search it would have been reasonable, and indeed compelled by the warrant. The officers, however, discovered that the detached building was plainly a separate residence before the recovery of any of the computers or other evidence containing the child pornography from defendant's detached residence.\" The court ruled that when police realized the rear structure was a separate residence, the law required them to halt their search and seek an additional warrant under Maryland v. Garrison (1987) 480 U.S. 79, 107 S.Ct. 1013, 94 L.Ed.2d 72 (Garrison ).\nSecond, the court found there was no evidence to establish, prior to the search, that Nguyen's residence shared Internet access with the front house. The court ruled it was unreasonable for police to assume a separate residence in the rear would share the same wireless network used by the residents of the front house.\nOn this basis, the court concluded the police had no good faith grounds to believe the warrant authorized a search of Nguyen's residence. The court also found no evidence to show the discovery of Nguyen's laptop was inevitable.\nThere being no valid grounds to justify the search or excuse suppression, the court suppressed the fruits of the search.\nAfter the prosecution stated it was unable to proceed, the court dismissed the charges under Penal Code section 1385. The Attorney General now appeals from that order under Penal Code section 1238, subdivision (a)(1) and (7).\nII. DISCUSSION\nThe Attorney General contends the trial court erred by granting the motion to quash and suppressing the fruits of the search. He argues the language on the face of the warrant and the supporting affidavit authorized the search. Even assuming the warrant did not expressly authorize the search, the Attorney General contends the police acted in good faith reliance on it.\nNguyen contends his residence was neither a garage nor an outbuilding, such that it fell outside the express terms of the warrant. He argues the affidavit failed to establish probable cause because there was no evidence the suspect network could be accessed from his residence. Finally, he disputes that the search fell within the good faith exception. Nguyen does not challenge the trial court's denial of the motion to traverse.\nA. Legal Principles\n\"The Warrant Clause of the Fourth Amendment categorically prohibits the issuance of any warrant except one 'particularly describing the place to be searched and the persons or things to be seized.' \" (Garrison , supra , 480 U.S. at p. 84, 107 S.Ct. 1013, quoting U.S. Const., 4th Amend.) \"It is axiomatic that a warrant may not authorize a search broader than the facts supporting its issuance.\" ( Burrows v. Superior Court (1974) 13 Cal.3d 238, 250, 118 Cal.Rptr. 166, 529 P.2d 590.) \"[T]he scope of a lawful search is 'defined by the object of the search and the places in which there is probable cause to believe that it may be found.' \" (Garrison , supra , at p. 84, 107 S.Ct. 1013, quoting United States v . Ross (1982) 456 U.S. 798, 824, 102 S.Ct. 2157, 72 L.Ed.2d 572.) \"If the scope of the search exceeds that permitted by the terms of a validly issued warrant or the character of the relevant exception from the warrant requirement, the subsequent seizure is unconstitutional without more.\" (Horton v . California (1990) 496 U.S. 128, 140, 110 S.Ct. 2301, 110 L.Ed.2d 112.)\n\"The scope of a warrant is determined by its language, reviewed under an objective standard without regard to the subjective intent of the issuing magistrate or the officers who secured or executed the warrant. [Citations.]\nPhrased differently, 'the scope of the officer's authority is determined from the face of the warrant....' [Citation.] As many courts have observed, 'officers executing a search warrant are \"required to interpret it,\" and they are \"not obliged to interpret it narrowly.\" ' [Citations.] To satisfy the objective standard, the officer's interpretation must be reasonable.\" (People v . Balint (2006) 138 Cal.App.4th 200, 207, 41 Cal.Rptr.3d 211.)\n\"In reviewing a trial court's ruling on a motion to suppress evidence, we defer to that court's factual findings, express or implied, if they are supported by substantial evidence. [Citation.] We exercise our independent judgment in determining whether, on the facts presented, the search or seizure was reasonable under the Fourth Amendment.\" (People v . Lenart (2004) 32 Cal.4th 1107, 1119, 12 Cal.Rptr.3d 592, 88 P.3d 498.)\nB. The Search of Nguyen's Residence Exceeded the Scope of the Warrant\nThe Attorney General contends the language of the warrant and the affidavit expressly authorized the search of Nguyen's residence. The Attorney General points to language in the warrant listing \"garages\" and \"outbuildings\" as places to be searched. He further argues that the affidavit established probable cause to search all the buildings on the property based on the affiant's statement that \"the person responsible for the trading of child pornography from this residence can be anyone with access to the internet signal associated with this residence.\"\nWe find no language in the warrant authorizing a search of Nguyen's residence. The warrant identified \"a single story single family residence\" to be searched-i.e., the front house on the street, which the warrant described in detail. The warrant makes no mention of Nguyen's residence. As to the claim his residence was included under the term \"garages\" in the warrant, the trial court made a factual finding that the rear structure was not \"simply a garage\" but was \"plainly a separate residence.\" Under our standard of review, we are bound by the trial court's finding if it is supported by substantial evidence. (People v . Lenart , supra , 32 Cal.4th at p. 1119, 12 Cal.Rptr.3d 592, 88 P.3d 498.)\nAbundant evidence supports the finding that Nguyen's residence was not a garage. By all accounts, the rear structure was previously a garage that had since been converted to a residence through additional construction. The building had a bedroom, a kitchen, a bathroom, a living space, and a separate doorway apart from any garage door. And Nguyen actually lived there. A garage, by contrast, is \"a building or compartment of a building used for housing an automotive vehicle.\" (Webster's 3d New Internat. Dict. (1993) p. 935, col. 2.) The record contains no evidence that an automotive vehicle was housed in the structure, or that it was even capable of housing a vehicle. While we do not interpret warrants narrowly, we must interpret them reasonably. (People v . Balint , supra , 138 Cal.App.4th at p. 207, 41 Cal.Rptr.3d 211.) No reasonable interpretation of the term \"garage\" would include Nguyen's residence.\nNor did the inclusion of the term \"outbuilding\" on the warrant authorize the search of Nguyen's residence. An outbuilding is \" '[s]omething used in connection with a main building. A small building appurtenant to a main building, and generally separated from it; e.g. outhouse; storage shed.' \" (People v . Smith (1994) 21 Cal.App.4th 942, 951, 26 Cal.Rptr.2d 580, quoting Black's Law Dict. (5th ed. 1979) p. 993, col. 1.) The record holds no evidence Nguyen's residence was used in connection with the main house, or that it served as an outhouse, a storage shed, or anything else besides a separate residence for Nguyen. Images of the residence show it is not a \"small building,\" but a sizeable structure nearly as large as the front house. It was not an outbuilding; it was a separate residence.\n\"[W]hen a warrant directs a search of a multiple occupancy apartment house or building, absent a showing of probable cause for searching each unit or for believing that the entire building is a single living unit, the warrant is void and a conviction obtained on evidence seized under it cannot stand.\" (People v . Estrada (1965) 234 Cal.App.2d 136, 146, 44 Cal.Rptr. 165.) In Garrison , for example, police obtained a warrant authorizing the search of \"the person of Lawrence McWebb and 'the premises known as 2036 Park Avenue third floor apartment.' \" (Garrison , supra , 480 U.S. at p. 80, 107 S.Ct. 1013.) The plain language of the warrant authorized a search for the entire third floor. Before executing the warrant, the police reasonably believed the third floor consisted of only one apartment. In fact, the third floor consisted of two apartments, one of which Garrison occupied. Before they realized this fact, the police found contraband in Garrison's apartment. As soon as they realized Garrison's apartment was a separate residence, they stopped their search.\nThe Supreme Court held, \"If the officers had known, or should have known, that the third floor contained two apartments before they entered the living quarters on the third floor, and thus had been aware of the error in the warrant, they would have been obligated to limit their search to McWebb's apartment. Moreover, as the officers recognized, they were required to discontinue the search of respondent's apartment as soon as they discovered that there were two separate units on the third floor and therefore were put on notice of the risk that they might be in a unit erroneously included within the terms of the warrant.\" (Garrison , supra , 480 U.S. at pp. 86-87, 107 S.Ct. 1013.) But because the police found the contraband before realizing they were in Garrison's apartment, and because the facts available to the officers made their mistake objectively reasonable, the high court reversed the lower court's ruling excluding the evidence. Here, the facts available to and known by the police before the seizure established that the rear structure was Nguyen's separate residence. Under Garrison , the police should have ceased any attempt to search the rear structure as soon as they realized it was Nguyen's residence. The trial court properly reached this conclusion in its application of Garrison .\nEven if the language of the warrant could be interpreted to include a search of Nguyen's residence, the warrant and affidavit failed to establish probable cause for such a search. The Attorney General contends \"probable cause was established by the existence of an IP address assigned to an internet user at that property on the date and time the contraband images were transferred.\" He relies on the affidavit's statement that \"the person responsible for the trading of child pornography from this residence can be anyone with access to the internet signal associated with this residence.\" The phrase \"this residence\" in the affidavit referred to the front house-i.e., Reynolds' residence. The Attorney General asserts that \"[e]ven though it turned out that there were multiple domiciles on the property, there was probable cause to search all the residences because the entire premises were suspect.\"\nBut the affidavit put forth no facts showing that Nguyen or anyone else in his residence had access to any Internet signal emanating from Reynolds' residence. Nor did the prosecution introduce any such evidence at the hearing. When the defense attorney asked Pierce if a wireless signal from the front house extended to Nguyen's residence, Pierce responded, \"I don't have an answer to that. I don't know.\" The police also had no evidence Nguyen had a password to Reynolds' network, and the affidavit does not state he did. And there was no evidence presented at the hearing or set forth in the affidavit that Nguyen's residence was connected to the front house by an Ethernet cable or any other wire that could have carried a network signal.\nThe premise of the Attorney General's argument is that it is reasonable to assume Nguyen's residence had access to the same network as the front house because it is possible for a wireless signal to extend that far. Pierce testified that a wireless network signal could extend as far as a neighbor's house next door to the property. By the Attorney General's logic, the police had probable cause to obtain a warrant for the neighbor's house as well. The Attorney General acknowledges this implication, but he argues, \"that there might be probable cause to search another location not named in the warrant (like a neighboring property) does not negate the probable cause established in the warrant affidavit.\" But Pierce testified that prior to the search the police had no information there was a wireless router anywhere on the suspect property. Thus, the police had no evidence Reynolds' residence or network was even broadcasting a wireless signal. Based on these facts, the trial court found there was no evidence to establish prior to the search that Nguyen's residence shared Internet access with the front house. The trial court's finding is well supported by substantial evidence.\nEven assuming Reynolds' residence was broadcasting a wireless network signal, we reject the assertion that police had probable cause to search any other residence in range of the signal. Probable cause requires more than mere speculation or bare suspicion; probable cause requires reasonably trustworthy information sufficient to convince a person of reasonable caution that an offense has been or is being committed. (Brinegar v . United States (1949) 338 U.S. 160, 175-176, 69 S.Ct. 1302, 93 L.Ed. 1879.) Residents in urban areas may find themselves in range of numerous wireless network signals at any given time, many of which are not accessible without a password. Conversely, a user broadcasting a wireless signal may put a large number of unwitting strangers within its range. If the signal is password-protected, few of those strangers are likely to have access to the network. A person of reasonable caution would not be convinced that any given person within range of a wireless network has access to that network.\nThe Attorney General contends it is probable persons living on the same property would share Internet service. But he provides no support for this assertion. A single property may encompass a large number of residences-e.g., in a large apartment building. A single apartment-dweller may broadcast a wireless network signal putting dozens of other residents within its range. The mere fact that the residents share the same property does not make it probable that any given resident in range of the network would also share access to it. We agree with the trial court on this point: Probable cause requires some additional information connecting a defendant's residence to criminal activity other than merely being in range of a suspect wireless signal.\nThe Attorney General relies on Jeffers v . Commonwealth (2013) 62 Va.App. 151, 743 S.E.2d 289 (Jeffers ). In Jeffers , police learned child pornography had been posted on the Internet by a computer with a particular IP address. The IP address was registered to Isla Loxley at a certain address. Police observed a trailer and a barn at the address. They obtained a warrant for Loxley's residence and specifically identified the barn in the warrant. Upon searching the property, the police discovered Jeffers living in the barn. He accessed the Internet through a physical wire connected to a computer in the trailer. He confessed to downloading child pornography. On appeal, Jeffers argued police should not have searched his barn once they realized he was living in it because it was no longer within the scope of the warrant. The Court of Appeal rejected this argument and held that the inclusion of the barn in the language of the warrant authorized police to search Jeffers' residence. (Id . at p. 158, 743 S.E.2d 289.)\nJeffers is inapposite. First, Jeffers did not challenge the magistrate's determination of probable cause for the warrant; he conceded police had established probable cause for the search. (Jeffers , supra , 62 Va.App. at pp. 155-156, 743 S.E.2d 289.) Here, Nguyen contends police had no probable cause to search his residence. For the reasons above, this contention is well taken. Second, the warrant in Jeffers specifically commanded police to search the barn. Here, the warrant included \"garages\" and \"outbuildings\" but Nguyen's residence was neither a garage nor an outbuilding. Nguyen's residence was not included in the plain language of the warrant.\nWe hold the police lacked probable cause to search Nguyen's residence because the police had no basis to believe the network with the suspect IP address was accessed from Nguyen's residence. The Attorney General contends this rule creates \"an unreasonable Catch-22\" because the police have no way to ascertain which buildings on a property have access to a given network. The Attorney General asserts this creates \"an unduly stringent burden on investigators.\" But as the trial court pointed out, the police could have done several things to establish probable cause for a search of Nguyen's residence. After entering Reynolds' house, officers could have asked her if she had a wireless network, whether it was password-protected, or whether Nguyen's residence shared access to the network. If the police had established probable cause to believe Nguyen's residence held evidence of a crime, they could have obtained a telephonic warrant. Given that Nguyen was held at the Mountain View Police Department during the search, the police had sufficient time to do so.\nFor the reasons above, we conclude the police lacked probable cause to search Nguyen's residence and the search exceeded the scope of the warrant.\nC. Police Lacked a Good Faith Basis for the Search of Nguyen's Residence\nThe Attorney General argues the police acted in good faith reliance on the warrant, even if the search exceeded the scope of the warrant. The trial court rejected this claim. The court found the police knew Nguyen's residence was not a garage before they searched it, and the court found police had no basis to believe his residence had access to the suspect network. The court's analysis was sound.\nThe good faith exception to the exclusionary rule applies when police act in objectively reasonable reliance on a search warrant issued by a detached and neutral magistrate. (United States v . Leon (1984) 468 U.S. 897, 104 S.Ct. 3405, 82 L.Ed.2d 677.) The prosecution bears the burden to prove officers' reliance on a warrant was objectively reasonable. (People v . Hirata (2009) 175 Cal.App.4th 1499, 1508, 96 Cal.Rptr.3d 918.) \"This objective standard 'requires officers to have a reasonable knowledge of what the law prohibits.' \" (People v . Gotfried (2003) 107 Cal.App.4th 254, 265, 131 Cal.Rptr.2d 840, quoting United States v . Leon , supra , at p. 920, fn. 20, 104 S.Ct. 3405.)\nThe Attorney General contends the police reasonably believed Nguyen's residence-which the Attorney General describes as \"the garage\"-was included in the plain language of the warrant. This argument ignores the trial court's factual findings to the contrary. The trial court found police knew Nguyen's residence was a separate residence, not a garage, before they searched it and seized the evidence. While this finding focused on the officers' subjective knowledge, the facts objectively available to the officers established Nguyen's residence was not a garage. Reynolds informed police Nguyen lived there, and she supplied them with a key to open the outside metal door to the residence. But she lacked a key to the inside wooden door, requiring officers to break through it with a battering ram. Once inside, police performed a protective sweep and found a bedroom, a kitchen, a living room, and a bathroom. At that point, no reasonable officer could believe the building was a garage or an outbuilding instead of a separate residence. The good faith exception requires officers to have a reasonable knowledge of the law. (People v . Gotfried , supra , 107 Cal.App.4th at p. 265, 131 Cal.Rptr.2d 840.) Under Garrison , officers should have known the law required them to cease their search.\nThe Attorney General contends it was reasonable for officers to believe the warrant established probable cause to search the entire property because any computer on the property could have accessed the suspect network. Again, this ignores the trial court's factual findings. The court found the police had no evidence prior to the search to show Nguyen's residence shared network access with the front house. The record supports this finding. Before the search, officers did not know whether Reynolds' residence was even broadcasting a wireless signal. If there was such a signal, officers did not know whether it extended to Nguyen's residence. Even assuming there was a wireless signal extending from Reynolds' residence to Nguyen's residence, police had no evidence he had a password to it or that he had accessed it in any fashion. Nor was there any evidence of an Ethernet cable or other wires connecting Nguyen's residence to the front house. Consequently, the warrant and its affidavit lacked any basis to believe the suspect network could be accessed from Nguyen's residence. Neither the warrant nor the affidavit even mentioned Nguyen or his residence. In short, nothing in the warrant or the affidavit could reasonably be interpreted as probable cause that Nguyen had actually accessed the network associated with the suspect IP address. On this record, police could not reasonably believe the warrant established probable cause to search Nguyen's residence. We perceive no valid exception to the warrant clause that would justify the search or excuse suppression of the evidence. No claims of exigent circumstances were raised in the trial court or on appeal. The trial court rejected the prosecution's assertion of inevitable discovery, and the Attorney General abandons this claim on appeal. We conclude the trial court properly suppressed the evidence seized in the search of Nguyen's residence.\nIII. DISPOSITION\nThe judgment is affirmed.\nWE CONCUR:\nRushing, P.J.\nGrover, J.",
+        "type": "majority",
+        "author": "Premo, J."
+      }
+    ],
+    "attorneys": [
+      "Xavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Jeffrey M. Laurence, Senior Assistant Attorney General, Laurence K. Sullivan, Supervising Deputy Attorney General, Bridget Billeter, Deputy Attorney General, Leif M. Dautch, Deputy Attorney General, for Plaintiff/Appellant the People.",
+      "Kevin Nguyen, Law Office of Jeremy D. Blank, Jeremy D. Blank, San Francisco, for Defendant/Respondent Kevin Nguyen."
+    ],
+    "corrections": "",
+    "head_matter": "The PEOPLE, Plaintiff and Appellant,\nv.\nKevin NGUYEN, Defendant and Respondent.\nH042795\nCourt of Appeal, Sixth District, California.\nFiled June 7, 2017\nXavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Jeffrey M. Laurence, Senior Assistant Attorney General, Laurence K. Sullivan, Supervising Deputy Attorney General, Bridget Billeter, Deputy Attorney General, Leif M. Dautch, Deputy Attorney General, for Plaintiff/Appellant the People.\nKevin Nguyen, Law Office of Jeremy D. Blank, Jeremy D. Blank, San Francisco, for Defendant/Respondent Kevin Nguyen."
+  },
+  "file_name": "0124-01",
+  "first_page_order": 124,
+  "last_page_order": 135
+}

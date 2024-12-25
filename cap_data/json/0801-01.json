@@ -1,0 +1,554 @@
+{
+  "id": 12513586,
+  "name": "IN RE JOSE S., a Person Coming Under the Juvenile Court Law. The People, Plaintiff and Respondent, v. Jose S., Defendant and Appellant.",
+  "name_abbreviation": "People v. Jose S. (In re Jose S.)",
+  "decision_date": "2017-06-21",
+  "docket_number": "D070521",
+  "first_page": "801",
+  "last_page": "814",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 801"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 1107"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "60 Cal.Rptr.2d 770",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Cal.App.4th 754",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        452942
+      ],
+      "pin_cites": [
+        {
+          "page": "764"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/52/0754-01"
+      ]
+    },
+    {
+      "cite": "789 P.2d 983",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "268 Cal.Rptr. 802",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Cal.3d 826",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4461106
+      ],
+      "pin_cites": [
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/50/0826-01"
+      ]
+    },
+    {
+      "cite": "73 P.3d 1115",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.Rptr.3d 119",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal.4th 480",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        18215
+      ],
+      "pin_cites": [
+        {
+          "page": "489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/31/0480-01"
+      ]
+    },
+    {
+      "cite": "945 P.2d 1204",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Cal.Rptr.2d 655",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Cal.4th 1023",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1217914
+      ],
+      "pin_cites": [
+        {
+          "page": "1037"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/16/1023-01"
+      ]
+    },
+    {
+      "cite": "208 Cal.Rptr.3d 159",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.App.5th 963",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12435588
+      ],
+      "pin_cites": [
+        {
+          "page": "973"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/3/0963-01"
+      ]
+    },
+    {
+      "cite": "71 Cal.Rptr.2d 824",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Cal.App.4th 844",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1240478
+      ],
+      "pin_cites": [
+        {
+          "page": "850-851"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/61/0844-01"
+      ]
+    },
+    {
+      "cite": "195 P.3d 1049",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Cal.Rptr.3d 466",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.4th 243",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3892888
+      ],
+      "pin_cites": [
+        {
+          "page": "253"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/45/0243-01"
+      ]
+    },
+    {
+      "cite": "16 Cal.Rptr.3d 920",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Cal.App.4th 533",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1204750
+      ],
+      "pin_cites": [
+        {
+          "page": "540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/121/0533-01"
+      ]
+    },
+    {
+      "cite": "601 P.2d 549",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Cal.Rptr. 317",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.3d 522",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2270538
+      ],
+      "pin_cites": [
+        {
+          "page": "530"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/25/0522-01"
+      ]
+    },
+    {
+      "cite": "72 Cal.Rptr.2d 65",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Cal.App.4th 734",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1240485
+      ],
+      "pin_cites": [
+        {
+          "page": "740"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/61/0734-01"
+      ]
+    },
+    {
+      "cite": "189 Cal.Rptr.3d 907",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "238 Cal.App.4th 1209",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4361191
+      ],
+      "pin_cites": [
+        {
+          "page": "1219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/238/1209-01"
+      ]
+    },
+    {
+      "cite": "852 P.2d 377",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Cal.Rptr.2d 882",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.4th 337",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1998575
+      ],
+      "pin_cites": [
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/5/0337-01"
+      ]
+    },
+    {
+      "cite": "41 P.3d 3",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Cal.Rptr.2d 168",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.4th 537",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1103374
+      ],
+      "pin_cites": [
+        {
+          "page": "574"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/27/0537-01"
+      ]
+    },
+    {
+      "cite": "484 P.2d 981",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Cal.Rptr. 813",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Cal.3d 767",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2319606
+      ],
+      "pin_cites": [
+        {
+          "page": "782"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/4/0767-01"
+      ]
+    },
+    {
+      "cite": "224 P.3d 99",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 9,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Cal.Rptr.3d 780",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 9,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.4th 58",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3902000
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/48/0058-01"
+      ]
+    },
+    {
+      "cite": "9 Cal.Rptr.3d 503",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Cal.App.4th 608",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1459324
+      ],
+      "pin_cites": [
+        {
+          "page": "614"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/115/0608-01"
+      ]
+    },
+    {
+      "cite": "981 P.2d 944",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Cal.Rptr.2d 19",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Cal.4th 563",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        884847
+      ],
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/21/0563-01"
+      ]
+    },
+    {
+      "cite": "44 Cal.Rptr.3d 861",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 9,
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Cal.App.4th 1015",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5753891
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1018"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/140/1015-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1318,
+    "char_count": 36713,
+    "pagerank": {
+      "raw": 9.979254276177882e-08,
+      "percentile": 0.5380379319412059
+    },
+    "sha256": "a9b364f5bec80f68bc28fab24199d1be398fbd374e855993cf4d170b4e959eb9",
+    "simhash": "1:7efd4269cc7752c1",
+    "word_count": 5988
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE JOSE S., a Person Coming Under the Juvenile Court Law."
+    ],
+    "opinions": [
+      {
+        "text": "McCONNELL, P.J.\nJose S., a former ward of the juvenile court, moved under Welfare and Institutions Code section 781 to seal juvenile records related to an admitted charge of lewd and lascivious conduct that occurred in 2002. The juvenile court denied the motion, finding Jose was precluded from relief under section 781 because of an additional admitted and disqualifying charge of assault with a deadly weapon in 2005. On appeal, Jose contends that each offense constitutes a separate case for purposes of section 781 and that the records related to his 2002 offense should, therefore, be sealed. Jose alternatively asserts that the court's denial of his motion to seal was improper because the 2005 assault does not fall within the list of disqualifying offenses set forth in section 707, subdivision (b). We reject these contentions and affirm the order.\nFACTUAL AND PROCEDURAL BACKGROUND\nIn 2002, the district attorney filed a petition under section 602 alleging Jose, age 13 at the time, violated Penal Code section 288.5, subdivision (a) by engaging in three or more acts of substantial sexual conduct with his five-year-old sister. Jose admitted a violation of the lessor included offense of lewd and lascivious conduct under Penal Code section 288(a), was adjudged a ward of the juvenile court, and placed on probation. Jose was initially placed with extended family and later in a group home. He received sexual offender treatment and, according to probation department reports, did well in his placements.\nIn December 2005, shortly after the juvenile court returned Jose to his parents' care, he was taken into custody by the probation department and the San Diego County Police Department after stabbing another high school aged boy. Jose told the investigating police officer that the victim had taunted him for over a year and on the day of the fight had antagonized him. Jose admitted to the officer that he chased the boy down with a knife in his pocket and stabbed him twice before fleeing the scene and throwing the bloody knife in a dumpster.\nAs a result, the district attorney filed a second petition in Jose's existing delinquency matter alleging Jose committed attempted murder (Pen. Code, \u00a7\u00a7 187, subd. (a) and 664 ) and assault with a deadly weapon (Pen. Code, \u00a7 245, subd. (a)(1) ), and that with respect to each offense Jose personally used a deadly weapon (Pen. Code, \u00a7 1192.7, subd. (c)(23) ) and inflicted great bodily injury (Pen. Code, \u00a7 12022.7, subd. (a) ). The petition stated (1) Jose was \"within the provisions of Section 602 of the Juvenile Court Law,\" (2) the offenses enumerated in the document \"may result in the violation of any probation previously granted and the imposition of any previously unexpired term of detention,\" and (3) \"[t]he previous disposition has not been effective in the rehabilitation and protection of the minor in that said minor's performance on probation has been unsatisfactory, thereby violating the specific terms and conditions of [his] probation and demonstrating the necessity for further orders of the Juvenile Court pursuant to [section] 777.\"\nIn its recommendation report accompanying the petition, the probation department stated that \"[c]ustody is taken pursuant to WIC 726 (a)(2)\" and that Jose was \"tried on Probation while in custody [and] failed to reform.\" At the readiness hearing on the petition, Jose admitted he committed assault with a deadly weapon and that he personally used a deadly weapon. The court dismissed the other allegations in the second petition. In its dispositional report, the probation department recommended Jose be referred to the California Youth Authority (CYA) based on the serious nature of both Jose's earlier offense and the recent offense.\nAfter several continuances of the dispositional hearing to address Jose's ongoing sexual offender treatment for the 2002 offense, the juvenile court adopted the probation department's recommendation and committed Jose to the CYA. The court's dispositional order indicated Jose was a continued ward pursuant to section 602 and that custody was taken under section 726, subdivision (a)(2). The court aggregated both true findings during Jose's wardship pursuant to section 726 and Penal Code section 1170.1, subdivision (a) and committed Jose to the CYA for a period of nine years. The court also found Jose had committed a section 707, subdivision (b) offense. While committed, Jose graduated from high school and completed sexual offender treatment. He was released from CYA after serving five years and released from parole in 2013.\nIn 2015, Jose requested that his juvenile court records be sealed. The trial court appointed a public defender to assist Jose. Acknowledging that Jose's 2005 offense was not eligible to be sealed under section 781 because it was an offense enumerated in section 707, subdivision (b), the public defender sought to reduce Jose's 2005 plea to a lesser included offense. At a hearing in April 2016, the public defender explained she had several meetings with the district attorney to change the plea for the 2005 offense, but the parties could not reach agreement. The juvenile court then granted the relief requested with respect to Jose's 2002 offense.\nSeveral days later, the court clerk contacted Jose's attorney and notified her that the court's system could not accommodate the order to seal only the 2002 petition. The juvenile court set a special hearing to address the problem. At the hearing, the court explained that once the clerk enters the \"sealing codes, the entire record is dismissed or abolished\" and \"everything will be wiped from the system\" contrary to the court's order. The court then rescinded the sealing order and set a further hearing to consider Jose's request.\nAt the next hearing, the district attorney stated its position that because of the 2005 assault offense, none of Jose's juvenile records were eligible to be sealed under section 781. The juvenile court expressed its desire to seal Jose's record with respect to the 2002 offense, and commended him for turning his life around and becoming a positive member of society. The court concluded, however, that the district attorney's position was correct and it did not have the authority to seal any of Jose's records.\nDISCUSSION\nI\nStandard of Review\nA juvenile court's ruling on the release of juvenile records is reviewed for abuse of discretion. (In re Jeffrey T. (2006) 140 Cal.App.4th 1015, 1018, 44 Cal.Rptr.3d 861 (Jeffrey ).) However, \"we independently determine the proper interpretation of a statute.\" (Ibid . ) \"Under general settled canons of statutory construction, we ascertain the Legislature's intent in order to effectuate the law's purpose. [Citation.] We must look to the statute's words and give them their 'usual and ordinary meaning.' [Citation.] 'The statute's plain meaning controls the court's interpretation unless its words are ambiguous. If the plain language of a statute is unambiguous, no court need, or should, go beyond that pure expression of legislative intent.' \" (White v. Ultramar, Inc. (1999) 21 Cal.4th 563, 572, 88 Cal.Rptr.2d 19, 981 P.2d 944.)\nThe reviewing court also must examine the statutory language \" ' \"in context, keeping in mind the nature and obvious purpose of the statute....\" [Citation.]' [Citation.] In other words, we 'must harmonize \"the various parts of a statutory enactment ... by considering the particular clause or section in the context of the statutory framework as a whole\" ' [citation], so that all of the statutes in the scheme will 'have effect.' [Citation.] And '[w]e must also avoid a construction that would produce absurd consequences, which we presume the Legislature did not intend.' \" (In re Charles G. (2004) 115 Cal.App.4th 608, 614, 9 Cal.Rptr.3d 503.) Further, \"ambiguity in a criminal statute should be resolved in favor of lenity, giving the defendant the benefit of every reasonable doubt on questions of interpretation\" where \" 'two reasonable interpretations of the statute stand in relative equipoise.' \" (People v. Soria (2010) 48 Cal.4th 58, 65, 104 Cal.Rptr.3d 780, 224 P.3d 99 (Soria ).)\nII\nStatutory Background\nThe right to have juvenile records sealed is codified by section 781, which \"provides that a juvenile record-including information as to arrest[s], detention, and wardship-may be sealed when the juvenile reaches his majority or upon the expiration of five years from the date on which the jurisdiction of the juvenile court terminates.\" (T.N.G. v. Superior Court (1971) 4 Cal.3d 767, 782, 94 Cal.Rptr. 813, 484 P.2d 981.) It states, in relevant part: \"In any case in which a petition has been filed with a juvenile court to commence proceedings to adjudge a person a ward of the court ... the person ... may, five years or more after the jurisdiction of the juvenile court has terminated as to the person ... or, in any case, at any time after the person has reached 18 years of age, petition the court for sealing of the records, including records of arrest, relating to the person's case, in the custody of the juvenile court and probation officer and any other agencies, including law enforcement agencies, entities, and public officials as the petitioner alleges, in his or her petition, to have custody of the records.\" (\u00a7 781, subd. (a)(1)(A).)\nThe statutes goes on, \"[t]he court shall notify the district attorney of the county and the county probation officer, if he or she is not the petitioner, and the district attorney or probation officer or any of their deputies or any other person having relevant evidence may testify at the hearing on the petition. If, after hearing, the court finds that since the termination of jurisdiction or action ... he or she has not been convicted of a felony or of any misdemeanor involving moral turpitude and that rehabilitation has been attained to the satisfaction of the court, it shall order all records, papers, and exhibits in the person's case in the custody of the juvenile court sealed.... Once the court has ordered the person's records sealed, the proceedings in the case shall be deemed never to have occurred, and the person may properly reply accordingly to any inquiry about the events, the records of which are ordered sealed.\" (\u00a7 781, subd. (a)(1)(A).)\nThe provision, however, as of 2000 specifically exempts a person from eligibility for sealing if he or she committed one or more certain offenses listed in section 707, subdivision (b). Section 781 states that \"[n]otwithstanding any other law, the court shall not order the person's records sealed in any case in which the person has been found by the juvenile court to have committed an offense listed in subdivision (b) of Section 707 when he or she had attained 14 years of age or older.\" (\u00a7 781, subdivision (a)(1)(D).) The list of offenses in section 707, subdivision (b) includes \"assault with a firearm or destructive device\" and \"assault by any means of force likely to produce great bodily injury.\" (\u00a7 707, subds. (b)(13) and (b)(14).)\nIII\nThe Meaning of \"Case\" Under Section 781\nAs noted, Jose asserts that under these provisions the juvenile court had the authority to seal the records related to his 2002 offense, even if his later offense of assault with a deadly weapon was excluded from sealing because it is one of the enumerated offenses in section 707, subdivision (b). Jose looks to the adult criminal context to assert that each of his offenses is a separate \"case\" as that term is used in section 781. Citing Soria, supra , 48 Cal.4th 58, 104 Cal.Rptr.3d 780, 224 P.3d 99, he contends that in the adult setting, \"a 'case' is defined by the charging documents coupled with the adjudication of guilt. Thus, separately filed charges with separate guilty pleas constitute separate guilty cases, even where they are resolved by a single sentence.\" Conversely, in the adult context, when \"separately filed charges are formally consolidated prior to trial and subsequently tried together, they become a single case.\"\nJose asserts that like in the adult context, a juvenile \"case\" must be defined to include only those proceedings that were adjudicated at the same time. Jose also contends that his approach is in line with the only published opinion to consider the issue, Jeffrey T., supra, 140 Cal.App.4th 1015, 44 Cal.Rptr.3d 861. The Attorney General responds that the court could not seal any part of Jose's records because both \"petitions were part of the same case number and treated as the same case throughout the proceedings.\" The Attorney General argues Jeffrey T. warrants the opposite result advanced by Jose and Soria, supra , 48 Cal.4th 58, 104 Cal.Rptr.3d 780, 224 P.3d 99 is not relevant to the issue at hand.\nThe former ward in Jeffrey T. committed a felony battery in March 1998. In May, the district attorney filed a petition under section 602 containing the felony allegation. While the petition was still pending, on September 11, 1998, Jeffrey was involved in another violent altercation that resulted in an amended petition, which added a new charge of \"assault by force likely to produce great bodily injury with an enhancement of inflicting great bodily injury.\" (Jeffrey, supra , 140 Cal.App.4th at p. 1018, 44 Cal.Rptr.3d 861.) Jeffrey admitted the initial felony battery allegation, which was not a section 707, subdivision (b) offense, but not the assault charge, which was. The juvenile court sustained the assault charge after a full evidentiary trial and designated the charge as falling under section 707, subdivision (b). (Jeffrey , at pp. 1017-1018, 44 Cal.Rptr.3d 861 )\nJeffrey served four years of the maximum eight-year term of commitment to the CYA imposed by the juvenile court, and was discharged from parole in 2003. (Jeffrey, supra , 140 Cal.App.4th at p. 1018, 44 Cal.Rptr.3d 861.) In 2005, Jeffery filed an unsuccessful petition to seal the juvenile court records relating to the felony battery offense. (Ibid. ) On appeal, the First District Court of Appeal rejected Jeffrey's argument that section 781 applies to \" 'a single offense' \" and not \" 'a person's entire juvenile history.' \" (Id. at p. 1020, 44 Cal.Rptr.3d 861.) Instead, the court held that the exclusion under section 781 for \" 'any case in which the person has been found by the juvenile court to have committed an offense listed in subdivision (b) of section 707' \" applied because the first petition and the supplemental petition were properly joined by the district attorney under Penal Code section 954. (Id. at p. 1019, 44 Cal.Rptr.3d 861.) \"That the battery offense ... occurred on a different date, in a different place and involved different victims [did] not alter the [court's] analysis.\" (Id . at p. 1021, 44 Cal.Rptr.3d 861 ) The court also noted that the \"appellant made no motion below to sever the charges\" and, accordingly, could not \"indirectly challenge their joinder\" on appeal. (Ibid . )\nUnlike Jeffr e y T. , the two instances of criminal conduct committed by Jose occurred several years, not just several months, apart and could not have been properly joined under Penal Code section 954. By the time the second petition was filed on Jose's behalf, he was serving probation for the first offense. As we explain, however, we do not agree with Jose that the timing of the adjudication of his offenses required the juvenile court to conclude they were different \"cases\" under section 781.\nSection 781 serves \" 'to protect minors from future prejudice resulting from their juvenile records.' \" (Jeffr e y T., supra, 140 Cal.App.4th at p. 1020, 44 Cal.Rptr.3d 861.) The exclusion from sealing for offenses listed in section 707, subdivision (b) was added by Proposition 21. Section 2 of that ballot measure, titled \"[F]indings and [D]eclarations,\" referred to \"the growing problem of juvenile and gang-related violent crime, the inability of the juvenile justice system to protect the public adequately from violent juvenile offenders, the goal of devoting fewer resources of the juvenile court to violent offenders and more to those offenders who can be rehabilitated, the desirability of eliminating confidentiality in some juvenile proceedings in order to hold juvenile offenders more accountable for their actions, and the need to increase penalties for gang-related felonies.\" (Manduley v. Superior Court (2002) 27 Cal.4th 537, 574, 117 Cal.Rptr.2d 168, 41 P.3d 3.) The proposition's amendments to section 781 were a minor part of the overall initiative, the primary purpose of which was \"to address the problem of violent crime committed by juveniles and gangs.\" (Id . at pp. 575-576, 117 Cal.Rptr.2d 168, 41 P.3d 3.)\nNothing in the ballot materials clarifies what the drafter's intention, if any, was with respect to whether a juvenile court can seal a portion of a former ward's juvenile delinquency records. Nor does the plain language of the statute make clear how the term \"case\" should be defined in this circumstance. As Jose notes, to determine the meaning of a statutory term or phrase, we may apply the principle of statutory interpretation that permits reference to a similar statute \" 'to guide the construction' \" of the statute in question. (Williams v. Superior Court (1993) 5 Cal.4th 337, 352, 19 Cal.Rptr.2d 882, 852 P.2d 377.) In this vein, Jose looks to Soria, supra , 48 Cal.4th 58, 104 Cal.Rptr.3d 780, 224 P.3d 99 to assert the term \"case\" in section 781 should be limited to offenses that are adjudicated together.\nIn Soria , the Supreme Court examined the definition of a \"case\" for purposes of the restitution fine imposed under Penal Code section 1202.4, subdivision (b) and the parole revocation restitution fine under Penal Code section 1202.45. (Soria, supra , 48 Cal.4th at p. 62, 104 Cal.Rptr.3d 780, 224 P.3d 99.) Both of those provisions require payment of a fine \" '[i]n every case where a person is convicted of a crime....' \" (Ibid ., italics added.) In Soria , three separate cases, each with a separate case number and each involving distinct criminal conduct, were filed against the defendant. The defendant argued successfully on appeal that because all three cases were resolved by one plea bargain the phrase \"in every case\" in the statutes required the trial court to impose just one restitution fine on him. (Id . at p. 62, 104 Cal.Rptr.3d 780, 224 P.3d 99.)\nThe Supreme Court disagreed, concluding that each separate case supported the trial court's imposition of separate fines under the restitution statutes. The court pointed to the settled rule that \"[u]nconsolidated cases resolved jointly by plea bargain remain formally distinct for purposes of sentencing under [Penal Code] section 667.\" (Soria, supra , 48 Cal.4th at p. 64, 104 Cal.Rptr.3d 780, 224 P.3d 99.) The court then held in the analogous context of the restitution provisions, \"separately filed cases remain separate for purposes of the restitution statutes, even when they are jointly resolved at the plea and sentencing stages.\" (Ibid . ) \"In the context of [Penal Code] sections 1202.4(b) and 1202.45, a 'case' is a formal criminal proceeding, filed by the prosecution and handled by the court as a separate action with its own number.\" (Id . at pp. 64-65, 104 Cal.Rptr.3d 780, 224 P.3d 99.)\nIn addition to the plain language of the restitution statutes, the Soria court's opinion looked to the legislative purpose of the statutory scheme, which was \"to recoup from prisoners and parole violators some of the costs of providing restitution to crime victims.\" (Soria, supra , 48 Cal.4th at p. 66, 104 Cal.Rptr.3d 780, 224 P.3d 99.) This goal, the court concluded, would not be furthered \"by allowing only one set of fines to be imposed after a plea bargain, regardless of how many cases are resolved by the bargain.\" (Ibid . ) Allowing fines for each case, on the other hand, served the explicit purpose of the state restitution fund to compensate the victims of crime. (Ibid . ) We do not agree with Jose that Soria requires this court to conclude his two offenses constituted different cases under section 781. Rather, the policy reasons here support the opposite result.\n\"[T]he juvenile wardship system and the adult criminal system are two distinct systems, the two systems use different terminology, and their underlying purposes have a different focus.\" ( Alejan dro N. v. Superior Court of San Diego County (2015) 238 Cal.App.4th 1209, 1219, 189 Cal.Rptr.3d 907.) The Welfare and Institutions Code places \"special duties upon California juvenile court judges and other participants in the juvenile court system, separate and apart from those placed upon criminal court judges....\" (In re Myresheia W. (1998) 61 Cal.App.4th 734, 740, 72 Cal.Rptr.2d 65 (Myresheia ).) Unlike the adult criminal justice system, which has a primary punitive purpose, reunification of a minor with his or her family and rehabilitation are the primary objectives of the juvenile system. (\u00a7 202, subd. (a).) Indeed, \"California law requires juvenile court personnel to take a different view of their role than that taken by their counterparts in the criminal courts.\" (Myresheia , at p. 740, 72 Cal.Rptr.2d 65.)\n\"The proceedings are intended to secure for the minor such care and guidance as will best serve the interests of the minor and the state and to impose upon the minor a sense of responsibility for his or her actions. The purpose of imprisonment pursuant to criminal law is punishment. [Citation.] While part of the juvenile justice system does include punishment in certain cases, it does not change the primary purpose of juvenile proceedings from that of preserving and promoting the welfare of the child.\" (Myresheia , supra , 61 Cal.App.4th at p. 741, 72 Cal.Rptr.2d 65.) Further, the \" '[the] liberty interest of a minor is qualitatively different than that of an adult, being subject ... to reasonable regulation by the state to an extent not permissible with adults [citations] ....' \" (In re Eric J. (1979) 25 Cal.3d 522, 530, 159 Cal.Rptr. 317, 601 P.2d 549.) When a minor is \"removed from the custody of his parents for his own welfare or for the safety and protection of the public (Welf. & Inst. Code, \u00a7 202 ), the state [is] assuming the parents' role [and] the parents' authority to limit the minor's freedom of action.\" (Ibid . )\nThese differences provide context for the manner in which juvenile delinquency cases are managed. Once a juvenile is adjudged a ward of the court under either section 601 or, as here, section 602, the juvenile court may retain jurisdiction over that person until he or she attains the age of 21, or until age 25 if the ward committed certain offenses. Further, the court may not discharge any person from its jurisdiction who has been committed to the CYA so long as the ward is under the CYA's authority. (\u00a7 607.) \"[T]he goals of treatment and rehabilitation are better served if the minor's case history is dealt with as a whole, with each new offense committed by the minor used as a basis for reevaluation of the prior disposition.\" (In re Kasaundra D. (2004) 121 Cal.App.4th 533, 540, 16 Cal.Rptr.3d 920.)\nBecause of this principal, \"it has long been the practice to file successive juvenile petitions under a single case number.... [which] has important practical considerations. It allows the court to keep track of the minor's progress (or lack thereof), to determine whether ordered rehabilitative programs are succeeding or failing and whether new ones should be tried, and to aggregate offenses in order to extend the maximum term of confinement for a new offense where the minor appears to be sliding toward incorrigibility.\" (In re Kasaundra D., supra , 121 Cal.App.4th at pp. 540-541, 16 Cal.Rptr.3d 920.) In this sense, regardless of the disposition of earlier petitions, a later filed petition is part of the juvenile's \"case.\" The distinctions between the adult criminal and juvenile delinquency systems persuade us that the juvenile court's treatment of both petitions as part of one case for purposes of section 781 is appropriate.\nAlso relevant is the impact of Jose's earlier offense on the disposition of his second petition. As noted, the disposition of the later petition was continued multiple times to explore sex offender treatment options related to his 2002 offense. The probation officer's dispositional report also evaluated Jose's entire delinquency history in forming its recommendation that Jose be removed from his parents' custody under section 726, subdivisions (a)(2). That provision permits removal when the \"minor has been tried on probation while in custody and has failed to reform.\" (\u00a7 726, subd. (a)(2).) Likewise, the second petition stated that \"[t]he previous disposition has not been effective in the rehabilitation and protection of the minor in that said minor's performance on probation has been unsatisfactory, thereby violating the specific terms and conditions of [minor's] probation and demonstrating the necessity for further orders of the Juvenile Court pursuant to Welfare and Institutions Code section 777.\" In sum, the prosecution and disposition of Jose's later petition supports our conclusion that both petitions were part of the same delinquency case.\nFinally, we find further support for our holding when the term \"case\" is considered in the context of the entire provision. The statutory authority for the juvenile court to seal the records of a former ward was created in 1959 by the addition of section 752 to the Welfare and Institutions Code. When enacted, former section 752 stated, \"In any case in which a person became a ward of the juvenile court ... such person, or the county probation officer, may, five years or more after the jurisdiction of the juvenile court has terminated as to such person, petition the court for expungement of the records, including records of arrest, relating to such person's case, in the custody of the juvenile court and probation officer and such other agencies, including law enforcement agencies, and public officials, as petitioner alleges, in his petition, to have custody of such records.\" (Stats. 1959, ch. 1723, \u00a7 1, p. 4132, italics added.) In 1960, with the passage of the comprehensive Juvenile Court Law, the provision was moved to section 781 and the relevant language was modified slightly, to state \"[i]n any case in which a person has been adjudged a ward of the or dependent child of the juvenile court ....\" (Stats. 1960, ch. 1616, Art. 11, p. 3493, italics added.)\nAlthough our research uncovered no legislative history illuminating the drafter's intent with respect to this issue, the language of the provision suggests it refers to a former ward seeking to expunge his record entirely. This is reflected in the phrases \"In any case in which a person became a ward of the juvenile court\" and \"after the jurisdiction of the juvenile court has terminated as to such person,\" and also the statute's use of the plural \"records of arrest.\" This language suggests requests for sealing would involve all of the juvenile court records of a former ward, not just those related to a particular offense.\nHad the legislature wanted to permit a former ward to expunge only portions of his or her juvenile court records, it could have expressed that intent clearly. (See Vasquez v. State (2008) 45 Cal.4th 243, 253, 85 Cal.Rptr.3d 466, 195 P.3d 1049 [\"We may not rewrite the statute to conform to an assumed intention that does not appear in its language.\"].)\nAs the trial court expressed, we are sympathetic to Jose's circumstance and the negative impact his juvenile court record has on his life. However, we conclude that under section 781, both of Jose's petitions are part of the same case and his 2005 offense foreclosed the relief requested.\nIV\nAssault with a Deadly Weapon Falls Within Section 707(b)(14)\nJose alternatively asserts that his 2005 offense does not fall under section 707, subdivision (b). As the Attorney General points out, Jose did not make this argument below. Rather, Jose unsuccessfully sought only to negotiate a deal with the district attorney to reduce the 2005 charge to bring it outside of section 707, subdivision (b). He did not directly seek to seal the portion of his record related to the 2005 offense. For the first time on appeal, Jose contends his admission of assault with a deadly weapon (Pen. Code \u00a7 245, subd. (a)(1) ) and personal use of a knife (Pen. Code, \u00a7 1192.7, subd.(c)(23)) do not qualify as \"[a]ssault by any means of force likely to produce great bodily injury\" under section 707, subdivision (b)(14). We reject this contention.\nJose was initially charged with attempted murder (Pen. Code, \u00a7\u00a7 187, subd. (a) and 664 ) and assault with a deadly weapon (Pen. Code, \u00a7 245, subd. (a)(1) ). With respect to both charges, he was alleged to have personally used a knife (Pen. Code, \u00a7 1192.7, subd. (c)(23) ) and personally inflicted great bodily injury (Pen. Code, \u00a7 120227, subd. (a)). The juvenile court accepted Jose's admission of committing assault with a deadly weapon and personal use of a knife, and dismissed the remaining charges. The court also found a factual basis for the admissions and, as required by California Rules of Court, rule 5.805, found Jose had committed a section 707, subdivision (b) offense.\nAt the time of Jose's offense, Penal Code section 245, subdivision (a)(1) included both assault with a deadly weapon and assault by means of force likely to cause great bodily injury. Jose argues that because the prosecutor in his case alleged \"only an assault with a deadly weapon without alleging assault by means of force likely to produce great bodily injury,\" he never \"admitted to a true finding of an offense enumerated in section 707(b)\" and, therefore, his \"entire record was eligible for sealing.\" The Attorney General responds that the juvenile court was authorized to look beyond the terms of the specific allegation to the facts presented and the circumstances of the offense to conclude it was a section 707, subdivision (b) offense.\nWe agree. The juvenile court is not limited in the manner Jose asserts to considering only the allegation contained in the petition when it determines whether the minor committed one of the offenses enumerated in section 707, subdivision (b). (In re Gary B. (1998) 61 Cal.App.4th 844, 850-851, 71 Cal.Rptr.2d 824.) Jose admitted to probation officers that he stabbed the victim with a knife three times. The victim, who was interviewed by police while in the hospital, sustained a laceration to his ear, two puncture wounds to his back, and a collapsed lung. These facts amply supported the juvenile court's determination that the offense amounted to \"assault by means of force likely to produce great bodily injury\" under section 707, subdivision (b)(14). (See In re Jonathan R. (2016) 3 Cal.App.5th 963, 973, 208 Cal.Rptr.3d 159 [\"when assault with a deadly weapon other than a firearm is found to have occurred, the trier of fact necessarily must have concluded the defendant used or attempted to use force likely to produce great bodily injury, since that likelihood is what makes a weapon or instrument 'deadly.' \"].)\nIn an argument not addressed by the Attorney General, Jose alternatively asserts that at the time he requested to seal his record in 2015, his 2005 offense was no longer eligible for sealing because Penal Code section 245, subdivision (a) had been amended to distinguish between assault with a deadly weapon and assault by means of force likely to cause great bodily injury. The provision was changed in 2012 to include separate subdivisions for assault by means of force likely to cause great bodily injury, Penal Code section 245, subdivision (a)(4), and assault with a deadly weapon, Penal Code section 245, subdivision (a)(1). (Stats. 2011, ch. 183, \u00a7 1, p. 2394.) Jose argues that because section 707, subdivision (b)(14) was not also modified to correspond to this change, the legislature intended to exclude assault with a deadly weapon from the exceptions to sealing of juvenile records.\nThis argument is not persuasive. A deadly weapon is defined as \" 'any object, instrument, or weapon which is used in such a manner as to be capable of producing, and likely to produce, death or great bodily injury.' \" (People v. Aguilar (1997) 16 Cal.4th 1023, 1037, 68 Cal.Rptr.2d 655, 945 P.2d 1204, italics omitted.) Thus, the commission of assault with a deadly weapon under Penal Code section 245, subdivision (a)(1) encompasses the commission of assault \"by any means of force likely to produce great bodily injury.\" (\u00a7 707, subd. (b)(14).) The knife used by Jose was capable of causing, and did cause, great bodily injury. Necessarily, then, his admission of committing assault with a deadly weapon includes assault by means of force likely to produce great bodily injury. (In re Jonathan R., supra , 3 Cal.App.5th at p. 973, 208 Cal.Rptr.3d 159.)\nDISPOSITION\nThe order is affirmed.\nWE CONCUR:\nNARES, J.\nO'ROURKE, J.\nUndesignated statutory references are to the Welfare and Institutions Code.\nWhen a minor is committed to the Division of Juvenile Justice (formerly the CYA), rule 5.805(2) of the California Rules of Court requires the court to specify whether the offense falls within section 707, subdivision (b).\nPenal Code section 954 provides, in relevant part: \"An accusatory pleading may charge two or more different offenses connected together in their commission, or different statements of the same offense or two or more different offenses of the same class of crimes or offenses, under separate counts, and if two or more accusatory pleadings are filed in such cases in the same court, the court may order them to be consolidated.\" (Italics added.)\nJose's unopposed motions requesting this court take judicial notice of a prior version of section 707 and of Proposition 21 are granted.\nBecause of this language, we requested supplemental briefing on the issue of whether a subsequent petition filed pursuant to Welfare and Institutions Code section 777 is part of the same case as the original petition for purposes of Welfare and Institutions Code section 781. In response, both parties asserted section 777 was not relevant here, despite the section 777 language contained in the petition, because the petition was brought under section 602. A petition may be filed under section 777 rather than section 602 when the ward violates a condition of probation, including the commission of an additional offense. Under section 777, the prosecution may choose not to seek additional penalties for the new offense, but instead seek only to \"modify disposition by ordering a more restrictive placement for a person previously found to have committed a criminal offense under section 602.\" (In re Eddie M. (2003) 31 Cal.4th 480, 489, 3 Cal.Rptr.3d 119, 73 P.3d 1115.)\nSection 781 was amended frequently after its enactment, typically to limit the circumstances under which a ward's records could be sealed. As with Proposition 21, discussed earlier, none of the limiting amendments modified the language discussed in this paragraph or otherwise addressed the issue presented in this case.\nThe Attorney General asserts that Jose waived this issue and it should not be considered on appeal. We agree with Jose that rejecting his claim on this basis is not warranted. The issue he raises is purely legal and it is appropriate to consider his contention to forestall a later claim that trial counsel was constitutionally ineffective. (People v. Mattson (1990) 50 Cal.3d 826, 854, 268 Cal.Rptr. 802, 789 P.2d 983.)\nJose's counsel states in the reply brief that she \"discovered two Court of Appeal opinions that represent a potential split of authority as to whether assault with a deadly weapon is also an assault by means of force likely to cause great injury.\" We disagree with Jose's characterization of these cases and decline to consider the issue since it could have been raised in the opening brief. (See Reichardt v. Hoffman (1997) 52 Cal.App.4th 754, 764, 60 Cal.Rptr.2d 770 [\"points raised in the reply brief for the first time will not be considered, unless good reason is shown for failure to present them before.\"].)",
+        "type": "majority",
+        "author": "McCONNELL, P.J."
+      }
+    ],
+    "attorneys": [
+      "Cynthia M. Jones, under appointment by the Court of Appeal, for Defendant and Appellant.",
+      "Xavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Julie L. Garland, Assistant Attorney General, Eric A. Swenson and Allison V. Hawley, Deputy Attorneys General, for Plaintiff and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE JOSE S., a Person Coming Under the Juvenile Court Law.\nThe People, Plaintiff and Respondent,\nv.\nJose S., Defendant and Appellant.\nD070521\nCourt of Appeal, Fourth District, Division 1, California.\nFiled June 21, 2017\nCynthia M. Jones, under appointment by the Court of Appeal, for Defendant and Appellant.\nXavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Julie L. Garland, Assistant Attorney General, Eric A. Swenson and Allison V. Hawley, Deputy Attorneys General, for Plaintiff and Respondent."
+  },
+  "file_name": "0801-01",
+  "first_page_order": 801,
+  "last_page_order": 814
+}

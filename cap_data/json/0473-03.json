@@ -1,0 +1,64 @@
+{
+  "id": 12513562,
+  "name": "PEOPLE v. BRYANT",
+  "name_abbreviation": "People v. Bryant",
+  "decision_date": "2017-06-28",
+  "docket_number": "S241937",
+  "first_page": "473",
+  "last_page": "473",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 473"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 535,
+    "sha256": "2cad6e2464c2a4efa9df07e05ce62cac39c6461f544a5cc8580a31d649f3aba7",
+    "simhash": "1:c240242592d2aec2",
+    "word_count": 85
+  },
+  "last_updated": "2021-08-27T20:59:04.095976+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE\nv.\nBRYANT"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for review is granted. Further action in this matter is deferred pending consideration and disposition of a related issue in In re Ricardo P., S230923 (see Cal. Rules of Court, rule 8.512(d)(2) ), or pending further order of the court. Submission of additional briefing, pursuant to California Rules of Court, rule 8.520, is deferred pending further order of the court."
+    ],
+    "corrections": "",
+    "head_matter": "PEOPLE\nv.\nBRYANT\nS241937\nSupreme Court of California\nJune 28, 2017\nThe petition for review is granted. Further action in this matter is deferred pending consideration and disposition of a related issue in In re Ricardo P., S230923 (see Cal. Rules of Court, rule 8.512(d)(2) ), or pending further order of the court. Submission of additional briefing, pursuant to California Rules of Court, rule 8.520, is deferred pending further order of the court.\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0473-03",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

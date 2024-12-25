@@ -1,0 +1,349 @@
+{
+  "id": 12513541,
+  "name": "GRIST CREEK AGGREGATES, LLC, Petitioner, v. The SUPERIOR COURT of Mendocino County, Respondent; Mendocino County Air Quality Management District et al., Real Parties in Interest.",
+  "name_abbreviation": "Grist Creek Aggregates, LLC v. Superior Court of Mendocino Cnty.",
+  "decision_date": "2017-04-06",
+  "docket_number": "A149861",
+  "first_page": "229",
+  "last_page": "239",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 229"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 979"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "27 Cal.Rptr.2d 245",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Cal.App.4th 1560",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6042544
+      ],
+      "pin_cites": [
+        {
+          "page": "1566, fn. 2"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/21/1560-01"
+      ]
+    },
+    {
+      "cite": "96 Cal.Rptr.3d 409",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Cal.App.4th 750",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3974854
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "763, fn. 1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/175/0750-01"
+      ]
+    },
+    {
+      "cite": "303 P.3d 1140",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Cal.Rptr.3d 358",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Cal.4th 197",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6053896
+      ],
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/57/0197-01"
+      ]
+    },
+    {
+      "cite": "10 Cal.Rptr.3d 865",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 Cal.App.4th 1010",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        462637
+      ],
+      "pin_cites": [
+        {
+          "page": "1014, fn. 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/116/1010-01"
+      ]
+    },
+    {
+      "cite": "50 Cal.Rptr.3d 636",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Cal.App.4th 865",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3677279
+      ],
+      "pin_cites": [
+        {
+          "page": "874"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/144/0865-01"
+      ]
+    },
+    {
+      "cite": "109 P.2d 942",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal.2d 280",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2205571
+      ],
+      "pin_cites": [
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/17/0280-01"
+      ]
+    },
+    {
+      "cite": "59 Cal.Rptr.3d 100",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Cal.App.4th 503",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3676243
+      ],
+      "pin_cites": [
+        {
+          "page": "510-511"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/150/0503-01"
+      ]
+    },
+    {
+      "cite": "17 Cal.Rptr. 54",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "197 Cal.App.2d 188",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2318926
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/197/0188-01"
+      ]
+    },
+    {
+      "cite": "134 Cal.Rptr. 71",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Cal.App.3d 970",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4464385
+      ],
+      "pin_cites": [
+        {
+          "page": "976-977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/63/0970-01"
+      ]
+    },
+    {
+      "cite": "56 Cal.Rptr.2d 223",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 8,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.App.4th 1152",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6044913
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/48/1152-01"
+      ]
+    },
+    {
+      "cite": "80 Cal.Rptr.3d 557",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Cal.App.4th 1",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3941269
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/165/0001-01"
+      ]
+    },
+    {
+      "cite": "100 Cal.Rptr.2d 889",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 Cal.App.4th 517",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1166883
+      ],
+      "pin_cites": [
+        {
+          "page": "521"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/84/0517-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1080,
+    "char_count": 32549,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25865504127846833
+    },
+    "sha256": "ca07d984b32b8475b9f2961b282a914ac6fd83b3421f4e4c598b5746278523e4",
+    "simhash": "1:7bff803a35cc4573",
+    "word_count": 5343
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [
+      "En Banc"
+    ],
+    "parties": [
+      "GRIST CREEK AGGREGATES, LLC, Petitioner,\nv.\nThe SUPERIOR COURT of Mendocino County, Respondent;"
+    ],
+    "opinions": [
+      {
+        "text": "Humes, P.J.\nAfter the Mendocino County Air Quality Management District (District) approved an application by Grist Creek Aggregates, LLC (Grist Creek) for a permit to construct a \"Crumb Rubber Heating and Blending Unit\" for the production of rubberized asphalt, Friends of Outlet Creek (Friends), a neighborhood environmental group, appealed to the District's Hearing Board (Hearing Board or Board). The four members of the Board who considered the appeal split evenly on their vote, and as a consequence, the Board stated no further action would be taken, leaving the permit in place. Friends filed a petition for writ of administrative mandate in the trial court, claiming that Grist Creek should have conducted an environmental review and that the District and Hearing Board violated the California Environmental Quality Act (CEQA, Pub. Resources Code, \u00a7 21000 et seq. ) and District regulations by failing to order Grist Creek to conduct one. The Hearing Board demurred on the ground that because the split vote was tantamount to no action, there was nothing for the trial court to review. Grist Creek also demurred, but on different grounds. It claimed that Friends could not sue directly under CEQA; could not, in any event, show an abuse of discretion by the Board; and had failed to exhaust its administrative remedies. The trial court sustained the Board's demurrer with leave to amend and overruled Grist Creek's demurrer on the ground the Hearing Board's tie vote was not a decision and there was therefore nothing to review. Grist Creek filed the instant original writ proceeding, challenging the trial court's ruling and seeking issuance of a writ of mandate requiring the trial court to vacate its demurrer rulings.\nWe conclude the Hearing Board's tie vote resulted in the denial of Friends' administrative appeal and that the denial is subject to judicial review. We therefore grant the petition, direct that a writ of mandate issue, and command the trial court to conduct further proceedings consistent with this opinion.\nI.\nFACTUAL AND PROCEDURAL BACKGROUND\nGrist Creek owns property in Mendocino County on which it has aggregate and asphalt processing operations. The lawsuit underlying this writ proceeding is one of several legal actions challenging, on environmental and other grounds, Grist Creek's construction and operation of the asphalt facility. It concerns only one of the permits issued in connection with the facility, specifically an Authority to Construct (ATC) a \"Crumb Rubber Heating and Blending Unit for the Production of Rubberized Asphalt\" (ATC Permit No. 1416-5-01-15-59), issued by the District on November 17, 2015. We will refer to this approval as the \"November ATC.\"\nFriends is an unincorporated environmental association formed to oppose the plant. It alleges that in approving the November ATC, the District and its air pollution control officer failed to comply with CEQA and with the District's own regulations implementing the act.\nThe Hearing Board hears appeals from District actions. It is usually composed of five members. (Health & Saf. Code, \u00a7 40800.)\nFriends appealed the November ATC to the Hearing Board. Four Board members participated in the appeal after Friends objected to the fifth member's participation because he previously had worked for Grist Creek. Apparently there was no alternate to fill the missing position on the Board.\nOn April 5, 2016, following two hearings, the Hearing Board issued notice of a tie vote. The notice states the Hearing Board \"was unable to make a decision due to a 2-2 tie vote. The Hearing Board will not hold any further hearings on the appeal.\"\nFriends filed a petition for writ of mandate in the trial court against the District, the air pollution control officer, the Hearing Board, and Grist Creek seeking to set aside the November ATC. The group alleged it was entitled to review under several alternative statutes: Code of Civil Procedure sections 526, 527, 1085, 1088.5, and 1094.5 ; Public Resources Code sections 21168, 21168.5, and 21168.9 ; and Health and Safety Code section 40864.\nFriends alleged that the Hearing Board, \"in [an] abuse of its discretion and without the support of substantial evidence, ... failed to make findings that the [air pollution control officer] and the [District] did not comply with the law in issuing the November [ATC] and failed to take appropriate action to rectify that illegal action.\" Friends also asked that the November ATC be \"found void\" and requested an order that Grist Creek cease construction of the plant and dismantle all project equipment until it was brought into legal compliance. The group advanced two causes of action, one for failure to comply with CEQA and one for failure to comply with the District's own regulations.\nApproximately three months after Friends filed its petition, the Mendocino County Board of Supervisors appointed an additional member to the Hearing Board.\nGrist Creek demurred to Friends' petition, claiming that (1) CEQA did not provide a cause of action and that, even if it did, Friends failed to allege sufficient facts to support such a claim, (2) Friends had failed to state facts showing that the Hearing Board abused its discretion, and (3) Friends had failed to exhaust its administrative remedies by not complying with procedures available under Mendocino County's zoning ordinance. The District joined in the demurrer.\nThe Hearing Board also demurred to the petition, but on different grounds. The Board maintained that its tie decision meant it failed to take action on Friends' appeal and this meant there was no final action for the trial court to review.\nIn a tentative ruling, the trial court stated it was considering remand or \"any other proposed method to ensure that [Friends'] appeal is considered by a board with the ability to take action.\" Apparently, the parties conferred but were unable to agree to a procedure that called for a remand for further action by the Hearing Board.\nThe trial court thereafter overruled Grist Creek's demurrer and sustained the Hearing Board's demurrer. The underpinning of both rulings was the court's conclusion that the Board took \"no action\" on the November ATC and thus \"it must be concluded that an action challenging a purported decision on the ATC by the Hearing Board fails to allege facts sufficient to state a cause of action under [Code of Civil Procedure section] 1094.5 and [Health and Safety Code section] 40864. [Friends] may have a factual and legal basis to challenge respondents' approval of the ATC but it is not through a CCP 1094.5 challenge to the Hearing Board's proceedings....\" As to the Board's demurrer, the trial court granted Friends leave to amend within 45 days, but added, \"The appointment of the fifth Hearing Board member and the availability of an alternate member for each primary Board member will almost certainly guarantee the ability of the Hearing Board to take effective action on the appeal if the matter is returned to the Board for consideration and decision.\"\nAccording to the declaration of one of Friends' attorneys, the Hearing Board is aware of the trial court's order but does not intend to take further action on Friends' appeal of the November ATC and has interpreted the order to require no further action.\nGrist Creek sought writ relief from the trial court's order overruling its demurrer and concluding that the District's split vote meant the Hearing Board took no action, and we issued an order to show cause.\nII.\nDISCUSSION\nThe question we resolve in this writ proceeding is narrow: What was the legal effect of the Hearing Board's tie vote on Friends' challenge to the District's approval of the November ATC? While Friends, on one hand, and Grist Creek and the District, on the other hand, disagree about the underlying merits of this dispute and whether the November ATC should be invalidated, all three agree that the effect of the Board's tie vote was to deny Friends' appeal and that the trial court's conclusion that the tie vote resulted in no action to be judicially reviewed was erroneous. Stated differently, these parties agree that the effect of the tie vote was to affirm the issuance of the November ATC. The Hearing Board, for its part, maintains the trial court correctly ruled that its tie vote resulted in no action being taken on Friends' appeal of the District's ATC approval, and there is thus nothing to review. We conclude Grist Creek, Friends, and the District have the better argument.\nWe first note that, putting aside its merits, the trial court's order sustaining the Hearing Board's demurrer is internally inconsistent. The court granted Friends leave to amend its complaint. In its preliminary response to this writ petition, the Hearing Board argued that because Friends was given the opportunity to amend, there is no need for this court to review the court's order at this stage. Yet given the court's conclusion that the Hearing Board's tie vote means Friends is unable to state a cause of action, it is unclear how the petition possibly could be amended to state a valid cause. The trial court also noted that the appointment of a fifth member to the Hearing Board \"will almost certainly guarantee the ability of the Hearing Board to take effective action on the appeal if the matter is returned to the Board\" (italics added), but the court did not actually order that the matter be remanded to the Hearing Board for further action. It is thus unclear how Friends, or any of the parties, could comply with the court's demurrer order.\nThere is one principle that indisputably applies to tie votes by administrative agencies: \"T[hey] mean different things in different contexts.\" (Vedanta Society of So. California v. California Quartet, Ltd. (2000) 84 Cal.App.4th 517, 521, 100 Cal.Rptr.2d 889 (Vedanta ).) To provide context in these proceedings, we summarize the statutory scheme governing the issuance of permits such as the November ATC.\nThe District is composed of the members of the Mendocino County Board of Supervisors (\u00a7\u00a7 40100, 40100.5, subd. (e)) and has the authority to issue permits to build and operate equipment that may cause the issuance of air contaminants (\u00a7 42300.1). Any \"aggrieved person\" who participates in the process to obtain a permit from the District may request that the Hearing Board hold a public hearing to determine whether the permit was properly issued. (\u00a7 42302.1.)\nIn general, a hearing board may not modify or revoke a permit unless the board holds a public hearing. (\u00a7\u00a7 40808, 42302.1.) Three members of the five-member board comprise a quorum. (\u00a7\u00a7 40800, 40820.) By statute, \"[N]o action shall be taken by the hearing board except in the presence of a quorum and upon the affirmative vote of a majority of the members of the hearing board.\" (\u00a7 40820.) After a hearing, the hearing board \"may\" (not must) take any of the following actions: (a) grant a permit that was denied by the air pollution control officer, (b) continue the suspension of a permit that was suspended by the air pollution control officer, (c) remove the suspension of an existing permit pending further information, (d) find that no violation exists and reinstate an existing permit, or (e) revoke an existing permit, if certain findings are made. (\u00a7 42309.) The hearing board \"shall render a decision on whether the permit was properly issued\" (\u00a7 42302.1), and the decision \"shall include the reasons for the decision\" (\u00a7 40862).\nTaken together, these statutes mean that the Hearing Board here had a quorum to consider Friends' appeal of the November ATC, but failed to take action on the appeal because the appeal did not receive the votes of a majority of the members. (\u00a7 40820.) The Hearing Board likewise did not take any of the actions permitted under section 42309 following a hearing, and it did not render a decision (\u00a7 42302.1). It does not follow, however, that there is nothing for the trial court to review. The gravamen of Friends' petition in the trial court is a challenge to the District's underlying approval of the November ATC and the Hearing Board's failure to revoke that permit. That controversy is ripe for judicial review.\nThe cases upon which the trial court relied in sustaining the Hearing Board's demurrer are not to the contrary. For example, in Lopez v. Imperial County Sheriff's Office (2008) 165 Cal.App.4th 1, 80 Cal.Rptr.3d 557 (Lopez ), a county sheriff's office terminated two employees, who appealed their terminations to a five-member county employment appeals board. (Id. at p. 3, 80 Cal.Rptr.3d 557.) Two members voted to sustain the terminations, two voted to reverse them, and one abstained after concluding that the \" 'evidence ... [w]as far from sufficient to support a decision.' \" (Ibid. ) The fired employees argued that the tie vote effectively reversed their terminations, but the trial court disagreed and instead ordered the board to conduct another vote, and the appellate court affirmed the ruling. (Id. at pp. 3-4, 80 Cal.Rptr.3d 557.) Lopez faulted the abstaining board member, who \"erroneously deferred to [the sheriff's office's]\nfindings, even as he stated that the deference '[was] at war with the excellent record of the [fired employees], and the somewhat minor level of the admitted transgressions.' \" (Id. at p. 5, 80 Cal.Rptr.3d 557.) The court held that because the board was compelled to independently review the sheriff's office's decision, it was appropriate to remand to the board so that it could take this mandated action. The Lopez court held \"that the tie votes resulted in a failure to act,\" which \"returned [the fired employees] to the status quo ante, and the [sheriff's office's] terminations remain[ed] in effect until the Board conduct [ed] another vote,\" meaning that the court would not go so far as to reverse the employees' terminations as the employees requested. (Ibid. )\nHere, the trial court relied on Lopez for the broad proposition that \"a tie vote of an administrative agency results in no action,\"\nbut that reliance is based on an oversimplification. Again, in Lopez , the fired employees argued that the board's tie vote resulted in their reinstatement, but the appellate court rejected that argument, concluding instead that the tie vote restored them to having been terminated after the fifth board member wrongfully abstained from the vote. (Id. at pp. 3-5, 80 Cal.Rptr.3d 557.) That is the context in which the court concluded that the board had taken no action. (Id. at p. 4, 80 Cal.Rptr.3d 557.) In other words, Lopez did not hold that a tie vote resulted in the terminated employees' failure to state a cause of action, only that they were entitled to a different remedy from the one they sought.\nBy contrast, Friends does not claim that the tie vote resulted in the reversal of the November ATC. To the contrary, it acknowledges that the Hearing Board failed to overrule the District, and Friends' petition alleges that the Hearing Board's failure to do so was an abuse of discretion. Unlike in Lopez , there is no allegation here that any member of the Hearing Board who participated in Friends' appeal failed to act as required by law, and there is likewise no allegation that the fifth Board member wrongfully abstained from participating. So whereas it was appropriate in Lopez to remand to the hearing board to take action it was required to take, there is no analogous reason to remand here.\nClark v. City of Hermosa Beach (1996) 48 Cal.App.4th 1152, 56 Cal.Rptr.2d 223 (Clark ) also does not support the trial court's conclusion that Friends failed to state a cause of action. In Clark , a city planning commission approved plaintiff property owners' application for permits related to a building project, but the city council denied the permits by a three-to-two vote. (Id. at p. 1159, 56 Cal.Rptr.2d 223.) Clark concluded that the property owners were deprived of a fair hearing because, among other things, one of the voting council members had a conflict of interest. (Id. at pp. 1159, 1172-1173, 56 Cal.Rptr.2d 223.) Whereas the trial court ordered the city to reinstate the planning commission's approval of the property owners' permits, Clark held that the appropriate remedy was to remand to the city council to provide a second, fair hearing on the matter. (Id. at pp. 1168-1169, 56 Cal.Rptr.2d 223.) The court based its decision on the language of Code of Civil Procedure section 1094.5, subdivision (f), which permits a court to set aside an order but not to reinstate a previous decision. (Clark , at p. 1174, 56 Cal.Rptr.2d 223.) It also relied on the applicable municipal code, which required three affirmative votes of city council members in order to obtain the relevant use permit. (Id. at pp. 1175-1176, 56 Cal.Rptr.2d 223.) Because the property owners had not received three votes by council members free from conflict, the court ordered the matter returned to the city council to rehear the appeal and to provide the property owners with a fair hearing on their permits. (Id. at pp. 1176-1177, 56 Cal.Rptr.2d 223.) As in Lopez , the court did not hold that a tie vote resulted in a failure to state a cause of action, but instead focused on the appropriate remedy.\nLopez and Clark both quoted a statement from Graves v. Commission on Professional Competence (1976) 63 Cal.App.3d 970, 976-977, 134 Cal.Rptr. 71 (Graves ), that \"as a general rule an even division among members of an administrative agency results in no action.\" (Lopez , supra , 165 Cal.App.4th at p. 4, 80 Cal.Rptr.3d 557 ; Clark , supra , 48 Cal.App.4th at p. 1176, 56 Cal.Rptr.2d 223.) The trial court here interpreted this passage broadly to mean that \"no action\" on an appeal means that a tie vote results in no action that may be reviewed by writ of mandate. But like the other cases cited by the trial court, Graves does not support this broad of a conclusion. The case involved a challenge to the decision of a school district's hearing commission to dismiss a district employee. (Graves , supra , at pp. 971-972, 134 Cal.Rptr. 71.) Two commission officers voted to dismiss the employee, and a third dissented. (Id. at pp. 972-973, 134 Cal.Rptr. 71.) Graves concluded that the decision was invalid because one of the two commissioners who voted in favor of dismissal was not authorized to participate in the decision, and the trial court thus should have set aside the commission's decision. (Id. at pp. 976-977, 134 Cal.Rptr. 71.) It was in this context-deciding whether having only two qualified members participate in a commission decision invalidated the decision-that the court noted that tie votes of an administrative agency generally result in \"no action.\" (Id. at pp. 976-977, 134 Cal.Rptr. 71.) In Graves , as in Lopez and Clark , this meant that the agency's decision should be set aside-not that it was immune from review because of a tie vote, as the trial court concluded in this case.\nFinally, Anderson v. Pittenger (1961) 197 Cal.App.2d 188, 17 Cal.Rptr. 54, the last case upon which the trial court relied, also does not support its conclusion. In Anderson , a city council held a hearing regarding a planning commission's approval of a variance, and a motion to approve the variance resulted in a two-two tie after a fifth councilmember did not vote on the motion. (Id. at pp. 189-191, 17 Cal.Rptr. 54.) Meeting minutes following the vote stated that the motion \" 'failed to carry' \" and that the motion \" 'could be revoted upon now or at a later time ....' \" (Id. at pp. 191-192, 17 Cal.Rptr. 54, italics added.) At a council meeting months later, the council voted three-to-two to deny the permit. (Id. at p. 192, 17 Cal.Rptr. 54.) On appeal, the property owner argued that the original tie vote affirmed the commission's approval and that the city council lost jurisdiction to reconsider that decision, but Anderson rejected both arguments. (Id. at pp. 194-195, 17 Cal.Rptr. 54.) The court concluded that the original tie vote resulted in \"no action\" (id. at p. 195, 17 Cal.Rptr. 54 ) and that the city council retained jurisdiction to vote on the permit later, as it had said it would do. (Id. at pp. 194-195, 17 Cal.Rptr. 54.) Here, by contrast, the Hearing Board has not indicated it intends to revisit Friends' appeal.\nIn sum, although the cases upon which the trial court relied in sustaining the Hearing Board's demurrer referred generally to a tie vote resulting in \"no action,\" none of them stand for the proposition that the results of those tie votes were not subject to judicial review. To the contrary, the courts analyzed what judicial remedy was appropriate given the effect of the tie votes.\nWe agree with Grist Creek, the District, and Friends that the effect of the Hearing Board's tie vote here was to deny Friends' appeal, leaving the November ATC intact and, thus, the Hearing Board's failure to act was itself an action subject to judicial review.\nIn situations where an appeal to a hearing board does receive an affirmative vote of the majority of the members (\u00a7 40820 ), a party may seek judicial review by filing a petition for a writ of administrative mandate under Code of Civil Procedure section 1094.5. (\u00a7 40864.) Such a writ of mandate is \"for the purpose of inquiring into the validity of any final administrative order or decision made as the result of a proceeding in which by law a hearing is required to be given, evidence is required to be taken, and discretion in the determination of facts is vested in the inferior tribunal, corporation, board or officer....\" (Code Civ. Proc., \u00a7 1094.5, subd. (a), italics added.)\nThe parties apparently do not dispute that proceedings before the Hearing Board are the type encompassed by administrative mandate. (E.g., \u00a7 42308 [hearing by board].) Instead, they dispute whether the Hearing Board's tie vote meant that there was no \"order or decision\" (Code Civ. Proc., \u00a7 1094.5, subd. (a) ) to review. The Hearing Board apparently contends that because it did not issue a written decision, there is no decision for the trial court to review. This is too narrow a view of proceedings in administrative mandate.\nThe board's tie vote meant that the November ATC was allowed to stand, which was effectively a decision not to revoke it (cf. \u00a7 42309, subd. (e)). The trial court may review this decision for a prejudicial abuse of discretion under Code of Civil Procedure section 1094.5, subdivision (b) -that is, whether the Hearing Board proceeded in the manner required by law or whether the decision not to set aside the November ATC was supported by the evidence. (See also \u00a7 1094.5, subd. (c) [analyzing whether findings are supported by substantial evidence].) True, the Hearing Board did not make any written factual findings, so it is difficult to know how the trial court's review of Board proceedings will unfold. But the gravamen of Friends' petition is a challenge to the November ATC, and we have no trouble concluding that the tie vote does not hinder a review of that approval.\nWe find further support for our holding in the requirements for filing a petition for writ of administrative mandamus under Code of Civil Procedure section 1094.5. Subdivision (a) provides that the trial court may review \"the validity of any final administrative order or decision made as the result of a proceeding in which by law a hearing is required to be given, evidence is required to be taken, and discretion in the determination of facts is vested in the inferior tribunal, ... board, or officer.\" Before seeking relief under this provision, a party must exhaust available administrative remedies. (Eight Unnamed Physicians v. Medical Executive Com. (2007) 150 Cal.App.4th 503, 510-511, 59 Cal.Rptr.3d 100.) \"[T]he rule is that where an administrative remedy is provided by statute, relief must be sought from the administrative body and this remedy exhausted before the courts will act.\" (Abelleira v. District Court of Appeal (1941) 17 Cal.2d 280, 292, 109 P.2d 942.) \"The primary purpose of the doctrine 'is to afford administrative tribunals the opportunity to decide in a final way matters within their area of expertise prior to judicial review.' [Citation.] 'The essence of the exhaustion doctrine is the public agency's opportunity to receive and respond to articulated factual issues and legal theories before its actions are subjected to judicial review.' [Citations.] The doctrine prevents courts from interfering with the subject matter of another tribunal.\" (Citizens for Open Government v. City of Lodi (2006) 144 Cal.App.4th 865, 874, 50 Cal.Rptr.3d 636.)\nHere, Friends exhausted its administrative remedies by doing everything it could do to challenge the District's approval of the November ATC, and the relevant administrative tribunal (the Hearing Board) was given an opportunity to decide a matter within its area of expertise before Friends sought judicial review. Thus, reviewing the District's permit approval by the trial court will not constitute judicial interference with the authority or subject-matter expertise of the Hearing Board. (Citizens for Open Government v. City of Lodi , supra , 144 Cal.App.4th at p. 874, 50 Cal.Rptr.3d 636.)\nWe reject the Hearing Board's contention, raised for the first time in this writ proceeding, that Friends' petition should be amended to exclude the Board as a party. Whereas the Board argued below that its demurrer should be sustained without leave to amend, and argued in its preliminary response in this court that this petition be denied and the case be allowed \"to proceed to a final decision,\" it now argues in its return to Grist Creek's petition that Friends' petition could be amended to exclude the Hearing Board . According to the Hearing Board, Friends could amend its petition to seek review of the District's approval, it could allege that the group had exhausted its administrative remedies, and \"[t]he Hearing Board would not need to be named in that amended petition and the only required administrative record would be the record made by the [District's air pollution control officer] in making his decision.\" We disagree. First, this position was apparently not advanced below, or even in the Hearing Board's preliminary response in this court. Second, and more significantly, it would be premature to conclude that the proceedings before the Hearing Board are inevitably irrelevant to Friends' underlying petition.\nIn sum, we conclude that the trial court erred in ruling that Friends failed to allege a cause of action on the basis that the Hearing Board's tie vote resulted in \"no action.\" We again stress, however, that our ruling is a narrow one. We agree with Vedanta , supra , 84 Cal.App.4th at page 521, 100 Cal.Rptr.2d 889, that tie votes mean different things in different contexts. In the statutory and procedural context presented here, the tie vote meant that the Hearing Board effectively allowed the November ATC to stand, and the outcome of not setting aside the November ATC may be reviewed by way of a writ petition in the trial court.\nIII.\nDISPOSITION\nThe District's request for judicial notice, filed on January 19, 2017, is denied.\nGrist Creek's request for judicial notice, filed on February 3, 2017, is denied.\nGrist Creek's petition for a writ of mandate is granted. Let a writ of mandate issue commanding the trial court to vacate its order sustaining the Hearing Board's demurrer and to enter a new and different order overruling the demurrer. The trial court is further directed to reconsider the merits of Grist Creek's demurrer in light of this opinion as well as this court's opinion in Friends of Outlet Creek v. Mendocino County Air Quality Management District et al. (A148508).\nTo prevent further delays in the superior court proceedings, this decision shall be final as to this court five court days after its filing. (Cal. Rules of Court, rule 8.490(b)(2)(A).) The previously issued stay shall dissolve upon finality of this opinion.\nEach party to bear its own costs.\nWe concur:\nDondero, J.\nBanke, J.\nWe have also considered challenges to a different ATC issued by the District in June 2015. In Friends of Outlet Creek v. Superior Court of Mendocino County (A148038, petn. den. May 3, 2016), we denied a writ petition Friends filed after the trial court sustained a demurrer in the action challenging that ATC. In Friends of Outlet Creek v. Mendocino County Air Quality Management District et al. (Mar. 23, 2017, A148508), we reversed the trial court's order in that case sustaining demurrers by the District, the Hearing Board and Grist Creek and remanded for further proceedings. Friends has also appealed from the dismissal of its separate action against the County of Mendocino, Friends of Outlet Creek v. County of Mendocino et al. (A147499). That appeal is pending in Division Four of this Court.\nAll statutory references are to the Health and Safety Code unless otherwise specified.\nFor its part, the District maintains the writ petition is now moot because the November ATC expired in October 2016 and has not been renewed, and Grist Creek's subcontractor removed the permitted unit in April 2016. The District asks that we take judicial notice of a letter dated October 20, 2016, from the District to Grist Creek stating that a new permit will be required for any new equipment on the site and that there is no longer a valid permit at the location. Grist Creek disputes that this original writ proceeding is moot and contends that under the District's rules and regulations, of which it asks us to take judicial notice, the November ATC \"renewed as a matter of law when Grist Creek submitted its annual permit renewal fee to the District.\" Grist Creek represents that it intends to seek leave to file an amended complaint in a separate action to challenge the failure to automatically renew the November ATC. Even assuming (without deciding) that the underlying controversy is technically moot, we agree with Grist Creek that it presents an issue likely to reoccur and we therefore exercise our inherent discretion to resolve it. (Castro v. Superior Court (2004) 116 Cal.App.4th 1010, 1014, fn. 3, 10 Cal.Rptr.3d 865.) The requests for judicial notice filed by Grist Creek and the District are therefore denied.\nAlthough the parties disagree on what action the court should take in this writ proceeding, they all object to the matter being remanded to the Hearing Board for further consideration.\nWe likewise held in appeal No. A148508 that whether styled as a challenge directly under CEQA or a writ proceeding under section 40864, Friends' challenge to the issuance of an ATC appealed to the Hearing Board is subject to judicial review under administrative mandamus (Civ. Proc. Code \u00a7 1094.5 ). (Friends of Outlet Creek v. Mendocino County Air Quality Management District et al., supra, A148508 [nonpub. opn.].)\nSome of the foregoing analysis is taken from an opinion that was ordered depublished upon grant of review of an issue unrelated to the effect of a tie vote. (See Today's Fresh Start, Inc. v. Los Angeles County Office of Education (2013) 57 Cal.4th 197, 210, 159 Cal.Rptr.3d 358, 303 P.3d 1140 [noting without analysis that State Board of Education's tie vote amounted to affirmation of county board's decision].) We find the Court of Appeal's analysis persuasive. (Venoco, Inc. v. Gulf Underwriters Ins. Co. (2009) 175 Cal.App.4th 750, 763, fn. 1, 96 Cal.Rptr.3d 409 [\"We read [an unpublished decision]. Its reasoning is impeccable. Too bad we cannot cite it.\"]; People v. McDaniels (1994) 21 Cal.App.4th 1560, 1566, fn. 2, 27 Cal.Rptr.2d 245 [analysis in unpublished opinion may properly be considered].)",
+        "type": "majority",
+        "author": "Humes, P.J."
+      }
+    ],
+    "attorneys": [
+      "Adam Klare Guernsey, Harrison Temblador Hungerford & Johnson LLP, 980 9th Street, Suite 1400, Sacramento, CA 95814, for Petitioner, Grist Creek Aggregates LLC.",
+      "Terry Nan Gross, P.O. Box 124, Elk, CA 95432, for Real Party in Interest, Mendocino County Air Quality Management District.",
+      "Rachel Doughty, Greenfire Law, 1202 Oregon Street, Berkeley, CA 94702, for Real Party in Interest, Friends of Outlet Creek.",
+      "David Joseph Rapport, Rapport & Marston, 405 West Perkins Street, Ukiah, CA 95482, for Real Party in Interest, Hearing Board of the Mendocino County Air Quality Management District."
+    ],
+    "corrections": "",
+    "head_matter": "GRIST CREEK AGGREGATES, LLC, Petitioner,\nv.\nThe SUPERIOR COURT of Mendocino County, Respondent;\nMendocino County Air Quality Management District et al., Real Parties in Interest.\nA149861\nCourt of Appeal, First District, Division 1, California.\nFiled April 6, 2017\nAdam Klare Guernsey, Harrison Temblador Hungerford & Johnson LLP, 980 9th Street, Suite 1400, Sacramento, CA 95814, for Petitioner, Grist Creek Aggregates LLC.\nTerry Nan Gross, P.O. Box 124, Elk, CA 95432, for Real Party in Interest, Mendocino County Air Quality Management District.\nRachel Doughty, Greenfire Law, 1202 Oregon Street, Berkeley, CA 94702, for Real Party in Interest, Friends of Outlet Creek.\nDavid Joseph Rapport, Rapport & Marston, 405 West Perkins Street, Ukiah, CA 95482, for Real Party in Interest, Hearing Board of the Mendocino County Air Quality Management District.\nEn Banc"
+  },
+  "file_name": "0229-01",
+  "first_page_order": 229,
+  "last_page_order": 239
+}

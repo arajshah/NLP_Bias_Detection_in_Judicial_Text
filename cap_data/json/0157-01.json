@@ -1,0 +1,398 @@
+{
+  "id": 12513534,
+  "name": "CASIOPEA BOVET, LLC, Plaintiff and Appellant, v. John CHIANG, as State Controller, etc., Defendant and Respondent.",
+  "name_abbreviation": "Casiopea Bovet, LLC v. Chiang",
+  "decision_date": "2017-05-17",
+  "docket_number": "D070797",
+  "first_page": "157",
+  "last_page": "164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 157"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 656"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "136 Cal.Rptr.3d 630",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "203 Cal.App.4th 81",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4248571
+      ],
+      "pin_cites": [
+        {
+          "page": "95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/203/0081-01"
+      ]
+    },
+    {
+      "cite": "811 F.3d 1144",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4081677
+      ],
+      "pin_cites": [
+        {
+          "page": "1150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/811/1144-01"
+      ]
+    },
+    {
+      "cite": "309 P.2d 809",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.2d 338",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4388628
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "343"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/48/0338-01"
+      ]
+    },
+    {
+      "cite": "179 Cal.Rptr. 16",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Cal.App.3d 641",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2070191
+      ],
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "645"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/126/0641-01"
+      ]
+    },
+    {
+      "cite": "63 Cal.Rptr.3d 537",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Cal.App.4th 659",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5698509
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "668-669"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/153/0659-01"
+      ]
+    },
+    {
+      "cite": "70 Cal.Rptr.2d 255",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Cal.App.4th 342",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Cal.Rptr.2d 804",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Cal.App.4th 765",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1151117
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "775"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/102/0765-01"
+      ]
+    },
+    {
+      "cite": "58 P.2d 931",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Cal.App.2d 681",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2270984
+      ],
+      "pin_cites": [
+        {
+          "page": "682-683"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/14/0681-01"
+      ]
+    },
+    {
+      "cite": "87 Cal.Rptr.2d 358",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Cal.App.4th 1300",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        194274
+      ],
+      "pin_cites": [
+        {
+          "page": "1306"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/73/1300-01"
+      ]
+    },
+    {
+      "cite": "163 Cal.Rptr.3d 911",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Cal.App.4th 304",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6053536
+      ],
+      "pin_cites": [
+        {
+          "page": "310"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/221/0304-01"
+      ]
+    },
+    {
+      "cite": "210 P.3d 1110",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Cal.Rptr.3d 501",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Cal.4th 1323",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3896132
+      ],
+      "pin_cites": [
+        {
+          "page": "1328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/46/1323-01"
+      ]
+    },
+    {
+      "cite": "150 Cal.Rptr.3d 813",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "212 Cal.App.4th 163",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3701046
+      ],
+      "pin_cites": [
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/212/0163-01"
+      ]
+    },
+    {
+      "cite": "121 Cal.Rptr.3d 151",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Cal.App.4th 21",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6053499
+      ],
+      "pin_cites": [
+        {
+          "page": "32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/192/0021-01"
+      ]
+    },
+    {
+      "cite": "207 Cal.Rptr.3d 703",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.App.5th 568",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12435563
+      ],
+      "pin_cites": [
+        {
+          "page": "577"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/3/0568-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 843,
+    "char_count": 16621,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2586538829097758
+    },
+    "sha256": "787be5bf662a044aa0facf7a0ac90172212e43c87d27156d81c90b981f135f77",
+    "simhash": "1:8440ed0bc87a17a3",
+    "word_count": 2600
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CASIOPEA BOVET, LLC, Plaintiff and Appellant,\nv.\nJohn CHIANG, as State Controller, etc., Defendant and Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "McCONNELL, P.J.\nINTRODUCTION\nCasiopea Bovet, LLC (Casiopea) appeals a judgment on the pleadings granted in favor of the California State Controller (Controller) on the basis Casiopea could not claim escheated property under the Unclaimed Property Law (Code of Civ. Proc., \u00a7 1500 et seq. ) as an assignee of Financial Title Company (Financial Title) because Financial Title was a suspended corporation (Rev. & Tax. Code, \u00a7 23301 ), which lacked legal capacity to prosecute an action. (City of San Diego v. San Diegans for Open Government (2016) 3 Cal.App.5th 568, 577, 207 Cal.Rptr.3d 703 (City of San Diego ).) Casiopea contends (1) the penalty provisions of Revenue and Taxation Code section 23301 should not apply to a claim made pursuant to an assignment ordered under the Enforcement of Judgments Law (\u00a7 680.010 et seq.), as distinguished from a voluntary assignment under Civil Code section 954 ; (2) Casiopea, as an assignee, is an \"innocent third party\" and should be able to claim the property under equitable principles; and (3) the court abused its discretion in denying Casiopea's request for continuance or leave to amend its complaint. We disagree with each of these contentions and affirm the judgment.\nBACKGROUND\nCasiopea obtained a default judgment on October 23, 2008, against Financial Title in the amount of $67,409, apparently related to a dispute about a commercial lease. The monetary portion of the judgment reflected past due rent, holdover damages, attorney fees, and costs. With interest accruing at 10 percent per annum from the date of the judgment, the total amount due now exceeds $125,000.\nThe California Franchise Tax Board suspended Financial Title's \"powers, rights and privileges\" in September 2013. Thereafter, the San Mateo County Superior Court entered an order assigning to Casiopea certain funds held by the Controller on behalf of Financial Title. The assignment was made subject to any tax liens and proration of the funds between Casiopea's judgment and another judgment, as the Controller saw fit.\nCasiopea submitted claims to the Controller seeking unclaimed property held on behalf of Financial Title as escheated funds. The Controller denied the claims for escheated funds on August 25, 2014. The Controller cited a reason for denial was Financial Title's status as a suspended corporation made it incapable of exercising its corporate powers, rights, or privileges for any business purpose and, therefore, lacked capacity to claim the funds until its suspension is lifted. As a result, Casiopea had no basis for its claim to the funds.\nCasiopea filed this action on November 20, 2014, 87 days after the Controller denied its claim. Casiopea sought an order, pursuant to section 1541, confirming it is the owner of the escheated properties held by the Controller for Financial Title and an order directing the Controller to turn over the identified funds and property. The operative second amended complaint alleged Casiopea was assigned Financial Title's interest and right to payment in the identified funds held by the Controller for Financial Title up to the amount necessary to satisfy Casiopea's judgment. Casiopea alleged it claimed \"ownership to the property identified ... only to those items of property to which [Financial Title], the judgment debtor ..., held and/or currently holds a legal ownership interest.\"\nThe court granted the Controller's motion for judgment on the pleadings concluding Casiopea, as an assignee of a suspended corporation, was barred from bringing this action because it took the assignment subject to all defenses that could have been asserted against Financial Title. The court found the fact Casiopea was assigned Financial Title's interest by court order rather than by an agreement with Financial Title to be a distinction without a difference. The court also concluded the 90-day statute of limitations under section 1541 ran during the period Financial Title was suspended so even a revival of Financial Title's corporate powers could not revive this action. The court granted the motion without leave to amend.\nDISCUSSION\nI\nWe review a judgment on the pleadings independently, applying the same rules governing review of an order sustaining a general demurrer. \"A defendant's motion for judgment on the pleadings should be granted if, under the facts as alleged in the pleading or subject to judicial notice, the complaint fails to state facts sufficient to constitute a cause of action. [Citation.] We accept the complaint's properly pleaded factual allegations as true and give them a liberal construction. [Citations.] We do not accept as true 'any contentions, deductions or conclusions of fact or law contained therein.' \" (County of Orange v. Association of Orange County Deputy Sheriffs (2011) 192 Cal.App.4th 21, 32, 121 Cal.Rptr.3d 151.)\nII\nGeneral Legal Principles\nCasiopea contends the \"crux of the action is whether a judgment creditor can enforce an assignment (issued pursuant to the Enforcement of Judgments Law) for escheated property (pursuant to the Unclaimed Property Law) where the judgment debtor is a suspended corporation, subject to certain penalties (pursuant to the Rev. & Tax. Code).\" We review the general principles applicable to each.\nA\nSection 708.510 provides, upon a noticed motion by a judgment creditor, a court \"may order the judgment debtor to assign to the judgment creditor ... all or part of a right to payment due or to become due, whether or not the right is conditioned on future developments ....\" This section provides \"an optional procedure for reaching assignable forms of property that are subject to levy, such as accounts receivable, general intangibles, judgments, and instruments. This section does not make any property assignable that is not already assignable. This remedy may be used alone or in conjunction with other remedies provided in [the Enforcement of Judgments Law] for reaching rights to payments, such as execution, orders in examination proceedings, creditors' suits, and receivership.\" (Legis. Com., com., 17 West's Ann. Code Civ. Proc. (2009 ed.) foll. \u00a7 708.510, p. 383.)\nB\n\" 'The [Unclaimed Property Law] governs the state's handling and disposition, generally through the controller, of property such as bank accounts and securities, held by entities such as banks, brokerage firms, and insurance companies, the owners of which have not acknowledged or claimed their interest in for several years, generally three. Such property by statute escheats, nonpermanently, and the holder must transfer it to the controller.' \" (Weingarten Realty Investors v. Chiang (2012) 212 Cal.App.4th 163, 168, 150 Cal.Rptr.3d 813 (Weingarten ); \u00a7 1510, et seq.) \" 'The [Unclaimed Property Law] is not a permanent or \"true\" escheat statute. Instead, it gives the state custody and use of unclaimed property until such time as the owner claims it. Its dual objectives are \"to protect unknown owners by locating them and restoring their property to them and to give the state rather than the holders of unclaimed property the benefit of the use of it, most of which experience shows will never be claimed.\" ' \"\n(Azure Limited v. I-Flow Corp. (2009) 46 Cal.4th 1323, 1328, 96 Cal.Rptr.3d 501, 210 P.3d 1110.) Section 1540 sets forth the procedures for the filing and processing of claims for escheated property.\nC\n\"A corporation that has had its powers suspended 'lacks the legal capacity to prosecute or defend a civil action during its suspension.' [Citation.] 'The \"corporate powers, rights and privileges\" of any domestic corporate taxpayer may be suspended for failure to pay certain taxes and penalties. (Rev. & Tax. Code, \u00a7 23301.) This means the suspended corporation cannot sell, transfer or exchange real property in California, and contracts entered into during the time of suspension are voidable ... through legal action. [Citation.]\n... Nor, during the period of suspension, may the corporation prosecute or defend an action, seek a writ of mandate, appeal from an adverse judgment, or renew a judgment obtained before suspension.' \" (City of San Diego, supra, 3 Cal.App.5th at p. 577, 207 Cal.Rptr.3d 703.) \"The purpose of Revenue and Taxation Code section 23301 'is to \"prohibit the delinquent corporation from enjoying the ordinary privileges of a going concern\" [citation], and to pressure it to pay its taxes [citation].' \" (Cal-Western Business Services, Inc. v. Corning Capital Group (2013) 221 Cal.App.4th 304, 310, 163 Cal.Rptr.3d 911 (Cal-Western ), quoting Grell v. Laci Le Beau Corp. (1999) 73 Cal.App.4th 1300, 1306, 87 Cal.Rptr.2d 358.)\nIII\nApplication\nCasiopea contends it should not be subject to a lack of capacity defense based upon Financial Title's corporate suspension because it obtained a judicial assignment pursuant to section 708.510. Casiopea contends a judicial assignment under section 708.510 is distinct from a voluntary assignment under Civil Code section 954 of an interest arising from \"the violation of a right of property\" or from an obligation and should be treated differently. However, other than pointing to the fact the assignments arise from different statutes, Casiopea has cited no authority suggesting the rights assigned by judicial order are in any way different or superior to the rights assigned voluntarily. We are not persuaded the statutory basis for the assignment makes a difference.\nWhen an assignee acquires a claim from a corporation lacking capacity to sue under Revenue and Taxation Code section 23301, the assignee takes upon itself the same lack of capacity. Section 368 states, \"the action by the assignee is without prejudice to any set-off, or other defense existing at the time of, or before, notice of the assignment.\" An \" ' \"assignee 'stands in the shoes' of the assignor, taking his rights and remedies, subject to any defenses which the obligor has against the assignor prior to notice of the assignment.\" ' \" (Cal-Western, supra, 221 Cal.App.4th at p. 311, 163 Cal.Rptr.3d 911, italics omitted; id . at p. 312, 163 Cal.Rptr.3d 911 [defense based on assignor's lack of capacity to sue for corporate suspension barred assignee from enforcing assignor's judgment]; Cleveland v. Gore Bros. Inc. (1936) 14 Cal.App.2d 681, 682-683, 58 P.2d 931 [assignee of a suspended corporation subject to the same incapacities with respect to commencement of actions during the period in which corporate powers and rights are suspended].) Similarly, under section 708.510, a court can only assign a judgment creditor's \"interest in the property or 'right to payment due.' \" (Weingarten, supra, 212 Cal.App.4th at p. 167, 150 Cal.Rptr.3d 813.) The assignee's \"rights are no greater than those of the assignor.\" (Road Sprinkler Fitters Local Union No. 669 v. G & G Fire Sprinklers, Inc. (2002) 102 Cal.App.4th 765, 775, 125 Cal.Rptr.2d 804 ; see Truck Ins. Exchange v. Superior Court (1997) 60 Cal.App.4th 342, 350, 70 Cal.Rptr.2d 255 [\"subrogated insurer stands in the shoes of the insured and has no greater rights than the insured\"].) Therefore, Casiopea cannot do what Financial Title cannot do. It cannot recover from the state under the Unclaimed Property Law procedures escheated property held in the name of Financial Title based upon the assignment.\nAn equitable exception is not available to Casiopea to prevent application of Revenue and Taxation Code section 23301. Unlike the authorities cited by Casiopea, it is asserting Financial Title's right to the escheated property; it is not bringing this action based upon an independent right or harm. (See Performance Plastering v. Richmond American Homes of California Inc. (2007) 153 Cal.App.4th 659, 668-669, 63 Cal.Rptr.3d 537 [lack of capacity of a suspended corporation makes a contract voidable and third party beneficiary may have standing to enforce the contract]; Biggs v. California Insurance Guarantee Assn. (1981) 126 Cal.App.3d 641, 645, 179 Cal.Rptr. 16 [California Insurance Guarantee Association has its own statutory powers and protections and \"does not 'stand in the shoes' of the insolvent insurer for all purposes\"]; Reed v. Norman (1957) 48 Cal.2d 338, 343, 309 P.2d 809 [stockholder derivative action does not exercise rights of a suspended corporation, but uses the corporate channel to enhance stockholders' interests in enforcing fiduciary interests of the directors of the corporation]; Bozzio v. EMI Grp. Ltd. (9th Cir. 2016) 811 F.3d 1144, 1150 [incapacity of a suspended corporation to a contract is not an absolute bar to a lawsuit by a third party beneficiary of the contract].)\nWe do not agree this interpretation undermines public policy of the Unclaimed Property Law, the Enforcement of Judgments Law, or the Revenue and Taxation Code. Allowing an assignee of a suspended corporation to obtain unclaimed property under the Unclaimed Property Law procedures would allow the suspended corporation to enjoy the ordinary privileges of an ongoing concern by resolving its debt without the risk of paying taxes, undermining the purpose of Revenue and Taxation Code section 23301. (Grell, supra, 73 Cal.App.4th at p. 1306, 87 Cal.Rptr.2d 358.) It makes no difference if the assignment is voluntary or through a judicial assignment made in the enforcement of judgment process for a corporation refusing to pay a judgment or obligation. The result is the same and should not be permitted. Additionally, allowing an assignee to claim escheated property would place the Controller in the position of validating third party debt and resolving competing claims among judgment creditors, which is not typically its role. (See Assem. Com. on Judiciary, Rep. on Assem. Bill No. 1275 (2013-2014 Reg. Sess.) May 7, 2013, pp. 3-4.)\nFinally, the court did not err in denying Casiopea's request for a continuance or leave to amend its complaint. \"The statute of limitations is regarded as a substantive defense. If an action is commenced while the corporation is suspended, the corporation's subsequent revival does not prevent the running of the statute of limitations; if the statute runs prior to revival, the corporation's actions will be time-barred, even if the complaint would have otherwise been timely.\" (City of San Diego, supra, 3 Cal.App.5th at p. 579, 207 Cal.Rptr.3d 703.) Section 1541 provides a party aggrieved by a decision of the Controller must bring the action \"within 90 days after the decision of the Controller.\" The 90-day statute of limitations has long since expired and revival of the corporate status by either Financial Title or Casiopea cannot revive the instant action.\nWhether or not Casiopea may have other avenues of relief either through other provisions of the Enforcement of Judgments Law or as a result of a dissolution of Financial Title is not before us at this juncture. Casiopea has not met its burden to establish how it could amend its complaint to state a cause of action. \" 'The assertion of an abstract right to amend does not satisfy this burden.' [Citation.] The plaintiff[s] must clearly and specifically state 'the legal basis for amendment, i.e., the elements of the cause of action,' as well as the 'factual allegations that sufficiently state all required elements of that cause of action.' \" ( Maxton v. Western States Metals (2012) 203 Cal.App.4th 81, 95, 136 Cal.Rptr.3d 630.) DISPOSITION\nThe judgment is affirmed. Respondent shall recover its costs on appeal.\nWE CONCUR:\nHALLER, J.\nDATO, J.\nAll further statutory references are to the Code of Civil Procedure unless otherwise stated.\nIn Weingarten, supra, 212 Cal.App.4th at page 165, 150 Cal.Rptr.3d 813, this court concluded an assignee judgment creditor could use section 1540 to recover unclaimed property of a judgment debtor that escheated to the state prior to the assignment. The Legislature amended section 1540 in 2013 to require a claimant of escheated property to have been an owner of the property prior to its escheat. (\u00a7 1540, subd. (d); Stats. 2013, ch. 128, \u00a7 1.) The trial court determined the amended statute did not apply retroactively and permitted this case to proceed. The retroactivity issue is not before us in this appeal.",
+        "type": "majority",
+        "author": "McCONNELL, P.J."
+      }
+    ],
+    "attorneys": [
+      "Kirby & McGuinn, Kimberley V. Deede, and Elaine L. Chan, San Diego, for Plaintiff and Appellant.",
+      "Xavier Becerra, Attorney General, Douglas J. Woods, Assistant Attorney General, Marc A. LeForestier, Sacramento, and Nancy J. Doig, Deputy Attorneys General, for Defendant and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "CASIOPEA BOVET, LLC, Plaintiff and Appellant,\nv.\nJohn CHIANG, as State Controller, etc., Defendant and Respondent.\nD070797\nCourt of Appeal, Fourth District, Division 1, California.\nFiled May 17, 2017\nKirby & McGuinn, Kimberley V. Deede, and Elaine L. Chan, San Diego, for Plaintiff and Appellant.\nXavier Becerra, Attorney General, Douglas J. Woods, Assistant Attorney General, Marc A. LeForestier, Sacramento, and Nancy J. Doig, Deputy Attorneys General, for Defendant and Respondent."
+  },
+  "file_name": "0157-01",
+  "first_page_order": 157,
+  "last_page_order": 164
+}

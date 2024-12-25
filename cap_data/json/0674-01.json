@@ -1,0 +1,188 @@
+{
+  "id": 12513575,
+  "name": "COUNTY OF LOS ANGELES BOARD OF SUPERVISORS et al., Petitioners, v. The SUPERIOR COURT of Los Angeles County, Respondent; ACLU of Southern California et al., Real Parties in Interest.",
+  "name_abbreviation": "Cnty. of L. A. Bd. of Supervisors v. Superior Court of L. A. Cnty.",
+  "decision_date": "2017-06-05",
+  "docket_number": "No. B257230",
+  "first_page": "674",
+  "last_page": "682",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 674"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 1264"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "159 Cal.Rptr.3d 789",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Cal.App.4th 889",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4266185
+      ],
+      "pin_cites": [
+        {
+          "page": "911"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/217/0889-01"
+      ]
+    },
+    {
+      "cite": "205 Cal.Rptr. 242",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Cal.App.3d 86",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2161974
+      ],
+      "pin_cites": [
+        {
+          "page": "93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/159/0086-01"
+      ]
+    },
+    {
+      "cite": "125 Cal.Rptr.2d 371",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Cal.App.4th 268",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1151101
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "277, fn. 1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/102/0268-01"
+      ]
+    },
+    {
+      "cite": "219 P.3d 736",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Cal.Rptr.3d 758",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Cal.4th 725",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3899200
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/47/0725-01"
+      ]
+    },
+    {
+      "cite": "2 Cal.5th 282",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12513367
+      ],
+      "weight": 53,
+      "pin_cites": [
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-rptr-3d/212/0107-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 923,
+    "char_count": 26045,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25865832332309724
+    },
+    "sha256": "96d0cecfa33b04e9d52e81f29e2fe44ccd77dbf403ef00d7d7a37bd00c18cea8",
+    "simhash": "1:3ae8c6b592c293ea",
+    "word_count": 4002
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COUNTY OF LOS ANGELES BOARD OF SUPERVISORS et al., Petitioners,\nv.\nThe SUPERIOR COURT of Los Angeles County, Respondent;"
+    ],
+    "opinions": [
+      {
+        "text": "ALDRICH, J.\nThis writ proceeding returns to us on remand from the California Supreme Court. Real parties in interest the ACLU of Southern California and Eric Preven (collectively the ACLU) sought disclosure under the California Public Records Act (PRA) of billing invoices sent to petitioner the County of Los Angeles Board of Supervisors (the County) by its outside attorneys. The superior court granted the ACLU's petition for writ of mandate and compelled disclosure, and the County challenged that decision via a petition for a writ of mandate in this court. In our original opinion, we concluded that the subject invoices were confidential communications within the meaning of Evidence Code section 952, and therefore were protected by the attorney-client privilege and exempt from disclosure under Government Code section 6254, subdivision (k). Accordingly, we granted the County's writ petition. The California Supreme Court granted review, reversed our decision, and remanded for further proceedings. (Los Angeles County Bd. of Supervisors v. Superior Court (2016) 2 Cal.5th 282, 300, 212 Cal.Rptr.3d 107, 386 P.3d 773 (Los Angeles County ).) Applying the analysis mandated by Los Angeles County , and having considered supplemental briefs from the parties, we grant the County's writ petition and remand for further proceedings.\nFACTUAL AND PROCEDURAL BACKGROUND\n1. The ACLU's PRA request and the County's response\nFollowing several publicized inquiries into allegations of excessive force in the Los Angeles County jail system, the ACLU submitted a PRA request to the County and the Office of the Los Angeles County Counsel for invoices specifying the amounts billed by any law firm in connection with nine different lawsuits alleging excessive force against jail inmates. The ACLU sought the documents to enable it to \" 'determine what work was being done on the lawsuits, the scope of that work, the quality of the representation, and the efficiency of the work.' \"\nThe County agreed to produce copies of the requested invoices related to three such lawsuits that were no longer pending, with attorney-client privileged and work product information redacted. It declined to provide invoices for the remaining six lawsuits, which were still pending. According to the County, the \"detailed description, timing, and amount of attorney work performed, which communicates to the client and discloses attorney strategy, tactics, thought processes and analysis\" were privileged and therefore exempt from disclosure under Government Code section 6254, subdivision (k), as well as under the PRA's \"catchall\" exemption, Government Code section 6255, subdivision (a). It also argued that the information contained in the invoices was the same type of information deemed to be confidential under Business and Professions Code sections 6148 and 6149, and therefore these provisions supported the conclusion that the privilege applied.\n2. The ACLU's petition for writ of mandate in the superior court\nThe ACLU filed a petition for writ of mandate in the superior court seeking to compel the County to \"comply with the [PRA]\" and disclose the requested records for all nine lawsuits. The ACLU averred: \"Current and former jail inmates have brought numerous lawsuits against the County and others for alleged excessive force. The County has retained a number of law firms to defend against these suits. It is believed that the selected law firms may have engaged in 'scorched earth' litigation tactics and dragged out cases even when a settlement was in the best interest of the County or when a settlement was likely. Given the issues raised by the allegations in these complaints and the use of taxpayer dollars to pay for the alleged use of scorched earth litigation tactics, the public has a right and interest in ensuring the transparent and efficient use of taxpayer money.\" The ACLU argued that the billing records were not generally protected by the attorney-client or work product privileges, or by the Business and Professions Code sections, and did not fall within any of the statutory exceptions to the PRA.\nThe superior court granted the petition. It held that the County had failed to show the billing records were attorney-client privileged communications or fell within the PRA's \"catchall\" exemption. Accordingly, it ordered the County to release \"all invoices issued by the County's outside attorneys in the nine cases specified\" in the PRA request. However, it allowed that \"[t]o the extent any documents that are responsive to the Requests reflect an attorney's legal opinion or advice, or reveal an attorney's mental impressions or theories of the case, such limited information may be redacted.\"\n3. The County's petition for writ of mandate in this court and the ACLU's petition for review\nThe County then filed a petition for writ of mandate in this court. We granted the petition and vacated the superior court's ruling. Relying primarily on Costco Wholesale Corp. v. Superior Court (2009) 47 Cal.4th 725, 101 Cal.Rptr.3d 758, 219 P.3d 736 (Costco ), we concluded that the invoices were privileged communications within the meaning of Evidence Code section 952, and therefore exempt from PRA disclosure. We did not reach the parties' contentions regarding the \"catchall\" exemption or Business and Professions Code sections 6148 and 6149.\nThe Supreme Court then granted the ACLU's petition for review. A divided panel of the court reversed our decision and remanded for further proceedings.\nDISCUSSION\n1. The Los Angeles County decision\nThe majority in Los Angeles County reasoned as follows. The court first reiterated the PRA's intent to increase freedom of information, its constitutional underpinning, and the relevant exceptions to the disclosure requirements. (Los Angeles County, supra, 2 Cal.5th at pp. 290-292, 212 Cal.Rptr.3d 107, 386 P.3d 773.) It then noted that the fundamental purpose of the attorney-client privilege-which holds a \"special place\" in California law-is to safeguard the confidential relationship between client and attorney and promote frank discussion between the two. (Id. at p. 292, 212 Cal.Rptr.3d 107, 386 P.3d 773.)\nTurning to the \"key question\" of whether \"treating invoices as sometimes nonprivileged\" would undermine the fundamental purpose of the attorney-client privilege, the court implemented a content-based test, reasoning that the attorney-client privilege \"turns on content and purpose, not form.\" (Los Angeles County, supra, 2 Cal.5th at pp. 293, 298, 212 Cal.Rptr.3d 107, 386 P.3d 773.) Relying heavily on former Chief Justice George's concurring opinion in Costco, supra, 47 Cal.4th 725, 101 Cal.Rptr.3d 758, 219 P.3d 736, the court explained: \"The attorney-client privilege only protects communications between attorney and client made for the purpose of seeking or delivering the attorney's legal advice or representation. Evidence Code section 952 twice states that the privilege extends only to those communications made 'in the course of [the attorney-client] relationship,' a construction suggesting a nexus between the communication and the attorney's professional role. The Evidence Code also repeatedly refers to 'consultation' between the attorney and client. [Citations.] [\u00b6] These references underscore that the privilege does not apply to every single communication transmitted confidentially between lawyer and client. Rather, the heartland of the privilege protects those communications that bear some relationship to the attorney's provision of legal consultation. [Citations.]\" (Los Angeles County , at pp. 293-294, 212 Cal.Rptr.3d 107, 386 P.3d 773 fn.omitted.) Thus, \"the inquiry turns on ... the link between the content of the communication and the types of communication that the attorney-client privilege was designed to keep confidential. In order for a communication to be privileged, it must be made for the purpose of the legal consultation, rather than some unrelated or ancillary purpose.\" (Id. at p. 297, 212 Cal.Rptr.3d 107, 386 P.3d 773.)\nInvoices, the court concluded, \"are generally not communicated for the purpose of legal consultation. Rather, they are communicated for the purpose of billing the client and, to the extent they have no other purpose or effect, they fall outside the scope of an attorney's professional representation.\" (Los Angeles County, supra, 2 Cal.5th at p. 295, 212 Cal.Rptr.3d 107, 386 P.3d 773.) Although invoices have an \"ancillary relationship\" to legal consultation and may convey \"some very general information about the process through which a client obtains legal advice,\" their \"purpose is to ensure proper payment for services rendered, not to seek or deliver the attorney's legal advice or representation.\" (Id. at pp. 295, 296, 212 Cal.Rptr.3d 107, 386 P.3d 773.) When a lawyer bills his or her client, \"the relationship evokes an arm's-length transaction between parties in the market for professional services more than it does the diligent but discreet conveyance of facts and advice that epitomizes the bond between lawyer and client.\" (Id. at p. 296, 212 Cal.Rptr.3d 107, 386 P.3d 773.)\nNevertheless, Los Angeles County recognized that although billing invoices are generally not made for the purpose of legal representation, \"the information contained within certain invoices may be within the scope of the privilege. To the extent that billing information is conveyed 'for the purpose of ... legal representation'-perhaps to inform the client of the nature or amount of work occurring in connection with a pending legal issue-such information lies in the heartland of the attorney-client privilege. And even if the information is more general, such as aggregate figures describing the total amount spent on continuing litigation during a given quarter or year, it may come close enough to this heartland to threaten the confidentiality of information directly relevant to the attorney's distinctive professional role. The attorney-client privilege protects the confidentiality of information in both those categories, even if the information happens to be transmitted in a document that is not itself categorically privileged. When a legal matter remains pending and active, the privilege encompasses everything in an invoice, including the amount of aggregate fees. This is because, even though the amount of money paid for legal services is generally not privileged, an invoice that shows a sudden uptick in spending 'might very well reveal much of [a government agency]'s investigative efforts and trial strategy.' [Citation.] Midlitigation swings in spending, for example, could reveal an impending filing or outsized concern about a recent event.\" (Los Angeles County , supra , 2 Cal.5th at p. 297, 212 Cal.Rptr.3d 107, 386 P.3d 773.)\nContinuing, the court differentiated between pending and concluded matters. \"The same may not be true for fee totals in legal matters that concluded long ago. In contrast to information involving a pending case, a cumulative fee total for a long-completed matter does not always reveal the substance of legal consultation. The fact that the amounts in both cases were communicated in an invoice transmitted confidentially from lawyer to client does not automatically make this information privileged. Instead, the privilege turns on whether those amounts reveal anything about legal consultation. Asking an agency to disclose the cumulative amount it spent on long-concluded litigation-with no ongoing litigation to shed light on the context from which such records are arising-may communicate little or nothing about the substance of legal consultation. But when those same cumulative totals are communicated during ongoing litigation, this real-time disclosure of ongoing spending amounts can indirectly reveal clues about legal strategy, especially when multiple amounts over time are compared.\" (Los Angeles County, supra, 2 Cal.5th at p. 298, 212 Cal.Rptr.3d 107, 386 P.3d 773.) \"Even while the scope of the attorney-client privilege remains constant over time, the same information (for example, the cumulative amount of money that was spent on a case) takes on a different significance if it is revealed during the course of active litigation. During active litigation, that information can threaten the confidentiality of legal consultation by revealing legal strategy. But there may come a point when this very same information no longer communicates anything privileged, because it no longer provides any insight into litigation strategy or legal consultation.\" (Id. at p. 298, 212 Cal.Rptr.3d 107, 386 P.3d 773.) The court concluded that \"the contents of an invoice are privileged only if they either communicate information for the purpose of legal consultation or risk exposing information that was communicated for such a purpose. This latter category includes any invoice that reflects work in active and ongoing litigation.\" (Id. at p. 300, 212 Cal.Rptr.3d 107, 386 P.3d 773.)\nConsistent with its content-based test and conclusion that invoices are not categorically privileged, Los Angeles County requires PRA disclosure of nonprivileged content in an invoice regardless of whether the invoice contains other, privileged information. The court explained: \"As with any of the PRA's statutory exemptions, '[t]he fact that parts of a requested document fall within the terms of an exemption does not justify withholding the entire document.' [Citation.] What the PRA appears to offer is a ready solution for records blending exempt and nonexempt information: 'Any reasonably segregable portion of a record shall be available for inspection by any person requesting the record after deletion of the portions that are exempted by law.' (\u00a7 6253, subd. (a).) While this provision does not dictate which parts of a public record are privileged, it requires public agencies to use the equivalent of a surgical scalpel to separate those portions of a record subject to disclosure from privileged portions. At the same time, the statute places an express limit on this surgical approach-public agencies are not required to attempt selective disclosure of records that are not 'reasonably segregable.'\n[Citation.] To the extent this standard is ambiguous, the PRA must be construed in ' \"whichever way will further the people's right of access.\" ' [Citations.]\" (Los Angeles County, supra, 2 Cal.5th at p. 292, 212 Cal.Rptr.3d 107, 386 P.3d 773.) Thus, the \" 'fact that parts of a requested document fall within the terms of an exemption does not justify withholding the entire document.' \" (Id. at p. 300, 212 Cal.Rptr.3d 107, 386 P.3d 773.)\n2. Application here\nApplying Los Angeles County , it is clear that insofar as the superior court ordered PRA disclosure of invoices related to pending matters, it erred.\nLos Angeles County teaches that invoices related to pending or ongoing litigation are privileged and are not subject to PRA disclosure. (Los Angeles County, supra, 2 Cal.5th at p. 297, 212 Cal.Rptr.3d 107, 386 P.3d 773 [\"When a legal matter remains pending and active, the privilege encompasses everything in an invoice, including the amount of aggregate fees\"].)\nThe ACLU represents that during the pendency of its appeal, four of the six formerly pending cases have been concluded. They aver that these \"changed circumstances have impacted the County's obligations\" under the PRA. As to the invoices for closed matters that the County previously provided, the ACLU complains the County used an incorrect, overbroad standard when making redactions, and insists it is entitled to \"evidentiary review of those redactions.\" It seeks disclosure of specific billing entries and \" 'descriptions of work performed' \" to enable it, for example, to determine \"how much time the County's attorneys ... spent opposing a motion to compel that the court granted and for which the court found the [C]ounty's legal position for refusing to produce documents completely untenable.\" Thus, the ACLU suggests the \"trial court should be directed to evaluate the redactions\" in the closed cases to determine whether additional information should be disclosed. The ACLU also avers that the trial court should be \"directed to evaluate the invoices\" in the matters that have concluded during the pendency of their appeal to determine if information must be disclosed.\nWe agree that the matter must be remanded for a hearing as to whether fee totals related to concluded matters must be disclosed. Los Angeles County explained that \"fee totals in legal matters that concluded long ago\" \"may not\" be confidential. (Los Angeles County, supra, 2 Cal.5th at p. 298, 212 Cal.Rptr.3d 107, 386 P.3d 773.) Whether such fee totals must be disclosed under the PRA depends on \"whether those amounts reveal anything about legal consultation\" or \"communicate[ ] anything privileged\" by providing insight into litigation strategy or legal consultation. (Ibid. ) Thus, whether disclosure of fee totals in long-concluded litigation is privileged is a factual question for the trial court in the first instance. (See generally Weingarten v. Superior Court (2002) 102 Cal.App.4th 268, 277, fn. 1, 125 Cal.Rptr.2d 371 ; Converse v. Fong (1984) 159 Cal.App.3d 86, 93, 205 Cal.Rptr. 242.)\nThe ACLU is incorrect, however, that the superior court must review other redacted portions of the invoices in concluded matters. Los Angeles County 's conclusion that information in billing invoices is sometimes subject to PRA disclosure appears to be limited to fee totals. Los Angeles County explained that whether the attorney-client privilege applies turns on whether amounts billed reveal anything about legal consultation. (Los Angeles County, supra, 2 Cal.5th at p. 298, 212 Cal.Rptr.3d 107, 386 P.3d 773.) Thus, billing entries or portions of invoices that \"provide[ ] any insight into litigation strategy or legal consultation,\" reveal the substance of legal consultation, or reveal \"clues about legal strategy,\" are privileged. (Id. at pp. 297-298, 212 Cal.Rptr.3d 107, 386 P.3d 773.) The court explained, \"[t]o the extent that billing information is conveyed 'for the purpose of ... legal representation'-perhaps to inform the client of the nature or amount of work occurring in connection with a pending legal issue-such information lies in the heartland of the attorney-client privilege .\" (Id. at p. 297, 212 Cal.Rptr.3d 107, 386 P.3d 773, italics added.) Billing entries or portions of invoices that describe the work performed for a client therefore fall directly in the \"heartland\" protected by the privilege. As to such information, the Los Angeles County court does not appear to have differentiated between current and concluded matters. Instead, the court reasoned that such information is \"conveyed 'for the purpose of ... legal representation.' \" (Ibid . )\nWhen discussing information that might be unprivileged after a matter concludes, Los Angeles County pointedly did not discuss billing entries or other aspects of an attorney's invoice. Instead, it expressly limited its analysis to \"fee totals.\" (Los Angeles County, supra, 2 Cal.5th at pp. 298-300, 212 Cal.Rptr.3d 107, 386 P.3d 773.) The ACLU, of course, seeks information in the invoices precisely because it wishes to discern the County's legal strategy and uncover the nature of the work performed. Under Los Angeles County , these matters fall within the \"heartland\" of the privilege. (See id. at pp. 297-298, 212 Cal.Rptr.3d 107, 386 P.3d 773 [fee total information may become disclosable when it \"no longer provides any insight into litigation strategy or legal consultation\"].)\nOther than fee totals, we can conceive of nothing likely to be contained in a typical billing invoice besides time entries, that is, information from the lawyer to the client regarding the amount and nature of work performed. According to Los Angeles County , information regarding such billing entries is within the scope of the privilege. (Los Angeles County , supra , 2 Cal.5th at p. 297, 212 Cal.Rptr.3d 107, 386 P.3d 773.)\nMoreover, there is a logical reason why Los Angeles County likely limited post-litigation disclosure to fee totals. A trial court generally may not require a litigant to disclose assertedly attorney-client privileged information in order to rule upon the claim of privilege. (Costco, supra, 47 Cal.4th at p. 736, 101 Cal.Rptr.3d 758, 219 P.3d 736 ; Citizens for Ceres v. Superior Court (2013) 217 Cal.App.4th 889, 911, 159 Cal.Rptr.3d 789 [\"In general, the court cannot require disclosure for in camera review of materials assertedly protected by attorney-client privilege\"].) As Costco explained: \"Evidence Code section 915 provides, with exceptions not applicable here, that 'the presiding officer may not require disclosure of information claimed to be privileged under this division ... in order to rule on the claim of privilege....' [Citation.] Section 915 also prohibits disclosure of information claimed to be privileged work product under Code of Civil Procedure section 2018.030, subdivision (b), but, as to the work product privilege, if the court is unable to rule on the claim of privilege 'without requiring disclosure of the information claimed to be privileged, the court may require the person from whom disclosure is sought or the person authorized to claim the privilege, or both, to disclose the information in chambers out of the presence and hearing of all persons except the person authorized to claim the privilege and any other persons as the person authorized to claim the privilege is willing to have present.' [Citation.] No comparable provision permits in camera disclosure of information alleged to be protected by the attorney-client privilege.\" (Costco, supra, 47 Cal.4th at p. 736, 101 Cal.Rptr.3d 758, 219 P.3d 736, fn. omitted.)\nConsequently, and contrary to the ACLU's demands, a trial court faced with a claim that information contained in invoices is protected by the attorney-client privilege is not permitted, absent the consent of the party asserting the privilege, to examine the invoices to determine whether specific billing entries reveal anything about legal consultation or provide insight into litigation strategy. (See Costco, supra, 47 Cal.4th at pp. 737, 740, 101 Cal.Rptr.3d 758, 219 P.3d 736 ; Los Angeles County, supra, 2 Cal.5th at p. 298, 212 Cal.Rptr.3d 107, 386 P.3d 773 [information that reveals the substance of legal consultation or legal strategy is privileged].) Evidence Code section 915 thus would hamstring a trial court's efforts to determine whether specific invoice entries are privileged. On the other hand, a court is more likely to be able to rule on whether fee totals are privileged in light of the passage of time even absent examination of the particular invoices in question. Therefore, to the extent the trial court ordered portions of invoices other than fee totals disclosed, it erred.\nDISPOSITION\nThe petition is granted. The superior court is directed to vacate its order compelling the County to disclose records requested in the ACLU's July 1, 2013 PRA request. The court is directed to conduct a hearing to determine whether fee totals in any concluded matter should be disclosed. The parties are to bear their own costs of this writ proceeding. (Cal. Rules of Court, rule 8.493(a)(1)(B).)\nWe concur:\nEDMON, P.J.\nJOHNSON (MICHAEL), J.\nAs was true in our prior opinion, we need not reach two additional contentions the parties raised in their earlier briefing. The County argued that invoices related to pending matters were exempt from PRA disclosure because they fell within the PRA's \"catchall\" exemption (Gov. Code, \u00a7 6255, subd. (a) ). In light of our Supreme Court's ruling that the attorney-client privilege encompasses all content in invoices related to active matters (Los Angeles County, supra, 2 Cal.5th at pp. 297, 300, 212 Cal.Rptr.3d 107, 386 P.3d 773 ), we need not address application of the catchall exemption.\nSecond, the parties disagreed about whether Business and Professions Code sections 6148 and 6149 supported a conclusion that the information contained in invoices was privileged under Evidence Code section 952. Los Angeles County briefly addressed application of Business and Professions Code sections 6148 and 6149 and concluded these provisions supported its conclusion that invoices are not categorically privileged. The court explained that because the Legislature defined fee agreements and billing statements in one statutory section, but made only fee agreements expressly subject to the attorney-client privilege, the privilege \"was not intended to protect both fee agreements and invoices in the exact same way.\" (Los Angeles County, supra, 2 Cal.5th at p. 299, 212 Cal.Rptr.3d 107, 386 P.3d 773.) The Supreme Court's reasoning makes it unnecessary for us to address this question, and the parties do not raise it in their briefs after remand.\nJudge of the Los Angeles Superior Court, assigned by the Chief Justice pursuant to article VI, section 6 of the California Constitution.",
+        "type": "majority",
+        "author": "ALDRICH, J."
+      }
+    ],
+    "attorneys": [
+      "Mary C. Wickham, John F. Krattli, Mark J. Saladino, County Counsel, Roger H. Granbo, Assistant County Counsel, Jonathan McCaverty, Deputy County Counsel; Greines, Martin, Stein & Richland, Timothy T. Coates, Los Angeles, and Barbara W. Ravitz for Petitioners.",
+      "Horvitz & Levy, Lisa Perrochet, Steven S. Fleischman and Jean M. Doherty, Burbank, for Association of Southern California Defense Counsel as Amicus Curiae on behalf of Petitioners.",
+      "No appearance for Respondent.",
+      "Peter J. Eliasberg ; Davis Wright Tremaine, Jennifer L. Brockett, Rochelle L. Wilcox, Los Angeles, Colin D. Wells, San Francisco, Diana Palacios and Nicolas A. Jampol, Los Angeles, for Real Parties in Interest ACLU of Southern California and Eric Preven."
+    ],
+    "corrections": "",
+    "head_matter": "COUNTY OF LOS ANGELES BOARD OF SUPERVISORS et al., Petitioners,\nv.\nThe SUPERIOR COURT of Los Angeles County, Respondent;\nACLU of Southern California et al., Real Parties in Interest.\nNo. B257230\nCourt of Appeal, Second District, Division 3, California.\nFiled June 5, 2017\nMary C. Wickham, John F. Krattli, Mark J. Saladino, County Counsel, Roger H. Granbo, Assistant County Counsel, Jonathan McCaverty, Deputy County Counsel; Greines, Martin, Stein & Richland, Timothy T. Coates, Los Angeles, and Barbara W. Ravitz for Petitioners.\nHorvitz & Levy, Lisa Perrochet, Steven S. Fleischman and Jean M. Doherty, Burbank, for Association of Southern California Defense Counsel as Amicus Curiae on behalf of Petitioners.\nNo appearance for Respondent.\nPeter J. Eliasberg ; Davis Wright Tremaine, Jennifer L. Brockett, Rochelle L. Wilcox, Los Angeles, Colin D. Wells, San Francisco, Diana Palacios and Nicolas A. Jampol, Los Angeles, for Real Parties in Interest ACLU of Southern California and Eric Preven."
+  },
+  "file_name": "0674-01",
+  "first_page_order": 674,
+  "last_page_order": 682
+}

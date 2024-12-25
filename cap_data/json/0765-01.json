@@ -1,0 +1,388 @@
+{
+  "id": 12513582,
+  "name": "The PEOPLE, Plaintiff and Respondent, v. Johnny Jerome WILFORD, Defendant and Appellant.",
+  "name_abbreviation": "People v. Wilford",
+  "decision_date": "2017-06-12",
+  "docket_number": "D069888",
+  "first_page": "765",
+  "last_page": "775",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 765"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 827"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "460 P.2d 449",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Cal.Rptr. 577",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cal.3d 122",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1183268
+      ],
+      "pin_cites": [
+        {
+          "page": "130-133"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/1/0122-01"
+      ]
+    },
+    {
+      "cite": "395 U.S. 238",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1771759
+      ],
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "242-244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0238-01"
+      ]
+    },
+    {
+      "cite": "519 P.2d 561",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Cal.Rptr. 513",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Cal.3d 857",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2299840
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/10/0857-01"
+      ]
+    },
+    {
+      "cite": "347 P.3d 1130",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 9,
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Cal.Rptr.3d 139",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 9,
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Cal.4th 164",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6054556
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "178-179"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/61/0164-01"
+      ]
+    },
+    {
+      "cite": "740 P.2d 419",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "239 Cal.Rptr. 307",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Cal.3d 818",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4627175
+      ],
+      "pin_cites": [
+        {
+          "page": "826"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/43/0818-01"
+      ]
+    },
+    {
+      "cite": "6 Cal.Rptr.3d 24",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 8,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Cal.App.4th 783",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        40887
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/112/0783-01"
+      ]
+    },
+    {
+      "cite": "135 Cal.Rptr.2d 542",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Cal.App.4th 992",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        597813
+      ],
+      "pin_cites": [
+        {
+          "page": "999"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/109/0992-01"
+      ]
+    },
+    {
+      "cite": "7 Cal.Rptr.2d 1",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Cal.App.4th 1434",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2309396
+      ],
+      "pin_cites": [
+        {
+          "page": "1438"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/4/1434-01"
+      ]
+    },
+    {
+      "cite": "41 P.3d 556",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Cal.Rptr.2d 550",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.4th 735",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1103386
+      ],
+      "pin_cites": [
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/27/0735-01"
+      ]
+    },
+    {
+      "cite": "12 Cal.Rptr.3d 635",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Cal.App.4th 1",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1377127
+      ],
+      "pin_cites": [
+        {
+          "page": "6-7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/118/0001-01"
+      ]
+    },
+    {
+      "cite": "627 P.2d 183",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Cal.Rptr. 453",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Cal.3d 364",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2257769
+      ],
+      "pin_cites": [
+        {
+          "page": "368-369"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/29/0364-01"
+      ]
+    },
+    {
+      "cite": "792 P.2d 643",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "270 Cal.Rptr. 611",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.3d 294",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4457960
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "317"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/51/0294-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1247,
+    "char_count": 34519,
+    "pagerank": {
+      "raw": 7.048461820946379e-08,
+      "percentile": 0.42506783214002053
+    },
+    "sha256": "6f6b3f91f44180235915017bdb27d5714971968c5e646b84f03c2cfd964f00da",
+    "simhash": "1:53a61a465a5a72e3",
+    "word_count": 5861
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The PEOPLE, Plaintiff and Respondent,\nv.\nJohnny Jerome WILFORD, Defendant and Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "HUFFMAN, Acting P.J.\nA jury convicted Johnny Jerome Wilford of assault by means likely to produce great bodily injury (Pen. Code, \u00a7 245, subd. (a)(4) ; count 1), battery with serious bodily injury (\u00a7 243, subd. (d); count 2), resisting an officer (\u00a7 148, subd. (a)(1); count 4), and two counts of corporal injury to a cohabitant (\u00a7 273.5, subd. (a); counts 5, 6). The jury also found true the allegations that Wilford: (1) inflicted great bodily injury on the victim within the meaning of section 12022.7, subdivision (a) and section 1192.7, subdivision (c)(8) as to count 1; (2) inflicted great bodily injury on the victim within the meaning of section 1192.7, subdivision (c)(8) as to count 2; and (3) was out on parole at the time he committed counts 1 and 2 (\u00a7 1203.085, subd. (b)).\nThe trial court found, as to counts 5 and 6, Wilford suffered a prior assault conviction within seven years of the current offenses within the meaning of section 273.5, subdivision (h)(1). The court also found that Wilford suffered a prior strike (\u00a7\u00a7 667, subd. (b)-(i), 1170.12), a serious felony conviction (\u00a7 667, subd. (a)(1)), and a prison prior (\u00a7 667.5, subd. (b)).\nThe court sentenced Wilford to prison for 22 years, consisting of four years for count 1, doubled to eight years for his prior strike, plus three years for the great bodily enhancement; one year four months, doubled to two years eight months based on his prior strike for counts 5 and 6; five years for the serious felony prior conviction; and eight months for the probation violation. The court stayed Wilford's sentence under count 2 and for the prison prior. In addition, the court sentenced Wilford to time served for count 4.\nWilford appeals, contending his conviction for count 1 should be reversed because the trial court prejudicially erred in answering the jury's question regarding lesser included offenses and his sentence for counts 5 and 6 violated due process. We find that the court's error in responding to the jury's question regarding count 1 was harmless. However, we conclude that Wilford's challenge to his sentence for counts 5 and 6 is well taken. We therefore reverse his sentence on those two counts and remand this matter to the superior court for resentencing as to those two counts only, consistent with this opinion.\nFACTUAL BACKGROUND\nProsecution\nIn the summer of 2014, Wilford began dating Dulce Amaya. At the time, Amaya was still living with and in a relationship with Rodrigo Osorio, the father of her youngest daughter. Once Osorio discovered Wilford and Amaya were dating, he ended the relationship with Amaya and moved out of her house three months later. Soon after Osorio moved out, Wilford moved in with Amaya, her two daughters, her nine-year-old brother, her roommate Latasha Haines, Osorio's niece Estela, Estela's mother, and Estela's three siblings. Estela regularly babysat Amaya's daughters. Wilford kept his belongings in the basement, but he slept upstairs with Amaya. Amaya's mother lived at the house on the weekends.\nOsorio would come to the house to see his daughter. On one occasion, Osorio refused to leave the house and grabbed onto Amaya's jacket. Amaya called the police who came to escort Osorio out. Wilford came home and saw the police were there. Osorio saw Wilford and told the police Wilford did drugs and was on probation. Amaya believed her relationship with Wilford changed when he got frustrated with her for not getting a restraining order against Osorio. After that, Wilford became violent toward her. For example, when Amaya told Wilford she was going to leave him, he pushed her onto the bed. On another occasion, Wilford kicked Amaya's front door from the outside so hard that the door would no longer close. Although the police came out to investigate, Wilford and Amaya told the police that nothing happened.\nOn another occasion, Wilford pushed Amaya onto the coffee table causing her leg to bruise. He forced her into his van and drove her to his grandfather's house against her will. After one of Wilford's friends showed up at the house, Amaya asked the friend to convince Wilford to release her. However, Wilford would not let her go. Later, Amaya took photos of her injuries and Wilford asked her to delete them. When she and Wilford fought, Amaya often would kick him out of the house, but eventually, she would forgive him and he would return.\nOne night in November 2014, Amaya and Wilford were play fighting and wrestling. Wilford got too rough and she could not get him off her. She grabbed a pan and hit him to get him off her. In response, he pulled her hair, which hurt her neck. She asked him to stop, but he kept pulling her hair. He also bit her neck. They fought from the kitchen to the dining room to the living room. They finally stopped fighting and went outside to smoke a cigarette.\nWhile outside, Amaya told Wilford she was upset. Wilford grabbed her by the neck with both hands and squeezed to where she could not breathe. She got free and went to the side of the house. He followed and grabbed her by the hair. Wilford said, \"Do you want me to treat you like all the other bitches?\" He dragged her by her hair and arms into the basement. The basement entrance was outside and not accessible from inside the house.\nOnce in the basement, he told her he was sorry. She told him she wanted to leave, but he blocked her from leaving. Amaya was afraid she would die and concerned about who would care for her children. She agreed to have sex with Wilford to calm him down. Amaya did not call the police.\nThe next morning while they were leaving for work, Amaya told Wilford that he had to move out. Wilford became angry, but went to work. Later that night, when they got home, Wilford told her he needed her support. She told him to leave. He put his hand over her mouth and dragged her across the room by her hair. Amaya yelled for her roommate who called the police.\nBy the time the police arrived, Wilford had left. Amaya told the police that a man named Johnny Fluker had choked her, locked her in the basement, covered her mouth, and dragged her by her hair across the room. She told the police he had grabbed her by the throat and asked her, \"Do you want me to treat you like all those other bitches?\" She lied to the police about Wilford's last name because she did not want Wilford to get in trouble. She was terrified of what Wilford would do to her. Wilford had told her that if she called the police, he would call child protective services (CPS) to complain about her. Amaya had bruises around her neck, on her inner and outer arm, and bite marks on her neck from Wilford assaulting her.\nA few weeks later, Amaya, Osorio, and her children spent Thanksgiving with her family in Los Angeles. When she returned from Los Angeles, Wilford apologized and said he would never hurt her again. Amaya forgave Wilford and they resumed their romantic relationship. She believed he would change. She also blamed herself for what had happened.\nOn January 22, 2015, Amaya had a garage sale at her house with Vonnie Galligher and Galligher's boyfriend Bishop Slingerland. After the garage sale, Wilford, Galligher, Slingerland, and Amaya cooked, drank beer, talked, and played music. After the children went to bed, the adults sat in the front of the house. Amaya wanted to listen to some music and picked a song. Wilford did not want to hear the song. Nevertheless, Amaya played the song and Wilford became angry. He walked to the back of the house and asked her to follow him. She followed him asking why he was mad. They argued loudly. Then the altercation became physical. Amaya slapped Wilford. Wilford slapped her back, shoved her to the ground, and kicked her several times in the side.\nSlingerland walked to the side of the house and saw Wilford kicking Amaya. Wilford told Slingerland, \"You need to back off.\" Wilford grabbed Slingerland's shirt and lifted him up. Wilford told him, \"Don't get in it\" or he would kill him. Slingerland walked back to the front of the house. He was holding his forehead, which bore a red mark. Slingerland told Galligher they were leaving.\nAmaya got up and ran back to the front of the house. Wilford said, \"Oh, you think you're going to get off that easy?\" He ran at Amaya and hit her in the face. Wilford tackled Amaya, and she hit a metal fence. He threw her to the ground by her throat and kicked her side several times.\nAmaya screamed at Galligher to call the police, but Galligher's phone was dead. Amaya ran into her house, grabbed her four-year-old daughter and ran across the street because her phone also was dead. She stopped a man in a car and asked him to call the police. He refused. Slingerland drove Wilford away.\nAmaya went back into her house. She sent Osorio a Facebook message asking him to come to her house because Wilford had beaten her up. Haines came home and Amaya used Haines's phone to call 9-1-1. Amaya told the operator that her ex-boyfriend had hit and kicked her again. She said she was scared and that her three children were with her. She said he had been violent in the past. She said she was scared he was going to kill her. While talking with the 9-1-1 operator, she told Haines that she should have listened to her when she told her in the past to leave Wilford because he was going to keep hitting her. Amaya was afraid Wilford was going to kill her based on his hitting her and stories of him being violent toward previous ex-girlfriends.\nOsorio arrived and saw Wilford drive by the house twice. The police arrived and Amaya told them what happened. Amaya had cuts on her hands, leg, and her neck; bruises on her shoulder and ribs; pain on the side of her body; and injuries to her face. Due to the pain, she was unable to work for a few days. After the police left, Amaya saw Wilford drive by her house in his ex-girlfriend's car. After he drove by, he walked up to her house. He was angry. He told Amaya that he had seen it with his own eyes that she had called the police, and she was going to regret it. Amaya ran into the house and called 9-1-1. She told the operator Wilford was back and he was going to kill her and her family. Wilford drove away.\nThe next day, Amaya got a restraining order against Wilford. While she was filling out the restraining order at the police station, Wilford showed up in the parking lot. She was scared. Wilford had told her that if she got a restraining order he would call immigration and call CPS to tell them she had abused drugs. After she obtained the restraining order, Amaya called the police because Wilford kept calling her and he took the chip out of her truck so it could not start.\nAmaya reconciled with Osorio, and he moved back in with her because she did not feel safe. A month later, Amaya began having an affair with Wilford. While Osorio was shopping with Amaya, Wilford saw them together, walked up, and hit Osorio in the face. Osorio wanted to call the police, but Amaya convinced him not to.\nOn February 12, 2015, Wilford called Amaya to ask to borrow a charger. Amaya asked Estela to put the charger on the steps for Wilford to pick up. While Estela was bringing out the charger, she saw Wilford. He told her, \"You never saw me.\" He took the charger from her and went into the basement. That night, Amaya and Osorio were in the house getting ready to go out. Her children, Estela and Estela's sister Evelyn were there. Amaya, Estela, and Evelyn went to the basement to get a pair of heels. They saw Wilford in the basement. Wilford said that he was there to get a couple of his things. Amaya gave him a hug and a kiss and said she was getting her shoes and leaving. Wilford knew Osorio was upstairs in the house. Amaya told Wilford she was going out dancing with Osorio. This news bothered Wilford. Estela and Evelyn went back upstairs. After a few minutes, Amaya left the basement.\nAmaya went back into the house and saw Osorio on her way to the bathroom. Osorio went outside to the back to get something out of his truck. As he was going back into the house, he heard a noise in the basement. He took one step down the basement stairs to see what it was. He bent down to look and saw Wilford at the bottom of the stairs.\nOsorio tried to leave, but Wilford pulled Osorio down. Wilford grabbed Osorio's neck, pushed him to the ground and put his knees on his chest. Wilford held him down with one hand and choked him with the other. Wilford yelled at Osorio and told him he was going to kill him. Osorio could not breathe. Wilford hit him in the face repeatedly with his fist. Osorio blacked out and did not remember what happened until later when he was in the ambulance.\nEstela walked back toward the basement to find Wilford on top of Osorio hitting Osorio with one hand and holding him down with the other. Estela told Wilford to stop and leave. Wilford eventually ran off. Estela helped Osorio into the house. Osorio was covered in blood. Estela sat Osorio on the couch. Osorio looked faint. He attempted to call 9-1-1, but handed the phone to Amaya who talked to the operator. Amaya asked the operator to send an ambulance for Osorio because Wilford had attacked him and he was bleeding everywhere and fainting.\nAn ambulance took Osorio to the hospital. He had a CT scan of his head and face. Osorio suffered a fractured nose, broken teeth, a bruise to his neck, and spent three days in the hospital. Amaya went to the hospital. Before going inside, she met Wilford a few blocks away. Later that night, Wilford came over to Amaya's house and stayed the night with her.\nAfter Osorio was released from the hospital, he continued to live with Amaya for a few months. Meanwhile, Amaya and Wilford remained in a romantic relationship. The police arrested Wilford on March 19, 2015. A uniformed officer recognized Wilford from a police wanted poster. The officer approached Wilford and told him to sit on the curb. While they were talking, Wilford stood up three times. Because Wilford was a big man who seemed very nervous and kept standing up, the officer decided to handcuff him. The officer reached down to put on the cuffs. Wilford stood up and ran down the street. The officer chased him down the street, into an alley, over a fence, and into a backyard. Back up units arrived in the backyard just as Wilford tripped and fell.\nAfter his arrest, during telephone conversations, Wilford told Amaya to testify, \"I don't recall\" to not make him look bad. At Wilford's preliminary hearing, Amaya testified, \"I don't remember\" to many questions because she wanted to protect Wilford. The last time Wilford called Amaya from jail, in mid-November 2015, he told her he had forgiven her for calling the police after he beat her up. After that conversation, Amaya decided to stop lying for Wilford and ended their romantic relationship.\nAs of his arrest, Wilford was on probation for assault with a firearm. Wilford had a prior conviction of assault with a firearm against a former girlfriend. He also had a prior conviction of false imprisonment by violence against another former girlfriend. Wilford's ex-wife got a restraining order against Wilford to protect her from domestic violence. Wilford committed domestic violence against another ex-wife and against another former girlfriend.\nDefense\nBetween January 28 and February 12, 2015, Wilford periodically would see Amaya in her house's basement. Wilford still had property there. A week before the February 2015 incident, Amaya told him to be careful because Osorio had started carrying a knife in his truck. Osorio also had threatened to harm Amaya and Wilford.\nOn February 12, 2015, Wilford had sex with Amaya in her basement. From the bottom of the stairs of the basement, he could see the top of the windshield of Osorio's truck. Later, Amaya came downstairs with her nieces and told him she was going out with Osorio. Amaya and the girls left the basement when they heard Osorio coming to the side of the house.\nIn the basement, Wilford heard Osorio's footsteps move toward the truck. He heard the truck door open and saw the interior light turn on. Wilford then heard the truck door close and heard footsteps coming toward the basement. Wilford saw a light and heard Osorio walking down the stairs. Osorio had one hand to his side, and Wilford was concerned that Osorio had a weapon. Wilford was afraid Osorio would hurt or kill him. As Osorio approached the bottom of the stairs, Wilford rushed out, locked Osorio's arm, and \"carried\" him back up the stairs. Wilford then began punching Osorio. Wilford punched Osorio three to five times, and after the last punch, Osorio fell to the ground. Wilford then left.\nDISCUSSION\nI\nII\nWILFORD'S SENTENCE FOR COUNTS 5 AND 6\nFor counts 5 and 6, the amended information alleged Wilford committed a violation of section 273.5, subdivision (a), which carried a sentence range of two, three, or four years. In addition, the information included a special allegation under section 273.5, subdivision (h)(1) as to counts 5 and 6. The information indicated the effect of the allegation was a minimum sentence of 15 days.\nThe jury found Wilford guilty under counts 5 and 6. The trial court also found true the prior conviction allegations under section 273.5, subdivision (h)(1) as to those counts.\nBefore sentencing, the prosecutor filed a sentencing brief requesting the court to sentence Wilford under counts 5 and 6 to a term of two, four, or five years under section 273.5, subdivision (f)(1). This term could be doubled to four, eight, or 10 years based on Wilford's prior strike conviction.\nAt the sentencing hearing, the trial court questioned the prosecutor regarding the request for a new term. The prosecutor explained she was requesting a sentencing range of two, four, or five years for counts 5 and 6 under section 273.5, subdivision (f)(1) based on the trial court's true finding on the prior conviction allegation per section 273.5, subdivision (h)(1). The trial court ultimately agreed, without any objection from Wilford's counsel, and sentenced Wilford to a consecutive one-third of the midterm sentence of one-third of four years (one year four months), doubled to two years eight months for counts 5 and 6 based on the prior strike conviction.\nWilford argues his sentence for counts 5 and 6 must be reversed because it was not properly pled in the information. Specifically, he contends that because the prosecutor pled an enhancement under section 273.5, subdivision (h)(1) instead of section 273.5, subdivision (f)(1), the court could not sentence him under the two, four, or five year triad. The People counter, arguing that section 273.5, subdivision (f)(1) is an \"alternative sentencing provision\" that was not required to be pled separately. Moreover, the People emphasize that the amended information alleged every fact needed to be proved to support Wilford's sentence under section 273.5, subdivision (f)(1).\nA defendant has a constitutional due process right to be advised of the charges against him to have a reasonable opportunity to prepare and present a defense. (People v. Jones (1990) 51 Cal.3d 294, 317, 270 Cal.Rptr. 611, 792 P.2d 643 ; People v. Lohbauer (1981) 29 Cal.3d 364, 368-369, 173 Cal.Rptr. 453, 627 P.2d 183.) As such, a defendant may not be convicted of an offense, which is neither specifically charged in the accusatory pleading nor necessarily included within a charged offense. (People v. Parks (2004) 118 Cal.App.4th 1, 6-7, 12 Cal.Rptr.3d 635.) Further, a defendant has a right to fair notice of the specific sentence enhancement allegations that will be relied upon to increase punishment for his crimes. (People v. Mancebo (2002) 27 Cal.4th 735, 745, 117 Cal.Rptr.2d 550, 41 P.3d 556 (Mancebo ); People v. Haskin (1992) 4 Cal.App.4th 1434, 1438, 7 Cal.Rptr.2d 1.) Nevertheless, a variance between the information and sentence generally does not offend due process unless a defendant is misled to his prejudice in presenting a defense. (See People v. Ramirez (2003) 109 Cal.App.4th 992, 999, 135 Cal.Rptr.2d 542.)\nThe People maintain the instant action is like People v. Tardy (2003) 112 Cal.App.4th 783, 6 Cal.Rptr.3d 24 (Tardy ). In that case, the accusatory pleading had charged the defendant with robbery and had alleged prior qualifying convictions (i.e., allegations of prior prison terms served for felony convictions of petty theft with a prior), but it did not specifically charge him with a separate crime of petty theft with a prior conviction. The jury acquitted the defendant of robbery, but found him guilty of petty theft. In a bifurcated proceeding on the priors, the prosecutor gave notice that it intended to ask the court to sentence the defendant as a felon under section 666, because some of the defendant's priors qualified as prior theft offenses. After this disclosure, the defendant waived his right to a jury trial, and admitted the prior offenses. The trial court found true a strike offense, and found that the defendant had suffered a prior theft offense conviction. The court proceeded to sentence the defendant for the felony offense of petty theft with a prior. On appeal, the defendant argued that the charging document failed to plead the crime of petty theft with a prior. The appellate court rejected this contention, stating first that, \"[a]n accusatory pleading stating the charged offense provides the defendant not only with notice of the offense actually charged but also with notice of any necessarily included offenses,\" and that \"[p]etty theft is a necessarily included offense of robbery.\" (Tardy, supra, at p. 786, 6 Cal.Rptr.3d 24.) Petty theft with a prior, under section 666, is not a separate crime. Rather, it is an elevated sentence or enhancement for multiple violations of the petty theft statute. (Tardy, supra, at p. 787, 6 Cal.Rptr.3d 24.) However, \"[d]ue process requires that a criminal defendant be given fair notice of the charges to provide an opportunity to prepare a defense and to avoid unfair surprise at trial.\" (Id . at p. 786, 6 Cal.Rptr.3d 24.) \"[C]onstitutional principles of due process [do not] require that the statute be specifically alleged as long as the pleading apprises the defendant of the potential for the enhanced penalty and alleges every fact and circumstance necessary to establish its applicability.\" (Id . at p. 787, 6 Cal.Rptr.3d 24, citing People v. Thomas (1987) 43 Cal.3d 818, 826, 239 Cal.Rptr. 307, 740 P.2d 419.)\nAlthough the amended information here did allege that Wilford had been convicted of a qualifying offense within the previous seven years, the pleading referenced section 273.5, subdivision (h)(1) as the special allegation with the effect of adding 15 days to Wilford's sentence. More specifically, that subdivision provides: \"If the defendant has suffered one prior conviction within the previous seven years for a violation of any offense specified in subdivision (f), it shall be a condition of probation, in addition to the provisions contained in Section 1203.097, that he or she be imprisoned in a county jail for not less than 15 days.\" (\u00a7 273.5, subd. (h)(1).) Nothing in the amended information gave any hint that the prosecution also sought to make Wilford subject to the provisions of section 273.5, subdivision (f)(1), which would increase the applicable sentencing range. In addition, this is not a case of citing the wrong statute by mistake. The People do not argue that they intended to list section 273.5, subdivision (f)(1), but mistakenly listed subdivision (h)(1). And there was no advisement, anywhere in the pleading, that the prosecution would use the \"factual allegations\" again, to increase Wilford's sentence under section 273.5, subdivision (f)(1).\nIn Tardy , supra , 112 Cal.App.4th 783, 6 Cal.Rptr.3d 24 the prosecution advised the defendant of its intent to use the qualifying prior offenses for felony sentencing (petty theft with a prior) before the defendant waived his right to a jury trial on the issue. In contrast, here, the prosecution notified Wilford it was seeking an increased sentence after the jury returned its verdict and the court had found true that Wilford had been convicted of a qualifying offense under section 273.5, subdivision (h)(1). For these reasons, we do not find Tardy , supra , 112 Cal.App.4th 783, 6 Cal.Rptr.3d 24 instructive here.\nThe People also contend that every fact necessary to impose the sentence under section 273.5, subdivision (f)(1) was alleged in the information and found true. Thus, they argue that Wilford's sentence for counts 5 and 6 was increased based on facts specifically pled and proved. We agree with the People, but their argument does not carry the day. The problem here was that Wilford was not appraised of the possible prison sentence he was facing. The People, however, maintain this lack of notice did not matter because subdivision (f)(1) is not an enhancement but a sentencing statute. Thus, the People insist, \"There was no requirement to mention ... section 273.5, subdivision (f) by name when every fact necessary to establish [section] 273.5, subdivision (f) was included in the prior conviction allegations set forth in the accusatory pleadings.\" As such, the People place great weight on the distinction between an enhancement and a sentencing statute. Under the facts of this case, we find this distinction immaterial. Moreover, the California Supreme Court rejected this very distinction, albeit in a different context. (See People v. Cross (2015) 61 Cal.4th 164, 178-179, 187 Cal.Rptr.3d 139, 347 P.3d 1130 (Cross ).)\nIn Cross , supra , 61 Cal.4th 164, 187 Cal.Rptr.3d 139, 347 P.3d 1130, the defendant was charged with a felony violation of section 273.5, subdivision (a). It was further alleged that the defendant had a prior section 273.5 conviction for purposes of enhanced punishment. At trial, the defendant stipulated to the prior without having been advised of or waiving his Boykin - Tahl rights. The jury convicted the defendant and found the prior to be true. The defendant was sentenced to the upper term of five years. (Cross , supra , at pp. 168-169, 187 Cal.Rptr.3d 139, 347 P.3d 1130.) The court held that Yurko , supra , 10 Cal.3d 857, 112 Cal.Rptr. 513, 519 P.2d 561 applies when a defendant admits by stipulation all necessary facts for imposing an enhanced punishment under section 273.5, former subdivision (e)(1). (Cross , supra , at pp. 168, 174, 179, 187 Cal.Rptr.3d 139, 347 P.3d 1130.)\nAlthough Cross , supra , 61 Cal.4th 164, 187 Cal.Rptr.3d 139, 347 P.3d 1130 involved a defendant stipulating to a prior section 273, subdivision (a) conviction, which is not an issue here, we note that the Supreme Court rejected arguments that are advanced similar to ones here regarding the difference between an enhancement and a sentencing statute. For example, the Supreme Court observed that the defendant was sentenced to prison for five years under section 273.5, subdivision (f)(1). However, but for his stipulation to a previous conviction of another section 273.5, subdivision (a) offense within the past seven years, the defendant faced no more than four years in prison for his current section 273.5, subdivision (a) offense. The Supreme Court explained, \"we do not see a meaningful distinction between an 'enhancement' and an 'alternative sentence scheme' in this context.\" (Cross , supra , at p. 175, 187 Cal.Rptr.3d 139, 347 P.3d 1130 ; italics omitted.) Moreover, our high court made clear that \"section 273[, subdivision] (f)(1) has the same effect as an enhancement.\" (Cross , supra , at p. 178, 187 Cal.Rptr.3d 139, 347 P.3d 1130.) In other words, it did not matter whether section 273.5, subdivision (f)(1) was labeled an enhancement or an alternative sentencing scheme. The court determined the protections of Yurko , supra , 10 Cal.3d 857, 112 Cal.Rptr. 513, 519 P.2d 561 applied to the defendant. (Cross , supra , at p. 179, 187 Cal.Rptr.3d 139, 347 P.3d 1130.)\nWe are mindful that the instant matter does not implicate Wilford's Boykin - Tahl rights or the expansion of those rights under Yurko, supra, 10 Cal.3d 857, 112 Cal.Rptr. 513, 519 P.2d 561. Nevertheless, the Supreme Court's reasoning in Cross , supra , 61 Cal.4th 164, 187 Cal.Rptr.3d 139, 347 P.3d 1130 implies that the People's branding of section 273.5, subdivision (f)(1) as a sentencing statute does not end our analysis. Here, it is undisputed that the amended information did not warn Wilford that a finding of a prior qualifying conviction under section 273.5, subdivision (h)(1) would increase his sentence range under counts 5 and 6 from two, three, or four years to two, four, or five years. (See \u00a7 273.5, subd. (f)(1).) And although the facts necessary to impose the sentence under section 273.5, subdivision (f)(1) are the same as were alleged under section 273.5, subdivision (h)(1), there is no indication in the amended information of the possibility of this increased punishment. This is a critical shortcoming here where Wilford was offered and rejected a plea bargain prior to trial. (See Mancebo , supra , 27 Cal.4th at p. 752, 117 Cal.Rptr.2d 550, 41 P.3d 556 [\"Furthermore, in many instances a defendant's decision whether to plea bargain or go to trial will turn on the extent of his exposure to a lengthy prison term.\"].) Even though we do not know if Wilford would have accepted the plea bargain had he known of the increased punishment for counts 5 and 6, we are certain the amended information did not provide him with such information on which to make an informed decision. Alternatively stated, Wilford was not informed of the potential of the enhanced penalty. (See Tardy , supra , 112 Cal.App.4th at p. 787, 6 Cal.Rptr.3d 24 [\"Nor do constitutional principles of due process require that the statute be specifically alleged as long as the pleading apprises the defendant of the potential for the enhanced penalty and alleges every fact and circumstance necessary to establish its applicability.\"].)\nIn short, on the facts before us, we conclude it is inconsequential whether section 273.5, subdivision (f)(1) is labeled an enhancement, alternative sentencing scheme, or a sentencing statute. The amended information specified that, for counts 5 and 6, Wilford faced a sentence of two, three, or four years with the possibility of an additional 15 days under section 273.5, subdivision (h)(1) for each count. There was no indication whatsoever that Wilford faced the possibility of a sentence of two, four, or five years for each of those same offenses under section 273.5, subdivision (f)(1). Further, the prosecutor only sought an increased sentence under that subdivision after the jury returned its verdict and the court found true the qualifying prior conviction. The resulting sentence under section 273.5, subdivision (f)(1) violated Wilford's due process rights and cannot stand.\nDISPOSITION\nThe sentences for counts 5 and 6 are reversed. This matter is remanded to the superior court for resentencing on counts 5 and 6 consistent with this opinion. In all other aspects, the judgment is affirmed.\nWE CONCUR:\nHALLER, J.\nAARON, J.\nStatutory references are to the Penal Code unless otherwise specified.\nThe trial court declared a mistrial as to count 3 (making a criminal threat, \u00a7 422) when the jury became deadlocked.\nBecause Wilford only challenges the jury's verdict as to count 1, we discuss Wilford's evidence as to that count only.\nSee footnote *, ante.\nSection 273.5, subdivision (a) provides: \"Any person who willfully inflicts corporal injury resulting in a traumatic condition upon a victim described in subdivision (b) is guilty of a felony, and upon conviction thereof shall be punished by imprisonment in the state prison for two, three, or four years, or in a county jail for not more than one year, or by a fine of up to six thousand dollars ($6,000), or by both that fine and imprisonment.\"\nSection 273.5, subdivision (h)(1) states: \"If probation is granted, or the execution or imposition of a sentence is suspended, for any defendant convicted under subdivision (a) who has been convicted of any prior offense specified in subdivision (f), the court shall impose one of the following conditions of probation: [\u00b6] (1) If the defendant has suffered one prior conviction within the previous seven years for a violation of any offense specified in subdivision (f), it shall be a condition of probation, in addition to the provisions contained in Section 1203.097, that he or she be imprisoned in a county jail for not less than 15 days.\"\nSection 273.5, subdivision (f)(1) provides: \"Any person convicted of violating this section for acts occurring within seven years of a previous conviction under subdivision (a), or subdivision (d) of Section 243, or Section 243.4, 244, 244.5, or 245, shall be punished by imprisonment in a county jail for not more than one year, or by imprisonment in the state prison for two, four, or five years, or by both imprisonment and a fine of up to ten thousand dollars ($10,000).\"\nBoykin v. Alabama (1969) 395 U.S. 238, 242-244, 89 S.Ct. 1709, 23 L.Ed.2d 274 and In re Tahl (1969) 1 Cal.3d 122, 130-133, 81 Cal.Rptr. 577, 460 P.2d 449, set forth the rule that to ensure a defendant's \"guilty plea\" is knowing and voluntary, the trial court is required to inform the defendant of three constitutional rights (right to a jury trial, right to cross-examine witnesses, and right to remain silent) and obtain a waiver of each. In re Yurko (1974) 10 Cal.3d 857, 112 Cal.Rptr. 513, 519 P.2d 561 extended this procedure to the defendant's admission of a prior conviction allegation, which increases punishment. (Id. at p. 863, 112 Cal.Rptr. 513, 519 P.2d 561.)\nFormer section 273.5, subdivision (e)(1) is now section 273.5, subdivision (f)(1). (See Stats. 2013, ch. 763, \u00a7 1, p. 5599 [redesignating former subd. (e)(1) as subd. (f)(1) ].)",
+        "type": "majority",
+        "author": "HUFFMAN, Acting P.J."
+      }
+    ],
+    "attorneys": [
+      "Certified for Partial Publication.",
+      "Anthony J. Dain, San Diego, under appointment by the Court of Appeal, for Defendant and Appellant.",
+      "Xavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Julie L. Garland, Assistant Attorney General, Barry Carlton and Heidi Salerno, Deputy Attorneys General, for Plaintiff and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "The PEOPLE, Plaintiff and Respondent,\nv.\nJohnny Jerome WILFORD, Defendant and Appellant.\nD069888\nCourt of Appeal, Fourth District, Division 1, California.\nFiled June 12, 2017\nCertified for Partial Publication.\nAnthony J. Dain, San Diego, under appointment by the Court of Appeal, for Defendant and Appellant.\nXavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Julie L. Garland, Assistant Attorney General, Barry Carlton and Heidi Salerno, Deputy Attorneys General, for Plaintiff and Respondent.\nPursuant to California Rules of Court, rule 8.1110, this opinion is certified for publication with the exception of part I."
+  },
+  "file_name": "0765-01",
+  "first_page_order": 765,
+  "last_page_order": 775
+}

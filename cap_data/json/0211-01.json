@@ -1,0 +1,603 @@
+{
+  "id": 12513540,
+  "name": "Robin HUTCHESON et al., Plaintiffs and Respondents, v. ESKATON FOUNTAINWOOD LODGE et al., Defendants and Respondents.",
+  "name_abbreviation": "Hutcheson v. Eskaton Fountainwood Lodge",
+  "decision_date": "2017-06-14",
+  "docket_number": "C074846",
+  "first_page": "211",
+  "last_page": "229",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "44 Cal.Rptr. 604",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "234 Cal.App.2d 461",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2147868
+      ],
+      "pin_cites": [
+        {
+          "page": "474-475"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/234/0461-01"
+      ]
+    },
+    {
+      "cite": "6 Cal.Rptr.3d 746",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Cal.App.4th 549",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2226009
+      ],
+      "pin_cites": [
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/113/0549-01"
+      ]
+    },
+    {
+      "cite": "110 P.3d 903",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.Rptr.3d 648",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.4th 747",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        873189
+      ],
+      "pin_cites": [
+        {
+          "page": "761, fn. 4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/35/0747-01"
+      ]
+    },
+    {
+      "cite": "176 P.3d 654",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Cal.Rptr.3d 382",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.4th 1121",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3673292
+      ],
+      "pin_cites": [
+        {
+          "page": "1132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/42/1121-01"
+      ]
+    },
+    {
+      "cite": "57 P.3d 363",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Cal.Rptr.2d 897",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Cal.4th 200",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        777239
+      ],
+      "pin_cites": [
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/29/0200-01"
+      ]
+    },
+    {
+      "cite": "884 P.2d 645",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.Rptr.2d 814",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cal.4th 765",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1985966
+      ],
+      "pin_cites": [
+        {
+          "page": "772-773"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/8/0765-01"
+      ]
+    },
+    {
+      "cite": "232 P.3d 625",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Cal.Rptr.3d 628",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.4th 334",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6050457
+      ],
+      "pin_cites": [
+        {
+          "page": "342"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/49/0334-01"
+      ]
+    },
+    {
+      "cite": "74 Cal.Rptr.2d 721",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Cal.App.4th 1381",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1392-1394"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Cal.Rptr.3d 704",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Cal.App.4th 1122",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3801504
+      ],
+      "pin_cites": [
+        {
+          "page": "1129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/220/1122-01"
+      ]
+    },
+    {
+      "cite": "101 P.3d 563",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Cal.Rptr.3d 676",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.4th 733",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        633011
+      ],
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/34/0733-01"
+      ]
+    },
+    {
+      "cite": "164 Cal.Rptr.3d 11",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Cal.App.4th 1160",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3801843
+      ],
+      "pin_cites": [
+        {
+          "page": "1169"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/220/1160-01"
+      ]
+    },
+    {
+      "cite": "283 Cal.Rptr. 209",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "231 Cal.App.3d 1586",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4390327
+      ],
+      "pin_cites": [
+        {
+          "page": "1591"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/231/1586-01"
+      ]
+    },
+    {
+      "cite": "26 Cal.Rptr.2d 725",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Cal.App.4th 1508",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2365844
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1511-1516"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/21/1508-01"
+      ]
+    },
+    {
+      "cite": "55 Cal.Rptr.3d 823",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Cal.App.4th 581",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5571704
+      ],
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/148/0581-01"
+      ]
+    },
+    {
+      "cite": "119 Cal.Rptr.2d 489",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Cal.App.4th 140",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1079943
+      ],
+      "pin_cites": [
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/98/0140-01"
+      ]
+    },
+    {
+      "cite": "120 Cal.Rptr.2d 892",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 Cal.App.4th 298",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        977727
+      ],
+      "pin_cites": [
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/99/0298-01"
+      ]
+    },
+    {
+      "cite": "938 P.2d 903",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Cal.Rptr.2d 843",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.4th 951",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1006034
+      ],
+      "pin_cites": [
+        {
+          "page": "972"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/15/0951-01"
+      ]
+    },
+    {
+      "cite": "33 Cal.Rptr.3d 350",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Cal.App.4th 253",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5567052
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/132/0253-01"
+      ]
+    },
+    {
+      "cite": "710 P.2d 833",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 Cal.Rptr. 1",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Cal.3d 734",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        404390
+      ],
+      "pin_cites": [
+        {
+          "page": "744"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/40/0734-01"
+      ]
+    },
+    {
+      "cite": "535 P.2d 341",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Cal.Rptr. 477",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Cal.Rptr. 830",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Cal.App.3d 350",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6043303
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/113/0350-01"
+      ]
+    },
+    {
+      "cite": "96 Cal.Rptr. 149",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1582,
+    "char_count": 51833,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2586548482170196
+    },
+    "sha256": "efbc757a0c21713485bdeb9cf5a880009fe1e8b64ddb88251f8a2a007da6bbf9",
+    "simhash": "1:d20bc766a6dea17c",
+    "word_count": 7984
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robin HUTCHESON et al., Plaintiffs and Respondents,\nv.\nESKATON FOUNTAINWOOD LODGE et al., Defendants and Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "NICHOLSON, Acting P.J.\nThis case turns on whether an attorney-in-fact who admitted her principal to a residential care facility for the elderly made a \"health care\" decision. If she did, as the trial court found, she acted outside the scope of her authority under the power of attorney, and the admission agreement she signed, and its arbitration clause this appeal seeks to enforce, are void.\nTo answer this question, we must reconcile two statutes, the Power of Attorney Law (Prob. Code, \u00a7 4000 et seq. (PAL)), and the Health Care Decisions Law (Prob. Code, \u00a7 4600 et seq. (HCDL)), in light of the care rendered by a residential care facility for the elderly (Health & Saf. Code, \u00a7 1569 et seq. ), and parse the authority of two of the principal's relatives, one holding a power of attorney under the PAL and one holding a power of attorney under the HCDL.\nOn these facts we conclude admission of decedent to the residential care center for the elderly was a health care decision and the attorney-in-fact who admitted her, acting under the PAL, was not authorized to make health care decisions on behalf of the principal.\nAs a result of this conclusion, we affirm the trial court's denial of a motion by the residential care facility to compel arbitration. Because the attorney-in-fact acting under the PAL did not have authority to admit the principal to the residential care facility for the elderly, her execution of the admission agreement and its arbitration clause are void.\nFACTS AND PROCEDURAL HISTORY\nFor ease of reference, we refer to a power of attorney for health care, as authorized under the HCDL (Prob. Code, \u00a7 4671, subd. (a) ), as a \"health care POA,\" rather than an advance health care directive. (Prob. Code, \u00a7 4673.) For purposes of this decision only, we refer to the statutory form power of attorney set forth in the PAL (Prob. Code, \u00a7 4401 ) as a \"personal care POA.\"\nDecedent Barbara Lovenstein executed a health care POA in 2006. She appointed her niece, plaintiff Robin Hutcheson, as her attorney-in-fact to make health care decisions for her. The authority to make health care decisions included the power to authorize Lovenstein's admission to \"any hospital, hospice, nursing home, adult home, or other medical care facility,\" and the authority to consent to the provision, withholding, or withdrawal of health care. The directive became effective immediately.\nFour years later, in 2010, Lovenstein executed a personal care POA, using the form set forth in the PAL. She designated her sister, plaintiff Jean Charles, and Hutcheson as her attorneys-in-fact. Lovenstein granted them the authority to act for her on a number of different subjects, including \"[p]ersonal and family maintenance,\" and \"[c]laims and litigation.\" The form expressly precluded anyone from making \"medical and other health-care decisions\" for her. Each attorney-in-fact had the authority to act alone on all matters within their authority that are relevant here. The personal care POA became effective immediately.\nPrior to February 24, 2012, Lovenstein lived with Charles. At times, Charles served as Lovenstein's care provider; at other times, she oversaw care provided to Lovenstein by in-home care providers, including their administration of medicine. Charles declared she knew Lovenstein had assigned Hutcheson to make health care decisions. It was Lovenstein's desire throughout her lifetime that Hutcheson make health care decisions for her.\nOn February 24, 2012, Charles voluntarily admitted Lovenstein to defendant Eskaton FountainWood Lodge (FountainWood). FountainWood is a licensed \"residential care facility for the elderly\" under the California Residential Care Facilities for the Elderly Act (Health & Saf. Code, \u00a7 1569 et seq. ). It is owned and operated by defendants Eskaton Properties, Inc., and Eskaton. Charles signed the admission agreement on behalf of Lovenstein.\nThe admission agreement contained an arbitration clause. The clause in general required all claims arising from Lovenstein's care at FountainWood to be submitted to binding arbitration. The clause bound the parties' heirs, representatives, and successors, and it remained in effect after the admission agreement terminated for the resolution of all claims.\nA medical appraisal performed the day of her admission disclosed Lovenstein was suffering from dementia and seizures. She was confused and disoriented. She engaged in inappropriate, aggressive, and wandering behaviors. She was not able to follow instructions consistently, and she was depressed. She required \"complete\" supervision.\nWhen Lovenstein was admitted to FountainWood, she allegedly suffered from epilepsy and had a prescription for Ativan. She was to take the medicine (one mg. dose) only as needed for seizure-like activity. FountainWood staff allegedly began giving Lovenstein more doses of Ativan than were prescribed to help alleviate her anxiety and agitation. Concerned about the staff's alleged increased administration of Ativan for purposes other than seizures, Charles made an appointment for Lovenstein to see her doctor. The doctor found Lovenstein was disoriented as to time, place, and person, which was a \"drastic change from earlier visits.\" He concurred in Charles's decision to move Lovenstein back to Charles's home.\nOn March 22, 2012, Charles went to FountainWood to pack Lovenstein's belongings and move Lovenstein into her home. However, Lovenstein choked on her lunch at FountainWood that day and was transferred to a hospital. Doctors allegedly diagnosed her with aspiration pneumonia and severe dysphagia (difficulty in swallowing). She remained hospitalized until March 28, 2012, and died on April 11, 2012.\nThere is no evidence in the record that Hutcheson, Lovenstein's attorney-in-fact for health care under the health care POA, was involved in any of the decisions and actions regarding Lovenstein's admission to, stay at, or discharge from FountainWood.\nHutcheson, as successor in interest on behalf of Lovenstein, and Charles sued defendants. In the first amended complaint, Hutcheson sought damages for elder abuse and fraud, and Charles sought damages for negligent infliction of emotional distress.\nFountainWood petitioned the trial court to compel arbitration pursuant to the mandatory arbitration clause contained in the admission agreement. The trial court denied the petition, ruling the arbitration agreement was invalid. The court reasoned the admission of Lovenstein to FountainWood and the agreement to arbitrate as part of that admission were health care decisions, and Charles did not have the authority under her personal care POA to make health care decisions for Lovenstein.\nFountainWood appeals from the trial court's order. It contends the arbitration agreement is valid because Charles's decision to admit Lovenstein to FountainWood was not a health care decision, and Charles was authorized under the personal care POA to sign the admission agreement and bind Lovenstein and her successors to binding arbitration. FountainWood alternatively contends Lovenstein and Charles created an ostensible agency by failing to inform it that Charles was not authorized to execute the admissions agreement.\nDISCUSSION\nI\nStandard of Review\n\" 'Although \"[t]he law favors contracts for arbitration of disputes between parties\" (Player v. Geo. M. Brewster & Son, Inc. [ (1971) ] 18 Cal.App.3d [526,] 534 [96 Cal.Rptr. 149] ), \" 'there is no policy compelling persons to accept arbitration of controversies which they have not agreed to arbitrate....' \" (Weeks v. Crow (1980) 113 Cal.App.3d 350, 353 [169 Cal.Rptr. 830], quoting Freeman v. State Farm Mut. Auto. Ins. Co. [ (1975) ] 14 Cal.3d [473,] 481 [121 Cal.Rptr. 477, 535 P.2d 341] )' (Victoria v. Superior Court (1985) 40 Cal.3d 734, 744 [222 Cal.Rptr. 1, 710 P.2d 833].) 'The party seeking to compel arbitration bears the burden of proving the existence of a valid arbitration agreement. (Garrison v. Superior Court (2005) 132 Cal.App.4th 253, 263 [33 Cal.Rptr.3d 350] (Garrison ); Engalla v. Permanente Medical Group, Inc. (1997) 15 Cal.4th 951, 972 [64 Cal.Rptr.2d 843, 938 P.2d 903] [ (Engalla ) ]; Pagarigan v. Libby Care Center, Inc. (2002) 99 Cal.App.4th 298, 301 [120 Cal.Rptr.2d 892] (Pagarigan ).) Petitions to compel arbitration are resolved by a summary procedure that allows the parties to submit declarations and other documentary testimony and, at the trial court's discretion, to provide oral testimony. (Engalla, supra, 15 Cal.4th at p. 972 [64 Cal.Rptr.2d 843, 938 P.2d 903] ; Code Civ. Proc., \u00a7\u00a7 1281.2, 1290.2.) If the facts are undisputed, on appeal we independently review the case to determine whether a valid arbitration agreement exists. (Garrison, supra, 132 Cal.App.4th at p. 263 [33 Cal.Rptr.3d 350] ; Buckner v. Tamarin (2002) 98 Cal.App.4th 140, 142 [119 Cal.Rptr.2d 489].)' (Flores v. Evergreen A t San Diego, LLC (2007) 148 Cal.App.4th 581, 586, 55 Cal.Rptr.3d 823 (Flores ).)\n\"As the Flores court explained, 'Generally, a person who is not a party to an arbitration agreement is not bound by it. (Buckner v. Tamarin, supra, 98 Cal.App.4th at p. 142 [119 Cal.Rptr.2d 489].) However, there are exceptions. For example, a patient who signs an arbitration agreement at a health care facility can bind relatives who present claims arising from the patient's treatment. (Mormile v. Sinclair (1994) 21 Cal.App.4th 1508, 1511-1516 [26 Cal.Rptr.2d 725] ; Bolanos v. Khalatian (1991) 231 Cal.App.3d 1586, 1591 [283 Cal.Rptr. 209].) Further, a person who is authorized to act as the patient's agent can bind the patient to an arbitration agreement. (Garrison, supra, 132 Cal.App.4th at pp. 264-266 [33 Cal.Rptr.3d 350] ; see Buckner, supra, 98 Cal.App.4th at p. 142 [119 Cal.Rptr.2d 489].)' (Flores, supra, 148 Cal.App.4th at p. 587 [55 Cal.Rptr.3d 823], fn. omitted.)\" (Goldman v. SunBridge Healthcare, LLC (2013) 220 Cal.App.4th 1160, 1169, 164 Cal.Rptr.3d 11, original italics.)\nII\nAdmission to FountainWood was a Health Care Decision\nThis case pivots on whether Charles's admitting Lovenstein to FountainWood was a \"health care\" decision for purposes of the two sets of power of attorney statutes at issue; the PAL (Prob. Code, \u00a7 4000 et seq. ) and the HCDL (Prob. Code, \u00a7 4600 et seq. The two power of attorney schemes must be read together to resolve this appeal.\nCharles's authority under Lovenstein's personal care POA is set forth in the PAL. Under that law, a personal care POA may authorize, as Lovenstein's does here, the attorney-in-fact to make decisions regarding the principal's \"personal care\" and her \"claims and litigation,\" and to enter into contracts to accomplish those purposes. (Prob. Code, \u00a7\u00a7 4123, subd. (a), 4450, subd. (b), 4459, subd. (d), 4460, subd. (a).) The authority regarding Lovenstein's claims and litigation includes the authority to submit claims to arbitration. (Prob. Code, \u00a7 4450, subd. (d).)\nHowever, the PAL does not apply to health care POA's, and the personal care POA does not authorize an attorney-in-fact to make decisions regarding the principal's \"health care.\" (Prob. Code, \u00a7\u00a7 4050, subd. (a)(1), 4401.) In California, all health care POA's are governed by the HCDL. (Prob. Code, \u00a7 4665, subd. (a).)\nThe HCDL authorizes a competent adult to execute a power of attorney for \"health care.\" (Prob. Code, \u00a7 4671, subd. (a).) The health care POA may authorize the attorney-in-fact to make \"health care decisions\" for the principal. (Prob. Code, \u00a7 4671, subd. (a).) A \" '[h]ealth care decision' \" is a decision made by the principal or her attorney-in-fact regarding the principal's \"health care,\" including, as pertinent here, the \"[s]election and discharge of health care providers and institutions.\" (Prob. Code, \u00a7 4617.)\nThus, we must define the boundary between the PAL and the HCDL, and specifically, the distinction between \"personal care\" and \"health care\" and whether FountainWood is a \"health care institution\" for purposes of the HCDL. If admitting Lovenstein to FountainWood was a \"health care decision\" and FountainWood is a \"health care institution,\" as defined by the HCDL, the admission agreement and its arbitration clause are invalid, as Charles's authority under her personal care POA by law did not include the authority to make health care decisions on behalf of Lovenstein. If, however, admitting Lovenstein to FountainWood was not a \"health care decision\" as defined by the HCDL but was instead a \"personal care\" decision under the PAL, or if FountainWood is not a \"health care institution\" under the HCDL, the admission agreement and its arbitration clause may be valid.\nWe conclude under the facts of this case that admitting Lovenstein to FountainWood was a health care decision under the HCDL and thus was not within Charles's scope of authority under her statutory form power of attorney.\nOur analysis seeks primarily to understand the Legislature's intent for adopting the HCDL and its definitions. We employ familiar rules of statutory construction. \"Our fundamental task ... is to determine the Legislature's intent so as to effectuate the law's purpose. We first examine the statutory language, giving it a plain and commonsense meaning. We do not examine that language in isolation, but in the context of the statutory framework as a whole in order to determine its scope and purpose and to harmonize the various parts of the enactment. If the language is clear, courts must generally follow its plain meaning unless a literal interpretation would result in absurd consequences the Legislature did not intend. If the statutory language permits more than one reasonable interpretation, courts may consider other aids, such as the statute's purpose, legislative history, and public policy. [Citations.]\" (Coalition of Concerned Communities, Inc. v. City of Los Angeles (2004) 34 Cal.4th 733, 737, 21 Cal.Rptr.3d 676, 101 P.3d 563.)\nWe turn to the HCDL. As mentioned above, a person may execute a power of attorney for \"health care\" under the HCDL to authorize an attorney-in-fact to make \"health care decisions.\" (Prob. Code, \u00a7 4671, subd. (a).) For purposes of the HCDL and, by extension, the PAL and its statutory form personal care POA, the term \" '[h]ealth care' \" means \"any care, treatment, service, or procedure to maintain, diagnose, or otherwise affect a patient's physical or mental condition.\" (Prob. Code, \u00a7 4615.) A \" '[h]ealth care decision' \" is \"a decision made by a patient or a patient's agent ... regarding the patient's health care, including ... [s]election and discharge of health care ... institutions.\" (Prob. Code, \u00a7 4617.) A \" '[h]ealth care institution' \" is \"an institution, facility, or agency licensed, certified, or otherwise authorized or permitted by law to provide health care in the ordinary course of business.\" (Prob. Code, \u00a7 4619.)\nThese are very broad definitions, and at first glance they appear to define Lovenstein's admission to FountainWood. \"Health care\" is defined as \"any\" care or service that maintains or affects a person's physical or mental condition, and a \"health care institution\" is a facility licensed to provide such \"health care\" as its business. FountainWood contracted to provide Lovenstein care and services that would maintain her physical or mental condition. Under the admission agreement, FountainWood agreed to provide such services to Lovenstein. Those services included, among other things, lodging, meals, laundry, assistance with bathing and hygiene, assistance with taking medications, and continuous care and supervision. Most significantly here, FountainWood also agreed to provide dementia care. This was a higher level of care administered by staff who were trained on issues of \"hydration, skin care, communication, therapeutic activities, behavioral challenges, the environment, and assisting with activities of daily living.\" (22 Cal. Code Regs., \u00a7 87705, subd. (c)(3)(A).)\nFountainWood eventually agreed to provide a standard of care it classified as Level Three-Moderate Assistance. In addition to the care already provided, this level of care included increased assistance in activities of daily living as well as constant supervision and moderate assistance for dressing and bathing. It included medication administration assistance and physical assistance in moving. It may have also included regular assistance in bowel and bladder management. FountainWood was licensed to render these services.\nWe recognize the term \"health care\" cannot be read in the HCDL as literally \"any\" care that affects a person's condition. To do so would include within its scope much of what the Legislature has classified as \"personal care\" under the PAL. And the Legislature has clearly stated that \"personal care\" is not \"health care\" for purposes of the personal care POA.\nThe Legislature defined in the PAL the authority over \"personal care\" granted Charles in the personal care POA. This authority empowered Charles to make decisions relating to Lovenstein's personal care and to maintain Lovenstein's customary standard of living, including providing living quarters by purchase, lease or other contract; providing for normal domestic help; paying for Lovenstein's shelter, clothing, food, and other current living costs; providing transportation; handling mail; arranging recreation and entertainment; and paying for Lovenstein's necessary medical, dental, and surgical care, hospitalization, and custodial care. (Prob. Code, \u00a7\u00a7 4123, subd. (c), 4460, subd. (a)(1), (2), (3).)\nThe HCDL similarly defines \"personal care.\" It allows, but does not require, a power of attorney for health care to authorize the attorney-in-fact to make decisions regarding the principal's \"personal care,\" including, but not limited to, \"determining where the principal will live, providing meals, hiring household employees, providing transportation, handling mail, and arranging recreation and entertainment.\" (Prob. Code, \u00a7 4671, subd. (b).)\nThese statutes define personal care primarily as providing for the necessities of living at a basic level. None of them mention making decisions about the principal's health care other than paying for it. But is a decision to place someone in a residential care facility for the elderly, particularly to receive dementia care, more than providing for the basic necessities of living? We conclude it is in this case. Here, FountainWood provided a type of health care that went beyond mere personal care.\nA residential care facility for the elderly is statutorily defined as \"a housing arrangement chosen by persons 60 years of age or over, or their authorized representative, where varying levels and intensities of care and supervision, protective supervision, personal care, or health-related services are provided, based upon their varying needs....\" (Health & Saf. Code, \u00a7 1569.2, subd. (o).) The Legislature in 1985 stated it created the separate licensing category for residential care facilities for the elderly because they provided multiple levels of care, including some forms of medical care. The Legislature stated in pertinent part: \"(c) The Community Care Facilities Act was enacted in 1973 with the primary purpose of ensuring that residents of state hospitals would have access to safe, alternative community-based housing.\n\"(d) Since that time, due to shortages in affordable housing and a greater demand for residences for the elderly providing some care and supervision, a growing number of elderly persons with health and social care needs now reside in community care facilities that may or may not be designed to meet their needs.\n\"(e) Progress in the field of gerontology has provided new insights and information as to the types of services required to allow older persons to remain as independent as possible while residing in a residential care facility for the elderly.\n\"(f) The fluctuating health and social status of older persons demands a system of residential care that can respond to these needs by making available multilevels of service within the facility , thus reducing the need for residents with fluctuating conditions to move between medical and nonmedical facilities .\n\"(g) Residential care facilities for the elderly which are not primarily medically oriented represent a humane approach to meeting the housing, social and service needs of older persons, and can provide a homelike environment for older persons with a variety of care needs.\" (Health & Saf. Code, \u00a7 1569.1, subds. (c) -(g), italics added.)\nResidential care facilities are \"not primarily medically oriented\" (Health & Saf. Code, \u00a7 1569.1, subd. (g) ), but they may provide a level of care that goes beyond mere personal care authorized under the statutory form power of attorney, including some forms of medical care. By providing \"care and supervision\" (Health & Saf. Code, \u00a7 1569.2, subd. (o)(1) ), the \"facility assumes responsibility for, or provides or promises to provide in the future, ongoing assistance with activities of daily living without which the resident's physical health, mental health, safety, or welfare would be endangered. Assistance includes assistance with taking medications, money management, or personal care.\" (Health & Saf. Code, \u00a7 1569.2, subd. (c).) The facility may provide \"protective supervision\" (Health & Saf. Code, \u00a7 1569.2, subd. (o)(1) ), which includes \"observing and assisting confused residents, including persons with dementia, to safeguard them against injury.\" (Health & Saf. Code, \u00a7 1569.2, subd. (n).) And the facility may provide \"personal care\" (Health & Saf. Code, \u00a7 1569.2, subd. (o)(1) ), such as \"assistance with personal activities of daily living, to help provide for and maintain physical and psychosocial comfort.\" (Health & Saf. Code, \u00a7 1569.2, subd. (m).) \" 'Personal activities of daily living' \" include \"dressing, feeding, toileting, bathing, grooming, and mobility and associated tasks.\" (Health & Saf. Code, \u00a7 1569.2, subd. (l ).)\nResidential care facilities for the elderly are also authorized to provide \"incidental medical services\" for patients who have what the regulations call \"restricted health conditions\" or require any of the following services: administration of oxygen; catheter care; colostomy /ileostomy care; contractures; diabetes ; enemas, suppositories, and/or fecal impaction removal; incontinences of bowel and/or bladder; injections; intermittent positive pressure breathing machine use; certain pressure sores; and wound care. (Health & Saf. Code, \u00a7 1569.725 ; 22 Cal. Code Regs. \u00a7\u00a7 87609, subd. (a), 87612.)\nSince the parties completed initial briefing in this appeal, the Legislature has clarified that residential care facilities for the elderly that accept patients with restricted health conditions must ensure those residents \"receive medical care as prescribed by the resident's physician ... by appropriately skilled professionals acting within the scope of their practice.\" (Health & Saf. Code, \u00a7 1569.39, subd. (b), italics added.) Such skilled professionals include \"a registered nurse, a licensed vocational nurse, physical therapist, occupational therapist, or respiratory therapist.\" (Id ., at subd. (c).) The residential care facility for the elderly may employ these professionals. (Ibid .)\nMany of these types of care and services go beyond mere personal care, and thus qualify as a type of \"health care\" that can be authorized by an attorney-in-fact only under a health care POA pursuant to the HCDL. It also follows that when residential care facilities for the elderly provide these types of \"health care,\" they are \"health care institutions\" for purposes of the HCDL, and admission to them under a power of attorney is authorized only under a health care POA. That is the situation here.\nOur conclusion is similar to that reached in Garrison v. Superior Court (2005) 132 Cal.App.4th 253, 33 Cal.Rptr.3d 350 (Garrison ), relied upon by the trial court. There, the Court of Appeal for the Second Appellate District, Division Five, enforced an arbitration clause in a residential care facility's admission contract executed by the patient's attorney-in-fact under a power of attorney for health care. The appellate court wrote: \"[The attorney-in-fact] executed the arbitration agreements while making health care decisions on behalf of [decedent]. Whether to admit an aging parent to a particular care facility is a health care decision. The revocable arbitration agreements were executed as part of the health care decisionmaking process.\" (Id. at p. 266, 33 Cal.Rptr.3d 350 ; cf. Young v. Horizon West, Inc. (2013) 220 Cal.App.4th 1122, 1129, 163 Cal.Rptr.3d 704 [disagreed with Garrison to the extent Garrison held the term \"health care decisions\" encompassed the execution of arbitration agreements on behalf of the principal as a matter of \"general application\"].)\nFountainWood contends it is not a \"health care institution\" and Lovenstein's admission to FountainWood was not a health care decision primarily under two different arguments. First, it argues it is not a \"health care institution\" because it is not treated as a \"health facility\" under statutes other than the HCDL and the PAL, and, second, it is not a \"health care institution\" under the terms of the HCDL itself. The first contention does not change our conclusion, and we disagree with the second.\nFountainWood asserts it should not be treated as a \"health care institution\" under the HCDL because it is not licensed or treated as a health facility under other statutory schemes. It correctly states it is not a licensed \"health facility\" for purposes of licensing requirements imposed on medical care facilities. Health and Safety Code section 1250 lists health facilities that must be licensed by the Department of Public Health. (Health & Saf. Code, \u00a7 1253.) Health and Safety Code section 1250 defines a \" 'health facility' \" as \"a facility, place, or building that is organized, maintained, and operated for the diagnosis, care, prevention, and treatment of human illness, physical or mental, including convalescence and rehabilitation ... to which the persons are admitted for a 24-hour stay or longer....\" A health facility for purposes of Health and Safety code section 1250 includes general acute care hospitals, acute psychiatric hospitals, skilled nursing facilities, and intermediate care facilities. (Health & Saf. Code, \u00a7 1250.) A residential care facility for the elderly is not a \"health facility\" under Health and Safety Code section 1250. (Health & Saf. Code, \u00a7 1569.145, subd. (a).)\nFountainWood also correctly states because it is not a health facility under Health and Safety Code section 1250, it is not entitled to the liability protections provided to health facilities under the Medical Injury Compensation Reform Act of 1975 (Civ. Code, \u00a7 3333.2, subd. (b) (MICRA) ). MICRA caps noneconomic damages a plaintiff may recover in a medical malpractice action against a \" '[h]ealth care provider.' \" (Civ. Code, \u00a7 3333.2, subd. (b).) The statute defines a health care provider in part as \"any clinic, health dispensary, or health facility, licensed pursuant to Division 2 (commencing with Section 1200) of the Health and Safety Code.\" (Civ. Code, \u00a7 3333.2, subd. (c)(1).) As mentioned previously, a residential care facility for the elderly is not a \"health facility,\" nor is it a clinic or a health dispensary, under Health and Safety Code section 1250, and thus it does not qualify as a \"health care provider\" for purposes of MICRA. (See Kotler v. Alma Lodge (1998) 63 Cal.App.4th 1381, 1392-1394, 74 Cal.Rptr.2d 721 (Kotler ) [a residential care facility, a type of community care facility, is not a \"health facility\"\nunder Health and Safety Code section 1250 and thus not protected by MICRA].)\nFountainWood also directs us to statutes that govern patient access to their health care records. One of these statutes authorizes an adult patient of a \"health care provider\" to gain access to his or her patient records. (Health & Saf. Code, \u00a7 123110, subd. (a).) For purposes of this statute, a \"health care provider\" is a \"health facility\" as defined in Health and Safety Code section 1250, as well as a number of specified health care professionals, including physicians, surgeons, podiatrists, dentists, psychologists, and various therapists. (Health & Saf. Code, \u00a7 123105, subd. (a).) A residential care facility for the elderly is not a \"health care provider\" for purposes of the statute allowing patient access to patient records.\nNone of these statutes, however, mandates how we interpret the HCDL and the PAL and whether FountainWood is a \"health care institution\" that provides \"health care\" under those laws. \" '[W]hen the Legislature uses materially different language in statutory provisions addressing the same subject or related subjects, the normal inference is that the legislature intended a difference in meaning. [Citation.]' [Citation.]\" (Kleffman v. Vonage Holdings Corp . (2010) 49 Cal.4th 334, 342, 110 Cal.Rptr.3d 628, 232 P.3d 625.) The Legislature defined a \"health care institution\" in the HCDL more broadly than it defined a \"health facility\" and a \"health care provider\" in other statutes, and it did so because it intended the terms to have different meanings in their respective contexts.\nThe Legislature adopted the HCDL not as a means of regulating the provision of health care, but as a way to protect an adult's \"fundamental right to control the decisions relating to his or her own health care\" and to protect \"individual autonomy.\" (Prob. Code, \u00a7 4650, subds. (a), (b).) To meet these purposes, the Legislature defined \"health care\" and \"health care institution\" differently than it defined \"health facility\" and \"health care provider\" in other regulatory statutes. Serving a different purpose, the other uses of the terms \"health facility\" and \"health care provider\" have little relevance here.\nFountainWood next raises a different line of attack. Instead of arguing over whether the type of care it provides is \"health care\" under the HCDL, FountainWood directs us to other provisions in the HCDL it claims show the Legislature did not intend to classify residential care facilities for the elderly as \"health care providers\" or \"health care institutions\" for purposes of the HCDL. These provisions expressly define and apply to residential care facilities for the elderly in addition to health care providers and institutions. FountainWood contends the Legislature would not have separately defined residential care facilities for the elderly if those facilities were included in the definitions of health care providers or institutions. It claims defining a residential care facility for the elderly to be a \"health care provider\" or a \"health care institution\" under the HCDL creates surplusage. Under the circumstances before us, we do not agree.\nThe HCDL, in addition to defining a \"health care provider\" and a \"health care institution,\" specifically defines a \"residential care facility for the elderly\" and gives that term its statutory definition found in Health and Safety Code section 1569.2, quoted above. (Prob. Code, \u00a7 4637.) The HCDL uses the phrase in two statutes designed to prevent conflicts of interest. In neither case, however, does the phrase become surplusage under our interpretation of the term \"health care institution.\"\nIn one such statute, Probate Code section 4674, the HCDL prohibits the following persons, with exceptions not relevant here, from witnessing the execution of a power of attorney for health care: \"(1) The patient's health care provider or an employee of the patient's health care provider. [\u00b6] (2) The operator or an employee of a community care facility. [\u00b6] (3) The operator or an employee of a residential care facility for the elderly. [\u00b6] (4) The [attorney-in-fact].\" (Prob. Code, \u00a7 4674, subd. (c) ; see Prob. Code, \u00a7\u00a7 4680, 4673.) FountainWood argues the Legislature would not have separately prohibited operators and employees of residential care facilities for the elderly from serving as witnesses if such individuals were employees of a \"health care provider\" for purposes of the HCDL.\nWith this argument, FountainWood fails to recognize the HCDL precludes a residential care facility for the elderly from being defined as a \"health care provider.\" The HCDL defines a \" '[h]ealth care provider' \" as an individual. (Prob. Code, \u00a7 4621.) A residential care facility for the elderly is not an individual. Thus, when Probate Code section 4674 prohibits the \"patient's health care provider or an employee of the patient's health care provider\" and the \"operator or an employee of a residential care facility for the elderly\" from witnessing a power of attorney for health care, it is not necessarily restricting the same people. For example, a licensed health care provider who is not the patient's provider but who is an employee of a residential care facility for the elderly may not witness a power of attorney for health care. Interpreting a residential care facility to be a health care institution under HCDL does not create surplusage in Probate Code section 4674.\nFountainWood directs us to a second statute in the HCDL, Probate Code section 4659, which includes the term \"residential care facility for the elderly.\" This statute prohibits the following persons, with exceptions not relevant here, from serving as an attorney-in-fact under a power of attorney for health care: \"(1) The supervising health care provider or an employee of the health care institution where the patient is receiving care. [\u00b6] (2) An operator or employee of a community care facility or residential care facility where the patient is receiving care.\" (Prob. Code, \u00a7 4659, subd. (a)(1), (2).) FountainWood contends if the Legislature had intended residential care facilities for the elderly to be considered as \"health care institutions\" for purposes of the HCDL, it would not have separately prohibited operators and employees of residential care facilities from serving as attorneys-in-fact. Such individuals would have been included in the reference to employees of \"health care institutions.\"\nAgain, that is not necessarily so. An operator, as opposed to an employee, of a health care institution, other than a residential care facility for the elderly, where the principal is receiving care and who is not the patient's supervising health care provider may serve as an attorney-in-fact for health care.\nIf the mention of health care institution employees and employees of residential care facilities for the elderly may seem redundant, we do not see the redundancy as sufficient evidence to defeat the statutory scheme, already discussed, by which the Legislature intended residential care facilities for the elderly to be considered as health care institutions for purposes of the HCDL and the PAL. \"Although a statute or constitutional provision should be interpreted so as to eliminate surplusage, there is no rule of construction requiring us to assume that the Legislature has used the most economical means of expression in drafting a statute or constitutional amendment.\" (Voters for Responsible Retirement v. Board of Supervisors (1994) 8 Cal.4th 765, 772-773, 35 Cal.Rptr.2d 814, 884 P.2d 645.) \"[T]he rule against interpretations that make some parts of a statute surplusage is only a guide and will not be applied if it would defeat legislative intent or produce an absurd result.\" (In re J.W. (2002) 29 Cal.4th 200, 209, 126 Cal.Rptr.2d 897, 57 P.3d 363.)\nHere, FountainWood's interpretation would defeat legislative intent. Not only does the wording and structure of the HCDL demonstrate the Legislature intended residential care facilities for the elderly could be health care institutions for purposes of the HCDL, but so does the legislative history behind the HCDL's definitions of \"health care\" and \"health care institution.\" The HCDL's definition of \"health care\" was derived from and is virtually identical to its definition originally contained in the Uniform Law Commissioners' Model Health-Care Consent Act (the Uniform Consent Act), a model health care representative law adopted by the National Conference of Commissioners on Uniform State Laws in 1982. (Handbook of the Nat. Conf. of Comrs. on U. State Laws & Proceedings 298 (1982).) The National Conference of Commissioners explained the Uniform Consent Act's definition of \"health care\" was \"broader in scope than medical care and includes care and treatment which is lawful to practice under state law, for instance, nursing care.\" (Id . at p. 301.)\nIn 1983, the California Law Revision Commission proposed statutes to authorize the use of a health care POA. (17 Cal. Law Revision Com. Rep. (1984) p. 103.) The Law Revision Commission proposed the term \" '[h]ealth care' \" be defined identically to its definition in the Uniform Consent Act, and expressly stated so. (Id . at pp. 117-118.) It also proposed defining the term \" '[h]ealth care decision' \" as \"consent, refusal of consent, or withdrawal of consent to health care.\" (Id . at p. 117.) The Legislature included these definitions in the enacted law. (Stats. 1983, ch. 1204, \u00a7 10, p. 4615.)\nIn 1993, the National Conference of Commissioners adopted the Uniform Health-Care Decisions Act. (9 West's U. Laws Ann. (2005) U. Health-Care Decisions Act, p. 83.) The Uniform Health-Care Decisions Act superseded the Uniform Consent Act. (Id . at p. 85.) However, it maintained the Uniform Consent Act's definition of \"health care.\" (Id . at p. 89.) For the first time, it defined a \" '[h]ealth-care institution' \" as \"an institution, facility, or agency licensed, certified, or otherwise authorized or permitted by law to provide health care in the ordinary course of business.\" (Ibid .) It also enlarged the definition of a \" '[h]ealth-care decision' \" to a \"decision made by an individual or the individual's agent ... regarding ... health care, including ... the selection and discharge of health-care providers and institutions.\" (Ibid .)\nIn response to the Uniform Health-Care Decisions Act, the California Law Revision Commission proposed a new statutory scheme to govern health care POA's. (29 Cal. Law Revision Com. Rep. (1999) p. 1.) The proposed statutes drew \"heavily\" from the Uniform Health-Care Decisions Act. (Id . at p. 5.) This effort resulted in the Legislature's adoption of the HCDL. (Stats. 1999, ch. 658, \u00a7 39, p. 4860.) The HCDL reenacted the definition of \" '[h]ealth care,' \" and it enacted for the first time the definitions of \" '[h]ealth care decision' \" and \" '[h]ealth-care institution' \" virtually identical to the definitions in the Uniform Health-Care Decisions Act. (Prob. Code, \u00a7\u00a7 4615, 4617, 4619, 4621.)\nThe Law Revision Commission's comments on the terms \" '[h]ealth care' \" and \" '[h]ealth care institution' \" included as background the comments made by the National Conference of Commissioners about those terms in the Uniform Health-Care Decisions Act. (Prob. Code, \u00a7\u00a7 4615, 4619.) According to the National Conference of Commissioners, and the Law Revision Commission by adoption, the \"definition of 'health care' ... is to be given the broadest possible construction. It includes the types of care referred to in the definition of 'health-care decision' ... and to care, including custodial care , provided at a 'health-care institution'....\" (9 West's U. Laws Ann., supra , U. Health-Care Decisions Act, p. 90, com., italics added.) \"The term 'health-care institution' ... includes a hospital, nursing home, residential-care facility , home health agency or hospice.\" (Ibid ., italics added.)\n\" '[T]he official comments of the California Law Revision Commission \"are declarative of the intent not only of the draftsman of the code but also of the legislators who subsequently enacted it\" [citation], [and thus] the comments are persuasive, albeit not conclusive, evidence of that intent [citation].' \" (Metcalf v. County of San Joaquin (2008) 42 Cal.4th 1121, 1132, 72 Cal.Rptr.3d 382, 176 P.3d 654.) Here, the history and comments, in light of the statute's language, demonstrate the Legislature, by incorporating the Uniform Health-Care Decisions Act's definitions of \"health care\" and \"health care institution\" into the HCDL, intended the HCDL could apply to decisions concerning custodial care rendered by a residential care facility for the elderly such as FountainWood.\nFountainWood contends the comments to the Uniform Health-Care Decisions Act's definitions of \"health care\" and \"health care institution\" are not relevant because the Legislature, when it enacted the HCDL, did not adopt the Uniform Health-Care Decisions Act in its entirety. It added other provisions; in particular, it added the definition of a residential care facility for the elderly. But the Legislature adopted the virtually identical definitions of \"health care\" and \"health care institution,\" indicating it adopted the Uniform Health-Care Decisions Act's use and definition of these terms. As shown above, it used the term \"residential care facility for the elderly\" only in narrow circumstances when it needed to distinguish those facilities and their operators from other health care institutions for purposes of preventing conflicts of interest. That use did not defeat the Legislature's intent to include residential care facilities for the elderly within the definitions of HCDL's definitions of \"health care\" and \"health care institution.\"\nIn its reply brief, FountainWood for the first time contends Department of Social Services regulations authorized Charles to admit Lovenstein to the care facility regardless of whether she had express written authority to do so. Because FountainWood did not raise this argument in its opening brief, the argument is forfeited. (Julian v . Hartford Underwriters Ins. Co. (2005) 35 Cal.4th 747, 761, fn. 4, 27 Cal.Rptr.3d 648, 110 P.3d 903.)\nFountainWood complains that being subject to the HCDL is unfair. It contends it is unfair for plaintiffs to claim FountainWood is a \"health care institution\" under the HCDL in order to void the arbitration agreement, and then later claim FountainWood is not a \"health facility\" or a \"health care provider\" under MICRA and thus not protected by MICRA's cap on noneconomic damages. While we understand FountainWood's concern, we must leave it to the Legislature to address that issue. In the meantime, residential care facilities for the elderly can protect themselves against unlimited liability by ensuring its admission contracts and arbitration clauses are executed by persons having legal authority to do so. Charles was not such a person in this case.\nUltimately, \"a court must adopt the construction most consistent with the apparent legislative intent and most likely to promote rather than defeat the legislative purpose and to avoid absurd consequences.\" (In re J.W., supra, 29 Cal.4th at p. 213, 126 Cal.Rptr.2d 897, 57 P.3d 363.) Our interpretation meets that standard. The Legislature intended that the decision to admit someone to a residential care facility for the elderly could be a health care decision under the HCDL, and it required that such a health care decision, if made pursuant to a power of attorney, be made pursuant to a health care POA. A personal care POA under the PAL does not authorize the attorney-in-fact to make a health care decision. As a result, Charles's decision to admit Lovenstein is void as she had no authority to enter into the agreement.\nIII\nOstensible Agency\nTo the extent we hold the personal care POA did not authorize Charles to execute the admission agreement, FountainWood contends Charles's and Lovenstein's behavior led FountainWood to believe Charles had the authority to execute the agreement and thus created an ostensible agency we should enforce. We disagree.\n\"An agency is ostensible when the principal intentionally, or by want of ordinary care, causes a third person to believe another to be his agent who is not really employed by him.\" (Civ. Code, \u00a7 2300.) \"Even when there is no written agency authorization, an agency relationship may arise by oral consent or by implication from the conduct of the parties. (v an't Rood v. County of Santa Clara (2003) 113 Cal.App.4th 549, 571 [6 Cal.Rptr.3d 746].) However, an agency cannot be created by the conduct of the agent alone; rather, conduct by the principal is essential to create the agency. Agency 'can be established either by agreement between the agent and the principal, that is, a true agency [citation], or it can be founded on ostensible authority, that is, some intentional conduct or neglect on the part of the alleged principal creating a belief in the minds of third persons that an agency exists, and a reasonable reliance thereon by such third persons.' (Lovetro v. Steers (1965) 234 Cal.App.2d 461, 474-475 [44 Cal.Rptr. 604] ; see Civ. Code, \u00a7\u00a7 2298, 2300.) ' \" 'The principal must in some manner indicate that the agent is to act for him, and the agent must act or agree to act on his behalf and subject to his control.' ...\" [Citations.] Thus, the \"formation of an agency relationship is a bilateral matter. Words or conduct by both principal and agent are necessary to create the relationship....\" ' (v an't Rood, supra, 113 Cal.App.4th at p. 571 [6 Cal.Rptr.3d 746], italics added.)\" (Flores, supra, 148 Cal.App.4th at pp. 587-588, 55 Cal.Rptr.3d 823.)\nFountainWood introduced no facts showing Lovenstein intentionally or negligently caused it to believe Charles was her agent for purposes of executing the admission agreement. FountainWood argues there is no evidence Lovenstein or Charles affirmatively informed it that Charles was not authorized to execute the admission agreement. FountainWood, however, came into possession of Lovenstein's health care POA that named Hutcheson as Lovenstein's health care agent, yet it did not raise the discrepancy with Charles or Hutcheson or seek Hutcheson's authorization to admit Lovenstein. Lovenstein's silence and possible lack of capacity do not constitute negligence in this instance. No ostensible agency was created.\nDISPOSITION\nThe order of the trial court denying FountainWood's motion to compel arbitration is affirmed. Costs on appeal are awarded to plaintiffs. (Cal. Rules of Court, rule 8.278(a).)\nWe concur:\nMAURO, J.\nDUARTE, J.\nThe California Assisted Living Association and LeadingAge California filed amicus curiae briefs in support of FountainWood.\nThe parties did not discuss the HCDL in their initial briefing. At our request, they discussed it in supplemental briefing.\nThe HCDL uses the term \" '[a]gent' \" to describe the principal's attorney-in-fact (Prob. Code, \u00a7 4607 ), while the PAL uses the term \" '[a]ttorney-in-fact.' \" (Prob. Code, \u00a7 4014.) For the sake of consistency, we use the term \"attorney-in-fact\" to describe the principal's attorney-in-fact under both sets of statutes.\nIt is not clear from the admissions agreement whether FountainWood agreed to provide any incidental medical services to Lovenstein.\nThe Garrison opinion does not state whether the residential care facility was a residential care facility for the elderly.\nThe California Community Care Facilities Act (Health & Saf. Code, \u00a7 1500 et seq. ) defines a community care facility as \"any facility, place, or building that is maintained and operated to provide nonmedical residential care, day treatment, adult day care, or foster family agency services for ... the physically handicapped, mentally impaired, incompetent persons, and abused or neglected children....\" (Health & Saf. Code, \u00a7 1502, subd. (a), italics added.) This definition includes a \" '[r]esidential facility,' \" which is defined as \"any family home, group care facility, or similar facility determined by the director [of the Department of Social Services], for 24-hour nonmedical care of persons in need of personal services, supervision, or assistance essential for sustaining the activities of daily living or for the protection of the individual.\" (Health & Saf. Code, \u00a7 1502, subd. (a)(1), italics added.) At two points in its opening brief, FountainWood asserts it is such a residential care facility. The assertion is incorrect. Residential care facilities for the elderly \"shall not be considered community care facilities and shall be subject only to the California Residential Care Facilities for the Elderly Act....\" (Health & Saf. Code, \u00a7 1502.5.)\nIndeed, as other examples of similar terms having different meanings, the Legislature defined a \"health facility\" to include community care facilities for purposes of the California Health Facilities Financing Authority Act (Gov. Code, \u00a7 15430 et seq. ). (Gov. Code, \u00a7 15432, subd. (d)(13), (14).) Community care facilities are not \"health facilities\" under Health and Safety Code section 1250 or MICRA. And, unlike in MICRA where the Legislature defined a \"health care provider\" as including types of facilities, in the HCDL the Legislature defined a \"health care provider\" as an \"individual\" who is licensed to provide health care in the ordinary course of business. (Prob. Code, \u00a7 4621.)\nIn its reply brief, FountainWood contends the reasoning in Kotler, supra, 63 Cal.App.4th 1381, 74 Cal.Rptr.2d 721, should apply here. Kotler does not help FountainWood. The Kotler court determined a residential care facility for the mentally ill, a type of community care facility, was not a \"health facility\" under Health and Safety Code section 1250, and thus not entitled to the protections of MICRA. The appellate court acknowledged the facility provided \"incidental medical services\" and \"health-related services\" (Kotler, supra, 63 Cal.App.4th at pp. 1393-1394, 74 Cal.Rptr.2d 721 ) similar to those provided by residential care facilities for the elderly. However, the court held a \"residential care facility which provides only incidental medical services is not a health facility.\" (Id. at p. 1394, 74 Cal.Rptr.2d 721, italics omitted.) It would be a health facility only if the medical services it provided constituted \"a substantial component of the total services provided.\" (Id. at p. 1393, 74 Cal.Rptr.2d 721.) Kotler did not consider whether a residential care facility for the elderly was a \"health care institution\" under the HCDL. Unlike Health and Safety Code section 1250, as interpreted by Kotler, the HCDL does not define a \"health care institution\" as only those facilities whose provision of medical care constitutes a substantial component of the total services provided.\nThe HCDL also defines a \" '[c]ommunity care facility' \" and gives that term its statutory definition found in Health and Safety Code section 1502, subdivision (c). (Prob. Code, \u00a7 4611.)\nThe Uniform Consent Act defined \" '[h]ealth care' \" as \"any care, treatment, service, or procedure to maintain, diagnose, or treat an individual's physical or mental condition.\" (Handbook, supra, at p. 300.)\nPersons considering executing a power of attorney, and attorneys who advise them, must think carefully about designating different persons as their attorneys-in-fact under a health care POA and a personal care POA. An attorney-in-fact under a personal care POA cannot arrange for the health care the principal may need.",
+        "type": "majority",
+        "author": "NICHOLSON, Acting P.J."
+      }
+    ],
+    "attorneys": [
+      "Beach Cowdrey Owen, Thomas E. Beach, Oxnard, and Darryl C. Hottinger for Defendants and Appellants.",
+      "Hanson Bridgett, James A. Napoli, Adam W. Hofmann, San Francisco, and Rachel P. Zuraw for California Assisted Living Association as Amicus Curiae on behalf of Defendants and Appellants.",
+      "Joanne Handy for LeadingAge California as Amicus Curiae on behalf of Defendants and Appellants.",
+      "The Law Office and Edward P. Dudensing for Plaintiffs and Respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Robin HUTCHESON et al., Plaintiffs and Respondents,\nv.\nESKATON FOUNTAINWOOD LODGE et al., Defendants and Respondents.\nC074846\nCourt of Appeal, Third District, California.\nFiled June 14, 2017\nBeach Cowdrey Owen, Thomas E. Beach, Oxnard, and Darryl C. Hottinger for Defendants and Appellants.\nHanson Bridgett, James A. Napoli, Adam W. Hofmann, San Francisco, and Rachel P. Zuraw for California Assisted Living Association as Amicus Curiae on behalf of Defendants and Appellants.\nJoanne Handy for LeadingAge California as Amicus Curiae on behalf of Defendants and Appellants.\nThe Law Office and Edward P. Dudensing for Plaintiffs and Respondents."
+  },
+  "file_name": "0211-01",
+  "first_page_order": 211,
+  "last_page_order": 229
+}

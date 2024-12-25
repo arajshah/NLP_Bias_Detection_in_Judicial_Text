@@ -1,0 +1,904 @@
+{
+  "id": 12513573,
+  "name": "Maureen HIKIDA, Petitioner, v. WORKERS' COMPENSATION APPEALS BOARD, Costco Wholesale Corporation et al., Respondents.",
+  "name_abbreviation": "Hikida v. Workers' Comp. Appeals Bd.",
+  "decision_date": "2017-06-22",
+  "docket_number": "B279412",
+  "first_page": "654",
+  "last_page": "665",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 654"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 1249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "215 Cal.Rptr.3d 723",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Cal.App.5th 205",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12451322
+      ],
+      "pin_cites": [
+        {
+          "page": "220, fn. 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/10/0205-01"
+      ]
+    },
+    {
+      "cite": "130 Cal.Rptr.2d 149",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Cal.App.4th 1095",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        301033
+      ],
+      "pin_cites": [
+        {
+          "page": "1112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/105/1095-01"
+      ]
+    },
+    {
+      "cite": "2010 WL 450916",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Cal.Comp.Cases 159",
+      "category": "reporters:specialty",
+      "reporter": "Cal. Comp. Cases",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2005 WL 910490",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Cal.Comp.Cases 604",
+      "category": "reporters:specialty",
+      "reporter": "Cal. Comp. Cases",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.Rptr.3d 618",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Cal.App.4th 1099",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3499941
+      ],
+      "pin_cites": [
+        {
+          "page": "1105, fn. 6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/142/1099-01"
+      ]
+    },
+    {
+      "cite": "51 Cal.Rptr.3d 314",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Cal.App.4th 1435",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3677799
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1442, fn. 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/144/1435-01"
+      ]
+    },
+    {
+      "cite": "82 Cal.Rptr.3d 664",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Cal.App.4th 294",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3946478
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/166/0294-01"
+      ]
+    },
+    {
+      "cite": "216 Cal.Rptr. 280",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Cal.App.3d 632",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2135780
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "636"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/170/0632-01"
+      ]
+    },
+    {
+      "cite": "210 Cal.Rptr.3d 101",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.App.5th 658",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12456790
+      ],
+      "pin_cites": [
+        {
+          "page": "662"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/5/0658-01"
+      ]
+    },
+    {
+      "cite": "5 Cal.Rptr.3d 822",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Cal.App.4th 1435",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        40959
+      ],
+      "pin_cites": [
+        {
+          "page": "1438, fn. 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/112/1435-01"
+      ]
+    },
+    {
+      "cite": "165 Cal.Rptr.3d 288",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Cal.App.4th 1116",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4182516
+      ],
+      "pin_cites": [
+        {
+          "page": "1119-1122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/221/1116-01"
+      ]
+    },
+    {
+      "cite": "342 P.2d 976",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Cal.App.2d 731",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        4385269
+      ],
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/172/0731-01"
+      ]
+    },
+    {
+      "cite": "149 Cal.Rptr. 62",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 Cal.App.3d 813",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2044407
+      ],
+      "pin_cites": [
+        {
+          "page": "817"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/84/0813-01"
+      ]
+    },
+    {
+      "cite": "66 P.2d 184",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Cal.App.2d 564",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2281072
+      ],
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/19/0564-01"
+      ]
+    },
+    {
+      "cite": "60 P.2d 276",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1937,
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Cal.2d 230",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2245405
+      ],
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/7/0230-01"
+      ]
+    },
+    {
+      "cite": "10 Cal.Rptr. 511",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 Cal.App.2d 535",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        4370957
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "540-541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/188/0535-01"
+      ]
+    },
+    {
+      "cite": "247 Cal.Rptr. 190",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1961,
+      "opinion_index": 0
+    },
+    {
+      "cite": "199 Cal.App.3d 1530",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4402885
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "1532"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/199/1530-01"
+      ]
+    },
+    {
+      "cite": "133 Cal.Rptr.2d 396",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Cal.App.4th 137",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        282400
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/108/0137-01"
+      ]
+    },
+    {
+      "cite": "138 Cal.Rptr.3d 507",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 Cal.App.4th 126",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4250155
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "140-141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/204/0126-01"
+      ]
+    },
+    {
+      "cite": "445 P.2d 294",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Cal.Rptr. 678",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Cal.2d 399",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2304340
+      ],
+      "pin_cites": [
+        {
+          "page": "405-406"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/69/0399-01"
+      ]
+    },
+    {
+      "cite": "286 Cal.Rptr. 250",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "234 Cal.App.3d 1476",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2337515
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "1485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/234/1476-01"
+      ]
+    },
+    {
+      "cite": "30 Cal.Rptr. 685",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Cal.App.2d 204",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2112585
+      ],
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/216/0204-01"
+      ]
+    },
+    {
+      "cite": "171 Cal.Rptr. 48",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Cal.App.3d 593",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6042938
+      ],
+      "pin_cites": [
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/114/0593-01"
+      ]
+    },
+    {
+      "cite": "145 Cal.Rptr. 22",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Cal.App.3d 224",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2015605
+      ],
+      "pin_cites": [
+        {
+          "page": "247"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/79/0224-01"
+      ]
+    },
+    {
+      "cite": "150 Cal.Rptr. 530",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Cal.App.3d 721",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        1992252
+      ],
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/86/0721-01"
+      ]
+    },
+    {
+      "cite": "478 P.2d 937",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Cal.Rptr. 1",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.3d 832",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2313232
+      ],
+      "pin_cites": [
+        {
+          "page": "837"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/3/0832-01"
+      ]
+    },
+    {
+      "cite": "158 Cal.Rptr. 137",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Cal.App.3d 555",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        1996024
+      ],
+      "pin_cites": [
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/96/0555-01"
+      ]
+    },
+    {
+      "cite": "4 Cal.Rptr.2d 597",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.App.4th 720",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2307484
+      ],
+      "pin_cites": [
+        {
+          "page": "723"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/3/0720-01"
+      ]
+    },
+    {
+      "cite": "89 Cal.Rptr.3d 166",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Cal.App.4th 1535",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5733672
+      ],
+      "pin_cites": [
+        {
+          "page": "1543"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/170/1535-01"
+      ]
+    },
+    {
+      "cite": "183 Cal.Rptr.3d 205",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 Cal.App.4th 970",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4219619
+      ],
+      "pin_cites": [
+        {
+          "page": "986, 987"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/233/0970-01"
+      ]
+    },
+    {
+      "cite": "97 Cal.Rptr.2d 418",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 6,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Cal.App.4th 1068",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1113205
+      ],
+      "pin_cites": [
+        {
+          "page": "1073"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/81/1068-01"
+      ]
+    },
+    {
+      "cite": "163 Cal.Rptr. 750",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Cal.App.3d 528",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        1976929
+      ],
+      "pin_cites": [
+        {
+          "page": "533"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/104/0528-01"
+      ]
+    },
+    {
+      "cite": "203 P. 397",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Cal. 638",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2135430
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "639-640"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/187/0638-01"
+      ]
+    },
+    {
+      "cite": "159 Cal.Rptr.3d 779",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Cal.App.4th 258",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6050237
+      ],
+      "pin_cites": [
+        {
+          "page": "261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/218/0258-01"
+      ]
+    },
+    {
+      "cite": "156 P.3d 1100",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Cal.Rptr.3d 644",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Cal.4th 1313",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3158998
+      ],
+      "pin_cites": [
+        {
+          "page": "1328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/40/1313-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1412,
+    "char_count": 36656,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.3412575404975348
+    },
+    "sha256": "77b0715e8271b7d86543cde5737a21d71c3ed87f3afb19083ca4255d2bc108a6",
+    "simhash": "1:2fabca6b6cd286d0",
+    "word_count": 5615
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maureen HIKIDA, Petitioner,\nv.\nWORKERS' COMPENSATION APPEALS BOARD, Costco Wholesale Corporation et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "MANELLA, J.\nPetitioner Maureen Hikida seeks review of an order of respondent Workers' Compensation Appeals Board (the Board) affirming the decision of the workers' compensation judge (WCJ) to apportion the permanent total disability suffered by petitioner between industrial and nonindustrial causes prior to issuing its award. Petitioner contends that because the agreed medical examiner (AME) concluded her permanent total disability was the result of a failed surgery for carpal tunnel syndrome, a condition she contracted primarily due to the clerical work she performed for respondent Costco Wholesale Corporation (Costco) for more than 25 years, apportionment was not appropriate. After briefing on the merits was complete, respondents filed a supplemental brief raising a \"question\" as to this court's jurisdiction. Specifically, respondents suggested the writ petition might have been untimely, because the issue of apportionment was resolved by the Board months before the Board denied reconsideration of the WCJ's final award. We conclude the petition was timely filed. We further conclude that despite significant changes in the law governing workers' compensation in 2004, disability resulting from medical treatment for which the employer is responsible is not subject to apportionment. Accordingly, we annul the Board's order and remand for an increase in petitioner's disability award.\nFACTUAL AND PROCEDURAL BACKGROUND\nPetitioner was employed by respondent Costco from November 1984 to May 2010. During this period, she developed a number of medical conditions, including carpel tunnel syndrome.\nIn May 2010, she took leave from work to undergo carpel tunnel surgery. Following the surgery, she developed chronic regional pain syndrome (CRPS), a condition that caused her debilitating pain in her upper extremities and severely impaired her ability to function. She never returned to work. The parties stipulated she became permanent and stationary on May 2, 2013.\nIn 2012 and 2013, petitioner was examined by an AME in orthopedics, Chester Hasday, M.D. Dr. Hasday found petitioner permanently and totally disabled from the labor market. He found that her permanent total disability was due entirely to the effects of the CRPS that she developed as a result of the failed carpal tunnel surgery. He further concluded that petitioner's carpal tunnel condition itself was 90 percent due to industrial factors and 10 percent to nonindustrial factors.\nIn issuing the award, the WCJ found that petitioner's permanent total disability was 90 percent due to industrial factors, \"after adjustment for apportionment.\" Petitioner sought reconsideration by the Board, contending her disability was 100 percent industrial because it derived from medical treatment, entitling her to an unapportioned award. The WCJ prepared a report and recommendation, in which he recommended denying the petition for reconsideration, stating that he was \"obligated under Labor Code section 4663 to address apportionment of permanent disability to factors other than applicant's industrial injury.\"\nOn February 8, 2016, in a two-to-one decision, the Board affirmed the apportionment. The majority concluded: \"To properly evaluate the issue of apportionment of permanent disability, it is necessary to 'parcel out' the causative sources of the permanent disability, nonindustrial, prior industrial and current industrial, and 'decide the amount directly caused by the current industrial source.' [Citation.] [\u00b6] As the WCJ notes in the Report, the AME Dr. Hasday concluded that [petitioner's] CRPS caused her to be totally permanently disabled. However, there is a basis for apportionment of that permanent disability to nonindustrial causative sources as found by the WCJ because the CRPS was caused by the surgery to treat [petitioner's] carpal tunnel condition, which is 10 percent nonindustrial and 90 percent industrial as opined by Dr. Hasday. [Citation.]\" (Quoting Brodie v. Workers. Comp. Appeals Bd . (2007) 40 Cal.4th 1313, 1328, 57 Cal.Rptr.3d 644, 156 P.3d 1100 (Brodie ).) The Board nonetheless granted the petition for reconsideration, finding the WCJ had failed to take into account medical reports showing petitioner suffered employment-related psychiatric injuries that \"need [ ] to be taken into account along with the other industrial causative sources in determining the level of compensable permanent disability resulting from the industrial injury.\"\nThe dissent, citing multiple cases holding that an employee is entitled to compensation for new or aggravated injury resulting from the medical or surgical treatment of an industrial injury, stated the WCJ erred \"because he apportioned the permanent disability caused by [petitioner's] CRPS based upon the causation of [her] underlying carpal tunnel injury and not upon the cause of her permanent disability.... In that the CRPS causing [petitioner's] total permanent disability resulted entirely from the surgery reasonably performed to treat [her] industrial carpal tunnel injury, it is error to apportion the permanent disability resulting from that medical treatment based upon the causes of the injury that was being treated.\" (Italics omitted.)\nAfter the Board issued its February 2016 decision remanding the case, petitioner prepared a trial brief urging the WCJ to find her 100 percent disabled based on the psychiatric injury, which she alleged was entirely industrial. Petitioner further contended that the vocational expert's opinion supported a 100 percent award, and that a 100 percent award was required under section 4662, subdivision (b) due to her inability to fully use her arms and hands. The WCJ increased petitioner's disability award to 98 percent after apportionment. Following issuance of the amended award, petitioner filed a second petition for reconsideration seeking increase in the award on a number of grounds, including the vocational expert's opinion and section 4662. She also asked the Board to revisit the appropriateness of apportionment. By order dated October 25, 2016, the Board again denied reconsideration, finding apportionment appropriate in a two-to-one decision for the reasons previously stated. The writ petition seeking review of the Board's decision was filed December 9, 2016.\nDISCUSSION\nA. Timeliness of Appeal\nShortly before oral argument, respondents Costco and Helmsman filed a supplemental brief contending the Board's February 8, 2016 opinion was \"likely\" the \"final decision\" with respect to the apportionment issue, and that the appeal should be dismissed as untimely. For the reasons set forth below, we disagree.\nSection 5950 provides that \"[a]ny person affected by an order, decision, or award of the [Board] may ... apply to the Supreme Court or to the court of appeal for the appellate district in which he resides, for a writ of review....\" The petition for writ of review must be filed \"within 45 days after a petition for reconsideration is denied, or, if a petition is granted or reconsideration is had on the appeal board's own motion, within 45 days after the filing of the order, decision, or award following reconsideration.\" (\u00a7 5950.) \"The failure of an aggrieved party to seek judicial review of a final order of the [Board] bars later challenge to the propriety of the order or decision before either the [Board] or the court.\" (State Farm General Ins. Co. v. Workers' Comp. Appeals Bd . (2013) 218 Cal.App.4th 258, 261, 159 Cal.Rptr.3d 779.)\nGenerally, an appeal will not lie to review an order made by the Board where the order remands the matter for a further hearing, leaving issues to be resolved by the WCJ. (Gumilla v. Industrial Acc. Comm . (1921) 187 Cal. 638, 639-640, 203 P. 397 ; Safeway Stores, Inc. v. Workers' Comp. Appeals Bd . (1980) 104 Cal.App.3d 528, 533, 163 Cal.Rptr. 750 (Safeway Stores ).) \"Allowing parties to utilize the appellate process on individual issues in a single compensation claim could create a danger of defeating [the California] constitutional objective\" of administering the workers' compensation laws to \"accomplish justice in all cases 'expeditiously, inexpensively, and without incumbrance....' \" (Safeway Stores , supra , at p. 533, 163 Cal.Rptr. 750, italics omitted; see Maranian v. Workers' Comp. Appeals Bd . (2000) 81 Cal.App.4th 1068, 1073, 97 Cal.Rptr.2d 418 (Maranian ) [\"The well-known final judgment rule that governs general civil appeals was designed to prevent costly piecemeal dispositions and multiple reviews which burden the courts and impede the judicial process\"].) At the same time, courts have recognized that permitting early appellate review to resolve certain \"threshold issues\" may enhance rather than detract from the expeditious resolution of workers' compensation claims. (Safeway Stores , supra , at p. 533, 163 Cal.Rptr. 750 ; Maranian , supra , at p. 1078, 97 Cal.Rptr.2d 418.)\nIn general, a threshold issue is one \"crucial to the employee's right to receive benefits.\" (Maranian , supra , 81 Cal.App.4th at p. 1078, 97 Cal.Rptr.2d 418 ; see 2 Hanna, Cal. Law of Employee Injuries and Workers' Compensation (2d rev. ed. 2007) \u00a7 28.04, p. 28-11 [\"A threshold issue is an issue that is basic to the establishment of the employee's rights to benefits, such as the territorial jurisdiction of the Board, the existence of the employment relationship, and statute of limitations issues\" (fn. omitted) ].) The fact that an issue is significant or important to the litigation is not sufficient to support a finding that it is a threshold issue. As the court stated in Ogden Entertainment Services v. Workers' Comp. Appeals Bd . (2014) 233 Cal.App.4th 970, 986, 987, 183 Cal.Rptr.3d 205 although the determination \"[w]hether the [worker's] psychiatric injury was industrial\" was \"one of the principal issues\" before the Board, \"[t]he disposition by the appeals board of one of several issues on the merits is not a final decision of the appeals board\"; \"[i]t is only a final order, decision or award of the appeals board that is reviewable by this court by way of a petition for a writ of review.\"\nThe Board's February 2016 decision was not a final order disposing of the case, as it remanded the matter to the WCJ to determine the amount of compensation to be awarded for the psychiatric disability and other issues raised by petitioner. Nor was the Board's decision on apportionment a threshold issue, \"crucial to [petitioner's] right to receive benefits.\" (Maranian , supra , 81 Cal.App.4th at p. 1078, 97 Cal.Rptr.2d 418.) Petitioner was entitled to benefits regardless of apportionment, and respondents essentially conceded petitioner's disability was at least 90 percent the result of industrial factors. On remand to the WCJ, petitioner advanced multiple theories to warrant a 100 percent award without regard to apportionment. By maximizing her award in the workers' compensation proceedings before resorting to the courts, petitioner was following a path that could have led to an expeditious resolution of the proceeding without the need for appellate review. We discern no reason an applicant should be compelled to seek immediate writ review of an issue that may not be dispositive of his or her award. In short, we conclude petitioner's pursuit of her claim to its conclusion, in lieu of seeking review of the Board's February 2016 decision, did not represent disregard of a final order. Accordingly, we deny respondent's request for dismissal.\nB. Merits\nWe turn now to the merits of petitioner's assertion that the Board erred when it found that despite the AME's unchallenged opinion that petitioner's CRPS resulting from the failed surgery rendered her totally disabled, the Board deemed her permanent total disability to be 90 percent due to industrial factors after apportionment.\nThe Board's conclusions on questions of law are reviewed de novo. (Benson v. Workers' Comp. Appeals Bd . (2009) 170 Cal.App.4th 1535, 1543, 89 Cal.Rptr.3d 166.) Its findings on questions of fact \"are conclusive and final so long as, based on the entire record, they are supported by substantial evidence.\" (Save Mart Stores v. Workers' Comp. Appeals Bd . (1992) 3 Cal.App.4th 720, 723, 4 Cal.Rptr.2d 597.) When the reviewing court is asked to interpret and apply a statute to undisputed facts, the review is de novo. (Benson , supra , at p. 1543, 89 Cal.Rptr.3d 166.)\n1. Changes in the Law of Apportionment\n\" 'Apportionment is the process employed by the Board to segregate the residual[ ] [effects] of an industrial injury from those attributable to other industrial injuries, or to nonindustrial factors, in order to fairly allocate the legal responsibility.' \" (Brodie , supra, 40 Cal.4th at p. 1321, 57 Cal.Rptr.3d 644, 156 P.3d 1100.) Prior to 2004, apportionment was \"closely circumscribed.\" (Id . at p. 1326, 57 Cal.Rptr.3d 644, 156 P.3d 1100.) Former section 4663, governing apportionment where an industrial injury aggravated a preexisting nonindustrial condition leading to disability, was interpreted as permitting apportionment \" 'only if the [B]oard f[ound] that part of the disability would have resulted from the normal progress of the underlying nonindustrial disease.' \" ( Bro die , supra , at p. 1326, 57 Cal.Rptr.3d 644, 156 P.3d 1100 ; see Gay v. Workers' Comp. Appeals Bd . (1979) 96 Cal.App.3d 555, 562, 158 Cal.Rptr. 137 [\"[T]o support apportionment of nonindustrial disability under [former] section 4663, there must be medical evidence expressly stating that the apportioned disability is the result of the natural progression of the preexisting nonindustrial condition and such nonindustrial disability would have occurred even in absence of the industrial injury\"].) This rule was said to flow from the principle that an employer \"takes the employee as he finds him at the time of the employment\" (Ballard v. Workmen's Comp. App. Bd . (1971) 3 Cal.3d 832, 837, 92 Cal.Rptr. 1, 478 P.2d 937 ), and that an employee could not be denied compensation \"merely because his physical condition was such that he sustained a disability which a person of stronger constitution or in better health would not have suffered.\" (Duthie v. Workers' Comp. Appeals Bd . (1978) 86 Cal.App.3d 721, 727, 150 Cal.Rptr. 530.) The rule \"left employers liable for any portion of a disability that would not have occurred but for the current industrial cause; if the disability arose in part from an interaction between an industrial cause and a nonindustrial cause, but the nonindustrial cause would not alone have given rise to a disability, no apportionment was to be allowed.\" (Brodie , supra , at p. 1326, 57 Cal.Rptr.3d 644, 156 P.3d 1100.) \"[S]o long as the industrial cause was a but-for proximate cause of the disability, the employer w[as] liable for the entire disability, without apportionment.\" (Ibid. ; see, e.g., Franklin v. Workers' Comp. Appeals Bd . (1978) 79 Cal.App.3d 224, 247, 145 Cal.Rptr. 22 [where employee with history of high cholesterol and arteriosclerosis suffered heart attack while working, no apportionment was required for disability attributable to heart attack\"because industrial factors aggravated the heart disease and accelerated the occurrence of the infarct, which absent the industrial exposure would not have occurred when it did\"].)\nIn addition, prior to 2004, former section 4750-which governed apportionment between a current and past industrial injury-was interpreted as allowing the employee to defeat apportionment by establishing rehabilitation of an injury for which a permanent disability award had already been issued. (See, e.g., Robinson v. Workers' Comp. Appeals Bd . (1981) 114 Cal.App.3d 593, 602, 171 Cal.Rptr. 48 [\"[T]he fact that a worker received a permanent disability rating for his earlier injury, and was in fact partially disabled for some period of time, does not provide a basis for apportionment.... '[I]f an injured employee recovers and thereafter is again injured, he is entitled to compensation for the injury to his rehabilitated condition, not limited in amount by the terms of a former award' \"]; National Auto. & Cas. Ins. Co. v. Industrial Acc. Com. (1963) 216 Cal.App.2d 204, 211, 30 Cal.Rptr. 685 [worker who had been found 65 percent disabled after suffering first back injury and 78 percent after suffering second back injury entitled to 39 percent award where evidence established \"a substantial improvement of his bodily condition in the period of time which elapsed prior to the second injury\"]; see id. at pp. 206-211, 30 Cal.Rptr. 685.)\nAs the Supreme Court explained in Brodie , reversing these constraints on apportionment was a key goal of the Legislature when it amended the governing statutes in 2004, eliminating section 4750, re-writing section 4663 and adding section 4664: \"The plain language of new sections 4663 and 4664 demonstrates they were intended to reverse these features of former section 4663 and 4750. [Citation.] ... [N]ew sections 4663, subdivision (a) and 4664, subdivision (a) eliminate the bar against apportionment based on pathology and asymptomatic causes [citations], while section 4664, subdivision (b) was intended to reverse the rule based on former section 4750 that permitted an injured employee to show rehabilitation of an injury for which a permanent disability award had already been issued [citations].\" (Brodie, supra, 40 Cal.4th at pp. 1327, 1328, 57 Cal.Rptr.3d 644, 156 P.3d 1100.) In other words, the amendments were intended to usher in a \"new regime of apportionment based on causation,\" and a \"new approach to apportionment\" that \"look[s] at the current disability and parcel [s] out its causative sources-nonindustrial, prior industrial, current industrial-and decide[s] the amount directly caused by the current industrial source.\" (Id. at p. 1328, 57 Cal.Rptr.3d 644, 156 P.3d 1100.)\n2. Disability Caused by Medical Treatment of an Industrial Injury\nUnder the changes wrought by the 2004 amendments, the disability arising from petitioner's carpal tunnel syndrome was apportionable between industrial and nonindustrial causes. However, petitioner's permanent total disability was caused not by her carpal tunnel condition, but by the CRPS resulting from the medical treatment her employer provided. The issue presented is whether an employer is responsible for both the medical treatment and any disability arising directly from unsuccessful medical intervention, without apportionment. For the reasons discussed below, we conclude it is. Section 4600 requires the employer to provide medical treatment \"reasonably required to cure or relieve the injured worker from the effects of his or her injury....\" (See also \u00a7 4601 [stating that treatment by consulting physician and certain other medical providers requested by the employee \"shall be at the expense of the employer\"].) Although the wording of this provision has changed over the years, it consistently has been interpreted to require the employer to pay for all medical treatment \"[o]nce it has been established that an industrial injury contributed to an employee's need for [it] ....\" (Rouseyrol v. Workers' Comp. App. Bd . (1991) 234 Cal.App.3d 1476, 1485, 286 Cal.Rptr. 250 ; accord, Granado v. Workmen's Comp. App. Bd . (1968) 69 Cal.2d 399, 405-406, 71 Cal.Rptr. 678, 445 P.2d 294 (Granado ); Sanchez v. Brooke (2012) 204 Cal.App.4th 126, 140-141, 138 Cal.Rptr.3d 507 ; Boehm & Associates v. Workers' Comp. Appeals Bd . (2003) 108 Cal.App.4th 137, 142, 133 Cal.Rptr.2d 396 ; Buhlert Trucking v. Workers' Comp. Appeals Bd . (1988) 199 Cal.App.3d 1530, 1532, 247 Cal.Rptr. 190 ; Deauville v. Hall (1961) 188 Cal.App.2d 535, 540-541, 10 Cal.Rptr. 511.)\nIn Granado , the Supreme Court provided the following rationale for its conclusion that \"medical expense is not apportionable\"\n: \"If medical expense reasonably necessary to relieve from the industrial injury were apportionable, a workingman, who is disabled, may not be able to pay his share of the expense and thus forego treatment. Moreover, the uncertainties attendant to the determination of the proper apportionment might cause employers to refuse to pay their share until there has been a hearing and decision on the question of apportionment, and such delay in payment may compel the injured workingman to forego the prompt treatment to which he is entitled.\" (Granado, supra, 69 Cal.2d at pp. 405-406, 71 Cal.Rptr. 678, 445 P.2d 294.)\nIt also has long been the rule that \"the aggravation of an industrial injury or the infliction of a new injury resulting from its treatment or examination are compensable under the provisions of the Workmen's Compensation Act and, therefore, within the exclusive cognizance of the Industrial Accident Commission.\" (Fitzpatrick v. Fidelity & Casualty Co. of New York (1936) 7 Cal.2d 230, 232, 60 P.2d 276 ; accord, Nelson v. Associated Indem. Corp . (1937) 19 Cal.App.2d 564, 566, 66 P.2d 184.) Aggravation of the original industrial injury by medical treatment is considered \"a foreseeable consequence of the original compensable injury, compensable within the workers' compensation proceeding and not the proper subject of an independent common law damage proceeding against the employer.\"\n(Nation v. Certainteed Corp . (1978) 84 Cal.App.3d 813, 817, 149 Cal.Rptr. 62.) Accordingly, \"an employee is entitled to compensation for a new or aggravated injury which results from the medical or surgical treatment of an industrial injury, whether the doctor was furnished by the employer, his insurance carrier, or was selected by the employee.\" (Fitzpatrick v. Fidelity & Casualty Co. of New York, supra , at pp. 233-234, 60 P.2d 276.)\nIn De a u ville v. Hall , supra , 188 Cal.App.2d 535, 10 Cal.Rptr. 511, the court explained that depriving the employee of compensation for aggravation of an industrial injury resulting from negligent medical treatment could lead to \"an action in a court of law against an employer for the latter's negligence in providing that medical treatment.\" (Id . at pp. 540-541, 10 Cal.Rptr. 511.) Such \"independent suits\" would \"ultimately result in a breakdown in the system of compensation for industrial injuries and create unwarranted confusion and increased unnecessary litigation....\" (Id . at p. 541, 10 Cal.Rptr. 511 ; see also Noe v. Travelers Ins. Co . (1959) 172 Cal.App.2d 731, 737, 342 P.2d 976 [\"[I]f delay in medical service attributable to a carrier could give rise to independent third party court actions, the system of workmen's compensation could be subjected to a process of partial disintegration. In the practical operation of the plan, minor delays in getting medical service, such as for a few days or even a few hours, caused by a carrier, could become the bases of independent suits, and these could be many and manifold indeed. The uniform and exclusive application of the law would become honeycombed with independent and conflicting rulings of the courts. The objective of the Legislature and the whole pattern of workmen's compensation could thereby be partially nullified\"].)\nHere, there is no dispute that the disabling carpal tunnel syndrome from which petitioner suffered was largely the result of her many years of clerical employment with Costco. It followed that Costco was required to provide medical treatment to resolve the problem, without apportionment. The surgery went badly, leaving appellant with a far more disabling condition-CRPS-that will never be alleviated. California workers' compensation law relieves Costco of liability for any negligence in the provision of the medical treatment that led to petitioner's CRPS. It does not relieve Costco of the obligation to compensate petitioner for this disability without apportionment.\nOur review of the authorities convinces us that in enacting the \"new regime of apportionment based on causation,\" the Legislature did not intend to transform the law requiring employers to pay for all medical treatment caused by an industrial injury, including the foreseeable consequences of such medical treatment. Pre-2004 law constraining the application of apportionment in the award of permanent disability benefits was based primarily on the interpretation of former sections 4663 and 4750, which were eliminated or fundamentally altered by the 2004 amendments. The longstanding rule that employers are responsible for all medical treatment necessitated in any part by an industrial injury, including new injuries resulting from that medical treatment, derived not from those statutes, but from (1) the concern that applying apportionment principles to medical care would delay and potentially prevent an injured employee from getting medical care; and (2) the fundamental proposition that workers' compensation should cover all claims between the employee and employer arising from work-related injuries, leaving no potential for an independent suit for negligence against the employer. Nothing in the 2004 legislation had any impact on the reasoning that has long supported the employer's responsibility to compensate for medical treatment and the consequences of medical treatment without apportionment. Accordingly, the WCJ erred in relying on the 2004 amendment to support apportioning petitioner's award, and the Board erred in upholding his decision.\nDISPOSITION\nThe order of the Board on reconsideration is annulled. The matter is remanded to the Board for further proceedings consistent with the view expressed in this opinion. Petitioner shall recover her costs.\nWe concur:\nEPSTEIN, P.J.\nWILLHITE, J.\nCostco is adjusted by respondent Helmsman Management Services (Helmsman). We granted permission to California Applicants' Attorneys Association to file an amicus curiae brief in support of petitioner.\nPursuant to stipulation of the parties, the WCJ found that petitioner \"sustained injury arising out of and in the course of employment to her cervical spine, thoracic spine, upper extremities, ... psyche, fingers, [and] elbows....\" He further found that she suffered from employment-related headaches, memory loss, sleep disorder, and \"deconditioning.\" Petitioner claimed to have other medical conditions, including hypertension and irritable bowel syndrome, but the WCJ did not find them employment related.\nMedical reports indicate petitioner was considered temporarily totally disabled at this time. Medical treatment was provided under the auspices of workers' compensation law. (See Labor Code, \u00a7 4600.) (Undesignated statutory references are to the Labor Code.)\nPetitioner was also evaluated by a vocational expert who found her permanently and totally disabled, without access to any occupation in the open labor market.\nSection 4662, subdivision (a) provides: \"Any of the following permanent disabilities shall be conclusively presumed to be total in character: ... (2) Loss of both hands or the use thereof.\"\nRespondents Costco and Helmsman filed an answer. The Board submitted a letter to the court stating it would not answer the petition because \"the decisions of the [WCJ] and the Appeals Board provide the reasons and record for the [Board's] decision in this case....\" The letter stated: \"When the Appeals Board denied reconsideration of the WCJ's August 3, 2016 Decision on October 25, 2016, the August 3, 2016 Decision of the WCJ became the final decision of the [Board] in this case for purposes of appellate review.\"\nIn Safeway Stores, the court agreed to decide whether the worker's injury arose out of and in the course of employment. (Safeway Stores, supra, 104 Cal.App.3d at p. 533, 163 Cal.Rptr. 750.) Since then, courts have defined \"threshold issue[ ]\" to include whether California workers' compensation law applied to a professional athlete who played a single game in California (Federal Insurance Co. v. W.C.A.B. (Johnson) (2013) 221 Cal.App.4th 1116, 1119-1122, 165 Cal.Rptr.3d 288 ); whether an employer failed to reject the worker's claim within the requisite statutory period (Maranian, supra, 81 Cal.App.4th at pp. 1080-1081, 97 Cal.Rptr.2d 418 ); and whether a worker of less than six months was barred from recovering compensation benefits for a claimed psychological injury (Wal-Mart Stores, Inc. v. Workers' Comp. Appeals Bd. (2003) 112 Cal.App.4th 1435, 1438, fn. 3, 5 Cal.Rptr.3d 822 (Wal-Mart Stores )). Courts have found that the determination whether a psychiatric injury is industrial is not a threshold issue (Ogden Entertainment Services v. Workers' Comp. Appeals Bd., supra, 233 Cal.App.4th at pp. 986-987, 183 Cal.Rptr.3d 205 ), and that an order denying a petition to strike a physician's report and remove her as an AME is not a threshold issue (Capital Builders Hardware, Inc. v. Workers' Comp. Appeals Bd. (Gaona ) (2016) 5 Cal.App.5th 658, 662, 210 Cal.Rptr.3d 101 ).\nWe observe that in the authorities relied on by respondents, the courts saved an otherwise premature appeal by deeming the issue involved a \"threshold issue.\" (Safeway Stores, supra, 104 Cal.App.3d at pp. 531, 535, 163 Cal.Rptr. 750 ; Maranian, supra, 81 Cal.App.4th at p. 1070, 97 Cal.Rptr.2d 418 ; Wal-Mart Stores, supra, 112 Cal.App.4th at p. 1438, fn. 3, 5 Cal.Rptr.3d 822 ; Kosowski v. Workers' Comp. Appeals Bd. (1985) 170 Cal.App.3d 632, 636, 216 Cal.Rptr. 280 ; Duncan v. Workers' Comp. Appeals Bd. (2008) 166 Cal.App.4th 294, 299, 82 Cal.Rptr.3d 664 ; see also Matea v. Workers' Comp. Appeals Bd. (2006) 144 Cal.App.4th 1435, 1442, fn. 3, 51 Cal.Rptr.3d 314 ; Kopping v. Workers' Comp. Appeals Bd. (2006) 142 Cal.App.4th 1099, 1105, fn. 6, 48 Cal.Rptr.3d 618.) Respondents have not cited-and we have not found-a case in which an appellate court has dismissed an applicant's petition for review because an earlier Board order remanding a case for further proceedings was determined to have resolved a threshold issue. Courts should be cautious in finding a \"threshold issue\" where such finding will deprive a party of the right to an appeal.\nFormer section 4663 provided: \"In case of aggravation of any disease existing prior to a compensable injury, compensation shall be allowed only for the proportion of the disability due to the aggravation of such prior disease which is reasonably attributed to the injury.\" (Stats. 1937, ch. 90, \u00a7 4663, p. 284.)\nFormer section 4750 provided: \"An employee who is suffering from a previous permanent disability or physical impairment and sustains permanent injury thereafter shall not receive from the employer compensation for the later injury in excess of the compensation allowed for such injury when considered by itself and not in conjunction with or in relation to the previous disability or impairment. [\u00b6] The employer shall not be liable for compensation to such an employee for the combined disability, but only for that portion due to the later injury as though no prior disability or impairment had existed.\" (Stats. 1945, ch. 1161, \u00a7 1, p. 2209.)\nSection 4663 currently provides that \"[a]pportionment of permanent disability shall be based on causation\" and \"[a] physician who prepares a report addressing the issue of permanent disability due to a claimed industrial injury shall address in that report the issue of causation of the permanent disability\" which \"must include an apportionment determination\" stating \"what approximate percentage of the permanent disability was caused by the direct result of injury arising out of and occurring in the course of employment and what approximate percentage of the permanent disability was caused by other factors both before and subsequent to the industrial injury, including prior industrial injuries.\"\nSection 4664 provides: \"(a) The employer shall only be liable for the percentage of permanent disability directly caused by the injury arising out of and occurring in the course of employment. [\u00b6] (b) If the applicant has received a prior award of permanent disability, it shall be conclusively presumed that the prior permanent disability exists at the time of any subsequent industrial injury. This presumption is a presumption affecting the burden of proof. [\u00b6] (c)(1) The accumulation of all permanent disability awards issued with respect to any one region of the body in favor of one individual employee shall not exceed 100 percent over the employee's lifetime unless the employee's injury or illness is conclusively presumed to be total in character pursuant to Section 4662.... \"\nThe Board had come to a similar conclusion in Escobedo v. Marshalls (2005) 70 Cal.Comp.Cases 604, 2005 WL 910490, in which it stated: \"[I]n [enacting the 2004 changes], ... the Legislature intended to expand ... the scope of legally permissible apportionment.... [S]ection 4663(c) provides for apportionment based on 'what approximate percentage of the permanent disability was caused by other factors both before and subsequent to the industrial injury, including prior industrial injuries.' ... [T]his language appears to reflect a legislative intent to enlarge the range of factors that may be considered in determining the cause of permanent disability....\" (Id. at pp. 616-617, italics omitted.)\nPetitioner and amicus curiae contend this issue has been resolved, citing County of Sacramento v. WCAB (Chimeri) (2010) 75 Cal.Comp.Cases 159, 2010 WL 450916, Nilsen v. Vista Ford (Oct. 26, 2012, W.C.A.B. No. ADJ630145) 2012 Cal. Wrk. Comp. P.D. LEXIS 528, Moran v. Dept. of Youth Authority (Jan. 21, 2011, W.C.A.B. Nos. ADJ2192153, ADJ710643) 2011 Cal. Wrk. Comp. P.D. Lexis 43, and Steinkamp v. City of Concord (Mar. 30, 2006, W.C.A.B. Nos. OAK 316754, WCK 0028639, WCK 0031066, WCK 0050335) 2006 Cal. Wrk. Comp. P.D. LEXIS 24. In Chimeri, the employee became disabled after breaking his foot at work, which led him to suffer CRPS and become addicted to pain medication. The permanent total disability there was 100 percent work related. In Nilsen, the employee similarly suffered a serious injury at work leading to CRPS and dependency on pain medication. The defendant sought to attribute some of the disability to the employee's pre-existing back condition, but the Board found no evidence that his preexisting back condition had contributed to his disability. In Moran, the employee suffered two injuries at work, and the issue was whether apportionment between the prior injury and the current injury was warranted. The Board found the defendant had failed to meet its burden of proving the prior injury overlapped the current one. Of the cited cases, only Steinkamp addressed the issue squarely. There, the employee's cumulative knee injury was the result of various factors, some industrial and some not. He underwent knee surgery, which led to permanent disability. The Board concluded apportionment was not warranted because \"medical treatment is not apportionable.\" However, Steinkamp was not designated a significant panel decision and its precedential value is limited.\nPetitioner further contends this matter was resolved in Escobedo v. Marshalls, in which the Board stated: \"Section 4663(a)'s statement that the apportionment of permanent disability shall be based on 'causation' refers to the causation of the permanent disability, not causation of the injury, and the analysis of the causal factors of permanent disability for purposes of apportionment may be different from the analysis of the causal factors of the injury itself.\" (Escobedo v. Marshalls, supra, 70 Cal.Comp.Cases at p. 607.) In Escobedo, the employee's disability was not the result of medical treatment. The Board addressed apportionment where the disability was caused 50 percent by an industrial injury and 50 percent by a preexisting degenerative condition. \" '[A]n opinion is not authority for a proposition not therein considered.' \" (Westly v. Board of Administration (2003) 105 Cal.App.4th 1095, 1112, 130 Cal.Rptr.2d 149.)\nThe Industrial Accident Commission was replaced by the Board in 1966. (Ramirez v. Workers' Comp. Appeals Bd. (2017) 10 Cal.App.5th 205, 220, fn. 7, 215 Cal.Rptr.3d 723.)",
+        "type": "majority",
+        "author": "MANELLA, J."
+      }
+    ],
+    "attorneys": [
+      "Law Firm of Rowen, Gurvey & Win and Alan Z. Gurvey, Van Nuys, for Petitioner.",
+      "Law Office of Mark Gearhert and Justin C. Sonnicksen for California Applicants' Attorneys Association as Amicus Curiae on behalf of Petitioner.",
+      "Mullen & Filippi, Jay S. Cohen, Van Nuys, and Daniel Nachison ; Seyfarth & Shaw and Kiran A. Seldon, Los Angeles, for Respondents Costco Wholesale Corporation and Helmsman Management Services.",
+      "John F. Shields, Santa Rosa, and Peter Ray, Glendale, for Respondent Workers' Compensation Appeals Board."
+    ],
+    "corrections": "",
+    "head_matter": "Maureen HIKIDA, Petitioner,\nv.\nWORKERS' COMPENSATION APPEALS BOARD, Costco Wholesale Corporation et al., Respondents.\nB279412\nCourt of Appeal, Second District, Division 4, California.\nFiled June 22, 2017\nLaw Firm of Rowen, Gurvey & Win and Alan Z. Gurvey, Van Nuys, for Petitioner.\nLaw Office of Mark Gearhert and Justin C. Sonnicksen for California Applicants' Attorneys Association as Amicus Curiae on behalf of Petitioner.\nMullen & Filippi, Jay S. Cohen, Van Nuys, and Daniel Nachison ; Seyfarth & Shaw and Kiran A. Seldon, Los Angeles, for Respondents Costco Wholesale Corporation and Helmsman Management Services.\nJohn F. Shields, Santa Rosa, and Peter Ray, Glendale, for Respondent Workers' Compensation Appeals Board."
+  },
+  "file_name": "0654-01",
+  "first_page_order": 654,
+  "last_page_order": 665
+}

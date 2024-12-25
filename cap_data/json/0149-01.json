@@ -1,0 +1,190 @@
+{
+  "id": 12513533,
+  "name": "IN RE JESSE S., a Person Coming Under the Juvenile Court Law. Orange County Social Services Agency, Plaintiff and Respondent, v. Jesse S., Defendant and Appellant.",
+  "name_abbreviation": "Orange Cnty. Soc. Servs. Agency v. Jesse S. (In re Jesse S.)",
+  "decision_date": "2017-06-07",
+  "docket_number": "G054169",
+  "first_page": "149",
+  "last_page": "157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 149"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Cal.Rptr.2d 614",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Cal.App.4th 1689",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2315388
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/6/1689-01"
+      ]
+    },
+    {
+      "cite": "435 F.3d 1140",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        936241
+      ],
+      "pin_cites": [
+        {
+          "page": "1145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/435/1140-01"
+      ]
+    },
+    {
+      "cite": "196 Cal.Rptr.3d 822",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "243 Cal.App.4th 765",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6053980
+      ],
+      "pin_cites": [
+        {
+          "page": "773"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/243/0765-01"
+      ]
+    },
+    {
+      "cite": "193 Cal.Rptr.3d 189",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "240 Cal.App.4th 1090",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4105269
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1092-1093"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/240/1090-01"
+      ]
+    },
+    {
+      "cite": "88 Temp. L.Rev. 837",
+      "category": "journals:journal",
+      "reporter": "Temp. L. Rev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Cal.Rptr.3d 606",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Cal.App.4th 632",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4260942
+      ],
+      "pin_cites": [
+        {
+          "page": "637"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/210/0632-01"
+      ]
+    },
+    {
+      "cite": "122 Stat. 3949",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1159,
+    "char_count": 26411,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25865368984832704
+    },
+    "sha256": "4ca3b410debb15d891aff2c437b66875beb0bfc39ab883d276e41a4807d36ec4",
+    "simhash": "1:60a3c7791e0a6eb0",
+    "word_count": 4355
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE JESSE S., a Person Coming Under the Juvenile Court Law."
+    ],
+    "opinions": [
+      {
+        "text": "BEDSWORTH, ACTING P.J.\nI. INTRODUCTION\nThis is an unusual case. It is unusual in the nature of the relief sought and even more unusual in our inability to provide that relief, even though we think it warranted. We publish our opinion in the hope the Legislature will either change the law or-by reconsidering it and leaving it unchanged-reassure us that the present system is what they intended.\nAbout four months before his 20th birthday in 2016, appellant Jesse S. filed, in propria persona, a request under section 388.1 of the Welfare and Institutions Code to return to juvenile court jurisdiction and the foster care system. His reason was that the couple who adopted him the day before his 18th birthday were no longer supporting him, even though they were receiving payments on his behalf from California's Adoption Assistance Program (AAP). (\u00a7 16115 et seq.). The judge denied the request, noting that under the literal language of section 388.1 the very fact the couple were still receiving AAP payments on Jesse's behalf precluded Jesse from reentry into the juvenile dependency system.\nWe affirm, though reluctantly. Jesse has pointed out an anomaly in section 388.1 that the Legislature might want to address. The trial judge read current section 388.1, subdivision (a)(4), to mean exactly what it says: A nonminor between 18 and 21 is eligible for reentry into the juvenile dependency and foster care system only if his or her adoptive parents no longer provide ongoing support to that nonminor and also no longer collect AAP benefits on behalf of that minor. Since there was no question Jesse's adoptive parents were still collecting adoption assistance program payments on Jesse's behalf, the judge was forced to conclude Jesse was not eligible for reentry under the statute.\nWe agree with Jesse's point that the Legislature probably did not intend a former foster youth's reentry in the dependency system to depend on the glacial bureaucratic processes which govern termination of AAP payments to adoptive parents no longer supporting adopted ex-foster care youth. That said, while the literal application of the statute may yield an anomalous and unintended result in cases like Jesse's, those results are not so anomalous that we can accept Jesse's invitation to invoke the common law absurdity rule to delete what the Legislature plainly included when it drafted section 388.1. (See Code Civ. Proc., \u00a7 1858.) The problem requires a legislative fix if there is to be one.\nII. FACTS\nJesse was born in late 1996. He entered the juvenile dependency system at age 12. He and his younger brother and sister had been living in a motel room when his biological parents turned to drugs. The last time Jesse saw his natural mother she was \"behind a glass window in jail.\"\nAround age 16, Jesse was placed in a foster home with a couple who adopted him the day before he turned 18. As a result of that adoption, the couple began receiving payments through a state program known as the Adoptive Assistance Program or AAP. (See \u00a7 16115 et seq.) In August 2015, Jesse moved out of their home to go to college in San Francisco. That was the last time he lived with his adoptive parents.\nAs to the circumstances of Jesse's last-minute adoption, the appellate record reflects two very divergent points of view. The adoptive parents say they were reluctant to adopt because they thought Jesse might be able to access better services without adoption. They say it was Jesse who insisted they adopt him.\nJesse recalls it differently. He says he was \"rushed and pressured\" into the adoption. From his standpoint-that is, at least as he saw things at age 19 in August 2016 when he initiated this case-the adoption had been a bad fit: \"It seemed my adoptive parents were only capable of manipulation and judging me. When I experienced any type of failure or struggle, they would become angry and belittle me and we didn't celebrate my successes.\" He says he felt too afraid to speak up about this during the period leading to his adoption.\nAt any rate, an estrangement developed between Jesse and his adoptive parents during the last year he lived with them-an estrangement that worsened during his first semester of college. According to his adoptive parents, Jesse was caught smoking marijuana at home and failed subsequent drug tests. His adoptive parents supplied him with a reliable car, but Jesse totaled it when he had an accident while texting.\nDespite these peccadilloes, his adoptive parents were proud of sending him off to college to study radio and television production. But when they visited him in San Francisco his first semester, they found he had changed. Jesse had acquired a roommate who wasn't enrolled in college, and that roommate had apparently been a bad influence on him. Jesse had become \"destructive and mean.\" He had been \"asked to leave college.\" He sent his adoptive parents rude emails. They offered to provide therapy for him, but he declined it, and they concluded he had \"chemical dependency issues.\"\nBy August 2016, the estrangement had reached the point where Jesse preferred to be homeless rather than return to his adoptive parents. However, he connected with a private foundation that arranged to find him accommodation in a private home, free of charge. The foundation also supplied him with food, toiletries and clothing. According to Jesse, his adoptive parents were \"not providing any type of meaningful support,\" but we must add that Jesse had unilaterally severed any such support. He was working as a busser and host at a Santa Ana restaurant and had some money of his own. While his adoptive parents had supplied him with a cell phone and were providing medical and dental insurance, Jesse was using his own money to pay for another cell phone, and he had also made arrangements to be covered on publicly supplied medical and dental insurance under Medi-Cal and Denti-Cal.\nOn August 9, 2016, Jesse filed a formal JV-468 request to return to juvenile court jurisdiction and foster care. The trial judge got to the human heart of the matter in the course of the hearing held October 2016. He wanted to know whether Jesse's adoptive parents would take him back. Jesse's counsel said the possibility of his returning was never even considered given the \"strained\" relationship that had developed with his adoptive parents.\nThe Orange County Social Services Agency was not at all receptive to the idea of taking Jesse back into the dependency system. They took the position that because (a) Jesse's adoptive parents were receiving AAP payments and (b) the agency was required to take the adoptive parents word for it that they were supporting him, Jesse was automatically ineligible for reentry into the dependency system.\nThe trial judge was not unsympathetic to the Catch-22 in which Jesse found himself. On the one hand, it appeared he actually was self-supporting and not receiving any ongoing support from his adoptive parents. On the other hand, the statute was plain that if those parents were receiving AAP payments, Jesse's request had to be denied. The \"law on its face,\" said the trial judge, was \"clear\" that Jesse was \"not entitled to reenter the system.\" The best the judge could do was to authorize conjoint therapy for Jesse and his adoptive parents in the hope of some sort of reconciliation-likely a futile order, but no less admirable-and deny Jesse's request without prejudice. Jesse timely filed this appeal from the order denying his section 388.1 request.\nIII. DISCUSSION\nJesse's predicament can be traced to the way two separate but related state programs are structured. One is California's Adoption Assistance Program (AAP) which provides parents who adopt children in the foster care system an adoption subsidy in the form of AAP payments. California has had some form of adoption subsidy since the late 1960's. (See Stats. 1968, \u00a7 1, ch. 1322, pp. 2498-2499 [enacting sections 16115 through 16123].)\nFrom the beginning, the AAP program was intended to be revenue neutral. The theory was that money that might otherwise be spent on children's foster care would be the source of the adoption subsidy. (See Stats. 1968, \u00a7 1, ch. 1322, p. 2499 [enacting former \u00a7 16123]. ) Revenue neutrality remains both the statutory and regulatory goal of the AAP program to this day.\nThe other program, to which the enactment of section 388.1 may ultimately be traced, is the outgrowth of federal legislation in 2008, known as the Fostering Connections to Success and Increasing Adoptions Act of 2008 (Pub.L. No. 110-351 (Oct. 7, 2008) 122 Stat. 3949). The federal act arose out of the widespread perception that children who have grown up in foster care have disproportionate difficulty in transitioning to adulthood. (See In re K.L. (2012) 210 Cal.App.4th 632, 637, 148 Cal.Rptr.3d 606 [\"Before 2008, youths in the foster care system aged out of the system when they turned 18, leading to an epidemic of emancipated youths without the skills and resources to become productive members of society.\"]; Boyer, Foster Care Reentry Laws: Mending the Safety Net for Emerging Adults in the Transition to Independence (2016) 88 Temp. L.Rev. 837, [noting \"prevalence of adverse outcomes for foster youth exiting care to independence\"]; Shin, A Saving Grace? The Impact of the Fostering Connections to Success and Increasing Adoptions Act on America's Older Foster Youth (2012) 9 Hastings Race & Poverty L.J. 133, 134 [\"The majority of children who stay in the foster care system long-term have at least one fact in common: they are usually ill-prepared to live self-sufficient and independent lives after they are cut off from the foster care system at the age of eighteen.\"].) California took advantage of the federal act in 2010, by passing the California Fostering Connections to Success Act, often referred to as \"AB 12.\"\nAB 12 is a comprehensive piece of legislation. The Legislative Counsel's Digest alone runs to five pages of dense print in volume 2 of West's California Session Laws for the 2010 Regular Session. (See pp. 2652-2657.) For our purposes, however, there is but one major take-away: The goal of both the 2008 federal legislation and the 2010 AB 12 state legislation was to ensure services to young people between the ages of 18 and 21 who had been in foster care. (See In re R.G. (2015) 240 Cal.App.4th 1090, 1092-1093, 193 Cal.Rptr.3d 189 ; In re K.L., supra, 210 Cal.App.4th at pp. 637-638, 148 Cal.Rptr.3d 606 ; cf. In re A.A. (2016) 243 Cal.App.4th 765, 773, 196 Cal.Rptr.3d 822 [discussing nonminor dependent ultimately determined to be not eligible for AB 12 benefits].)\nWelfare and Institutions Code section 388.1 was added to the statutory scheme in 2013, in Assembly Bill No. 787 (AB 787), the object of which was to make \"technical and clarifying\" changes to AB 12. (See Assem. Appropriations Com. Analysis of Assem. Bill No. 787 (Mar. 19, 2013).) As manifested in section 388.1, AB 787 was intended to \"Allow[ ] re-entry into nonminor dependency status for former nonminor dependents (NMDs) who reached permanency, but whose guardian, relative or adoptive parent died before their 21st birthday.\" (Ibid .)\nWhich brings us to the anomaly which is at the center of Jesse's appeal. A situation such as the case at bar is a beggar's crossroads never intended by anyone. AAP money is being spent on behalf of a youth between 18 and 21, but none of that money is helping him transition to adulthood.\nThe social services agency points to certain safeguards currently in the AAP statutory scheme, the main one being the possibility of recoupment of overpayments when adoptive parents are no longer supporting the young person on whose behalf the payments are being made. (\u00a7 16121.05, subd. (a). ) And there is, indeed, such a possibility. That helps the state, but does nothing for Jesse. And there is a time-lag inherent in the system that works to the potential detriment of all young people in Jesse's shoes.\nBoth the recoupment statute (\u00a7 16121.05, subdivision (c) ) and a regulation (\u00a7 35333(g)(1)(C) ) provide that after AAP payments are established, the payments continue on automatically until there is a mandatory reassessment, which may be an interval as long as two years. (See \u00a7 16121.05, subd. (c) ; \u00a7 35333(g)(1); see also \u00a7 16119, subd. (f) .) Section 35333(g) provides in pertinent part: \"A reassessment of the AAP benefit shall be required every two (2) years beginning from the date of a signed Adoption Assistance Program Agreement (AD 4320) between the agency and the adoptive parents. [\u00b6] (1) Once a child is determined eligible to receive AAP, he or she remains eligible and the subsidy continues unless one of the following occurs: [\u00b6] ... [\u00b6] (C) The responsible public agency determines the adoptive parents are no longer providing support to the child.\" (Italics added.)\nAAP payments themselves are the product of negotiation and embodied in an adoption assistance agreement with the prospective adoptive parents (\u00a7 16119, subd. (d)(1) ; see \u00a7 35333(a)) so the agency here stresses that the negotiated agreements are statutorily required to contain a proviso that requires the adopting family to report \"changes in circumstances that might negatively affect their ability to provide for the identified needs of the child.\" (\u00a7 16120.05.) But that provision is not directed at the section 388.1 situation. As phrased, it is directed to the adoptive parents' ability to provide for identified needs, as distinct from whether they are actually using the payments to support the youth. On the other hand, the regulation that implements (among other statutes) section 16120.05-section 35333 -does provide for discontinuation of AAP payments based on lack of support alone, but the catch is that the responsible agency must first determine the adoptive parents are \"no longer providing support to the child.\" So section 16121.05 (the recoupment statute) builds in a time lag necessitated by due process, by requiring \"appropriate notice of action and appeal rights,\" when the department determines the child is no longer receiving support from the adoptive family. Thus, even under the best and quickest circumstances, a substantial period-a large chunk out of the life of a young person 18 to 21 trying to get started-will elapse before the agency or department acts in such a way that the adoptive parents are no longer receiving AAP parents and thus opens the way for a young person's reentry into the dependency system. Meanwhile, time ebbs away. Jesse, and others like him, do not have that kind of time.\nThat seems a flaw in the statutory scheme. It may be one which, given budgetary constraints, is unavoidable. We do not have the expertise to tell. Our task in this appeal is to evaluate whether the result is so anomalous as to allow us to rewrite the requirements. It is not. We cannot step in-not with a decent respect for separation of powers.\nThere are rare times when the gap between what a legislative drafter of some rule clearly wanted and what ended up on paper is so wide that courts will step in to correct the drafting error. (E.g., Amalgamated Trans. Loc. 1309 v. Laidlaw Trans. Ser. (9th Cir. 2006) 435 F.3d 1140, 1145 [\"not less than 7 days\" was obviously intended to mean \"not more than 7 days\"].)\nAnd there are times when what ended up on paper is simply too unjust and absurd to be enforced by the judiciary. An excellent discussion of the problem of absurdity in the legislative drafting of statutes is to be found in Unzueta v. Ocean View School Dist. (1992) 6 Cal.App.4th 1689, 8 Cal.Rptr.2d 614 (Unzueta ), where the majority of the court found one aspect of a statute to be absurd and another not to be, while the dissenter found both aspects absurd.\nHowever, in Unzueta both the majority and dissenting opinions stressed the extreme rarity of occasions when the judiciary should apply the absurdity rule. \"Each time the judiciary utilizes the 'absurd result' rule, a little piece is stripped from the written rule of law and confidence in legislative enactments is lessened.\" (See Unzueta, supra, 6 Cal.App.4th at p. 1699, 8 Cal.Rptr.2d 614.) \"In most cases, it is appropriate for courts to literally interpret statutes. The result that necessarily flows from clear, unambiguous language is almost always the 'correct result,' irrespective of whether the judge thinks it is wise or unwise.\" (Id. at p. 1703, 8 Cal.Rptr.2d 614 (dis. opn. of Gilbert, J.).)\nIn the case before us, what we perceive as an anomalous result dictated by the literal language of section 388.1 does not reach the level of absurdity necessary for us to accept Jesse's invitation to change that result. The two programs have different foci. AAP payments are provided by the Legislature to encourage, indeed subsidize, the adoption of children in foster care by adoptive families, including children well below age 18. Reentry into the dependency system under section 388.1 focuses on just young people between 18 and 21 who have been ex-foster children.\nThe Legislature may not have wanted to make reentry automatic on an ex-foster child's allegation he or she wasn't being supported with AAP payments. Reentry imposes on social service agencies extra overhead costs in the form of additional administrative and supervisorial duties. The Legislature may also have been willing to put up with bureaucratic time lags in ascertaining the absence of support from adoptive parents, since there is still the backstop of eventual recoupment. And even where adoptive parents who are receiving AAP payments may not be actually supporting the ex-foster child, they might still be legally responsible for the child's support. Thus while section 388.1 may yield anomalous results in certain ways, it can hardly be said to be without rational justification.\nThis appears to be a case without villains. Jesse's declaration shows he wants to get on with his life, and wants to resume his education at a local community college; meanwhile he is working. The adoptive parents have offered as much support as appears to them reasonable, given that Jesse does not want to take their advice and/or return home.\nThat is all we can say. It is up to the Legislature and Governor whether more need be said.\nIV. DISPOSITION\nThe order appealed from is affirmed.\nWE CONCUR:\nFYBEL, J.\nIKOLA, J.\nAll statutory references are to the Welfare and Institutions Code unless otherwise indicated.\nSubdivision (a) of the statute provides in pertinent part: \"(a) On and after January 1, 2014, a nonminor who has not attained 21 years of age may petition the court in which he or she was previously found to be a dependent or delinquent child of the juvenile court for a hearing to determine whether to assume dependency jurisdiction over the nonminor, if he or she meets any of the following descriptions : [\u00b6] ... [\u00b6] [categories (1) to (3) not applicable to this case]: (4) He or she is a nonminor who received adoption assistance payments after attaining 18 years of age pursuant to Chapter 2.1 (commencing with Section 16115) of Part 4 of Division 9 and his or her adoptive parent or parents no longer provide ongoing support to, and no longer receive benefits on behalf of, the nonminor after the nonminor attained 18 years of age, but before he or she attains 21 years of age.\" (Italics added.)\nCounty social workers had checked with a program and policy analyst at the state Department of Social Services who told them that adoptive parents do not have to document how AAP funds are used; the department's policy is to take the parents' word for it.\nThe order is appealable under section 395, subdivision (a)(1): \"A judgment in a proceeding under Section 300 may be appealed in the same manner as any final judgment, and any subsequent order may be appealed as an order after judgment.\"\nThe Legislature itself refers to AAP payments as an adoption \"subsidy\" in section 16120, subdivision (c).\nAs first enacted, former section 16123, provided: \"It is not the intent of this act to increase expenditures but to provide for payments to adoptive parents in the same way that such persons would be eligible to receive aid payments if they were to apply for a boardinghome license.\" (Stats. 1968, \u00a7 2, ch. 1322, p. 2499.)\nSection 16115.5 provides: \"It is the intent of the Legislature in enacting this chapter to benefit children residing in foster homes by providing the stability and security of permanent homes, and in so doing, achieve a reduction in foster home care. It is not the intent of this chapter to increase expenditures but to provide for payments to adoptive parents to enable them to meet the needs of children who meet the criteria established in Sections 16116, 16120, and 16121.\"\nLikewise, section 35333(c) of title 22 of the California Code of Regulations provides: \"The responsible public agency in consultation with the financially responsible county, if different from the agency, shall determine the maximum state-approved foster care maintenance payment that the child would have received in a foster family home if the child had remained in foster care.\" (Italics added.) All further citations to section 35333 are to title 22 of that Code.\nIn this regard section 16120 contemplates using section 388.1 to allow an ex-foster youth back into the dependency system based on the death of the adoptive parents, but makes no provision for such reentry based on a discontinuation of support from adoptive parents.\n\"The department or county adoption agency may recover any overpayments of financial assistance under the Adoption Assistance Program, and shall develop regulations that establish the means to recoup them, including an appropriate notice of action and appeal rights, when the department either [sic : \"any\" was probably intended] of the following applies: [\u00b6] (1) The adoptive parents are no longer legally responsible for the support of the child. [\u00b6] (2) The child is no longer receiving support from the adoptive family. [\u00b6] (3) The adoptive family has committed fraud in its application for, or reassessment of, the adoption assistance.\" (Italics added.)\nSubdivision (c) provides in pertinent part: \"The amount and duration of assistance shall not be changed without the concurrence of the adoptive parents, unless any of the following has occurred: [\u00b6] (1) The child has attained 18 years of age, or 21 years of age where the child has a mental or physical disability that warrants the continuation of assistance. [\u00b6] (2) The adoptive parents are no longer legally responsible for the support of the child. [\u00b6] (3) The child is no longer receiving any support from adoptive parents.\" (Italics added.)\n\"A reassessment of the AAP benefit shall be required every two (2) years beginning from the date of a signed Adoption Assistance Program Agreement (AD 4320) between the agency and the adoptive parents. [\u00b6] (1) Once a child is determined eligible to receive AAP, he or she remains eligible and the subsidy continues unless one of the following occurs: [\u00b6] (A) The child has attained the age of 18 or 21; [\u00b6] .... [\u00b6] (B) The adoptive parents are no longer legally responsible for the support of the child. [\u00b6] (C) The responsible public agency determines the adoptive parents are no longer providing support to the child.\" (Italics added.)\nIn pertinent part: \"The amount and duration of assistance shall not be changed without the concurrence of the adoptive parents, unless any of the following has occurred: [\u00b6] (1) The child has attained 18 years of age, or 21 years of age where the child has a mental or physical disability that warrants the continuation of assistance. [\u00b6] (2) The adoptive parents are no longer legally responsible for the support of the child. [\u00b6] (3) The child is no longer receiving any support from adoptive parents.\" (Italics added.)\n\"The department, county adoption agency, or licensed adoption agency shall inform the prospective adoptive family that the adoptive parents will continue to receive benefits in the agreed upon amount unless one of the following occurs....\" (Italics added.)\nIn pertinent part: \"The amount of an adoption assistance cash benefit, if any, shall be a negotiated amount based upon the needs of the child and the circumstances of the family.\"\nSection 16121.05 subdivision (a) provides in pertinent part: \"The department or county adoption agency may recover any overpayments of financial assistance under the Adoption Assistance Program, and shall develop regulations that establish the means to recoup them, including an appropriate notice of action and appeal rights, when the department determines either of the following applies: [\u00b6] ... [\u00b6] (2) The child is no longer receiving support from the adoptive family....\"\nAB 885 from the 2015-2016 Regular Session, among other things, was apparently intended to ease up on the need to first have AAP funds paid to the adoptive parents stop before the ex-foster youth could reenter the dependency system. To quote from the Senate Rules Committee Bill Analysis for AB 885 of August 16, 2016, as it proposed to change section 388.1 : \"This bill: [\u00b6] ... [\u00b6] (2) Eliminates the requirement that a guardian or adoptive parent no longer receive payment on behalf of the minor for a court to resume dependency jurisdiction or to receive aid, among other considerations.\"\nHowever, Governor Brown vetoed AB 885, along with a number of other bills, explaining that they \"make changes to a worthy program,\" but those changes would require \"increased funding\" and thus constitute \"end run of the budget process,\" and commit the state \"to spending an additional $240 million every year.\" (See < http://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml? bill_id=201520160AB885>.)\nWhether the Legislature can craft a genuinely revenue neutral change in section 388.1 for young persons in Jesse's position is a matter of course that we leave up to it.",
+        "type": "majority",
+        "author": "BEDSWORTH, ACTING P.J."
+      }
+    ],
+    "attorneys": [
+      "Marsha F. Levine, Irvine, under appointment by the Court of Appeal, for Defendant and Appellant.",
+      "Leon J. Page, County Counsel, Karen L. Christensen and Aurelio Torre, Deputies County Counsel, for Plaintiff and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE JESSE S., a Person Coming Under the Juvenile Court Law.\nOrange County Social Services Agency, Plaintiff and Respondent,\nv.\nJesse S., Defendant and Appellant.\nG054169\nCourt of Appeal, Fourth District, Division 3, California.\nFiled June 7, 2017\nMarsha F. Levine, Irvine, under appointment by the Court of Appeal, for Defendant and Appellant.\nLeon J. Page, County Counsel, Karen L. Christensen and Aurelio Torre, Deputies County Counsel, for Plaintiff and Respondent."
+  },
+  "file_name": "0149-01",
+  "first_page_order": 149,
+  "last_page_order": 157
+}

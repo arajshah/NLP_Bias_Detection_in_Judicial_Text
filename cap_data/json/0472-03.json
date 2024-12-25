@@ -1,0 +1,82 @@
+{
+  "id": 12513559,
+  "name": "PEOPLE v. SMITH",
+  "name_abbreviation": "People v. Smith",
+  "decision_date": "2017-06-28",
+  "docket_number": "S236112",
+  "first_page": "472",
+  "last_page": "472",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 472"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 598"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Cal.5th 858",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12513451
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-rptr-3d/216/0285-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 389,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25865697189295594
+    },
+    "sha256": "5380bdd51206c3f9a917b15e0eef513a197d172bcf01b555bd7d73feb7f1edd9",
+    "simhash": "1:1baf6eec62f2ba50",
+    "word_count": 62
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE\nv.\nSMITH"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dismissed and remanded to CA 4/2. Review in the above-captioned matter, which was granted and held for People v. Gonzales (2017) 2 Cal.5th 858, 216 Cal.Rptr.3d 285, 392 P.3d 437, is hereby dismissed. (Cal. Rules of Court, rule 8.528(b).)"
+    ],
+    "corrections": "",
+    "head_matter": "PEOPLE\nv.\nSMITH\nS236112\nSupreme Court of California\nJune 28, 2017\nDismissed and remanded to CA 4/2. Review in the above-captioned matter, which was granted and held for People v. Gonzales (2017) 2 Cal.5th 858, 216 Cal.Rptr.3d 285, 392 P.3d 437, is hereby dismissed. (Cal. Rules of Court, rule 8.528(b).)\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0472-03",
+  "first_page_order": 472,
+  "last_page_order": 472
+}

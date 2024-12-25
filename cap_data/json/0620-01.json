@@ -1,0 +1,223 @@
+{
+  "id": 12513570,
+  "name": "Carmen ZUBILLAGA, Plaintiff and Appellant, v. ALLSTATE INDEMNITY COMPANY, Defendant and Respondent.",
+  "name_abbreviation": "Zubillaga v. Allstate Indem. Co.",
+  "decision_date": "2017-06-19",
+  "docket_number": "G052603",
+  "first_page": "620",
+  "last_page": "630",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 620"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 1017"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "97 Cal.Rptr.2d 386",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Cal.App.4th 1282",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1113233
+      ],
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/81/1282-01"
+      ]
+    },
+    {
+      "cite": "96 Cal.Rptr.3d 744",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Cal.App.4th 1208",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3974060
+      ],
+      "pin_cites": [
+        {
+          "page": "1237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/175/1208-01"
+      ]
+    },
+    {
+      "cite": "108 Cal.Rptr.2d 776",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Cal.App.4th 335",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 P.3d 77",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Cal.Rptr.3d 797",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Cal.4th 446",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3123113
+      ],
+      "pin_cites": [
+        {
+          "page": "460"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/36/0446-01"
+      ]
+    },
+    {
+      "cite": "116 P.3d 1123",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Cal.Rptr.3d 436",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Cal.4th 1028",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3121992
+      ],
+      "pin_cites": [
+        {
+          "page": "1037"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/36/1028-01"
+      ]
+    },
+    {
+      "cite": "171 P.3d 1082",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 12,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Cal.Rptr.3d 746",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 12,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.4th 713",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3673019
+      ],
+      "pin_cites": [
+        {
+          "page": "723"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/42/0713-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1093,
+    "char_count": 27221,
+    "pagerank": {
+      "raw": 6.5754854646575e-08,
+      "percentile": 0.40276691807128523
+    },
+    "sha256": "dd0ed4c5b466c9b68174900f0d0e6e0cb72de67061bbc38b4f7f5630e75de1b8",
+    "simhash": "1:6a2fff13ddc5c06c",
+    "word_count": 4231
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carmen ZUBILLAGA, Plaintiff and Appellant,\nv.\nALLSTATE INDEMNITY COMPANY, Defendant and Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "THOMPSON, J.\nIn this first party insurance bad faith action, the question is whether the court properly granted summary judgment for the insurer, based on the \"genuine dispute\" doctrine. (See Wilson v. 21st Century Ins. Co. (2007) 42 Cal.4th 713, 723, 68 Cal.Rptr.3d 746, 171 P.3d 1082 (Wilson ).)\nPlaintiff Carmen Zubillaga was injured in an automobile accident. The other driver was at fault. Her insurer, defendant Allstate Indemnity Company (Allstate), rejected her demand for $35,000, the full amount of her remaining underinsured motorist (UIM) coverage, although it made her a series of offers increasing to $15,584 instead.\nAfter an arbitrator awarded plaintiff $35,000, the amount of her demand, she sued Allstate for breach of the implied covenant of good faith and fair dealing.\nWe conclude plaintiff demonstrated triable issues of material fact regarding whether Allstate's decision she did not need expensive epidural steroid injections, was made without a good faith investigation and without a reasonable basis for a genuine dispute. Therefore, summary judgment was improper and we reverse.\nFACTUAL AND PROCEDURAL BACKGROUND\n\"Because this case comes before us after the trial court granted a motion for summary judgment, we take the facts from the record that was before the trial court when it ruled on that motion. [Citation.] ' \"We review the trial court's decision de novo, considering all the evidence set forth in the moving and opposing papers except that to which objections were made and sustained.\" ' [Citation.] We liberally construe the evidence in support of the party opposing summary judgment and resolve doubts concerning the evidence in favor of that party. [Citation.]\" (Yanowitz v. L'Oreal USA, Inc. (2005) 36 Cal.4th 1028, 1037, 32 Cal.Rptr.3d 436, 116 P.3d 1123.)\nThe summary judgment record reflects the following undisputed facts:\nPlaintiff had an automobile policy with Allstate that included UIM coverage with a $50,000 per person limit, and with that limit to be reduced by any amounts paid by the owner or operator of the underinsured car. The policy also provided for voluntary binding arbitration of claim disputes.\nPlaintiff was in a serious car accident on March 25, 2011. The other driver ran a red light and struck her car. The police determined the other driver was at fault. Plaintiff reported the accident to Allstate the next day and she retained an attorney two days later.\nAccording to the police report, plaintiff reported pain to her chest and left arm immediately after the accident. She walked from her car to a gurney, and was then transported by ambulance to the hospital.\nThe hospital records state plaintiff complained of pain to her face and arm, and said the pain \"does not radiate.\" She reported no back injury or back pain, exhibited no spinal tenderness, and had a full range of motion in her back. She was instructed to follow up with her own medical doctor.\nPlaintiff did not follow up with her own medical doctor. Instead she saw Leonard Valentine, D.C., a chiropractor. Over the next four months she saw Valentine 39 times. Plaintiff first told Valentine she had lower back pain on May 3. She stopped seeing Dr. Valentine in July 2011. At that time she reported lower back pain at a level of three on a scale of zero to 10.\nOn July 22, plaintiff saw Arlen Green, D.O., an osteopath. Green recommended plaintiff get magnetic resonance imaging (MRI) of her spine, continue her chiropractic treatment, and take over-the-counter pain medications as necessary.\nA month later, Green noted, \"An MRI of the cervical spine report was reviewed indicating multiple disc protrusions. An MRI of the lumbar spine was reviewed indicating a disc protrusion at the L5-S1 level measuring 3 mm with neuroforaminal narrowing.\" Green further noted, \"Due to the fact that there is significant disc protrusion seen in both the cervical and lumbar spines, this patient will most probably require ... future medical treatment. This could include more therapy, medications for pain, and cervical/ lumbar epidural steroid injections.\"\nOn November 10, plaintiff's attorney sent Allstate a demand for $35,000, based on medical bills totaling $17,645.44 and his claim that plaintiff would have lower back pain for the remaining 52 years of her life expectancy. Plaintiff had settled with the other driver for $15,000, so the $35,000 demand represented the full amount of her remaining UIM policy coverage.\nShortly after receiving the November 10 demand letter, Allstate responded in writing, introduced the claims representative assigned to handle plaintiff's claim, and described the process Allstate would follow.\nOn November 29, Allstate wrote to plaintiff's attorney again and stated \"although the claim's value is in dispute, we are willing to settle the matter for $9,367.00.\" Allstate arrived at that figure by determining what it felt was the reasonable and customary amount of plaintiff's medical bills ($14,367), then adding $10,000 in general damages, and finally subtracting the $15,000 settlement from the other driver.\nOn November 30, plaintiff served a formal offer to compromise (Code Civ. Proc., \u00a7 998 ) for $35,000. However, plaintiff's counsel did not otherwise respond to Allstate's $9,367 settlement offer for more than four months, even though Allstate wrote five follow-up letters requesting such a response.\nOn April 4, 2012, plaintiff's counsel formally rejected Allstate's $9,367 offer and again demanded $35,000. He provided January and March 2012 evaluations of plaintiff by Afshin Mashoof, M.D., a board certified orthopedic surgeon.\nMashoof's January evaluation stated: \"At this point, recommendation is Medrol Dosepak and I will see her back in 4 weeks. The patient can benefit from therapy and I told her to lose weight. She does weigh about 340 pounds.\" His March evaluation noted: \"At this point, the patient was discharged from my care. She can benefit from p.r.n. anti-inflammatory medication, physical therapy, and weight loss.\"\nMashoof's evaluations increased plaintiff's medical expenses by $1,200, and made no mention of any need for epidural steroid injections.\nAt that juncture, Allstate increased its evaluation of plaintiff's claim to $25,000 since she still had complaints of back pain. Consequently, on May 2 Allstate increased its settlement offer to $10,000 ($25,000-$15,000).\nA month later, plaintiff's counsel rejected Allstate's $10,000 settlement offer, renewed her $35,000 demand, demanded arbitration, and requested that Allstate assign counsel to handle the claim. Allstate promptly assigned counsel and served written discovery.\nPlaintiff's responses to written discovery referenced Michael Lowenstein, M.D., a board certified pain management specialist and anesthesiologist who had seen her for a consultation on July 9. Plaintiff's discovery responses said both Lowenstein and Green \"have opined [she] will require epidural injections, anti-inflammatory and pain medications, and physical therapy.\"\nOn October 4, plaintiff's attorney sent Allstate medical records from Lowenstein, which revealed she had complained of radiating back pain. Lowenstein diagnosed plaintiff with, among other things, \"Lumbar disc herniation at L5-S1 3mm, per MRI on July 28, 2011.\"\nLowenstein's report stated: \"The patient's subjective complaints are consistent with the clinical course, records, history of injury, and objective findings. It is therefore my opinion that the patient has correctly stated information with the current complaint of the low back with radiation to the lower right extremity is due to the automobile accident occurring on March 25, 2011.\nLowenstein recommended, \"lumbar epidural steroid injection... at L4-L5 and L5-S1.\" Plaintiff's counsel advised Allstate, \"the cost of such injections ... may range from an additional $15,000 to $20,000 if she has only one to $45,000 to $60,000 if she has three epidurals.\"\nIn response, Allstate increased its valuation of plaintiff's claim to $27,084, and offered her $12,084 ($27,084-15,000).\nLater that month, Allstate retained Milton Legome, M.D., a board certified orthopedic surgeon, to conduct a defense medical examination (DME) of plaintiff, review her medical records, and determine whether epidural injections were appropriate. Legome saw plaintiff on October 30, 2012, and prepared a report the same day, before he reviewed any of her medical records. The next day he prepared another report, after he reviewed some of her medical records.\nLegome's reports offered the following opinions and conclusions:\n\u2022 Lowenstein's findings were questionable because: (i) plaintiff's complaints to him were at odds with what she told all of her previous doctors; (ii) she did not report radiating pain during the DME; (iii) in a written questionnaire plaintiff noted pain radiating up her spine, not to any lower extremities; and (iv) there was no evidence Lowenstein performed any straight leg raise tests.\n\u2022 Plaintiff had only a left-sided lumbar \"disc protrusion, and not a herniation. While some people use the terms synonymously, I do not, and the radiologist who interpreted her scan referred to a protrusion and not a herniation.\"\n\u2022 \"While Dr. Lowenstein recommended epidural steroid injections at ... L4/5 and L5/S1, there is no indication for such injections. She does not have radicular symptoms, nor is there any evidence that she ever had radicular symptoms in the past. Furthermore, there are no abnormalities at L4/5.\"\n\u2022 \"From the records, I conclude that her present neck and back symptoms are the result of her accident. However, I feel her neck symptoms represent only postural strain symptoms, and much of her back complaints represent mechanical or postural strain symptoms. There is no way of determining whether the disc protrusion at L5/S1 is the cause of any of her axial back pain, but there is no indication that she has left-sided radicular symptoms based on her history or examination.\"\n\u2022 \"She is markedly overweight. This may be contributing to her chronic back symptoms.... She has no indication for any type of injections.\"\nOn November 30, Legome provided a third report, based on his review of plaintiff's hospital records, which stated he had \"no reason to change any opinions expressed in previous reports after reviewing these additional records.\"\nOn June 17, 2013, plaintiff's counsel sent Allstate a letter asking that the arbitration be set for September or October, because plaintiff \"is being scheduled for an epidural injection in the next few weeks.\"\nAllstate's counsel responded promptly and asked plaintiff's counsel to \"Please send me any new records and bills ASAP (particularly pertaining to the epidural injection mentioned in your letter) so that I may forward it to the adjuster for review and re-evaluation well in advance of the arbitration date.\"\nOn July 12, Allstate received a letter from plaintiff's counsel enclosing medical records to support an additional claim of $6,850 in medical expenses for \"a lumbar epidural steroid injection\" plaintiff had received from Dr. Neil Soni, on June 20. The records consisted of an \"Operative Report\" and a $1,050 bill from Soni representing his charges for the treatment. With this additional charge, the medical bills incurred by plaintiff totaled $26,455.44.\nOn July 29, Allstate offered plaintiff $14,500.\nOn September 13, plaintiff's counsel sent Allstate a September 4 report from Soni which stated: \"I consider [plaintiff's] medical condition, as a result of the incident of 3/25/2011 to remain guarded. I recommend that provisions are made to mitigate [plaintiff's] pain symptoms to include (but may not be limited to) future medical care in continuing of [medications]; and should drug therapy not prove effective, repeating the lumbar epidural steroid injections in series of three injections over a six month period and in conjunction with her physical therapy. [\u00b6] I estimate the cost of each of the epidural steroid injections would be $12,000 (combined physician and surgery center). In addition, medications as described above would cost approximately $6,000 per year, likely cost of physical therapy would be $6,000 per year....\"\nAllstate never had Legome review Soni's lumbar epidural steroid injection treatments and recommendations. But Allstate increased its valuation of plaintiff's claim to $30,584, and offered her $15,584 ($30,584-$15,000).\nThe arbitration occurred in September, 2013. During the arbitration, plaintiff introduced a report from Soni dated July 15, 2013, that plaintiff had never provided to Allstate before. This report showed leg raise tests reflected downward-radiating back pain to plaintiff's legs. Plaintiff argued it proved future epidural injections were necessary and appropriate.\nThe arbitrator found for plaintiff and awarded her $35,000 ($21,205 in economic damages and $13,795 in noneconomic damages), the full amount of her remaining UIM policy limits demand. Allstate paid the arbitration award. Plaintiff then sued Allstate for breach of contract and bad faith, claiming it did not fairly investigate her claim and should have paid her the UIM policy limits sooner.\nThe court granted Allstate's motion for summary judgment on plaintiff's bad faith cause of action, \"based on the genuine dispute doctrine.\" It explained:\n\"The [DME] report indicates Plaintiff saw Dr. Green (a chiropractor) who ordered MRIs of the cervical and lumbar spines and mentioned a possible epidural steroid injection. The report notes that Plaintiff saw Dr. Mashoof who told her, her obesity was causing her pain. The report then notes that Plaintiff was seen by Dr. Lowenstein who recommended an epidural steroid injection. Although Dr. Legome admits to not having yet reviewed her medical records, he opines that 'she describes treatment far in excess of any that might reasonably have been necessary to lessen or resolve any symptoms resulting from her accident.' In addition he states, 'While by history an epidural steroid injection has been recommended, neither from her history or examination, does she show any problem for which an epidural steroid injection would be appropriate.'\n\"Accordingly, Defendant Allstate was permitted to rely on its expert's opinion, who had a history of all of Plaintiff's treating doctors (Green, Lowenstein, Mashoof) to determine that her treatment was excessive and she did not need the expensive steroid injections.\n\"After reviewing Lowenstein's report suggesting Plaintiff get the epidural injection..., Allstate offered $27,084 (including the $15,000 Plaintiff had already received). However, then, after reviewing the [DME] report, Allstate concluded it did not have any basis to increase its valuation of Plaintiff's claim....\n\"The decision to not offer any more money was based on the [DME's] determination that Plaintiff did not need expensive epidural injections. Defendant is entitled to rely on this expert report. Allstate had legitimate bases for disputing Plaintiff's claim in regards to the need for future epidural shots. This was not a case where Allstate was simply unwilling to pay off on a policy; rather, on the table was an offer for $12, 084.... It does not appear unreasonable that Defendant did not offer up the entire $35,000 at this point since Defendant's [DME] concluded Plaintiff's treatment thus far had been excessive and epidural injections were unnecessary.\"\nDISCUSSION\nThe legal principles which govern this dispute are well established. Applying these principles leads us to conclude the court erred. As we will explain, plaintiff demonstrated triable issues of material fact as to Allstate's alleged bad faith.\n1. The Legal Principles Which Govern This Dispute Are Well Established.\nA trial court properly grants a motion for summary judgment only if no issues of triable fact appear and the moving party is entitled to judgment as a matter of law. (Code Civ. Proc., \u00a7 437c, subd. (c).) \"The moving party bears the burden of showing the court that the plaintiff 'has not established, and cannot reasonably expect to establish,' \" the elements of his or her cause of action. (Miller v. Department of Corrections (2005) 36 Cal.4th 446, 460, 30 Cal.Rptr.3d 797, 115 P.3d 77.)\n\"The law implies in every contract, including insurance policies, a covenant of good faith and fair dealing. 'The implied promise requires each contracting party to refrain from doing anything to injure the right of the other to receive the agreement's benefits. To fulfill its implied obligation, an insurer must give at least as much consideration to the interests of the insured as it gives to its own interests. When the insurer unreasonably and in bad faith withholds payment of the claim of its insured, it is subject to liability in tort.' [Citation.]\" (Wilson , supra , 42 Cal.4th at p. 720, 68 Cal.Rptr.3d 746, 171 P.3d 1082.)\n\"While an insurance company has no obligation under the implied covenant of good faith to pay every claim its insured makes, the insurer cannot deny the claim 'without fully investigating the grounds for its denial.' [Citation.] To protect its insured's contractual interest in security and peace of mind, 'it is essential that an insurer fully inquire into possible bases that might support the insured's claim' before denying it. [Citation.] By the same token, denial of a claim on a basis unfounded in the facts known to the insurer, or contradicted by those facts, may be deemed unreasonable. 'A trier of fact may find that an insurer acted unreasonably if the insurer ignores evidence available to it which supports the claim. The insurer may not just focus on those facts which justify denial of the claim.' [Citations.]\" (Wilson , supra , 42 Cal.4th at p. 721, 68 Cal.Rptr.3d 746, 171 P.3d 1082.)\nAs noted, an insurer's denial of or delay in paying benefits gives rise to tort damages only if the insured shows the denial or delay was unreasonable. \"[A]n insurer denying or delaying the payment of policy benefits due to the existence of a genuine dispute with its insured as to the existence of coverage liability or the amount of the insured's coverage claim is not liable in bad faith even though it might be liable for breach of contract.\" (Chateau Chamberay Homeowners Assn. v. Associated Internat. Ins. Co. (2001) 90 Cal.App.4th 335, 347, 108 Cal.Rptr.2d 776 (Chateau Chamberay ).) \"This 'genuine dispute' or 'genuine issue' rule was originally invoked in cases involving disputes over policy interpretation, but in recent years courts have applied it to factual disputes as well. [Citations.]\" (Wilson , supra , 42 Cal.4th at p. 723, 68 Cal.Rptr.3d 746, 171 P.3d 1082.)\n\"The genuine dispute rule does not relieve an insurer from its obligation to thoroughly and fairly investigate, process and evaluate the insured's claim. A genuine dispute exists only where the insurer's position is maintained in good faith and on reasonable grounds. [Citations.] Nor does the rule alter the standards for deciding and reviewing motions for summary judgment. 'The genuine issue rule in the context of bad faith claims allows a [trial] court to grant summary judgment when it is undisputed or indisputable that the basis for the insurer's denial of benefits was reasonable-for example, where even under the plaintiff's version of the facts there is a genuine issue as to the insurer's liability under California law. [Citation.] ... On the other hand, an insurer is not entitled to judgment as a matter of law where, viewing the facts in the light most favorable to the plaintiff, a jury could conclude that the insurer acted unreasonably.' [Citation.]\" (Wilson , supra , 42 Cal.4th at pp. 723-724, 68 Cal.Rptr.3d 746, 171 P.3d 1082, fn. omitted.)\n\"Thus, an insurer is entitled to summary judgment based on a genuine dispute over coverage or the value of the insured's claim only where the summary judgment record demonstrates the absence of triable issues (Code Civ. Proc., \u00a7 437c, subd. (c) ) as to whether the disputed position upon which the insurer denied the claim was reached reasonably and in good faith.\" (Wilson , supra , 42 Cal.4th at p. 724, 68 Cal.Rptr.3d 746, 171 P.3d 1082.)\nWhen determining if a dispute is genuine, we do \"not decide which party is 'right' as to the disputed matter, but only that a reasonable and legitimate dispute actually existed.\" (Chateau Chamberay , supra , 90 Cal.App.4th at p. 348, fn.7, 108 Cal.Rptr.2d 776.) A dispute is legitimate, if \"it is founded on a basis that is reasonable under all the circumstances.\" (Wilson , supra , 42 Cal.4th at p. 724, fn. 7, 68 Cal.Rptr.3d 746, 171 P.3d 1082.) \"This is an objective standard.\" (Bosetti v. United States Life Ins. Co. in City of New York (2009) 175 Cal.App.4th 1208, 1237, 96 Cal.Rptr.3d 744.) \"Moreover, the reasonableness of the insurer's decisions and actions must be evaluated as of the time that they were made; the evaluation cannot fairly be made in the light of subsequent events which may provide evidence of the insurer's errors. [Citation.]\" (Chateau Chamberay , at p. 347, 108 Cal.Rptr.2d 776.)\nWhat is more, \"[t]he 'genuine dispute' doctrine may be applied where the insurer denies a claim based on the opinion of experts. [Citations.]\" ( Fraley v. Allstate Ins. Co. (2000) 81 Cal.App.4th 1282, 1292, 97 Cal.Rptr.2d 386.) \"As the Fraley court emphasized, where an insurer, for example, is relying on the advice and opinions of independent experts, then a basis may exist for invoking the doctrine and summarily adjudicating a bad faith claim in the insurer's favor. [Citations.]\" (Chateau Chamberay , supra , 90 Cal.App.4th at p. 348, 108 Cal.Rptr.2d 776.) Still, under the genuine dispute doctrine, an expert's testimony will not automatically insulate an insurer from a bad faith claim. (Ibid . ) Case-by-case analysis is required.\n2. Plaintiff Demonstrated Triable Issues of Material Fact.\nApplying the foregoing principles to the facts in this case shows plaintiff demonstrated triable issues of material fact regarding whether Allstate's repeated denials of plaintiff's claim was unreasonable and in bad faith. A jury could reasonably find Allstate's continued insistence plaintiff did not need epidural steroid injections, was without a good faith investigation and without a reasonable basis for genuine dispute.\nWhen Allstate moved for summary judgment, it presented evidence consisting primarily of declarations, medical records and correspondence, which spelled out in considerable detail the entire adjustment process as it unfolded. Allstate argued, and the court agreed, the evidence revealed a reasonable and good faith dispute about the value of plaintiff's claim, particularly as it related to her claimed need for epidural injections, based upon the opinions of Allstate's medical expert, Legome.\nThe problem is the undisputed facts show Legome's opinions were rendered in October and November 2012, but Allstate continued to rely on them through the arbitration in September 2013, without ever consulting with Legome again or conducting any further investigation. In the meantime, plaintiff had received one lumbar steroidal epidural injection that cost $6,850, and Soni had recommended three more, if drug therapy proved ineffective. Soni estimated these injections would each cost $12,000, and the medications and physical therapy would each cost $6,000 per year.\nBecause it never asked Legome to review Soni's epidural treatments and recommendations, Allstate's continued reliance upon Legome's opinions as the basis for disputing the medical necessity or reasonable value of those treatments and recommendations may have been unreasonable. And, leaving aside Legome's reports and opinions, Allstate has not directed us to any other medical reports or opinions that could reasonably support its ongoing denial of plaintiff's claim.\nOf course, Allstate was not obliged to accept Soni's treatments and recommendations \"without scrutiny or investigation.\" (Wilson , supra , 42 Cal.4th at p. 722, 68 Cal.Rptr.3d 746, 171 P.3d 1082.) To the extent it had good faith doubts, Allstate had the right to further investigate the basis for plaintiff's claim by having Legome reexamine his 2012 opinions, having another physician review all of plaintiff's medical records and offer opinions, or, if necessary, having plaintiff further examined by Legome or another defense doctor.\nWhat Allstate could not do, consistent with the implied covenant of good faith and fair dealing, was to ignore Soni's treatments and recommendations, without adequately investigating them. (Wilson , supra , 42 Cal.4th at p. 722, 68 Cal.Rptr.3d 746, 171 P.3d 1082.) To be clear, we are not saying Allstate breached the implied covenant. We are saying a reasonable jury could conclude it did so. Allstate's assertion it reasonably continued to rely on Legome's opinions, or that it had inadequate time to have him reexamine those opinions or conduct further investigation, merely inform our conclusion plaintiff has demonstrated triable issues of material fact that cannot be resolved by summary judgment.\nFor these same reasons, the court erred by granting summary judgment based upon the genuine dispute doctrine. Again, the genuine dispute rule does not relieve an insurer from its obligation to thoroughly and fairly investigate the insured's claim, and a genuine dispute exists only where the insurer's position is maintained in good faith and on reasonable grounds. Once more, an insurer is not entitled to judgment as a matter of law where, viewing the facts in the light most favorable to the plaintiff, a jury could conclude that the insurer acted unreasonably. (Wilson , supra , 42 Cal.4th at pp. 723-724, 68 Cal.Rptr.3d 746, 171 P.3d 1082.)\nConsidering the objective facts known to Allstate at the time its final decision to deny plaintiff's $35,000 demand was made, and viewing the evidence in the light most favorable to plaintiff as required, we are convinced \" 'a jury could conclude that the insurer acted unreasonably.' \" (Wilson , supra , 42 Cal.4th at p. 724, 68 Cal.Rptr.3d 746, 171 P.3d 1082.) Specifically, there is sufficient evidence for a jury to find Allstate's continued insistence she did not need expensive epidural injections was, \" ' \"prompted not by an honest mistake, bad judgment or negligence but rather by a conscious and deliberate act, which unfairly frustrates the agreed common purposes and disappoints the reasonable expectations of the other party thereby depriving that party of the benefits of the agreement.\" ' \" (Id . at p. 726, 68 Cal.Rptr.3d 746, 171 P.3d 1082.)\nDISPOSITION\nThe judgment is reversed. Plaintiff is entitled to costs on appeal.\nWE CONCUR:\nBEDSWORTH, ACTING P.J.\nMOORE, J.\nThe court had previously granted judgment on the pleadings in favor of Allstate on plaintiff's breach of contract cause of action.",
+        "type": "majority",
+        "author": "THOMPSON, J."
+      }
+    ],
+    "attorneys": [
+      "Law Office of Kyle J. Scott and Kyle J. Scott for Plaintiff and Appellant.",
+      "Sheppard, Mullin, Richter & Hampton, Santa Barbara, Peter H. Klee, Karin Dougan Vogel and Joseph E. Foss, San Diego, for Defendant and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Carmen ZUBILLAGA, Plaintiff and Appellant,\nv.\nALLSTATE INDEMNITY COMPANY, Defendant and Respondent.\nG052603\nCourt of Appeal, Fourth District, Division 3, California.\nFiled June 19, 2017\nLaw Office of Kyle J. Scott and Kyle J. Scott for Plaintiff and Appellant.\nSheppard, Mullin, Richter & Hampton, Santa Barbara, Peter H. Klee, Karin Dougan Vogel and Joseph E. Foss, San Diego, for Defendant and Respondent."
+  },
+  "file_name": "0620-01",
+  "first_page_order": 620,
+  "last_page_order": 630
+}

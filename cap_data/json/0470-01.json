@@ -1,0 +1,64 @@
+{
+  "id": 12513552,
+  "name": "JARMAN v. HCR MANORCARE",
+  "name_abbreviation": "Jarman v. HCR Manorcare",
+  "decision_date": "2017-06-28",
+  "docket_number": "S241431",
+  "first_page": "470",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 470"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 596"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 188,
+    "sha256": "8b82a610c7186e8324f91d6f48f7512026ce8440ef9adb40a7ce0c9c8508725b",
+    "simhash": "1:c31d116dadb33e53",
+    "word_count": 27
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JARMAN\nv.\nHCR MANORCARE"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for review granted."
+    ],
+    "corrections": "",
+    "head_matter": "JARMAN\nv.\nHCR MANORCARE\nS241431\nSupreme Court of California\nJune 28, 2017\nPetition for review granted.\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0470-01",
+  "first_page_order": 470,
+  "last_page_order": 470
+}

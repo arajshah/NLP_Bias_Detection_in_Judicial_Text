@@ -1,0 +1,64 @@
+{
+  "id": 12513545,
+  "name": "SCHOLES v. LAMBIRTH TRUCKING",
+  "name_abbreviation": "Scholes v. Lambirth Trucking",
+  "decision_date": "2017-06-21",
+  "docket_number": "S241825",
+  "first_page": "27",
+  "last_page": "27",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 27"
+    },
+    {
+      "type": "parallel",
+      "cite": "395 P.3d 1110"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 239,
+    "sha256": "99ca079758cd79512a194d62a4974acba9868959645ee70454b6b38032b058ee",
+    "simhash": "1:896d186dbfbf7730",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:59:04.095976+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SCHOLES\nv.\nLAMBIRTH TRUCKING"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for review granted."
+    ],
+    "corrections": "",
+    "head_matter": "SCHOLES\nv.\nLAMBIRTH TRUCKING\nS241825\nSupreme Court of California\nJune 21, 2017\nPetition for review granted.\nVotes: Cantil-Sakauye, C.J., Werdegar, Liu, Cu\u00e9llar and Kruger, JJ. Chin and Corrigan, JJ., were recused and did not participate."
+  },
+  "file_name": "0027-01",
+  "first_page_order": 27,
+  "last_page_order": 27
+}

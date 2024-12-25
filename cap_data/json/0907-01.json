@@ -1,0 +1,64 @@
+{
+  "id": 12513593,
+  "name": "PEOPLE v. MENDOZA",
+  "name_abbreviation": "People v. Mendoza",
+  "decision_date": "2017-07-12",
+  "docket_number": "S241647",
+  "first_page": "907",
+  "last_page": "907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 907"
+    },
+    {
+      "type": "parallel",
+      "cite": "397 P.3d 249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 527,
+    "sha256": "1fbdbdf504cfdf940e5c85d23a885788ae90448b80fedf1a44bcd17918a102e3",
+    "simhash": "1:37359058a8b2bc90",
+    "word_count": 82
+  },
+  "last_updated": "2021-08-27T20:59:04.095976+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE\nv.\nMENDOZA"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for review granted; issues limited. Petitioner Juan J. Ramirez's petition for review is granted. The remaining petitions for review are denied. The issue to be briefed and argued is limited to the following: Are the provisions of Proposition 57 that eliminated the direct filing of certain juvenile cases in adult court applicable to cases not yet final on appeal?"
+    ],
+    "corrections": "",
+    "head_matter": "PEOPLE\nv.\nMENDOZA\nS241647\nSupreme Court of California\nJuly 12, 2017\nPetition for review granted; issues limited. Petitioner Juan J. Ramirez's petition for review is granted. The remaining petitions for review are denied. The issue to be briefed and argued is limited to the following: Are the provisions of Proposition 57 that eliminated the direct filing of certain juvenile cases in adult court applicable to cases not yet final on appeal?\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0907-01",
+  "first_page_order": 907,
+  "last_page_order": 907
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12513594,
+  "name": "GERARD v. ORANGE COAST MEMORIAL MEDICAL CENTER",
+  "name_abbreviation": "Gerard v. Orange Coast Mem'l Med. Ctr.",
+  "decision_date": "2017-07-12",
+  "docket_number": "S241655",
+  "first_page": "908",
+  "last_page": "908",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 908"
+    },
+    {
+      "type": "parallel",
+      "cite": "397 P.3d 249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 218,
+    "sha256": "411d3c805a063972740b319e019ce7cb1cc332299309394821fb3bfc2a522f8e",
+    "simhash": "1:f411000cb580f612",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T20:59:04.095976+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GERARD\nv.\nORANGE COAST MEMORIAL MEDICAL CENTER"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for review is granted."
+    ],
+    "corrections": "",
+    "head_matter": "GERARD\nv.\nORANGE COAST MEMORIAL MEDICAL CENTER\nS241655\nSupreme Court of California\nJuly 12, 2017\nThe petition for review is granted.\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0908-01",
+  "first_page_order": 908,
+  "last_page_order": 908
+}

@@ -1,0 +1,436 @@
+{
+  "id": 12513585,
+  "name": "BLACK SKY CAPITAL, LLC, Plaintiff and Appellant, v. Michael A. COBB et al., Defendants and Respondents.",
+  "name_abbreviation": "Black Sky Capital, LLC v. Cobb",
+  "decision_date": "2017-06-13",
+  "docket_number": "E064482",
+  "first_page": "793",
+  "last_page": "801",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 793"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 887"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "153 Cal.Rptr.3d 798",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "214 Cal.App.4th 329",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4263589
+      ],
+      "pin_cites": [
+        {
+          "page": "339-340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/214/0329-01"
+      ]
+    },
+    {
+      "cite": "120 P.2d 869",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Cal.2d 254",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2251687
+      ],
+      "pin_cites": [
+        {
+          "page": "261"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/19/0254-01"
+      ]
+    },
+    {
+      "cite": "11 P.3d 383",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1942,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Cal.Rptr.2d 29",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1942,
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Cal.4th 400",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1180126
+      ],
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/24/0400-01"
+      ]
+    },
+    {
+      "cite": "911 P.2d 1381",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Cal.Rptr.2d 706",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Cal.4th 992",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1957534
+      ],
+      "pin_cites": [
+        {
+          "page": "1002"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/12/0992-01"
+      ]
+    },
+    {
+      "cite": "800 P.2d 557",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "275 Cal.Rptr. 201",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.3d 991",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4457771
+      ],
+      "pin_cites": [
+        {
+          "page": "998"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/51/0991-01"
+      ]
+    },
+    {
+      "cite": "75 Cal.Rptr.2d 294",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Cal.App.4th 502",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        505123
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "508-509"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/64/0502-01"
+      ]
+    },
+    {
+      "cite": "518 P.2d 329",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Cal.Rptr. 897",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Cal.3d 729",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2299821
+      ],
+      "pin_cites": [
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/10/0729-01"
+      ]
+    },
+    {
+      "cite": "42 P. 447",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Cal. 427",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        8712175
+      ],
+      "pin_cites": [
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "115 Cal.Rptr.2d 37",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Cal.App.4th 1217",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        171335
+      ],
+      "pin_cites": [
+        {
+          "page": "1232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/94/1217-01"
+      ]
+    },
+    {
+      "cite": "933 P.2d 507",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "62 Cal.Rptr.2d 243",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.4th 232",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1006037
+      ],
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/15/0232-01"
+      ]
+    },
+    {
+      "cite": "900 P.2d 601",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.Rptr.2d 352",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Cal.4th 1226",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1992344
+      ],
+      "pin_cites": [
+        {
+          "page": "1236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/10/1226-01"
+      ]
+    },
+    {
+      "cite": "143 Cal.Rptr.3d 96",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 10,
+      "opinion_index": 0
+    },
+    {
+      "cite": "206 Cal.App.4th 1531",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4253796
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/206/1531-01"
+      ]
+    },
+    {
+      "cite": "378 P.2d 97",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 12,
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.Rptr. 873",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 12,
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Cal.2d 35",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4392961
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/59/0035-01"
+      ]
+    },
+    {
+      "cite": "5 Cal.Rptr.2d 428",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 12,
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Cal.App.4th 63",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2309413
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/4/0063-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 945,
+    "char_count": 24983,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.34125773355898353
+    },
+    "sha256": "8537e3e41889ee4df67f2a2e132652800e35582105765e6716b84d47b493dfd7",
+    "simhash": "1:2ffff942c4449ddc",
+    "word_count": 4180
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BLACK SKY CAPITAL, LLC, Plaintiff and Appellant,\nv.\nMichael A. COBB et al., Defendants and Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "McKINSTER, Acting P.J.\nINTRODUCTION\nPlaintiff and appellant Black Sky Capital, LLC, (Black Sky) appeals a summary judgment entered in favor of defendants and respondents Michael A. Cobb and Kathleen S. Cobb (the Cobbs).\nOn or about August 18, 2005, the Cobbs borrowed $10,229,250 from Citizens Business Bank. The note was secured by a deed of trust on a parcel of commercial real property in Rancho Cucamonga. On or about September 13, 2007, the Cobbs obtained a second loan from Citizens Business Bank, in the amount of $1,500,000, which was secured by a second deed of trust on the same property. Black Sky purchased both notes from Citizens Business Bank for an undisclosed sum. After the Cobbs defaulted on the senior loan, Black Sky opted to conduct a trustee's sale under the senior deed of trust. It acquired the property on or about October 28, 2014 for $7,500,000. On November 4, 2014, after the Cobbs defaulted on the junior loan, Black Sky filed the suit which is the subject of this appeal, seeking to recover the amount still owed on the junior note.\nThe Cobbs moved for summary judgment. Relying on Simon v. Superior Court (1992) 4 Cal.App.4th 63, 5 Cal.Rptr.2d 428 (Simon ), they argued that Code of Civil Procedure section 580d prohibits a party holding both a senior and a junior lien on real property from both conducting a trustee's sale after default on the senior note and obtaining a monetary judgment for the balance owing on the note secured by the junior lien. They contended that the monetary judgment would be a deficiency judgment, which is prohibited by section 580d.\nThe trial court granted the Cobbs' motion and entered judgment for them. Black Sky appealed.\nOn appeal, Black Sky contends that Simon , supra , 4 Cal.App.4th 63, 5 Cal.Rptr.2d 428, and the cases following it have erroneously expanded section 580d, based on an incorrect reading of Roseleaf Corp. v. Chierighino (1963) 59 Cal.2d 35, 27 Cal.Rptr. 873, 378 P.2d 97 (Roseleaf ). It contends that section 580d, by its express terms, does not apply to the present circumstances. It contends that it is a \"sold-out junior\" lienholder within the meaning of Roseleaf , and that it has the right to seek a judgment for the balance owed on the junior note.\nWe agree that neither the rule enunciated in Simon nor section 580d applies under the circumstances of this case. Accordingly, we will reverse the judgment.\nLEGAL ANALYSIS\nBLACK SKY'S CLAIM FOR ANY BALANCE DUE ON THE SECOND LOAN IS NOT BARRED BY SECTION 580d OR BY SECTION 726\nStandard of Review\nThe relevant facts, stated above, are undisputed. Accordingly, we review de novo the trial court's ruling on the motion for summary judgment.\n(Cadlerock Joint Venture , L .P . v. Lobel (2012) 206 Cal.App.4th 1531, 1539, 143 Cal.Rptr.3d 96 (Cadlerock ).)\nSection 580d Does Not Apply to a Junior Lien After Nonjudicial Foreclosure on a Senior Lien\nIn California, \"there is only 'one form of action' for the recovery of any debt or the enforcement of any right secured by a mortgage or deed of trust. That action is foreclosure, which may be either judicial or nonjudicial.\" (Alliance Mortgage Co. v. Rothwell (1995) 10 Cal.4th 1226, 1236, 44 Cal.Rptr.2d 352, 900 P.2d 601 (Rothwell ).) Section 726 provides that in a judicial foreclosure, if the property is sold for less than the amount of the outstanding indebtedness, \"the creditor may seek a deficiency judgment, or the difference between the amount of the indebtedness and the fair market value of the property, as determined by a court, at the time of the sale. [Citation.]\" (Rothwell , at p. 1236, 44 Cal.Rptr.2d 352, 900 P.2d 601.) In contrast, section 580d\"precludes a judgment for any loan balance left unpaid after the lender's nonjudicial foreclosure [or trustee's sale] under a power of sale in a deed of trust ... on real property.\" ( Western Se curity Bank v. Superior Court (1997) 15 Cal.4th 232, 237, 62 Cal.Rptr.2d 243, 933 P.2d 507.)\nIn Roseleaf , supra , 59 Cal.2d 35, 27 Cal.Rptr. 873, 378 P.2d 97, the California Supreme Court addressed the question whether section 580d applies to a so-called \"sold-out junior\" lienholder when the senior lienholder elects to conduct a trustee's sale after default on the senior loan. (Roseleaf , at pp. 39, 41-44, 27 Cal.Rptr. 873, 378 P.2d 97.) The court held that section 580d refers solely to the \"instrument securing the note sued upon.\" (Roseleaf , at p. 43, 27 Cal.Rptr. 873, 378 P.2d 97.) It held that the plain language of section 580d does not \"extend to a junior lienor whose security has been sold out in a senior sale.\" (Roseleaf , at p. 43, 27 Cal.Rptr. 873, 378 P.2d 97.) Accordingly, when two separate loans are secured by separate deeds of trust on the same real property, section 580d does not prevent the junior lienholder from enforcing the junior debt obligation when the senior lienholder conducts a trustee's sale and thus extinguishes the junior lienholder's security interest. (Roseleaf , at pp. 43-44, 27 Cal.Rptr. 873, 378 P.2d 97.)\nThe court also explained the rationale for its holding based on the legislative purpose underlying section 580d :\n\"The purpose of section 580d is apparent from the fact that it applies if the property is sold under a power of sale, but not if the property is foreclosed and sold by judicial action. Before the section was enacted in 1939 (Stats. 1939, ch. 586, p. 1991), it was to the creditor's advantage to exercise a power of sale rather than to foreclose by judicial action. His right to a deficiency judgment after either was the same (Code Civ. Proc., \u00a7\u00a7 580a, 726 ), but judicial foreclosure was subject to the debtor's statutory right of redemption (Code Civ. Proc., \u00a7 725a ), whereas the debtor had no right to redeem from a sale under the power. [Citations.] It seems clear ... that section 580d was enacted to put judicial enforcement on a parity with private enforcement. This result could be accomplished by giving the debtor a right to redeem after a sale under the power. The right to redeem, like proscription of a deficiency judgment, has the effect of making the security satisfy a realistic share of the debt. [Citation.] By choosing instead to bar a deficiency judgment after private sale, the Legislature achieved its purpose without denying the creditor his election of remedies. If the creditor wishes a deficiency judgment, his sale is subject to statutory redemption rights. If he wishes a sale resulting in nonredeemable title, he must forego the right to a deficiency judgment. In either case the debtor is protected.\n\"The purpose of achieving a parity of remedies would not be served by applying section 580d against a nonselling junior lienor. Even without the section the junior has fewer rights after a senior private sale than after a senior judicial sale. He may redeem from a senior judicial sale [citation], or he may obtain a deficiency judgment. [Citations.] After a senior private sale, the junior has no right to redeem. This disparity of rights would be aggravated were he also denied a right to a deficiency judgment by section 580d. There is no purpose in denying the junior his single remedy after a senior private sale while leaving him with two alternative remedies after a senior judicial sale. The junior's right to recover should not be controlled by the whim of the senior, and there is no reason to extend the language of section 580d to reach that result .\" ( Roseleaf , su pra , 59 Cal.2d at pp. 43-44, 27 Cal.Rptr. 873, 378 P.2d 97, italics added.)\nIn Simon , supra , 4 Cal.App.4th 63, 5 Cal.Rptr.2d 428, the court held that section 580ddoes preclude a deficiency judgment when the same lender is both the senior lienholder and the junior lienholder. (Simon , at p. 77, 5 Cal.Rptr.2d 428.) The court reasoned as follows:\n\"The Supreme Court in Roseleaf found [that] the purpose of section 580d is 'to put judicial enforcement on a parity with private enforcement.... The junior's right to recover should not be controlled by the whim of the senior [as to whether to hold a private sale or seek judicial foreclosure]....' (Roseleaf Corp. v. Chierighino, supra , 59 Cal.2d at pp. 43-44, 27 Cal.Rptr. 873, 378 P.2d 97, italics [omitted].) [\u00b6] Neither will a parity of creditor's remedies be served if [the bank] here is permitted to make successive loans secured by a senior and junior deed of trust on the same property; utilize its power of sale to foreclose the senior lien, thereby eliminating the Simons' right to redeem; and having so terminated that right of redemption, obtain a deficiency judgment against the Simons on the junior obligation whose security Bank, thus, made the choice to eliminate.\n\"Unlike a true third party sold-out junior, [the bank's] right to recover as a junior lienor which is also the purchasing senior lienor is obviously not controlled by the 'whim of the senior.' We will not sanction the creation of multiple trust deeds on the same property, securing loans represented by successive promissory notes from the same debtor, as a means of circumventing the provisions of section 580d. The elevation of the form of such a contrived procedure over its easily perceived substance would deal a mortal blow to the antideficiency legislation of this state. Assuming, arguendo, legitimate reasons do exist to divide a loan to a debtor into multiple notes thus secured, section 580d must nonetheless be viewed as controlling where, as here, the senior and junior lenders and lienors are identical and those liens are placed on the same real property. Otherwise, creditors would be free to structure their loans to a single debtor, and the security therefor, so as to obtain on default the secured property on a trustee's sale under a senior deed of trust; thereby eliminate the debtor's right of redemption thereto; and thereafter effect an excessive recovery by obtaining a deficiency judgment against that debtor on an obligation secured by a junior lien the creditor chose to eliminate. [Citation.]\" (Simon , supra , 4 Cal.App.4th at pp. 77-78, 5 Cal.Rptr.2d 428.)\nSimon justified its rule by holding that \"[t]he antideficiency statutes are to be 'liberally construed to effectuate the specific legislative purpose behind them.... The courts have exhibited a very hospitable attitude toward the legislative policy underlying the anti-deficiency legislation and have given it a broad and liberal construction that often goes beyond the narrow bounds of the statutory language. [Citation.] And the legislative purpose against deficiency judgments may not be subverted.' [Citation.] 'The objective sought to be achieved by a statute as well as the evil to be prevented is of prime consequence in its interpretation.' [Citations.]\" (Simon , supra , 4 Cal.App.4th at p. 78, 5 Cal.Rptr.2d 428.)\nBlack Sky contends that Simon , supra , 4 Cal.App.4th 63, 5 Cal.Rptr.2d 428, is in error and is not supported by the analysis in Roseleaf , supra , 59 Cal.2d 35, 27 Cal.Rptr. 873, 378 P.2d 97, which, as we have discussed above, specifically found that section 580d does not apply to a junior lienholder after the senior lienholder has exercised its power of sale, based both on the statutory language and on the underlying purpose of the statute. Black Sky relies on Cadlerock , supra , 206 Cal.App.4th 1531, 143 Cal.Rptr.3d 96 in support of its position, and asserts that in Cadlerock , the court held that Simon is in error because it violates the plain meaning of section 580d and extends Roseleaf beyond its holding.\nCadlerock does address this contention, albeit in dictum. There, the court observed that, as held in Roseleaf , the unambiguous language of section 580d applies only to a lien that is nonjudicially foreclosed and that it simply does not apply to a junior lienholder unless the junior lienholder elects to exercise its power of sale under its deed of trust. The court pointed out that although in Roseleaf the Supreme Court did engage in an analysis of the policies underlying the antideficiency statutes, it \"did not ignore the text of section 580d in favor of free-ranging judicial policy making,\" as it felt the court did in Simon . (Cadlerock , supra , 206 Cal.App.4th at pp. 1547-1548, 143 Cal.Rptr.3d 96.)\nWe concur with Cadlerock that Roseleaf , supra , 59 Cal.2d 35, 27 Cal.Rptr. 873, 378 P.2d 97, cannot be read to support the rule created by Simon , supra , 4 Cal.App.4th 63, 5 Cal.Rptr.2d 428. Roseleaf 's holding that section 580d does not apply to nonselling junior lienholders cannot be contorted into a rule that section 580d somehow does apply to preclude a lienholder from seeking damages under the junior note if it, in its capacity as the senior lienholder, has exercised its right to conduct a private sale of the property rather than seeking a judicial foreclosure. As the court in Cadlerock notes, \"[c]onspicuously absent\" from Simon and cases following it \"is a close examination of the text of section 580d.\" (Cadlerock , supra , 206 Cal.App.4th at p. 1548, 143 Cal.Rptr.3d 96.) Cadlerock examines the rationale Simon gives for its rule and concludes that it simply is not supported by the text of section 580d or by Roseleaf . Roseleaf , it notes, did not create an equitable exception to section 580d for sold-out junior lienholders. Rather, it is Simon that created an equitable exception to section 580d to expand the statute to preclude what it deems a deficiency judgment in favor of a junior lienholder which has exercised its power of sale under a senior lien on the same property. (Cadlerock , at p. 1549, 143 Cal.Rptr.3d 96.)\nThe Simon decision appears to have been motivated by the court's concern that the bank in that case, by issuing nearly simultaneous loans secured by the same property, was attempting to circumvent the antideficiency statutes. Simon based its extension of section 580d on its concern that allowing such a \"contrived procedure\" would \"deal a mortal blow\" to the antideficiency statutes. (Simon , supra , 4 Cal.App.4th at p. 78, 5 Cal.Rptr.2d 428.) This concern, in our view, led it to prohibit the bank from obtaining a judgment on the junior loan by means of creating, out of whole cloth, an equitable rule. (See Cadlerock , supra , 206 Cal.App.4th at pp. 1547-1549, 143 Cal.Rptr.3d 96.) In any event, even if that result might arguably be justified under the circumstances present in Simon , it is not justified in this case. In this case, the second loan was issued two years after the first, and the default did not occur until seven years later. There is nothing in the record that supports the conclusion that the second loan was in any way an attempt to circumvent the antideficiency statutes in the event of default on the first loan.\nThe court in Simon also justified its holding by the fact that the bank was not a bona fide sold-out junior because it was the bank itself, rather than a different lienholder, that made the decision to foreclose on the senior lien. The bank could have chosen judicial foreclosure to preserve its right to seek a deficiency judgment, and its options were therefore not limited by the whim of another creditor. (Simon , supra , 4 Cal.App.4th at p. 77, 5 Cal.Rptr.2d 428 [bank can be classified as a sold-out junior lienor only because it \"literally 'sold-out' itself by foreclosing on its senior lien, and no third party's foreclosure or purchase affected the security of its junior lien\"].) Section 580d simply does not, however, by its express terms, encompass a lien that has not been foreclosed. (Roseleaf , supra , 59 Cal.2d at p. 43, 27 Cal.Rptr. 873, 378 P.2d 97.) This suggested to the court in Cadlerock that Simon might have conflated section 580d with the \"one form of action rule\" set out in section 726. (Cadlerock , supra , 206 Cal.App.4th at p. 1549, 143 Cal.Rptr.3d 96.)\nThe court in Cadlerock did not explain how the one form of action rule might be used to achieve the same result as the rule stated in Simon . It suggested that \"[a]rguably, a creditor that owns both the senior and junior lien might be deemed to have rendered the junior lien valueless by its own actions when it conducts a nonjudicial foreclosure on the senior lien.\"\n(Cadlerock , supra , 206 Cal.App.4th at p. 1549, 143 Cal.Rptr.3d 96.) It did not resolve the issue, however, because that resolution was unnecessary to its decision. (Ibid . ) We asked the parties for supplemental briefing on this point.\n\" 'As judicially construed, section 726 is both a \"security-first\" and \"one-action\" rule: It compels the secured creditor, in a single action, to exhaust his security judicially before he may obtain a monetary \"deficiency\" judgment against the debtor.' [Citations.] In other words, '[a] secured creditor can bring only one lawsuit to enforce its security interest and collect its debt.' [Citation.]\" (National Enterprises , Inc . v. Woods (2001) 94 Cal.App.4th 1217, 1232, 115 Cal.Rptr.2d 37, fn. and italics omitted.) An exception to the one form of action rule applies when the value of the security has been lost through no fault of the creditor. Under that circumstance, the creditor may bring a personal action on the debt rather than foreclosing. (Hibernia S. & L. Soc. v. Thornton (1895) 109 Cal. 427, 429, 42 P. 447.) However, \"when the mortgagee, by his own act or neglect , deprives himself of the right to foreclose the mortgage, he at the same time deprives himself of the right to an action upon the note.\" (Ibid ., italics added.)\nHaving reviewed the parties' submissions, we are not persuaded that the one form of action rule or the Hibernia exception applies in this case. Section 726 expressly applies to judicial foreclosures; it does not apply if a nonjudicial foreclosure is pursued. (Walker v. Community Bank (1974) 10 Cal.3d 729, 736, 111 Cal.Rptr. 897, 518 P.2d 329 [\"[A] private sale under the power contained in the trust deed is not a judicial foreclosure within section 726\"].) This is consistent with the definition of \"action.\" Section 22 provides that an action is \"an ordinary proceeding in a court of justice by which one party prosecutes another for the declaration, enforcement, or protection of a right, the redress or prevention of a wrong, or the punishment of a public offense.\" Because there is no court involvement in a nonjudicial foreclosure, section 726 does not apply. (Birman v. Loeb (1998) 64 Cal.App.4th 502, 508-509, 75 Cal.Rptr.2d 294 ; see Security Pacific National Bank v. Wozab (1990) 51 Cal.3d 991, 998, 275 Cal.Rptr. 201, 800 P.2d 557.) Nor do we see any justification for applying any analogy to this rule, as suggested in Cadlerock , because to do so would be to insert a provision into either section 726 or section 580d that is not included in the unambiguous language of either statute. Courts are not authorized to insert provisions that are not contained in a statute, nor are they authorized to rewrite a statute to conform to an assumed intention that does not appear from the unambiguous language of the statute. (In re Hoddinott (1996) 12 Cal.4th 992, 1002, 50 Cal.Rptr.2d 706, 911 P.2d 1381.) Accordingly, we decline to do so in this case. Another fallacy underlying the Simon rule, in our view, is that the court viewed the judgment sought on the junior note as a deficiency judgment. (Simon , supra , 4 Cal.App.4th at pp. 77-78, 5 Cal.Rptr.2d 428.) The term \"deficiency judgment\" is not, as far as we have discovered, defined by statute. The California Supreme Court has long defined it as \" 'a personal judgment against a debtor for recovery of the secured debt measured by the difference between the debt and the net proceeds received from the foreclosure sale.' [Citation.]\" (Dreyfuss v. Union Bank of California (2000) 24 Cal.4th 400, 407, 101 Cal.Rptr.2d 29, 11 P.3d 383 ; see Hatch v. Security-First Nat. Bank (1942) 19 Cal.2d 254, 261, 120 P.2d 869 ; see Rothwell , supra , 10 Cal.4th at p. 1236, 44 Cal.Rptr.2d 352, 900 P.2d 601.) Any debt owed on the junior note in this case has no relationship to the debt owed on the senior note, and by no contortion of the above definition can the unpaid balance on that note be deemed a deficiency with respect to the senior note, within the meaning of section 580d.\nThe unambiguous language in section 580d also supports this conclusion. Section 580d precludes recovery \"for a deficiency on a note secured by a deed of trust ... in any case in which the real property ... has been sold by the mortgagee or trustee under power of sale contained in the mortgage or deed of trust.\" (Italics added.) By using the singular throughout the statute, the Legislature unambiguously indicated that section 580d applies to a single deed of trust; it does not apply to multiple deeds of trust, even if they are secured by the same property. The singular language of section 580d was the reason that the court in Roseleaf held that section 580d expressly applies only to the particular deed of trust that has been foreclosed upon and does not apply to a junior deed of trust secured by the same property so as to bar the junior lienholder from suing on the now-unsecured debt. (Roseleaf , supra , 59 Cal.2d at p. 43, 27 Cal.Rptr. 873, 378 P.2d 97.) For the same reason, we hold that it does not apply to preclude Black Sky from suing for the balance due on the junior note in this case. It makes no difference whether the junior lienholder is the same entity or a different entity as the senior lienholder.\nFor all of the foregoing reasons, we conclude that the trial court erred in applying Simon , supra , 4 Cal.App.4th 63, 5 Cal.Rptr.2d 428, to the facts of this case and that Black Sky's suit to enforce the debt on the junior note is not barred by section 580d or by section 726. Accordingly, we will reverse the judgment and remand the cause for further proceedings in the trial court.\nDISPOSITION\nThe judgment is reversed, and the cause is remanded to the trial court for further proceedings. Costs on appeal are awarded to plaintiff Black Sky Capital, LLC.\nWe concur:\nMILLER, J.\nFIELDS, J.\nBlack Sky's motion for summary adjudication of issues was denied. It does not assert any error with respect to that ruling.\nAll further statutory citations refer to the Code of Civil Procedure. We discuss section 580d below.\nIn pertinent part, section 580d provides:\n\"(a) Except as provided in subdivision (b), no deficiency shall be owed or collected, and no deficiency judgment shall be rendered for a deficiency on a note secured by a deed of trust or mortgage on real property or an estate for years therein executed in any case in which the real property or estate for years therein has been sold by the mortgagee or trustee under power of sale contained in the mortgage or deed of trust.\n\"(b) The fact that no deficiency shall be owed or collected under the circumstances set forth in subdivision (a) does not affect the liability that a guarantor, pledgor, or other surety might otherwise have with respect to the deficiency, or that might otherwise be satisfied in whole or in part from other collateral pledged to secure the obligation that is the subject of the deficiency.\"\n\"Having decided the case before us, we could end our opinion here. But our review of the relevant case law on this topic compels us to make several additional observations on the subject of the interpretation of section 580d.\" (Cadlerock, supra, 206 Cal.App.4th at p. 1547, 143 Cal.Rptr.3d 96.) \"[O]bservations\" unnecessary to the holding of a case are, by definition, dictum. (See Appel v. Superior Court (2013) 214 Cal.App.4th 329, 339-340, 153 Cal.Rptr.3d 798.)\nSection 726, subdivision (a), provides, in pertinent part: \"(a) There can be but one form of action for the recovery of any debt or the enforcement of any right secured by mortgage upon real property or an estate for years therein, which action shall be in accordance with the provisions of this chapter. In the action the court may, by its judgment, direct the sale of the encumbered real property or estate for years therein (or so much of the real property or estate for years as may be necessary), and the application of the proceeds of the sale to the payment of the costs of court, the expenses of levy and sale, and the amount due plaintiff....\"\nIn light of our ruling that sections 580d and 726 do not apply in this case, we need not address Black Sky's contention that the Cobbs waived all defenses, including those afforded by sections 580d and 726, in the forbearance agreements they entered into before finally defaulting on both notes.",
+        "type": "majority",
+        "author": "McKINSTER, Acting P.J."
+      }
+    ],
+    "attorneys": [
+      "Law Offices of Ronald Richards & Associates, Ronald N. Richards, Beverly Hills; Law Offices of Geoffrey Long and Geoffrey S. Long for Plaintiff and Appellant.",
+      "Levitt Law, Scott L. Levitt, Seal Beach; Lex Opus, Eric M. Schiffer ; Schiffer Buus and Eric M. Schiffer, Costa Mesa, for Defendants and Respondents."
+    ],
+    "corrections": "",
+    "head_matter": "BLACK SKY CAPITAL, LLC, Plaintiff and Appellant,\nv.\nMichael A. COBB et al., Defendants and Respondents.\nE064482\nCourt of Appeal, Fourth District, Division 2, California.\nFiled June 13, 2017\nLaw Offices of Ronald Richards & Associates, Ronald N. Richards, Beverly Hills; Law Offices of Geoffrey Long and Geoffrey S. Long for Plaintiff and Appellant.\nLevitt Law, Scott L. Levitt, Seal Beach; Lex Opus, Eric M. Schiffer ; Schiffer Buus and Eric M. Schiffer, Costa Mesa, for Defendants and Respondents."
+  },
+  "file_name": "0793-01",
+  "first_page_order": 793,
+  "last_page_order": 801
+}

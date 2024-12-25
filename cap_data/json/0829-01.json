@@ -1,0 +1,753 @@
+{
+  "id": 12513588,
+  "name": "The PEOPLE, Plaintiff and Respondent, v. Ignacio CASTEL, Defendant and Appellant.",
+  "name_abbreviation": "People v. Castel",
+  "decision_date": "2017-06-26",
+  "docket_number": "B271396",
+  "first_page": "829",
+  "last_page": "838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 829"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 1321"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "503 P.2d 1313",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Cal.Rptr. 305",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cal.3d 451",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2321926
+      ],
+      "pin_cites": [
+        {
+          "page": "457-458"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/8/0451-01"
+      ]
+    },
+    {
+      "cite": "408 U.S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782797
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "488-489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0471-01"
+      ]
+    },
+    {
+      "cite": "178 Cal.Rptr.3d 685",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "230 Cal.App.4th 636",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4084559
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "652-654"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/230/0636-01"
+      ]
+    },
+    {
+      "cite": "206 Cal.Rptr.3d 322",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Cal.App.5th 561",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12454814
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/2/0561-01"
+      ]
+    },
+    {
+      "cite": "361 P.3d 319",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 Cal.Rptr.3d 220",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "62 Cal.4th 168",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        12454513
+      ],
+      "pin_cites": [
+        {
+          "page": "190"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/62/0168-01"
+      ]
+    },
+    {
+      "cite": "83 Cal.Rptr.2d 82",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Cal.App.4th 886",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        732158
+      ],
+      "pin_cites": [
+        {
+          "page": "897"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/70/0886-01"
+      ]
+    },
+    {
+      "cite": "6 Cal.Rptr.3d 574",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Cal.App.4th 597",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2225975
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "607, fn. 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/113/0597-01"
+      ]
+    },
+    {
+      "cite": "927 P.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Cal.Rptr.2d 200",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Cal.4th 580",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        341432
+      ],
+      "pin_cites": [
+        {
+          "page": "588-589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/14/0580-01"
+      ]
+    },
+    {
+      "cite": "960 P.2d 1073",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Cal.Rptr.2d 848",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Cal.4th 108",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1709353
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/19/0108-01"
+      ]
+    },
+    {
+      "cite": "968 P.2d 445",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 Cal.Rptr.2d 734",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Cal.4th 743",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1709363
+      ],
+      "pin_cites": [
+        {
+          "page": "752"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/19/0743-01"
+      ]
+    },
+    {
+      "cite": "107 P.3d 860",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.Rptr.3d 761",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.4th 577",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        873226
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/35/0577-01"
+      ]
+    },
+    {
+      "cite": "94 P.3d 551",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Cal.Rptr.3d 420",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Cal.4th 821",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        493367
+      ],
+      "pin_cites": [
+        {
+          "page": "836"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/33/0821-01"
+      ]
+    },
+    {
+      "cite": "183 P.3d 384",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 Cal.Rptr.3d 683",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Cal.4th 757",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3884087
+      ],
+      "pin_cites": [
+        {
+          "page": "831"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/43/0757-01"
+      ]
+    },
+    {
+      "cite": "209 Cal.Rptr.3d 532",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "case_ids": [
+        12513322
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-rptr-3d/209/0532-01"
+      ]
+    },
+    {
+      "cite": "246 Cal.App.4th 619",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6775911
+      ],
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/246/0619-01"
+      ]
+    },
+    {
+      "cite": "486 P.2d 1201",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Cal.Rptr. 1",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.3d 296",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2324347
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "303"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/5/0296-01"
+      ]
+    },
+    {
+      "cite": "281 P.3d 753",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Cal.Rptr.3d 661",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 Cal.4th 1081",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        5721230
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "1107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/54/1081-01"
+      ]
+    },
+    {
+      "cite": "341 P.3d 1075",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Cal.Rptr.3d 96",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Cal.4th 871",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3990863
+      ],
+      "pin_cites": [
+        {
+          "page": "881"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/60/0871-01"
+      ]
+    },
+    {
+      "cite": "553 U.S. 591",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3673956
+      ],
+      "weight": 3,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/553/0591-01"
+      ]
+    },
+    {
+      "cite": "371 P.3d 592",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "203 Cal.Rptr.3d 130",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Cal.4th 399",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        12456748
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/63/0399-01"
+      ]
+    },
+    {
+      "cite": "206 Cal.Rptr.3d 483",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Cal.App.5th 884",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12454837
+      ],
+      "pin_cites": [
+        {
+          "page": "891-892"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/2/0884-01"
+      ]
+    },
+    {
+      "cite": "112 P.3d 623",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Cal.Rptr.3d 234",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.4th 1072",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        873194
+      ],
+      "pin_cites": [
+        {
+          "page": "1079, fn. 3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/35/1072-01"
+      ]
+    },
+    {
+      "cite": "254 P.3d 1019",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Cal.Rptr.3d 726",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Cal.4th 177",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3919115
+      ],
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/52/0177-01"
+      ]
+    },
+    {
+      "cite": "292 P.3d 871",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Cal.Rptr.3d 827",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Cal.4th 1185",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3932153
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "1191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/55/1185-01"
+      ]
+    },
+    {
+      "cite": "600 P.2d 1071",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Cal.Rptr. 839",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.3d 436",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2270578
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/25/0436-01"
+      ]
+    },
+    {
+      "cite": "185 Cal.Rptr.3d 881",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "235 Cal.App.4th 1408",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6055496
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/235/1408-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 994,
+    "char_count": 21260,
+    "pagerank": {
+      "raw": 5.46236441621595e-08,
+      "percentile": 0.3428999142421045
+    },
+    "sha256": "4dcde88c88b680f849176c69222b7e6d16460b950e6131e8cac61f6d4a17d95b",
+    "simhash": "1:2afdb8b50a66b969",
+    "word_count": 3277
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The PEOPLE, Plaintiff and Respondent,\nv.\nIgnacio CASTEL, Defendant and Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "HOFFSTADT, J.\nWhen a supervising agency files a petition to modify, revoke, or terminate a criminal defendant's parole or postrelease community supervision, its petition must be accompanied by a written report containing information specified by statute and the California Rules of Court. (Pen. Code, \u00a7\u00a7 1203.2, subd. (b)(1) & 3000.08, subd. (f) ; Cal. Rules of Court, rule 4.541.) When a district attorney files such a petition, its petition need not be accompanied by such a report. (\u00a7 1203.2, subd. (b)(1) ; cf. \u00a7 3000.08, subd. (f).) Does this procedural difference violate equal protection by treating similarly situated defendants differently without a rational basis for doing so? We conclude there is no equal protection violation, and affirm the revocation of parole in this case.\nFACTS AND PROCEDURAL BACKGROUND\nIgnacio Castel (defendant) pled no contest to one count of felony assault (\u00a7 459), and he was sentenced to three years in state prison. Following his release from state prison, he was placed on parole.\nIn 2015, while on parole, defendant threatened to kill two of his in-laws. The People charged him with a misdemeanor violation of making criminal threats (\u00a7 422). He pled no contest to the charge, and the trial court sentenced him to three years of informal probation, including nine days in jail.\nSoon thereafter, the Los Angeles County District Attorney's Office (District Attorney) filed a petition seeking revocation of defendant's parole.\nDefendant filed a demurrer to the petition. He argued that the District Attorney's petition was facially deficient under People v. Osorio (2015) 235 Cal.App.4th 1408, 185 Cal.Rptr.3d 881 (Osorio ) because it was not accompanied by the written report that must accompany petitions filed by supervising parole agencies. Defendant also filed a \"motion for sanctions\" in which he sought an order compelling the preparation of a written report, asserting that the Legislature's failure to require a written report for district attorney-filed petitions violated equal protection.\nIn a nine-page order, the trial court overruled the demurrer and denied the motion for sanctions. The court overruled the demurrer because the pertinent statutes authorize a district attorney to file a petition to revoke parole without any accompanying report. The court also rejected defendant's equal protection argument. The court accepted that parolees and other supervised persons are similarly situated no matter who (a district attorney or a supervising parole agency) seeks their revocation. However, the court concluded that our Legislature had a rational basis for treating the two groups differently-namely, (1) that a written report spelling out additional information about the parolee's or supervised person's \"history and background\" as well as an explanation as to why sanctions short of revocation are appropriate \"is less essential for parole-revocation petitions filed by a district attorney because they typically involve violations amounting to criminal conduct (rather than technical violations)\"; and (2) that the information necessary to compile the required written report is not available to district attorneys.\nDefendant then waived his rights to a contested hearing and admitted the parole violation. The trial court sentenced defendant to 150 days in jail and reinstated his parole.\nDefendant filed a timely notice of appeal. Although defendant's appointed counsel filed a brief pursuant to People v. Wende (1979) 25 Cal.3d 436, 158 Cal.Rptr. 839, 600 P.2d 1071, and defendant filed no supplemental brief, we independently reviewed the record and ordered supplemental briefing on the issues set forth in this opinion.\nDISCUSSION\nDefendant contends that the trial court erred in (1) overruling his demurrer, and (2) rejecting his equal protection argument. We review both claims de novo. (Aryeh v. Canon Business Solutions, Inc. (2013) 55 Cal.4th 1185, 1191, 151 Cal.Rptr.3d 827, 292 P.3d 871 [demurrer]; California Grocers Assn. v. City of Los Angeles (2011) 52 Cal.4th 177, 208, 127 Cal.Rptr.3d 726, 254 P.3d 1019 [equal protection claim].)\nAs a threshold matter, the People argue that defendant's challenge to his parole violation is now moot because he has finished serving the 150-day jail sentence that was the sole penalty for his violation. We have the discretion to reach issues present on appeal, even if they are moot, if they involve \"issues of broad public interest that are likely to recur.\" (Coachella Valley Mosquito & Vector Control Dist. v. California Public Employment Relations Bd. (2005) 35 Cal.4th 1072, 1079, fn. 3, 29 Cal.Rptr.3d 234, 112 P.3d 623.) The demurrer and equal protection issues presented in this appeal qualify as such.\nI. Demurrer\nA defendant in a criminal case may demur to a charging document on several grounds, including the absence of \"jurisdiction of the offense charged therein\" and any \"legal bar to the prosecution.\" (\u00a7 1004, subds. 1 & 5.)\nDepending on the offense(s) for which they have been incarcerated, persons released from state prison are placed either (1) on parole, where they are supervised by the Department of Corrections and Rehabilitation, or (2) on postrelease community supervision, where they are supervised by a county probation office. (\u00a7\u00a7 3000.08, subds. (a), (b), (i) & 3451.) A petition to revoke a defendant's parole or postrelease community supervision may be filed by the parole officer (in the case of parole), the probation officer (in the case of postrelease community supervision), or the district attorney. (\u00a7 1203.2, subd. (b)(1).)\nIf the petition is filed by the parole or probation officer, the petition must \"include a written report that contains additional information regarding the petition.\" (\u00a7 3000.08, subd. (f).) That additional information includes: (1) \"the relevant terms and conditions of parole\" or postrelease community supervision, (2) \"the circumstances of the alleged underlying violation,\" (3) \"the history and background of the parolee,\" (4) \"recommended sanctions,\" and (5) \"the reasons for [the] agency's determination that intermediate sanctions without court intervention\"-such as electronic monitoring, additional services or incentives, or \"flash incarceration\" (that is, a short stint in jail for up to 10 consecutive days)-\"are inappropriate responses to the alleged violations.\" (\u00a7\u00a7 3000.08, subds. (e), (f) & 3454, subd. (b) ; Cal. Rules of Court, rule 4.541(c), (e).)\nIf the petition is filed by the district attorney, no such written report is required. (Cf. \u00a7 3000.08, subd. (f) ; Cal. Rules of Court, rule 4.541.) Instead, the court will \"refer ... the petition to the probation or parole officer,\" who must then prepare and submit a written report to the court. (\u00a7 1203.2, subd. (b)(1).)\nA supervising agency's failure to include the statutorily required written report with a petition for revocation renders the pleading deficient and subject to demurrer. (Osorio , supra , 235 Cal.App.4th at pp. 1412-1415, 185 Cal.Rptr.3d 881 ; see also People v. Hronchak (2016) 2 Cal.App.5th 884, 891-892, 206 Cal.Rptr.3d 483 [applying this rule to information that California Rules of Court, rule 4.541 specifies must be included in the written report].)\nThe trial court correctly overruled the demurrer in this case. The pertinent statutes detailed above do not require a petition to revoke parole or postrelease community supervision filed by a district attorney to be accompanied by a written report. Accordingly, the district attorney's failure to include such a report does not render the pleading deficient.\nII. Equal Protection\nBoth the federal and California Constitutions guarantee that no person shall be \"den[ied] ... the equal protection of the laws.\" (U.S. Const., 14th Amend.; Cal. Const., art. I, \u00a7 7.) Equal protection of the laws means that similarly situated persons shall be treated similarly unless there is a sufficiently good reason to treat them differently. (People v. Morales (2016) 63 Cal.4th 399, 408, 203 Cal.Rptr.3d 130, 371 P.3d 592 ; Engquist v. Oregon Depart. of Agriculture (2008) 553 U.S. 591, 602, 128 S.Ct. 2146, 170 L.Ed.2d 975 ; see Johnson v. Department of Justice (2015) 60 Cal.4th 871, 881, 183 Cal.Rptr.3d 96, 341 P.3d 1075 (Johnson ) [federal and state equal protection guarantees have similar interpretation].)\nThe first step in evaluating any equal protection claim is determining whether there are two groups of individuals who are \" ' \"similarly situated with respect to the legitimate purpose of the law\" ' \" but are being treated differently. (People v. Barrett (2012) 54 Cal.4th 1081, 1107, 144 Cal.Rptr.3d 661, 281 P.3d 753, quoting In re Gary W. (1971) 5 Cal.3d 296, 303, 96 Cal.Rptr. 1, 486 P.2d 1201 ; accord, Vergara v. State of California (2016) 246 Cal.App.4th 619, 644, 209 Cal.Rptr.3d 532.) If the two groups are not similarly situated or are not being treated differently, then there can be no equal protection violation. However, if these threshold requirements are met, a court must next ascertain whether the Legislature has a constitutionally sufficient reason to treat the groups differently. ( In re Marriage Cases (2008) 43 Cal.4th 757, 831, 76 Cal.Rptr.3d 683, 183 P.3d 384.) Unless the groups are defined by word or effect as members of a \"suspect class\" (such as race, national origin, gender, or illegitimacy, to name a few) or the law affects a fundamental right, a law will be upheld as long as there is any \" ' \"rational relationship between the disparity of treatment and some legitimate governmental purpose,\" ' \" even if the rational basis for that law was never articulated by-or even relied on by-the Legislature. (Johnson , supra , 60 Cal.4th at p. 881, 183 Cal.Rptr.3d 96, 341 P.3d 1075 ; cf. People v. Wilkinson (2004) 33 Cal.4th 821, 836, 16 Cal.Rptr.3d 420, 94 P.3d 551 (Wilkinson ) [for laws drawing distinctions based on membership in a suspect class or affecting a fundamental right, courts will apply \"strict\" or \"intermediate\" scrutiny].)\nDefendant posits that all former state prisoners subject to parole and postrelease community supervision are similarly situated because all are being supervised. He further posits that the Legislature is treating those whose parole or postrelease community supervision revocation proceedings are initiated by a petition from the supervising agency differently than those whose parole or postrelease community supervision revocation proceedings are initiated by a petition from the district attorney. The first group is entitled to have the entity seeking revocation file a written report concurrently with its petition to revoke; the second group is not. There is no possible reason, defendant continues, for the Legislature to draw this distinction and the statutes on their face consequently violate equal protection.\nIt is far from clear that the two groups defendant identifies-those whose revocation proceedings are initiated by a supervising agency and those whose are initiated by a district attorney-are similarly situated. Supervising agencies have a broad mandate to rehabilitate the people they supervise and to facilitate their \"transition from inmate to free citizen.\" (People v. Guzman (2005) 35 Cal.4th 577, 586, 25 Cal.Rptr.3d 761, 107 P.3d 860 ; People v. Reyes (1998) 19 Cal.4th 743, 752, 80 Cal.Rptr.2d 734, 968 P.2d 445 ; \u00a7 3000, subd. (a)(1) [legislative finding that \"the period immediately following incarceration is critical to successful reintegration of the offender into society\"].) District attorneys, by contrast, have a different mandate-namely, to \"initiate and conduct on behalf of the people all prosecutions for public offenses.\" (Gov. Code, \u00a7 26500 ; see also id. , \u00a7 100, subd. (b); People v. Birks (1998) 19 Cal.4th 108, 134, 77 Cal.Rptr.2d 848, 960 P.2d 1073 [\"prosecuting authorities ... ordinarily have the sole discretion to determine whom to charge with public offenses and what charges to bring\"]; People v. Eubanks (1996) 14 Cal.4th 580, 588-589, 59 Cal.Rptr.2d 200, 927 P.2d 310 [same].) As a result, revocation petitions filed by a district attorney necessarily allege the commission of a public offense, while petitions filed by a supervising agency can allege a far broader universe of more technical parole violations. (E.g., Osorio , supra , 235 Cal.App.4th at p. 1415, 185 Cal.Rptr.3d 881 [defendant alleged to have talked to two gang members for 10 minutes, in violation of parole term not to associate with gang members].) Although it is possible for a supervising agency to file a revocation based on allegations of criminal conduct, by and large the two groups involve different degrees of parole violations and are on that basis not similarly situated.\nIt is also unclear that the two groups defendant identifies are being treated differently. When a revocation petition is filed by a district attorney, the court is statutorily required to \"refer\" that petition to the supervising agency for the completion of a \"written report.\" (\u00a7 1203.2, subd. (b)(1).) To the extent that written report has the same content as the written report that must accompany a revocation petition filed by a supervising agency (a point on which the statute is silent but which is undoubtedly a good practice), the only differential treatment between the two groups would be the timing of the production of the report-concurrently with the petition (when filed by a supervising agency) versus at some point prior to the final revocation hearing (when filed by a district attorney). Given that the absence of this report is not, as discussed above, a basis for demurrer when a revocation petition is filed by a district attorney, the difference in timing would not appear to be a meaningful distinction in treatment. This is true because, no matter when the trial court receives the report, it has the power to deny revocation and instead to impose lesser sanctions. (\u00a7\u00a7 3000.08, subds. (f) & (g) ; 3004, subd. (a).) Moreover, nothing in the statute precludes the supervising agency from working in tandem with a district attorney by generating and providing the report to the court simultaneously with the district attorney's petition.\nEven if we assume that the two groups of supervised persons are similarly situated and are being treated differently, our Legislature had a rational basis for doing so-two such bases, in fact. We review the classification at issue in this case between supervised persons only for rationality because it is not based upon membership in any suspect class and because laws that draw distinctions in criminal cases do not, except when demarking \"the boundaries between the adult and juvenile criminal justice systems,\" implicate a fundamental right. (Wilkinson , supra , 33 Cal.4th at pp. 836-838, 16 Cal.Rptr.3d 420, 94 P.3d 551.)\nWe can hypothecate two reasons why our Legislature would require a revocation petition filed by a supervising agency to be accompanied by a written report detailing the supervised person's terms of parole, history and background, and reasons for rejecting lesser sanctions, but forego that requirement for a petition filed by a district attorney.\nFirst, the nature of the allegations set forth in the revocation petitions filed by supervising agencies is likely to be different than the nature of the allegations set forth in petitions filed by district attorneys. Because, as noted above, it is the job of district attorneys to prosecute public offenses, petitions filed by the district attorney will necessarily allege the supervised person's commission of a crime. The directive not to commit more crimes is almost always a term of parole or postrelease community supervision, and the violation of this directive falls on the severe end of the spectrum of violations for which revocation of parole or postrelease community supervision is, as a general rule, more likely to be the appropriate sanction. The written report specified by statute and court rule details the terms of probation, the supervised person's history on parole, and reasons for not seeking lesser sanctions; this content is directed toward a determination of whether to impose sanctions short of revocation, a determination less relevant to a revocation proceeding when the basis for revocation is the commission of a further crime. It is certainly rational not to require a district attorney to expend its finite and limited resources preparing a written report that will be of limited utility in assisting a court in evaluating the revocation petitions the district attorney files. (Accord, Genesis Environmental Services v. San Joaquin Valley Unified Air Pollution Control Dist. (2003) 113 Cal.App.4th 597, 607, fn. 11, 6 Cal.Rptr.3d 574 [noting how prosecutors have \"limited resources\" and are \"granted greater deference\" in how to allocate them]; Moreno v. Draper (1999) 70 Cal.App.4th 886, 897, 83 Cal.Rptr.2d 82 [noting rationality of distinctions acknowledging the \"limited fiscal resources\" of state agencies].) By contrast, petitions filed by the supervising agency can and do involve more technical violations-violations for which the supervised person's history on parole and the availability of sanctions short of revocation are far more pertinent.\nSecond, supervising agencies and district attorneys do not have the same degree of access to the information necessary to compile the written report called for by statute. Supervising agencies have ready access to that information; they have all of the terms of the person's parole or postrelease community supervision, know his or her full history of violations under supervision, and have tools to evaluate the propriety of various sanctions. (Osorio , supra , 235 Cal.App.4th at p. 1413, 185 Cal.Rptr.3d 881 [discussing \"parole violation decisionmaking instrument\" available to Department of Corrections and Rehabilitation].) District attorneys do not. To be sure, a supervising agency may share its information with the district attorney. But it is not required to do so. Requiring a district attorney to compile a written report based on information it has no right to obtain-on pains of having a revocation petition dismissed on demurrer-is an absurd result, one the Legislature may well have opted not to chance. (See B.H. v. County of San Bernardino (2015) 62 Cal.4th 168, 190, 195 Cal.Rptr.3d 220, 361 P.3d 319 [courts assume legislatures do not draft statutes leading to absurd consequences].)\nDefendant raises two further arguments. First, he contends that People v. Chatman (2016) 2 Cal.App.5th 561, 206 Cal.Rptr.3d 322, review granted November 16, 2016, S237374, mandates a different result. It does not. Chatman held that the Legislature had no rational basis for declaring persons who had previously been on probation for a felony offense ineligible to obtain a certificate of rehabilitation under section 4852.01, while declaring eligible persons who had previously been imprisoned for a felony offense. (Chatman , at pp. 572-573, 206 Cal.Rptr.3d 322.) As discussed above, we have identified two legitimate grounds on which the Legislature could rationally distinguish supervised persons facing revocation due to a petition filed by a district attorney from those facing revocation due to a petition filed by a supervising agency.\nSecond, defendant asserts that there are no standards to govern when a district attorney files a revocation proceeding (and, consequently, when a petition will be filed by a district attorney instead of a supervising agency). Although there is no standard expressly set forth in section 1203.2, the scope of a district attorney's statutory authority effectively delineates that district attorney-based revocation petitions will be based on the alleged commission of a public offense.\nDISPOSITION\nThe order is affirmed.\nWe concur:\nASHMANN-GERST, Acting P.J.\nCHAVEZ, J.\nAll further statutory references are to the Penal Code unless otherwise indicated.\nThe trial court ordered the district attorney to turn over the investigative reports pertaining to the crime underlying defendant's alleged parole violation \"as discovery materials.\" The People do not challenge this portion of the order, and we accordingly have no occasion to address its propriety.\nBoth groups are entitled to the same procedural due process protections. (See Williams v. Superior Court (2014) 230 Cal.App.4th 636, 652-654, 178 Cal.Rptr.3d 685 ; see generally Morrissey v. Brewer (1972) 408 U.S. 471, 488-489, 92 S.Ct. 2593, 33 L.Ed.2d 484 ; People v. Vickers (1972) 8 Cal.3d 451, 457-458, 105 Cal.Rptr. 305, 503 P.2d 1313 ; accord, Assem. Bill No. 1470 (2011-2012 Reg. Sess.) \u00a7 45 [noting \"intent of the Legislature\" to incorporate due process protections into \u00a7 1203.2 ].)",
+        "type": "majority",
+        "author": "HOFFSTADT, J."
+      }
+    ],
+    "attorneys": [
+      "Wayne C. Tobin, Newbury Park, under appointment by the Court of Appeal, for Defendant and Appellant.",
+      "Xavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Lance E. Winters, Senior Assistant Attorney General, Shawn McGahey Webb, Supervising Deputy Attorney General, Noah P. Hill, Deputy Attorney General, for Plaintiff and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "The PEOPLE, Plaintiff and Respondent,\nv.\nIgnacio CASTEL, Defendant and Appellant.\nB271396\nCourt of Appeal, Second District, Division 2, California.\nFiled June 26, 2017\nWayne C. Tobin, Newbury Park, under appointment by the Court of Appeal, for Defendant and Appellant.\nXavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Lance E. Winters, Senior Assistant Attorney General, Shawn McGahey Webb, Supervising Deputy Attorney General, Noah P. Hill, Deputy Attorney General, for Plaintiff and Respondent."
+  },
+  "file_name": "0829-01",
+  "first_page_order": 829,
+  "last_page_order": 838
+}

@@ -1,0 +1,812 @@
+{
+  "id": 12513530,
+  "name": "IN RE DAVID B., a Person Coming Under the Juvenile Court Law. Contra Costa County Children And Family Services Bureau, Plaintiff and Respondent, v. David B., Defendant and Appellant.",
+  "name_abbreviation": "Contra Costa Cnty. Children & Family Servs. Bureau v. David B. (In re David B.)",
+  "decision_date": "2017-06-07",
+  "docket_number": "A146632",
+  "first_page": "108",
+  "last_page": "124",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 108"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 633"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "920 P.2d 716",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Cal.Rptr.2d 771",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Cal.4th 952",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1965906
+      ],
+      "pin_cites": [
+        {
+          "page": "987-991"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/13/0952-01"
+      ]
+    },
+    {
+      "cite": "49 Cal.Rptr.2d 332",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.App.4th 28",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6043294
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/42/0028-01"
+      ]
+    },
+    {
+      "cite": "210 Cal.App.4th 632",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4260942
+      ],
+      "pin_cites": [
+        {
+          "page": "634, 637"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/210/0632-01"
+      ]
+    },
+    {
+      "cite": "186 Cal.Rptr.3d 656",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "236 Cal.App.4th 458",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6842185
+      ],
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/236/0458-01"
+      ]
+    },
+    {
+      "cite": "223 P.3d 15",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Cal.Rptr.3d 145",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Cal.4th 1233",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3899666
+      ],
+      "pin_cites": [
+        {
+          "page": "1238-1239, 1250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/47/1233-01"
+      ]
+    },
+    {
+      "cite": "681 P.2d 893",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "203 Cal.Rptr. 626",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Cal.3d 171",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4467630
+      ],
+      "pin_cites": [
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/36/0171-01"
+      ]
+    },
+    {
+      "cite": "74 P.3d 726",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.Rptr.3d 623",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal.4th 709",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        17459
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "724, fn. 4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/31/0709-01"
+      ]
+    },
+    {
+      "cite": "859 P.2d 96",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Cal.Rptr.2d 397",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.4th 1218",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1998562
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1222-1223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/5/1218-01"
+      ]
+    },
+    {
+      "cite": "130 Cal.Rptr.2d 564",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Cal.App.4th 204",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        157448
+      ],
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/106/0204-01"
+      ]
+    },
+    {
+      "cite": "131 Cal.Rptr.3d 194",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "199 Cal.App.4th 784",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6053886
+      ],
+      "pin_cites": [
+        {
+          "page": "802"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/199/0784-01"
+      ]
+    },
+    {
+      "cite": "147 Cal.Rptr.3d 757",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 Cal.App.4th 1348",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6054844
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1354"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/209/1348-01"
+      ]
+    },
+    {
+      "cite": "127 Cal.Rptr. 525",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Cal.App.3d 325",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6041245
+      ],
+      "pin_cites": [
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/55/0325-01"
+      ]
+    },
+    {
+      "cite": "884 P.2d 988",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Cal.Rptr.2d 40",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cal.4th 1005",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1985964
+      ],
+      "pin_cites": [
+        {
+          "page": "1011, fn. 5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/8/1005-01"
+      ]
+    },
+    {
+      "cite": "88 P.3d 81",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Cal.Rptr.3d 356",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Cal.4th 1072",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        801096
+      ],
+      "pin_cites": [
+        {
+          "page": "1086"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/32/1072-01"
+      ]
+    },
+    {
+      "cite": "18 P.3d 1198",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Cal.Rptr.2d 46",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.4th 117",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        265428
+      ],
+      "pin_cites": [
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/25/0117-01"
+      ]
+    },
+    {
+      "cite": "28 P.3d 151",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Cal.Rptr.2d 412",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Cal.4th 519",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        456816
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "524, fn. 1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/26/0519-01"
+      ]
+    },
+    {
+      "cite": "473 P.2d 737",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 Cal.Rptr. 33",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.3d 16",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2313208
+      ],
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/3/0016-01"
+      ]
+    },
+    {
+      "cite": "280 Cal.Rptr. 74",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Cal.App.3d 475",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4396855
+      ],
+      "pin_cites": [
+        {
+          "page": "478, 480, fn. 4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/229/0475-01"
+      ]
+    },
+    {
+      "cite": "67 Cal.Rptr.2d 407",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Cal.App.4th 885",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        19607
+      ],
+      "pin_cites": [
+        {
+          "page": "891"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/57/0885-01"
+      ]
+    },
+    {
+      "cite": "80 Cal.Rptr.2d 578",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Cal.App.4th 789",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        783190
+      ],
+      "pin_cites": [
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/68/0789-01"
+      ]
+    },
+    {
+      "cite": "128 Cal.Rptr.2d 907",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Cal.App.4th 1324",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        331666
+      ],
+      "pin_cites": [
+        {
+          "page": "1330"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/104/1324-01"
+      ]
+    },
+    {
+      "cite": "148 Cal.Rptr.3d 606",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "p. 640"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 Cal.Rptr. 690",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 16,
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 Cal.App.3d 835",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2203738
+      ],
+      "pin_cites": [
+        {
+          "page": "838-839"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/188/0835-01"
+      ]
+    },
+    {
+      "cite": "9 Cal.Rptr.2d 521",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Cal.App.4th 1240",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2317918
+      ],
+      "pin_cites": [
+        {
+          "page": "1248-1249"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/7/1240-01"
+      ]
+    },
+    {
+      "cite": "138 Cal.Rptr.3d 169",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "203 Cal.App.4th 1160",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4248705
+      ],
+      "pin_cites": [
+        {
+          "page": "1170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/203/1160-01"
+      ]
+    },
+    {
+      "cite": "66 Cal.Rptr.3d 151",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Cal.App.4th 480",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3652007
+      ],
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/155/0480-01"
+      ]
+    },
+    {
+      "cite": "164 Cal.Rptr.3d 199",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Cal.App.4th 282",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4182487
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "294-295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/221/0282-01"
+      ]
+    },
+    {
+      "cite": "199 Cal.Rptr.3d 431",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 8,
+      "opinion_index": 0
+    },
+    {
+      "cite": "245 Cal.App.4th 53",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6786774
+      ],
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/245/0053-01"
+      ]
+    },
+    {
+      "cite": "432 P.2d 717",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Cal.Rptr. 21",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 Cal.2d 536",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2328488
+      ],
+      "pin_cites": [
+        {
+          "page": "541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/67/0536-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1711,
+    "char_count": 54463,
+    "pagerank": {
+      "raw": 7.285884734972812e-08,
+      "percentile": 0.43356620405282315
+    },
+    "sha256": "5d26545148d670338c530b5288bc3a0a520ce3fe09babd78eaecc20b7a7dd1ab",
+    "simhash": "1:edfe692740e407e8",
+    "word_count": 9115
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE DAVID B., a Person Coming Under the Juvenile Court Law."
+    ],
+    "opinions": [
+      {
+        "text": "Streeter, J.\nWe are asked to review the dismissal of a juvenile dependency petition for a young man, appellant David B., who at age 17, 11 months, was on the cusp of adulthood when the dependency petition in this case was filed, but who is now over age 18.\nDavid B., a victim of past gun violence, is a wheelchair-bound diabetic in need of day-to-day medical assistance. He was living in a homeless shelter when the dependency petition was filed. The petition alleges he was abandoned by his mother and left without means of support. If that is true and the juvenile court erred in dismissing the petition, he would almost certainly benefit from transitional support as a nonminor dependent until age 21.\nBut there is a catch. Dependency jurisdiction may not be initiated in the first instance over someone who is over age 18; it must be initiated before age 18, and by the plain terms of the Juvenile Court Law, may only be \"retain[ed],\" \"continu[ed]\" or \"resum[ed]\" for nonminors in certain circumstances until age 21. (E.g., Welf. & Inst. Code, \u00a7\u00a7 303, subds. (a), (c), 391, subd. (c)(1).)\nIn essence, the Legislature created a form of dependency jurisdiction for nonminors until age 21, but made it derivative of dependency jurisdiction assumed prior to age 18. What that means here, according to respondent Contra Costa County Children and Family Services Bureau (the Bureau), is that this case is now moot and any error by the juvenile court in failing to assume dependency jurisdiction over David B. is effectively unreviewable.\nReluctantly, we must agree. Because David B. is now over age 18, he could not be declared a dependent on remand even if we were to conclude the juvenile court erred, and thus, at this point, we have no power to provide effective relief. We can order many things in resolving an appeal, but we cannot order David B. to be 17 again. We will therefore dismiss the appeal as moot.\nI. BACKGROUND\nOn September 24, 2015, the Bureau filed a dependency petition on behalf of David B. under section 300. In the petition, the Bureau contended the juvenile court had jurisdiction under section 300, subdivision (g), alleging specifically that David B.'s mother was unwilling or unable to provide for him, and that her whereabouts were unknown. The Bureau alleged David B.'s father was deceased.\nIn a detention report filed on September 25, 2015, the Bureau stated it received a referral about David B. in July 2015. A social worker spoke with David B., who was wheelchair-bound and hospitalized due to complications from his diabetes. David B. told the social worker he was in the wheelchair because he had been shot several times in the past. The social worker stated he was pleasant but unwilling to provide personal information or family history. He told the social worker that both of his parents were deceased. The social worker spoke with David B.'s godmother, who stated David B.'s parents were deceased but would not provide additional information. Upon his discharge from the hospital, David B. returned by taxi to the youth homeless shelter where he had been staying. The Bureau closed the July 2015 referral, stating it could not verify his parents were deceased, he was receiving services at the shelter, and he was refusing the Bureau's services.\nIn September 2015, the Bureau received another referral. David B. had left the shelter to live in San Francisco but had returned. He told the social worker that he had been living on the streets with his cousin, but that his cousin had been killed. He said he wanted to start a new life, including obtaining a high school diploma and living and working on his own, and needed the Bureau's assistance to do so. The social worker told David B. that, in order for the Bureau to provide him with assistance, he would need to provide truthful information about his situation. David B. then told the social worker that his mother was living in St. Louis, but that he was unable to provide contact information for her. He provided a telephone number for a maternal aunt; the social worker left two voicemail messages at that number but received no response. The social worker sent a letter to an address she located for David B.'s mother, asking her to contact the Bureau. The social worker also tried calling a number David B. provided for his mother's boyfriend, but the number was disconnected. At some point, David B. stated his mother lived in Chicago, rather than St. Louis.\nA case manager at the homeless shelter told the social worker that David B. was receiving some services through the shelter. The shelter had assisted him in taking steps to apply for public benefits and housing, to enroll in high school, and to obtain a California identification card. An attorney with Bay Area Legal Aid contacted the social worker and stated he was working with David B. to ensure he received services from the Bureau.\nAt the detention hearing on September 25, 2015, the court found there was a prima facie showing that David B. was a person described by section 300.\nConsistent with the recommendations of counsel for the Bureau and counsel for David B., the court ordered that David B. be detained and that he remain at the homeless shelter where he had been staying, pending the location of a suitable placement. The court set a jurisdiction hearing for October 9, 2015, and a disposition hearing for October 14, 2015, both prior to David B.'s 18th birthday. The court told David B. he could be eligible for services until he turned 21. The court also told David B. it was important that he be \"brutally honest\" with the Bureau as it continued its investigation.\nIn a memorandum report submitted for the October 9 hearing, the Bureau stated that both staff at the shelter and school personnel had reported David B. was not compliant with his diabetes medication regimen and was unwilling to monitor his blood sugar levels regularly. Staff at the shelter are not able to administer medication or require residents to take their medication; staff can only encourage residents to do so. A blood test conducted in July 2015 showed David B.'s diabetes had been out of control since at least April 2015. He needed to be medication-compliant to stay in school.\nShelter staff also reported David B. had been hospitalized on Sunday, October 4, 2015. David B. had left the shelter after dinner on Friday, October 2, 2015, and had not returned until Sunday evening. He appeared intoxicated and was vomiting, and paramedics rushed him to the hospital. The paramedics stated David B. was combative during the ride to the hospital. At the hospital, it was determined he was hyperglycemic and suffering from diabetic ketoacidosis. He also had possible swelling of the brain. He was confused, incoherent and combative, and had to be restrained by hospital staff. Once his condition stabilized, the hospital was ready to release him, but wanted shelter staff to be trained to administer David B.'s insulin shots. As noted, however, shelter staff cannot administer medication. Shelter staff informed the social worker that the shelter has a respite program with 24-hour medical supervision, and the Bureau was also exploring other possible placements for David B.\nAt the October 9 hearing, counsel for the Bureau stated the Bureau had managed to contact David B.'s adult sister, who lived in San Francisco. Counsel stated that David B.'s sister had reported their mother was alive and identified the city and state where the mother lived. Counsel stated the sister reported that the mother raised both David B. and the sister, and that David B. had left home on his own. Counsel stated the Bureau wanted to attempt to send formal notice to the mother, stating \"this may not be an abandonment case.\" Counsel for David B. responded by stating she believed the Department had already sent two letters to the mother and had not received a response. The court set a contested jurisdiction/disposition hearing for October 14, 2015.\nIn a memorandum report submitted for the October 14 hearing, the Bureau, in a turnabout from its initial position in the case, recommended the petition be dismissed, stating that the information on which it had been based had turned out not to be true. The Bureau stated it had spoken with David B.'s maternal great-great aunt. The great-great aunt stated she is \" 'the only one who cares' \" about David B. The great-great aunt told the Bureau that, when David B.'s father died, David B.'s mother and maternal grandmother took David B. back to Jennings, Missouri to live. David B. later made his way to Chicago, Illinois, where he was shot, and then to Texas, where he was shot again. The great-great aunt stated that, after David B. was shot in Texas, he contacted his maternal grandmother, but she \"would not allow [David B.] to return home to Jennings, Missouri.\" Instead, David B.'s grandmother told him to make his way to San Francisco to locate his maternal uncle, whom David B. did not know. David B. located his uncle, who is homeless, and lived with him on the streets of San Francisco. David B. later lived in youth homeless shelters. The great-great aunt herself was unable to provide care for David B. because she was 82 years old, lived in a studio apartment with no kitchen, and was on a fixed income.\nThe Bureau also reported it had spoken with David B.'s 19-year-old sister. Although the sister provided information, she responded to most of the social worker's questions by saying \" 'I don't know.' \" The sister stated their mother was in Jennings, Missouri. The Bureau stated that David B.'s sister \"reported that their mother was willing to be involved in David B.'s care.\" David B.'s sister stated their mother had cared for them. She described her childhood with their mother as \" 'great' \" and told the Bureau that their mother provided for their material needs and supported them emotionally. The Bureau reported that the sister \"stated the reason [David B.] was not with their mother was that he wanted to be 'grown' and to do what he wanted to do.\" The sister declined to forward any information about David B.'s situation to their mother.\nThe Bureau also described its unsuccessful efforts to contact David B.'s mother. On October 8 and 10, 2015, the social worker telephoned David B.'s maternal grandmother twice and left voicemail messages, explaining the reason she was calling and requesting a return call, but the grandmother did not call back. The social worker also repeatedly attempted to reach David B.'s mother by telephone (using a number provided by David B.'s sister) from October 8 through October 10, 2015. The social worker left two detailed messages, each time identifying herself, stating the reason for her call, and requesting that the mother of David B. return the call. On the third attempt, the social worker spoke with a woman who identified herself as David B.'s mother's cousin. The cousin stated that the phone number belonged to her, and that David B.'s mother was using it as a temporary contact number. The cousin stated she lived in New York. She stated David B.'s mother was temporarily in New York for an unknown period of time, but the cousin did not know David B.'s mother's whereabouts. The cousin declined to forward information to David B.'s mother about his situation.\nThe hospital social worker told the Bureau that David B.'s diabetes was under control and he was medically ready to be discharged. But he needed to be discharged to a caregiver who was trained to assist in administering his insulin, and the hospital was waiting for the Bureau to locate a placement in which such care could be provided. Hospital staff also recommended David B. undergo a neuropsychiatric evaluation, in light of questions about his critical thinking and his ability to make sound decisions. He was unable to provide consistent information about his medical or personal history.\nThe social worker had spoken with a representative of the county health services department, who identified a respite center that was able to accept David B. into its program. The program works with young adults, has medical staff on hand five days a week, and works closely with the homeless shelter where David B. had been staying, so his case manager at the shelter could continue in that role.\nThe Bureau stated in its report that David B. had not been forthcoming with the Bureau. David B. had declined to meet with the social worker unless his case manager from the shelter was present, which created a \"barrier\" due to the conflicting schedules of the social worker and the case manager. He also declined to meet with the social worker when she tried to visit him at the hospital on October 7. The Bureau also stated much of the information David B. had provided was inaccurate (such as stating that he had no relatives in the area, and that the shelter was withholding his medication). The family members the Bureau had been able to contact had not been willing to provide much information. The Bureau stated that, due to David B.'s failure to provide accurate information, the Bureau had not had enough time to locate his mother, notify her of the proceedings, and \"assess her willingness or ability to provide care or select an appropriate substitute care provider for her son.\" The Bureau stated the information provided by David B.'s sister showed the allegations in the petition were not true.\nThe Bureau stated it intended to continue to coordinate and secure appropriate services for David B., including a neuropsychiatric evaluation and services identified by the respite center and the homeless shelter.\nAt the October 14, 2015 hearing, the court stated it had reviewed the Bureau's reports. David B. was not present at the hearing but was on the telephone from the hospital. The court admitted into evidence a letter from David B.'s physician explaining why David B. could not attend the hearing. David B.'s counsel asked that David B. be permitted to testify telephonically. The court denied this request, stating that it needed to be able to see a witness to evaluate his or her demeanor when testifying. The court, however, permitted David B. to make a statement for the record. David B. stated that his father died when he was young, and that his mother did not adequately care for him. He began living with his older brother, sometimes on the streets. He had been shot several times. He expressed interest in pursuing a high school diploma and vocational training, and stated he needed help with his health, education and housing.\nDavid B.'s counsel argued David B. had been left without any provision for support and was described by section 300, subdivision (g). Counsel noted David B. had been living in a homeless shelter for children and was now hospitalized and in need of specialized medical care. Noting the Bureau's unsuccessful efforts to locate David B.'s mother, David B.'s counsel argued there was no evidence the mother was willing or able to care for David B. Counsel argued that, in this context, the Bureau's assertion that David B. was not a \"reliable reporter\" was irrelevant to whether the petition should be sustained. Counsel also suggested that, as an alternative to section 300, subdivision (g), David B. was described by section 300, subdivision (b).\nCounsel for the Bureau argued for dismissal, contending that the information provided by David B. was unreliable, and that the information provided by his sister showed he was a runaway and was not abandoned.\nThe court dismissed the petition. The court stated it had carefully reviewed the evidence and concluded it did not show David B. had been left without any provision for his support. The court found that David B. had a support system in place but had chosen to leave it behind to be on his own. He was not abandoned. The court concluded there was not sufficient evidence to support a finding that David B. was described by section 300, either under subdivision (g) or under subdivision (b). The court encouraged the Bureau to follow through on its promise to assist David B. with referrals for medical services and coordination of other services.\nDavid B. appealed the court's dismissal order. Joined in part by amicus curiae Bay Area Legal Aid, he contends that no substantial evidence supports the court's finding he was not described by section 300, subdivisions (b) and (g). In response, the Bureau contends (1) the appeal is moot because David B. now is over age 18 and cannot be declared a dependent, and (2) the court properly dismissed the petition in any event. As we shall explain, we conclude the appeal is moot.\nII. DISCUSSION\nIn general, it is a court's duty to decide \" ' \"actual controversies by a judgment which can be carried into effect, and not to give opinions upon moot questions or abstract propositions, or to declare principles or rules of law which cannot affect the matter in issue in the case before it.\" ' \" ( Eye Dog Foundation v. State Board of Guide Dogs for the Blind (1967) 67 Cal.2d 536, 541, 63 Cal.Rptr. 21, 432 P.2d 717.) \"[T]he critical factor in considering whether a dependency appeal is moot is whether the appellate court can provide any effective relief if it finds reversible error.\" ( In re N.S. (2016) 245 Cal.App.4th 53, 60, 199 Cal.Rptr.3d 431.) A court ordinarily will dismiss an appeal when it cannot grant effective relief, but may instead \"exercise its inherent discretion to resolve an issue when there remain 'material questions for the court's determination' [citation], where a 'pending case poses an issue of broad public interest that is likely to recur' [citation], or where 'there is a likelihood of recurrence of the controversy between the same parties or others.' \" ( Id. at p. 59, 199 Cal.Rptr.3d 431.)\nThe Bureau contends this appeal is moot because David B. is now over age 18 and the juvenile court cannot \"take jurisdiction for the first time of a person older than 18.\" We agree the appeal is moot.\nA. The Juvenile Court Cannot Initiate Dependency Jurisdiction Over A Person Who Is Over Age 18\nSection 300 provides that \"[a] child who comes within any of the following descriptions is within the jurisdiction of the juvenile court which may adjudge that person to be a dependent child of the court....\" The primary provision at issue in this case is section 300, subdivision (g), describing an abandoned child who \"has been left without any provision for support....\" Once the court obtains jurisdiction, it \"may,\" and in some instances \"shall,\" exercise jurisdiction beyond age 18, potentially until the minor reaches age 21. ( \u00a7 303, subd. (a) [court \"may retain jurisdiction over any person who is found to be ... a dependent child of the juvenile court until the ... dependent child attains the age of 21 years\"]; id. , subd. (b) [\"[o]n and after January 1, 2012, the court shall have within its jurisdiction any nonminor dependent, as defined in [\u00a7 11400, subd. (v) ]\"]; In re Shannon M. (2013) 221 Cal.App.4th 282, 294-295, 164 Cal.Rptr.3d 199 ; In re D.R. (2007) 155 Cal.App.4th 480, 486, 66 Cal.Rptr.3d 151.) The juvenile court is a court of limited jurisdiction. \" 'In dependency proceedings, \" '[a] superior court convened as and exercising the special powers of a juvenile court is vested with jurisdiction to make only those limited determinations authorized by the legislative grant of those special powers.' [Citations.] In the absence of such specific statutory authorization, a juvenile court is vested with authority to make only those determinations which are 'incidentally necessary to the performance of those functions demanded of it by the Legislature pursuant to the Juvenile Court Law.' \" ' \" ( In re A.R. (2012) 203 Cal.App.4th 1160, 1170, 138 Cal.Rptr.3d 169.)\nA child becomes a dependent of the juvenile court only if (1) the court finds at the jurisdiction hearing that the child is a person described by section 300 (\u00a7\u00a7 300, 355, subd. (a), 356), and (2) the court then adjudges the child a dependent at the disposition hearing (\u00a7\u00a7 300, 358, subd. (a), 360, subd. (d); Cal. Rules of Court, rule 5.695(a) ; Seiser & Kumli, Cal. Juvenile Courts Practice and Procedure (2017) Summary of the Dispositional Hearing, \u00a7 2.15, pp. 2-40 to 2-44). (See In re Candida S. (1992) 7 Cal.App.4th 1240, 1248-1249, 9 Cal.Rptr.2d 521 [adjudication of dependency occurs at disposition].)\nDecisions by the Courts of Appeal support the Bureau's position that a juvenile court may not make an initial adjudication of dependency for a person who is over age 18. In In re Gloria J. (1987) 188 Cal.App.3d 835, 838-839, 233 Cal.Rptr. 690 ( Gloria J. ), the Court of Appeal held that, for a juvenile court to obtain dependency jurisdiction over a minor, it is not sufficient for the dependency petition to be filed before the minor's 18th birthday; the jurisdictional hearing must occur before that date. ( Gloria J., supra, at pp. 838-839, 233 Cal.Rptr. 690.) In Gloria J. , the dependency petition was filed when the minor, Gloria J., was 17 years old, and the jurisdiction hearing was initially set for a date prior to her 18th birthday, but was continued because counsel for one of the parties was ill. ( Id. at pp. 836-837, 233 Cal.Rptr. 690.) At the jurisdiction hearing, which ultimately was held after Gloria J. had turned 18, the juvenile court sustained the petition. ( Id. at p. 837, 233 Cal.Rptr. 690.)\nOn appeal from the subsequent disposition order, the Court of Appeal reversed and ordered the petition dismissed. ( Gloria J., supra, 188 Cal.App.3d at p. 837, 233 Cal.Rptr. 690.) The appellate court held that, under the applicable statutes (former \u00a7\u00a7 300 & 355), the juvenile court may only take jurisdiction over persons who are under age 18. ( Gloria J. , supra , at p. 838, 233 Cal.Rptr. 690.) The Gloria J. court noted the language of former section 300, which stated, \"Any person under the age of 18 years who comes within any of the following descriptions is within the jurisdiction of the juvenile court which may adjudge that person to be a dependent child of the court....\" (Former \u00a7 300, as amended by Stats. 1986, ch. 71, \u00a7 1, ch. 1122, \u00a7 2; Gloria J. , supra , at p. 838, 233 Cal.Rptr. 690 ; id. at p. 837, fn. 1, 233 Cal.Rptr. 690.) In turn, former section 355, governing the jurisdiction hearing, stated, \"At the hearing, the court shall first consider only the question whether the minor is a person described by Section 300 ....\" (Former \u00a7 355, as added by Stats. 1976, ch. 1068, \u00a7 9; Gloria J. , supra , at p. 838, 233 Cal.Rptr. 690.) The appellate court stated: \"The language of these two statutes leaves little room for interpretation. The first time the [juvenile] court was called upon to determine the question of its jurisdiction, Gloria J. was over 18 and no longer within the group defined by section 300. Clearly, the court had no jurisdiction over Gloria J. at the time of the adjudication hearing.\" ( Gloria J. , supra , at p. 838, 233 Cal.Rptr. 690.) The Gloria J. court concluded its ruling was not in conflict with the statutory provision permitting retention of jurisdiction until age 21 (then found in former section 301). ( Gloria J. , supra , at p. 838, 233 Cal.Rptr. 690.) The court stated, \"[t]his section is premised on the court having properly exercised jurisdiction, pursuant to section 300, in the first instance, i.e., at the adjudication hearing.\" ( Gloria J. , supra , at p. 838, 233 Cal.Rptr. 690 ; id. at p. 839, 233 Cal.Rptr. 690 [\"had the adjudication hearing been held before Gloria J. turned 18, the court could have retained jurisdiction until she was 21\"].) In subsequent decisions, the Courts of Appeal have adhered to this distinction, stating a juvenile court may not initiate dependency jurisdiction over a person if he or she is 18 years of age or older, while noting that once a juvenile court has obtained jurisdiction of a minor it may retain jurisdiction until he or she reaches age 21. (E.g., In re K.L., supra, 210 Cal.App.4th at p. 640, 148 Cal.Rptr.3d 606 [\"To become a 'dependent child' subject to jurisdiction under the dependency statutes, a person must be under 18 years of age.\"]; In re D.R., supra, 155 Cal.App.4th at p. 486, 66 Cal.Rptr.3d 151 [\" 'While the juvenile court is precluded from initiating jurisdiction over a person who has reached the age of 18 [citation], after it has properly obtained jurisdiction, it \"... may retain jurisdiction over any person who is found to be a dependent child of the juvenile court until the ward or dependent child attains the age of 21 years.\" ' \"]; In re Holly H. (2002) 104 Cal.App.4th 1324, 1330, 128 Cal.Rptr.2d 907 ( Holly H. ) [\"While the juvenile court may not acquire jurisdiction over a person who is 18 years of age or older, once it has obtained jurisdiction of a minor it may retain jurisdiction until the dependent child turns 21.\"]; In re Robert L. (1998) 68 Cal.App.4th 789, 793, 80 Cal.Rptr.2d 578 [\"While the juvenile court is precluded from initiating jurisdiction over a person who has reached the age of 18 [citation], after it has properly obtained jurisdiction, it '... may retain jurisdiction over any person who is found to be a dependent child of the juvenile court until the ward or dependent child attains the age of 21 years.' \"].) The language of former section 300, relied on by the Gloria J. court, does differ from the current language of section 300, to be sure, but after scrutinizing the change in the statutory language we think the difference is of no moment.\nInstead of specifying \"[a]ny person under the age of 18 years\" who comes within certain descriptions is within the jurisdiction of the juvenile court (see former \u00a7 300, as amended by Stats. 1986, ch. 71, \u00a7 1, ch. 1122, \u00a7 2; Gloria J. , supra , 188 Cal.App.3d at p. 838, 233 Cal.Rptr. 690 ), section 300 now states \"[a] child\" who comes within the specified descriptions is within the jurisdiction of the juvenile court, which \"may adjudge that person to be a dependent child of the court\" (\u00a7 300). Similarly, statutes describing the determinations to be made at the jurisdiction and disposition hearings refer to the subject of a dependency proceeding as \"the minor\" or \"the child,\" rather than expressly stating that only a person who is under age 18 may be declared a dependent. (\u00a7 355, subd. (a) [at jurisdictional hearing, court \"shall first consider only the question whether the minor is a person described by\" \u00a7 300]; \u00a7 356 [after hearing evidence at jurisdictional hearing, court \"shall make a finding ... whether or not the minor is a person described by\" \u00a7 300]; \u00a7 358, subd. (a) [\"After finding that a child is a person described in [\u00a7 300], the court shall hear evidence on the question of the proper disposition to be made of the child.\"]; \u00a7 360, subd. (d) [after considering evidence as to the proper disposition, the court \"may order and adjudge the child to be a dependent child of the court\"].)\nThe Bureau argues that the use of the term \"child\" in section 300, without more, requires the conclusion that the only persons encompassed are those under age 18. We think that is an overstatement; the statutory term \"child\" cannot bear the weight the Bureau seeks to place upon it.\nFirst, a close reading of the statutory scheme reveals that the Bureau's reliance on the definition of \"child or minor\" in section 101 is misplaced. The definitions in section 101 do not apply to terms used in section 300 or related statutes. Section 101 states the listed definitions apply to the specified terms \"[a]s used in this chapter,\" i.e., Chapter 1 of Part 1 of Division 2 of the Welfare and Institutions Code (governing Court-Appointed Special Advocates). The statutes at issue here, including section 300 and the other cited provisions pertaining to the jurisdiction and disposition hearings, appear in Chapter 2 of Part 1 of Division 2 of the Code (the \"Juvenile Court Law,\" see \u00a7 200). (But see In re K.L. , supra , 210 Cal.App.4th at p. 640, 148 Cal.Rptr.3d 606 [relying on definition of \"dependent\" in \u00a7 101].) In addition, contrary to the Bureau's assertion, the current version of section 101 does not define \"child or minor\" to mean \"a person under 18 years of age.\" Effective January 1, 2016, the statute defines \"child or minor\" to mean \"a person under the jurisdiction of the juvenile court pursuant to Section 300, 601, or 602.\" (\u00a7 101, subd. (b), as amended by Stats. 2015, ch. 71, \u00a7 1; former \u00a7 101, subd. (b), as amended by Stats. 2012, ch. 846, \u00a7 8.)\nSecond, it is well-recognized that what the Bureau portrays as a bright-line cut-off at age 18 has exceptions that, in some circumstances, potentially extend the dependency age cut-off to age 21. In In re K.L. , for example, the appellate court stated the principle that \"[t]o become a 'dependent child' subject to jurisdiction under the dependency statutes, a person must be under 18 years of age\" ( In re K.L., supra, 210 Cal.App.4th at p. 640, 148 Cal.Rptr.3d 606 ), but the court also recognized that the term \"child\" may in some contexts include persons over age 18 ( ibid. ). Relying in part on the language of section 300 and the statement in section 303, subdivision (a), that a juvenile court may retain jurisdiction until the \"dependent child attains the age of 21 years,\" the appellate court in In re K.L. concluded \"it is clear that the terms 'child,' 'dependent' or 'dependent child' include persons subject to jurisdiction under the dependency statutes up to the age of 21 years.\" ( In re K.L., supra, at p. 640, 148 Cal.Rptr.3d 606.)\nUltimately, however, we reach the same conclusion that the Bureau does in construing the statutory language, not by reliance on the single statutory term \"child,\" but by reading the statutory scheme as a whole. When various provisions describing nonminor dependency jurisdiction for persons over age 18 are read in context, it seems plain that this particular form of dependency jurisdiction is merely derivative of jurisdiction assumed earlier, prior to age 18. As we read it, the statutory scheme reflects a clear recognition by the Legislature that, while dependency jurisdiction may continue to age 21, it must be initiated before age 18. Section 303, subdivision (a) provides the juvenile court \"may retain jurisdiction over any person who is found to be ... a dependent child of the juvenile court until the ... dependent child attains the age of 21 years.\" (Italics added.) An authorization for the court to \"retain\" jurisdiction to age 21 would be unnecessary if the court could initiate jurisdiction over persons between the ages of 18 and 21. Other statutory provisions governing \"nonminor dependents\" similarly authorize a juvenile court to \"continue\" or \"resume\" dependency jurisdiction over a person between the ages of 18 and 21. (E.g., \u00a7 303, subd. (c) [nonminor dependent \"who has not attained 21 years of age and who exited foster care at or after the age of majority\" may petition the court under \u00a7 388, subd. (e) \"to resume dependency jurisdiction over himself or herself\"]; \u00a7 391, subd. (c)(1) [court \"shall continue dependency jurisdiction over a nonminor who meets the definition of a nonminor dependent as described in [\u00a7 11400, subd. (v) ] unless court finds\" certain disqualifying conditions are present].)\nThe statutory scheme governing nonminor dependents also makes clear that persons over age 18 are adults, even if they fall within the juvenile court's continuing dependency jurisdiction. Section 303, subdivision (d)(1) states in part: \"Nothing in this code ... shall be construed to provide legal custody of a person who has attained 18 years of age to the county welfare or probation department or to otherwise abrogate any other rights that a person who has attained 18 years of age may have as an adult under California law. A nonminor dependent shall retain all of his or her legal decisionmaking authority as an adult.\" This provision is consistent with the longstanding recognition by California courts that, while persons over age 18 may be subject to continuing dependency jurisdiction in some circumstances, they are adults and are in many ways differently situated from persons under age 18. ( Holly H., supra, 104 Cal.App.4th at pp. 1334-1336, 128 Cal.Rptr.2d 907 [\"The principle that minors and adults are treated differently is of course deeply embedded in our legal system\"; discussing numerous \"legal disabilities and privileges\" that \"are removed when a person turns 18\"].) While the Legislature has sought to facilitate the transition to adulthood of persons who entered the dependency system before age 18, there is no indication the Legislature contemplated or authorized the initiation of dependency jurisdiction over adults.\nB. This Appeal Is Moot\n1. We Cannot Provide Effective Relief\nBecause the juvenile court cannot initiate dependency jurisdiction over David B., the present appeal is moot. As noted, the court found at the October 2015 jurisdictional hearing that David B. was not a person described by section 300 and dismissed the petition (\u00a7 356); the court therefore did not reach the dispositional stage and did not declare David B. a dependent (\u00a7\u00a7 358, subd. (a), 360, subd. (d)). If we were to find the court erred in finding David B. was not described by section 300, we could not grant effective relief, i.e., we could not remand for the court to initiate dependency jurisdiction over David B., who is now over age 18 (and, indeed, turned 18 before he filed his notice of appeal). In short, we cannot direct the juvenile court to take an action that is beyond the scope of its legislatively-conferred power.\nIn addressing mootness in their briefs, and in response to our request that the parties focus their attention at oral argument on the issue of mootness, David B. and amicus curiae do not argue the juvenile court could hold a new jurisdictional hearing. They contend, however, that David B. was described by section 300, subdivision (g) \"as a matter of law ,\" and that, even though David B. is now over 18, this court should direct the juvenile court to declare him a dependent as of the date of the original jurisdictional hearing. We are not persuaded we can order entry of a finding David B. is a dependent minor.\nDavid B. cites Code of Civil Procedure section 908, which states that, upon reversal of a judgment, a reviewing court \"may direct that the parties be returned so far as possible\" to their positions before enforcement of the judgment, such as by ordering restitution of property. This provision does not confer judicial authority to \"return[ ]\" a person to a younger age. Amicus curiae refers to Code of Civil Procedure section 923, which authorizes an appellate court to stay proceedings during the pendency of an appeal or to make orders \"to preserve the status quo.\" No stay was sought here, and an appealed dependency order generally is not stayed (\u00a7 395, subd. (a)(1)).\nAmicus curiae also argues we can direct the trial court to assume jurisdiction over David B. pursuant to the nunc pro tunc doctrine. This argument confuses the power of nunc pro tunc correction with the power of appellate review. The nunc pro tunc doctrine does not authorize the retroactive replacement of the juvenile court's order (finding David B. was not described by section 300) with a wholly different order (1) finding David B. was described by section 300, and (2) going on to determine David B. should be adjudged a dependent of the court. (See Hamilton v. Laine (1997) 57 Cal.App.4th 885, 891, 67 Cal.Rptr.2d 407 [\"[I]t is not proper to amend an order nunc pro tunc to correct judicial inadvertence, omission, oversight or error, or to show what the court might or should have done as distinguished from what it actually did. An order made nunc pro tunc should correct clerical error by placing on the record what was actually decided by the court but was incorrectly recorded. It may not be used as a vehicle to review an order for legal or judicial error by 'correcting' the order in order to enter a new one.\"].)\nFinally, amicus curiae notes that, when a juvenile court has assumed jurisdiction over a person, the person's 18th birthday does not divest the court of jurisdiction and does not necessarily render moot an appeal from an order entered in the dependency proceedings. (See \u00a7 303, subd. (a) ; In re Ruth M. (1991) 229 Cal.App.3d 475, 478, 480, fn. 4, 280 Cal.Rptr. 74 ( Ruth M. ); In re D.R., supra, 155 Cal.App.4th at pp. 486-487, 66 Cal.Rptr.3d 151.) Here, the court never assumed jurisdiction over David B., so this principle does not apply.\nRuth M. is illustrative. In that case, four minor siblings were made dependents of the juvenile court; at a permanency planning hearing, the juvenile court ordered a plan of long-term foster care; and the children's mother appealed. ( Ruth M., supra , 229 Cal.App.3d at pp. 478-480, 280 Cal.Rptr. 74.) The appellate court noted the oldest sibling had turned 18 during the pendency of the appeal, and stated: \"However, it is necessary for this court to review the order as it affects the rights of the parties as of the time it was made; the appeal is not moot.\" ( Id. at p. 480, fn. 4, 280 Cal.Rptr. 74.) The court also cited section 303, providing a juvenile court may retain jurisdiction over a dependent child until he or she reaches age 21. ( Ruth M. , supra , at p. 480, fn. 4, 280 Cal.Rptr. 74.) As a general matter, we do not disagree with the statement in Ruth M. that an appellate court should review an order as of the time it was made. ( Ibid . ) But as we have discussed, since the juvenile court here (unlike the juvenile court in Ruth M. ) did not assume dependency jurisdiction before David B. reached age 18, it cannot initiate dependency jurisdiction now, and we cannot direct it to do so. Since we cannot grant effective relief, the appeal is moot.\n2. None of the Discretionary Exceptions to Mootness Applies\nTo the extent we have discretion to resolve issues presented in this appeal despite our inability to grant relief to David B. (see In re N.S., supra, 245 Cal.App.4th at p. 59, 199 Cal.Rptr.3d 431 ), we decline to address the merits on that basis. Since David B. cannot be the subject of new dependency proceedings, any ruling we might make could not affect future proceedings involving him. (See id. at pp. 61-63, 199 Cal.Rptr.3d 431.) Amicus curiae argues that the juvenile court's acceptance of the Bureau's contention that David B. chose to live on his own-based, it says, on insubstantial, gossamer-thin evidence-embraces a stereotypical misconception about homeless youth. But even if that were true, it would not provide a basis for issuing what amounts to an advisory opinion.\nOn rare occasions, appellate courts will proceed to decide moot cases presenting \"an issue of broad public interest that is likely to recur.\" ( In re William M. (1970) 3 Cal.3d 16, 23, 89 Cal.Rptr. 33, 473 P.2d 737.) We note there are differences in the phrasing used by courts to describe this and a related exception to mootness, with varying degrees of emphasis on the importance of the issue presented and the likelihood that it will recur. Some decisions state an appellate court has discretion to resolve \"an issue of broad public interest that is likely to recur.\" (E.g., In re William M., supra, 3 Cal.3d at p. 23, 89 Cal.Rptr. 33, 473 P.2d 737, italics added; accord, In re N.S., supra, 245 Cal.App.4th at p. 59, 199 Cal.Rptr.3d 431.) Others state an appellate court may decide \"otherwise moot cases presenting important issues that are capable of repetition yet tend to evade review.\" (E.g., Conservatorship of Wendland (2001) 26 Cal.4th 519, 524, fn. 1, 110 Cal.Rptr.2d 412, 28 P.3d 151, italics added; accord, Thompson v. Department of Corrections (2001) 25 Cal.4th 117, 122, 105 Cal.Rptr.2d 46, 18 P.3d 1198.) Another version of the rule may be found in decisions focusing primarily on the importance of the issue presented (e.g., In re Marriage of LaMusga (2004) 32 Cal.4th 1072, 1086, 12 Cal.Rptr.3d 356, 88 P.3d 81 [\"[W]e may decline to dismiss a case that has become moot 'where the appeal raises issues of continuing public importance' \"] ), and still others referring only to the likelihood the issue will recur (e.g., Conservatorship of Susan T. (1994) 8 Cal.4th 1005, 1011, fn. 5, 36 Cal.Rptr.2d 40, 884 P.2d 988 [addressing issue where it was \"likely\" the issue was \"one capable of recurring, yet of evading review because of mootness\"].) Finally, as noted, some decisions state that, apart from the mootness exception for issues of public importance, there is what appears to be a narrower exception where \" 'there is a likelihood of recurrence of the controversy between the same parties or others ' \" (e.g., In re N.S., supra, 245 Cal.App.4th at p. 59, 199 Cal.Rptr.3d 431, italics added; accord, Grier v. Alameda-Contra Costa Transit Dist. (1976) 55 Cal.App.3d 325, 330, 127 Cal.Rptr. 525 ), while other decisions limit this exception to a scenario where there is a likelihood of recurrence of the controversy between the same parties (e.g., Los Angeles Internat. Charter High School v. Los Angeles Unified School Dist. (2012) 209 Cal.App.4th 1348, 1354, 147 Cal.Rptr.3d 757 [\"[A]n exception to the mootness doctrine is the distinct possibility that the controversy between the parties may recur\"]; see Eisenberg et al., Cal. Practice Guide: Civil Appeals and Writs (The Rutter Group 2016) \u00b6\u00b6 5:32 to 5:33, pp. 5-13 to 5-17).\nDespite the nuanced variation in these articulations of when an appellate court may proceed to decide an otherwise moot appeal, the common thread running through the cases is that doing so is appropriate only if a ruling on the merits will affect future proceedings between the parties or will have some precedential consequence in future litigation generally. (See In re William M., supra , 3 Cal.3d at p. 25, 89 Cal.Rptr. 33, 473 P.2d 737 [deciding issue presented in otherwise-moot appeal, \"[i]n the hope that we may provide much-needed guidance for 'the orderly administration of justice' \"].) That standard is not met here. We do not doubt that the issue of youth homelessness is a matter of broad public importance that might well justify invoking a discretionary exception to mootness in the proper circumstances, but this is not that case. At bottom, David B. and amicus curiae present nothing more than a substantial evidence challenge to the trial court's dismissal of the Bureau's petition. We see no basis for exercising discretion to address the fact-specific questions whether David B. was described by section 300, and whether the juvenile court's determination on that point is supported by substantial evidence. (See In re M.C. (2011) 199 Cal.App.4th 784, 802, 131 Cal.Rptr.3d 194 [deciding issues of statutory interpretation and separation of powers despite mootness, but declining to address whether sufficient evidence supported juvenile court order, because that was \"not an issue of continuing public importance\"]; MHC Operating Limited Partnership v. City of San Jose (2003) 106 Cal.App.4th 204, 215, 130 Cal.Rptr.2d 564 [resolution of issues presented in appeal \"would be unlikely to provide guidance\" for future disputes, because the issues \"are essentially factual in nature and therefore require resolution on a case-by-case basis\"].)\nWhile nothing can be done for David B. in this case, the record here does provide a cautionary tale for those representing individuals who may find themselves in his position-teens on whose behalf dependency petitions are filed, for whatever reason, on the eve of the age of majority, and who receive adverse juvenile court decisions declining to assume dependency jurisdiction.\nThat need not always be the last word. Review by writ petition seeking peremptory relief may in some circumstances permit appellate review in the narrow window of time that such cases will often require. (See Code Civ. Proc., \u00a7 1088 ;\nAlexander v. Superior Court (1993) 5 Cal.4th 1218, 1222-1223, 23 Cal.Rptr.2d 397, 859 P.2d 96 [summarizing standards for issuance of peremptory writ in the first instance], disapproved on another point in Hassan v. Mercy American River Hospital (2003) 31 Cal.4th 709, 724, fn. 4, 3 Cal.Rptr.3d 623, 74 P.3d 726 ; Palma v. U.S. Industrial Fasteners, Inc. (1984) 36 Cal.3d 171, 180, 203 Cal.Rptr. 626, 681 P.2d 893 ( Palma ); see also Brown, Winfield & Canzoneri, Inc. v. Superior Court (2010) 47 Cal.4th 1233, 1238-1239, 1250, 104 Cal.Rptr.3d 145, 223 P.3d 15 [discussing \" 'suggestive' Palma notices\"].)\nIII. DISPOSITION\nThe appeal is dismissed.\nWe concur:\nReardon, Acting P.J.\nRivera, J.\nUndesignated statutory references are to the Welfare and Institutions Code.\nSection 300, subdivision (g) provides in part that the court may assume jurisdiction if: \"The child has been left without any provision for support ... or a relative or other adult custodian with whom the child resides or has been left is unwilling or unable to provide care or support for the child, the whereabouts of the parent are unknown, and reasonable efforts to locate the parent have been unsuccessful.\"\nSection 300, subdivision (b)(1) provides in part that the court may assume jurisdiction if: \"The child has suffered, or there is a substantial risk that the child will suffer, serious physical harm or illness, as a result of the failure or inability of his or her parent or guardian to adequately supervise or protect the child, or the willful or negligent failure of the child's parent or guardian to adequately supervise or protect the child from the conduct of the custodian with whom the child has been left, or by the willful or negligent failure of the parent or guardian to provide the child with adequate food, clothing, shelter, or medical treatment, or by the inability of the parent or guardian to provide regular care for the child due to the parent's or guardian's mental illness, developmental disability, or substance abuse.\"\nAn order dismissing a dependency petition is appealable. (\u00a7 395, subd. (a)(1); In re Nicholas E. (2015) 236 Cal.App.4th 458, 463, 186 Cal.Rptr.3d 656.)\nThe California Fostering Connections to Success Act (Assem. Bill No. 12 (2009-2010 Reg. Sess.); Assem. Bill No. 212 (2011-2012 Reg. Sess.)) (the Act) extended the California foster care program to age 21 in accordance with the provisions of the federal Fostering Connections to Success and Increasing Adoptions Act. (In re K.L. (2012) 210 Cal.App.4th 632, 634, 637, 148 Cal.Rptr.3d 606.) As noted, pursuant to the Act, after January 1, 2012, the juvenile court \"shall have within its jurisdiction any nonminor dependent, as defined in [\u00a7 11400, subd. (v) ].\" (\u00a7 303, subd. (b).) A nonminor dependent is defined as \" 'a foster child ... who is a current dependent child or ward of the juvenile court ... who satisfies all of the following criteria: [\u00b6] (1) He or she has attained 18 years of age while under an order of foster care placement by the juvenile court, and is not more than 19 years of age on or after January 1, 2012, not more than 20 years of age on or after January 1, 2013, or not more than 21 years of age on or after January 1, 2014 .... [\u00b6] (2) He or she is in foster care under the placement and care responsibility of the county welfare department.... [\u00b6] (3) He or she has a transitional independent living case plan ... as described in Section 11403.\" (\u00a7 11400, subd. (v); see In re K.L., supra, at p. 637, 148 Cal.Rptr.3d 606.) Nonminor dependents who satisfy at least one of five educational and vocational conditions listed in section 11403, subdivision (b) are eligible to receive financial support until they reach 19, 20 or 21 years of age. (In re K.L., supra, at p. 638, 148 Cal.Rptr.3d 606.)\nAlthough \"troubled\" by the fact the juvenile court had lost jurisdiction due to counsel's illness and the resulting continuance, the appellate court concluded the result it reached was mandated by the statutory scheme and language, and stated that to reach a contrary result, \"a legislative amendment of section 300 would be required stating that jurisdiction attaches at the time the section 300 petition is filed.\" (Gloria J. , supra , 188 Cal.App.3d at pp. 838-839, 233 Cal.Rptr. 690.)\nThese cases, unlike Gloria J. , did not involve an attempt by a juvenile court to initiate jurisdiction over a person who was over age 18. (In re K.L., supra, 210 Cal.App.4th at pp. 634-635, 640, 148 Cal.Rptr.3d 606 [juvenile court assumed dependency jurisdiction when minor was age 17; appellate court affirmed order terminating reunification services to mother after minor turned 18]; In re D.R., supra, 155 Cal.App.4th at pp. 483, 486-487, 66 Cal.Rptr.3d 151 [when minor was under age 18, (1) juvenile court assumed dependency jurisdiction and later terminated it upon ordering a plan of legal guardianship, but retained jurisdiction over the guardianship, and (2) guardian filed a petition to reinstate dependency jurisdiction; after minor turned 18, court could hear the petition and, if appropriate, reinstate dependency jurisdiction]; Holly H., supra, 104 Cal.App.4th at pp. 1327, 1330, 128 Cal.Rptr.2d 907 [minor entered dependency system at age three; juvenile court properly terminated jurisdiction after minor turned 18]; In re Robert L., supra, 68 Cal.App.4th at pp. 790-791, 793, 80 Cal.Rptr.2d 578 [juvenile court assumed dependency jurisdiction before minors turned 18; court abused discretion by retaining jurisdiction beyond age 18].)\nWe note that, even if the juvenile court had concluded David B. was described by section 300, subdivision (g), that would not establish he should have been declared a dependent. As noted, after a juvenile court finds a minor is described by section 300, the court proceeds to determine the appropriate disposition for the minor, which can include adjudging him a dependent, dismissing the petition, ordering informal supervision under section 301, or appointing a legal guardian. (\u00a7 360, subds. (a), (b), (d); Cal. Rules of Court, rule 5.695(a)(1) ; Seiser & Kumli, Cal. Juvenile Courts Practice and Procedure, supra, \u00a7 2.15.)\nSee generally In re Natasha A. (1996) 42 Cal.App.4th 28, 39, 49 Cal.Rptr.2d 332 (\"basic appellate principles codified in Code of Civil Procedure sections 901 through 923 apply in juvenile dependency proceedings, at least to the extent not inconsistent therewith\").\nLike the Gloria J. court, we are troubled by the consequences of the limitations on the juvenile court's jurisdiction. (See Gloria J. , supra , 188 Cal.App.3d at pp. 838-839, 233 Cal.Rptr. 690.) Specifically, we note that when a jurisdictional hearing is held shortly before a minor's 18th birthday, both the availability of appellate review and the potential for the exercise of juvenile court jurisdiction beyond age 18 will often hinge on which decision the juvenile court initially makes. An order finding a minor is described by section 300 and declaring him or her a dependent is subject to appellate review and correction (regardless of whether the minor turns 18 during the pendency of the appeal) (Ruth M. , supra , 229 Cal.App.3d at p. 480, fn. 4, 280 Cal.Rptr. 74 ), but an order declining to assume jurisdiction may become unreviewable if the minor turns 18 during the pendency of the appeal. Nevertheless, absent a violation of equal protection or other constitutional principle arising from these differing outcomes-a claim that has not been made in this appeal, and in our view, would have no basis (cf. In re Sade C. (1996) 13 Cal.4th 952, 987-991, 55 Cal.Rptr.2d 771, 920 P.2d 716 [appealed juvenile court orders are presumed correct; despite the possibility of irremediable error, due process did not justify imposition of additional procedural requirements] )-we must abide by the limitations on our ability to reach and rectify any potential errors by the juvenile court.\nSee Brief of Amicus Curiae Bay Area Legal Aid at page 15 (\"Homeless children are often pejoratively labeled as runaways. Such branding relies on the misconception that an unaccompanied homeless teen chose to leave home as an act of misguided rebellion or out of desire to be free from reasonable parental control. While this may be the case for a small minority of young people, the reality is that unaccompanied homeless youth are usually facing circumstances more commonly associated with the child welfare system.\"); see id. at page 16 (citing Pergamit et al., National Runaway Switchboard, Why They Run: An In-Depth Look at America's Runaway Youth (2010), p. 8, and Tyler & Cauce, Perpetrators of early physical and sexual abuse among homeless and runaway adolescents in Child Abuse & Neglect, Vol. 26, Issue No. 12 (Dec. 2002) pp. 1261-1274).\nAs noted above, the third exception to mootness applies when there remain \"material questions for the court's determination.\" (Eye Dog Foundation v. State Board of Guide Dogs for the Blind, supra, 67 Cal.2d at p. 541, 63 Cal.Rptr. 21, 432 P.2d 717 ; In re N.S., supra, 245 Cal.App.4th at p. 59, 199 Cal.Rptr.3d 431 ; Eisenberg et al., Cal. Practice Guide: Civil Appeals and Writs, supra, \u00b6 5:33.1, p. 5-17.) Amicus curiae suggests this exception applies here because \"the remedy available to [David B.] is itself a material and unresolved dispute.\" We have addressed this issue; as discussed in the text, we conclude we cannot provide any effective relief to David B.\nWe also note the Welfare and Institutions Code provides methods for a private party to bring a minor's case to the attention of a social worker and the juvenile court, which may facilitate the earlier filing of a dependency petition in some cases. A private party may apply to the social worker to commence dependency proceedings, and may ask the juvenile court to review any decision by the social worker not to do so. (\u00a7\u00a7 329, 331; In re M.C., supra, 199 Cal.App.4th at pp. 791-792, 131 Cal.Rptr.3d 194.)",
+        "type": "majority",
+        "author": "Streeter, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel: Valerie N. Lankford, San Diego, by appointment of the Court of Appeal, for Defendant and Appellant.",
+      "Bay Area Legal Aid, Brian Blalock, Erin Palacios, and Sabrina Forte as Amicus Curiae on behalf of Defendant and Appellant. Sharon L. Anderson, County Counsel, Marke Estis, Deputy County Counsel, for Plaintiff and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE DAVID B., a Person Coming Under the Juvenile Court Law.\nContra Costa County Children And Family Services Bureau, Plaintiff and Respondent,\nv.\nDavid B., Defendant and Appellant.\nA146632\nCourt of Appeal, First District, Division 4, California.\nFiled June 7, 2017\nCounsel: Valerie N. Lankford, San Diego, by appointment of the Court of Appeal, for Defendant and Appellant.\nBay Area Legal Aid, Brian Blalock, Erin Palacios, and Sabrina Forte as Amicus Curiae on behalf of Defendant and Appellant. Sharon L. Anderson, County Counsel, Marke Estis, Deputy County Counsel, for Plaintiff and Respondent."
+  },
+  "file_name": "0108-01",
+  "first_page_order": 108,
+  "last_page_order": 124
+}

@@ -1,0 +1,1205 @@
+{
+  "id": 12513572,
+  "name": "SJJC AVIATION SERVICES, LLC, Plaintiff and Appellant, v. CITY OF SAN JOSE, et al., Defendants and Respondents; Signature Flight Support Corporation, et al., Real Parties in Interest and Respondents.",
+  "name_abbreviation": "SJJC Aviation Servs., LLC v. City of San Jose",
+  "decision_date": "2017-05-24",
+  "docket_number": "H041035",
+  "first_page": "637",
+  "last_page": "654",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 637"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 1043"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "78 Cal.Rptr.2d 44",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "66 Cal.App.4th 359",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        358272
+      ],
+      "pin_cites": [
+        {
+          "page": "372"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/66/0359-01"
+      ]
+    },
+    {
+      "cite": "275 Cal.Rptr. 62",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "225 Cal.App.3d 107",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4393210
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-3d/225/0107-01"
+      ]
+    },
+    {
+      "cite": "479 P.2d 379",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "92 Cal.Rptr. 179",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Cal.3d 841",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2313221
+      ],
+      "pin_cites": [
+        {
+          "page": "848"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-3d/3/0841-01"
+      ]
+    },
+    {
+      "cite": "102 Cal.Rptr.3d 759",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "180 Cal.App.4th 728",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4212245
+      ],
+      "pin_cites": [
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/180/0728-01"
+      ]
+    },
+    {
+      "cite": "70 Cal.Rptr.3d 474",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "158 Cal.App.4th 877",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3835800
+      ],
+      "pin_cites": [
+        {
+          "page": "885"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/158/0877-01"
+      ]
+    },
+    {
+      "cite": "123 Cal.Rptr.3d 90",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "193 Cal.App.4th 602",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4231581
+      ],
+      "pin_cites": [
+        {
+          "page": "608"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/193/0602-01"
+      ]
+    },
+    {
+      "cite": "514 P.2d 111",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2011,
+      "opinion_index": -1
+    },
+    {
+      "cite": "109 Cal.Rptr. 799",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 2011,
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Cal.3d 110",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2299807
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "117"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-3d/10/0110-01"
+      ]
+    },
+    {
+      "cite": "10 Cal.Rptr.3d 65",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "116 Cal.App.4th 6",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        462631
+      ],
+      "pin_cites": [
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/116/0006-01"
+      ]
+    },
+    {
+      "cite": "33 Cal.Rptr.3d 644",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "132 Cal.App.4th 359",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5567528
+      ],
+      "pin_cites": [
+        {
+          "page": "390"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/132/0359-01"
+      ]
+    },
+    {
+      "cite": "173 Cal.Rptr.3d 413",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "227 Cal.App.4th 331",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5767352
+      ],
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/227/0331-01"
+      ]
+    },
+    {
+      "cite": "37 Cal.Rptr.2d 639",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Cal.App.4th 450",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1125823
+      ],
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/31/0450-01"
+      ]
+    },
+    {
+      "cite": "201 Cal.Rptr. 768",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "155 Cal.App.3d 136",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2176055
+      ],
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-3d/155/0136-01"
+      ]
+    },
+    {
+      "cite": "168 Cal.Rptr.3d 577",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "224 Cal.App.4th 322",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4190410
+      ],
+      "pin_cites": [
+        {
+          "page": "335, fn. 10"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/224/0322-01"
+      ]
+    },
+    {
+      "cite": "624 P.2d 256",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "172 Cal.Rptr. 206",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Cal.3d 126",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2257774
+      ],
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-3d/29/0126-01"
+      ]
+    },
+    {
+      "cite": "15 Cal.Rptr.3d 344",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "119 Cal.App.4th 1241",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        838221
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/119/1241-01"
+      ]
+    },
+    {
+      "cite": "146 Cal.Rptr.3d 12",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "208 Cal.App.4th 899",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4257591
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/208/0899-01"
+      ]
+    },
+    {
+      "cite": "199 Cal.Rptr.3d 354",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "245 Cal.App.4th 256",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6787034
+      ],
+      "pin_cites": [
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/245/0256-01"
+      ]
+    },
+    {
+      "cite": "195 Cal.Rptr.3d 891",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "242 Cal.App.4th 1409",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6053626
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/242/1409-01"
+      ]
+    },
+    {
+      "cite": "115 Cal.Rptr.3d 378",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "187 Cal.App.4th 1425",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4223034
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/187/1425-01"
+      ]
+    },
+    {
+      "cite": "53 Cal.Rptr.3d 345",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "146 Cal.App.4th 757",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5566692
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/146/0757-01"
+      ]
+    },
+    {
+      "cite": "48 Cal.Rptr.2d 822",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 2007,
+      "opinion_index": -1
+    },
+    {
+      "cite": "41 Cal.App.4th 810",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4730015
+      ],
+      "year": 2007,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/41/0810-01"
+      ]
+    },
+    {
+      "cite": "241 Cal.Rptr. 379",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1995,
+      "opinion_index": -1
+    },
+    {
+      "cite": "195 Cal.App.3d 1331",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2221718
+      ],
+      "year": 1995,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-3d/195/1331-01"
+      ]
+    },
+    {
+      "cite": "52 Cal.Rptr.2d 395",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1987,
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 Cal.App.4th 1391",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4771217
+      ],
+      "year": 1987,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/44/1391-01"
+      ]
+    },
+    {
+      "cite": "81 Cal.Rptr.2d 231",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "68 Cal.App.4th 1353",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        783273
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/68/1353-01"
+      ]
+    },
+    {
+      "cite": "114 Cal.Rptr.3d 680",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "187 Cal.App.4th 1040",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6053254
+      ],
+      "pin_cites": [
+        {
+          "page": "1057"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/187/1040-01"
+      ]
+    },
+    {
+      "cite": "25 Cal.Rptr. 798",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "208 Cal.App.2d 803",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2106207
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-2d/208/0803-01"
+      ]
+    },
+    {
+      "cite": "94 Cal.Rptr.2d 740",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "79 Cal.App.4th 1223",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        131852
+      ],
+      "pin_cites": [
+        {
+          "page": "1232"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/79/1223-01"
+      ]
+    },
+    {
+      "cite": "981 P.2d 499",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "87 Cal.Rptr.2d 654",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Cal.4th 352",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        884816
+      ],
+      "pin_cites": [
+        {
+          "page": "362"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/21/0352-01"
+      ]
+    },
+    {
+      "cite": "254 P.3d 1005",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 9,
+      "opinion_index": -1
+    },
+    {
+      "cite": "127 Cal.Rptr.3d 710",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 9,
+      "opinion_index": -1
+    },
+    {
+      "cite": "52 Cal.4th 155",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3919240
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "165"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/52/0155-01"
+      ]
+    },
+    {
+      "cite": "614 P.2d 276",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "166 Cal.Rptr. 844",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Cal.3d 793",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2261810
+      ],
+      "pin_cites": [
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-3d/27/0793-01"
+      ]
+    },
+    {
+      "cite": "4 Cal.Rptr.3d 453",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "111 Cal.App.4th 1099",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1229279
+      ],
+      "pin_cites": [
+        {
+          "page": "1107"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/111/1099-01"
+      ]
+    },
+    {
+      "cite": "132 Cal.Rptr.3d 388",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "198 Cal.App.4th 1",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4238045
+      ],
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/198/0001-01"
+      ]
+    },
+    {
+      "cite": "24 Cal.Rptr.3d 474",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "126 Cal.App.4th 993",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1557140
+      ],
+      "pin_cites": [
+        {
+          "page": "1000"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/126/0993-01"
+      ]
+    },
+    {
+      "cite": "27 Cal.Rptr.3d 452",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2005,
+      "opinion_index": -1
+    },
+    {
+      "cite": "128 Cal.App.4th 625",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        54960
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "631"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/128/0625-01"
+      ]
+    },
+    {
+      "cite": "100 Cal.Rptr.3d 875",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "178 Cal.App.4th 1020",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3985679
+      ],
+      "pin_cites": [
+        {
+          "page": "1035"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/178/1020-01"
+      ]
+    },
+    {
+      "cite": "161 P.3d 1168",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "62 Cal.Rptr.3d 614",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "41 Cal.4th 859",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3819277
+      ],
+      "pin_cites": [
+        {
+          "page": "865"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/41/0859-01"
+      ]
+    },
+    {
+      "cite": "728 P.2d 1177",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "232 Cal.Rptr. 542",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 Cal.3d 1033",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4464171
+      ],
+      "pin_cites": [
+        {
+          "page": "1040"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-3d/42/1033-01"
+      ]
+    },
+    {
+      "cite": "129 P.3d 394",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 Cal.Rptr.3d 205",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": -1
+    },
+    {
+      "cite": "38 Cal.4th 1",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3852954
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "20"
+        },
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/38/0001-01"
+      ]
+    },
+    {
+      "cite": "79 P.3d 569",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Cal.Rptr.3d 457",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Cal.4th 1074",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        18298
+      ],
+      "pin_cites": [
+        {
+          "page": "1081"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/31/1074-01"
+      ]
+    },
+    {
+      "cite": "703 P.2d 58",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "216 Cal.Rptr. 718",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "39 Cal.3d 311",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2011359
+      ],
+      "pin_cites": [
+        {
+          "page": "318"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-3d/39/0311-01"
+      ]
+    },
+    {
+      "cite": "181 Cal.Rptr.3d 68",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "231 Cal.App.4th 1337",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4138316
+      ],
+      "pin_cites": [
+        {
+          "page": "1341"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/231/1337-01"
+      ]
+    },
+    {
+      "cite": "80 Cal.Rptr.3d 340",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2014,
+      "opinion_index": -1
+    },
+    {
+      "cite": "165 Cal.App.4th 198",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3941809
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/165/0198-01"
+      ]
+    },
+    {
+      "cite": "22 Cal.Rptr.3d 706",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "125 Cal.App.4th 273",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1237810
+      ],
+      "pin_cites": [
+        {
+          "page": "277"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/125/0273-01"
+      ]
+    },
+    {
+      "cite": "793 P.2d 479",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "271 Cal.Rptr. 146",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "51 Cal.3d 120",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4457818
+      ],
+      "pin_cites": [
+        {
+          "page": "125"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-3d/51/0120-01"
+      ]
+    },
+    {
+      "cite": "881 P.2d 1083",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 Cal.Rptr.2d 386",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1990,
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Cal.4th 666",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1986000
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "672"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/8/0666-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1953,
+    "char_count": 53745,
+    "pagerank": {
+      "raw": 6.071101982733628e-08,
+      "percentile": 0.37496375271299603
+    },
+    "sha256": "e752667ab9f050b4a3f14f14f913132b667efabb88c4b05cb8164c78033d40d4",
+    "simhash": "1:7aa762b294d7c0f9",
+    "word_count": 8520
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SJJC AVIATION SERVICES, LLC, Plaintiff and Appellant,\nv.\nCITY OF SAN JOSE, et al., Defendants and Respondents;"
+    ],
+    "opinions": [
+      {
+        "text": "RUSHING, P.J.\nPREMO, J.",
+        "type": "majority",
+        "author": "RUSHING, P.J."
+      }
+    ],
+    "attorneys": [
+      "Counsel for Plaintiff and Appellant, SJJC AVIATION SERVICES, LLC: David P. Lanferman, Ash Pirayou, Palo Alto, Peter J. Howell, Alan B. Fenstermacher, Rutan & Tucker, Costa Mesa",
+      "Counsel for Defendants and Respondents, CITY OF SAN JOSE, et al.: Richard Doyle, City Attorney Nora Frimann, Ardell Johnson, Margo Laskowska, Office of the City Attorney",
+      "Counsel for Real Parties in Interest and Respondents: SIGNATURE FLIGHT SUPPORT CORPORATION, et al. Charles Lagrange Coleman, III, San Francisco, David I. Holtzman, Los Angeles, Amanda Jean Monchamp, San Francisco, Holland & Knight In this action SJJC Aviation Services, LLC (SJJC) filed a petition for writ of mandate and a complaint seeking to overturn the decision by the City of San Jose (the City) to award a lease and operating agreement to real parties in interest Signature Flight Support Corporation (Signature) and its prospective subtenant, BCH San Jose LLC (BCH). The superior court sustained the demurrers of the City and real parties to SJJC's first amended petition and complaint without leave to amend. SJJC appeals from the ensuing judgment of dismissal, contending that the \"flawed\" process of soliciting bids for the lease should be set aside and asserting abuse of discretion by the court in denying leave to amend. We will affirm the judgment.",
+      "Appellant, a wholly owned subsidiary of Atlantic Aviation FBO, Inc. (Atlantic), is a fixed base operator (FBO) that currently operates a full-service facility at the Norman Y. Mineta San Jose International Airport, which is owned by the City. In early 2012 the City addressed a plan to add a second FBO on the west side of the airport. The new FBO would, according to the City's expectations, \"create a competitive environment for facilities providing a range of services to the public, meeting the needs of Silicon Valley companies for access to global markets, providing economic benefit to the region, and revenue to the City and Airport.\" Consistent with that plan, in August 2012 the City issued a request for proposals (RFP) \"for the development and operation of aeronautical services facilities to serve general aviation activities at the [airport].\" In addition to a specific description of the operations and services to be undertaken, the detailed requirements for the proposal included an explanation of the proposer's experience, financial qualifications, management and business plan, and marketing approach, as well as a \"proposed rent schedule\" and lease term. In the RFP the City explained that an evaluation panel would first determine, according to pass/fail criteria, which proposals were responsive and then rank those responsive proposals using scoring criteria. The scoring criteria most important to the City were revenue to the airport and revenue to the City. The selected respondent or respondents would be recommended to the City Council for the award of a ground lease and operating agreement. The RFP emphasized that revenue generation would be the \"primary consideration\" in selecting the proposals to be submitted for approval; the highest revenue-generating proposal would be placed at the site, with the second highest proposal to merit placement on the remaining available land. The RFP also emphasized that proposals that did not conform to the standards and procedures described might be considered \"non-responsive and subject to rejection.\" Attached to the RFP was an \"Exemplar Agreement\" which was anticipated to govern the parties' relationship \"in substantially the form attached to this RFP,\" but with revisions incorporating pertinent details of the successful bidder's proposal. The City reserved the right \"to waive any informality or irregularity in any proposal.\" It also reserved \"the right to reject any and all proposals or portions thereof received in response to this RFP and thereafter reissue the RFP.\"",
+      "The City received responses from three companies: Signature, Ross Aviation (Ross), and SJJC. Signature's proposal offered a 50-year lease term with a capital investment of $82 million. It anticipated construction of a facility covering 29 acres encompassing a terminal, seven hangars, and a shop area. SJJC, on the other hand, proposed a \"phased approach\": Rather than immediate construction of facilities, it contemplated planning for development; it would pay \"up to $290 million\" in exchange for five-year options to develop the entire west side of the airport. Some of the specific requested elements of the RFP were deemed inapplicable-for example, no management plan was included because SJJC's proposal was \"not defined as FBO or SASO.\" Likewise, SJJC",
+      "Both Ross's and SJJC's proposals were rejected as nonresponsive. Ross's proposal had failed to include FBO storage information, a \"pass/fail\" selection criterion. SJJC had omitted nine required elements, including a rent proposal, its minimum capital investment, and minimum guaranteed property, sales, and use taxes. The staff summary of the three proposals indicated that SJJC had described no facility, whereas Ross and Signature had outlined provisions for a terminal, hangar, shop area, and ramp, among other terms relating to the lease area and specific sources of projected revenue generation for the City.",
+      "Both Ross and SJJC submitted letters of protest. In SJJC's letter it acknowledged that its proposal had not addressed all the specific items the City had identified as disqualifying it for consideration. Because it was \"not proposing any facilities,\" several of the requested items were considered \"not applicable to Atlantic's proposal.\" In SJJC's view, however, its \"strictly financial proposal\"-\"[i]n essence a simple real estate development agreement\"-offered a higher value to the City, consistent with the City Council's intent \"to make revenue generation the primary consideration in a successful proposal.\" SJJC believed that its \"Plan First\" approach was superior to the \"RFP First\" approach contemplated by the City, because it would allow the airport to \"pursue a comprehensive planning process\" in partnership with SJJC, thus accruing revenue while maintaining \"total flexibility\" to develop the land once the City determined the \"highest-and-best use\" for the property.",
+      "In anticipation of the City Council's meeting on the FBO project, William F. Sherry, the Director of Aviation for the City, updated the council on the negotiations with Signature, which he had already recommended for the award. Sherry reminded the council that it had directed the RFP to specify that the successful applicant would be subject to the existing \"Airport Curfew Ordinance\" that applied to existing FBOs and their subtenants. Those existing leases contained curfew provisions that went beyond the curfew ordinance, but they were applicable only if they were contained in all FBO leases. However, Signature-and in particular, its subtenant, BCH-had objected to the additional provisions. BCH was concerned about the term that allowed the City to evict a tenant if it violated the curfew even once, even though that had never occurred since the addition of the provisions in 2004. Nevertheless, Signature was willing to agree to the provisions in the lease presented to it, which contained a term requiring compliance with all applicable federal, state, and local laws. Sherry believed that this provision was sufficient to bind Signature to the curfew ordinance, and he recommended not including the additional curfew term in the proposed Signature lease. The existing curfew terms with the other tenants, including SJJC, would then no longer be enforceable; all would be subjected only to the curfew ordinance.",
+      "At the City Council hearing on April 9, 2013, SJJC's attorney voiced its objections to the recommendation of Signature for the award, identifying defects in Signature's proposal that should invalidate acceptance of its bid. SJJC also had objections to the City Council's approval of staff recommendations until completion of the environmental review process under the California Environmental Quality Act (CEQA).",
+      "After hearing from representatives of the affected entities and the public, the City Council \"denied\" SJJC's appeal. It then heard input from affected parties regarding the curfew provisions and other issues. Following the April 9 hearing, the City Council adopted a resolution authorizing the City Manager to negotiate a ground lease and operating agreement with Signature for the construction and operation of its FBO facility. One week later a supplemental resolution authorized the City Manager to execute those agreements, as amended to use the general language currently used in airline leases-that is, a requirement to comply with all laws.",
+      "SJJC filed two petitions for a writ of mandate in May 2013 against the City and the City Council, naming Signature and BCH. The first, filed on May 9, challenged the award to Signature as a violation of CEQA. The second, the subject of this appeal, was filed May 16, seeking an order to rescind the award and reissue the RFP. Each petition was combined with a complaint for injunctive and declaratory relief.",
+      "In July 2013 Signature, joined by BCH, demurred to the petition and moved to strike portions of it, as did the City. The superior court denied the motions to strike without prejudice, but it sustained the demurrers in part with leave to amend, finding an insufficient basis for the vague allegations that state and local law and \"ministerial and/or mandatory duties must have been breached.\"",
+      "SJJC filed its first amended petition and complaint on October 23, 2013. As it had in the previous pleading, it complained that the City had \"prejudicially abused its discretion and acted arbitrarily and capriciously by awarding the [FBO] Project to Signature.\" According to SJJC, the City had favored Signature, overlooking the deficiencies in Signature's proposal and materially deviating from the requirements of the RFP, thus giving Signature a competitive advantage over the other proposers. The City thus violated its \"clear mandatory, ministerial, non-discretionary duty\" to conduct a fair RFP process by failing to disqualify the Signature proposal and by changing the terms of the RFP, including the curfew requirements. SJJC invoked the S.J.M.C. as the basis for its allegation of an unfair, biased procedure, referring to chapters 4.12 and 4.07, and specifically citing sections 4.12.210, 4.12.215, 14.07.100, 14.07.300, 14.07.600, 14.07.660, and 14.07.560(B). It also alleged violations of sections 1217 and 1302 of the City's charter (pertaining to bid requirements for public works projects and grants of franchises respectively). In addition to its request for a writ of mandate, SJJC sought a judicial declaration of the City's violations and an injunction to stop the City and Signature from proceeding with the project. Both SJJC and the public, SJJC alleged, would be \"irreparably harmed\" if the court did not force the City to set aside its prior approval and \"rebid the Project\" in compliance with state and municipal law, the City's charter, and the RFP itself.",
+      "Signature (jointly with BCH) and the City each demurred again, asserting that SJJC had failed to cite any applicable statutory duty that the City had violated. The cited provisions of the City's charter and its municipal code were inapplicable, they argued, because they concerned public works projects and public utility franchises, whereas the RFP at issue was for a lease of public property for a private FBO facility involving no expenditure by the City. They further argued that SJJC had no standing, other than through its CEQA challenge, to oppose the FBO award to Signature because SJJC was not a party \"beneficially interested\" within the meaning of Code of Civil Procedure section 1086 (hereafter, section 1086 ); instead, it was only a competitor which had submitted a nonresponsive bid. Real parties also renewed their motion to strike, in which the City joined.",
+      "SJJC responded that it was not required to allege \"a specific legal provision to support a petition for a writ of mandate.\" In addition to the code sections already cited, the City violated the terms of the RFP itself by accepting a proposal with material omissions, contrary to the City's \"inherent duty to treat all proposals the same.\" SJJC also responded to the assertion that it had no standing to petition for the writ: it did have standing as \"a party who participated in the skewed RFP process,\" because it was \"specifically and adversely affected by the City's modification of the curfew requirements (and Exemplar Agreement) after all the proposals were submitted and after the release of the Notice of Intended Award.\" Such \"arbitrary actions,\" SJJC argued, \"provided Signature with a competitive advantage at the expense of Atlantic (and others)\" and thus \"compel that [sic ] the award be rescinded and rebid.\" SJJC also claimed \" 'citizen standing' \" to bring this action \"in order to protect the public fisc,\" an undertaking for which it believed it was especially well suited as one of the three entities that had bid on the project and as a current airport tenant.",
+      "On February 18, 2014, the court heard argument on the demurrers together with the motion to strike and several requests for judicial notice. On March 4, 2014, it filed its order sustaining the demurrers without leave to amend. After taking judicial notice of the text of the code sections on which SJJC had relied, the court concluded that SJJC had failed to cite applicable authority supporting its assertion that the City had violated a mandatory duty. It had also failed to allege abuse of discretion. The court denied further leave to amend, because SJJC had failed to show how any amendment would change the legal effect of its pleading. On May 2, 2014, the court entered its judgment dismissing the action with prejudice. SJJC then brought this timely appeal.",
+      "SJJC contends that the court erred in sustaining the City's and real parties' demurrers because it had pleaded legally sufficient causes of action showing abuse of discretion in the City's RFP process and award to Signature. Our review is governed by settled standards, which apply equally whether a demurrer challenges a complaint or a petition. (See Jones v . Omnitrans (2004) 125 Cal.App.4th 273, 277, 22 Cal.Rptr.3d 706 [dismissal of petition for writ of mandate after demurrer order reviewed under appellate rules for demurrer to a complaint].) We review the petition and complaint de novo \"to determine whether it alleges facts stating a cause of action under any legal theory.... [\u00b6] Because the function of a demurrer is not to test the truth or accuracy of the facts alleged in the complaint, we assume the truth of all properly pleaded factual allegations. [Citation.] Whether the plaintiff will be able to prove these allegations is not relevant; our focus is on the legal sufficiency of the complaint.\" (Los Altos Golf and Country Club v . County of Santa Clara (2008) 165 Cal.App.4th 198, 203, 80 Cal.Rptr.3d 340 ; see also Ferrick v . Santa Clara University (2014) 231 Cal.App.4th 1337, 1341, 181 Cal.Rptr.3d 68.) \"Further, we give the complaint a reasonable interpretation, reading it as a whole and its parts in their context.\" (Blank v . Kirwan (1985) 39 Cal.3d 311, 318, 216 Cal.Rptr. 718, 703 P.2d 58 (Blank ); Schifando v . City of Los Angeles (2003) 31 Cal.4th 1074, 1081, 6 Cal.Rptr.3d 457, 79 P.3d 569 (Schifando ).)",
+      "Here the superior court sustained the demurrers on the ground that SJJC had \"failed to identify any applicable mandatory or ministerial statutory duty that was allegedly violated by the City.\" It expressly declined to reach the issue of whether SJJC had a beneficial interest entitling it to bring a petition for a writ of mandate. Recognizing that we review the correctness of lower court's ruling, not its reasoning (Berg & Berg Enterprises , supra , 178 Cal.App.4th at pp. 1034-1035, 100 Cal.Rptr.3d 875 ; Mendoza v . Town of Ross (2005) 128 Cal.App.4th 625, 631, 27 Cal.Rptr.3d 452 ; see also Blumhorst v . Jewish Family Services of Los Angeles (2005) 126 Cal.App.4th 993, 1000, 24 Cal.Rptr.3d 474 (Blumhorst ) [reviewing court may decide standing issue even if not addressed by the trial court] ), we find the demurrers meritorious on the second ground raised by the City and real parties.",
+      "In their demurrers the City and real parties asserted that SJJC was not \"beneficially interested\" in the outcome of the RFP \"because it chose to submit a nonresponsive proposal that simply disagreed with the premise of the RFP.\" In their answering briefs on appeal, they maintain this position. Because SJJC was a nonresponsive bidder on a \"non-public contract,\" it was not a \"serious contender\" for the airport award; consequently, it lacked a \"plausible claim\" or other \"direct stake\" in the award and thus can gain no benefit from the requested writ.",
+      "The beneficial interest asserted by the City and real parties is derived from section 1086, which states that a writ of mandate \"must be issued upon the verified petition of the party beneficially interested.\" (See Brown v . Crandall (2011) 198 Cal.App.4th 1, 8, 132 Cal.Rptr.3d 388 (Brown ) [section 1086 establishes a standing requirement for writs of mandate]; Lindelli v . Town of San Anselmo (2003) 111 Cal.App.4th 1099, 1107, 4 Cal.Rptr.3d 453 [same].) \"The requirement that a petitioner be 'beneficially interested' has been generally interpreted to mean that one may obtain the writ only if the person has some special interest to be served or some particular right to be preserved or protected over and above the interest held in common with the public at large.\" (Carsten v . Psychology Examining Com . (1980) 27 Cal.3d 793, 796, 166 Cal.Rptr. 844, 614 P.2d 276.) \"The beneficial interest must be direct and substantial.\" (Save the Plastic Bag Coalition v . City of Manhattan Beach (2011) 52 Cal.4th 155, 165, 127 Cal.Rptr.3d 710, 254 P.3d 1005 (Save the Plastic Bag ).) This standard \"is equivalent to the federal 'injury in fact' test, which requires a party to prove by a preponderance of the evidence that it has suffered 'an invasion of a legally protected interest that is \"(a) concrete and particularized, and (b) actual or imminent, not conjectural or hypothetical.\" ' \" (Associated Builders & Contractors , Inc . v . San Francisco Airports Com . (1999) 21 Cal.4th 352, 362, 87 Cal.Rptr.2d 654, 981 P.2d 499.) A petitioner has no beneficial interest within the meaning of the statute if he or she \"will gain no direct benefit from [the writ's] issuance and suffer no direct detriment if it is denied.\" (Waste Management of Alameda County , Inc . v . County of Alameda (2000) 79 Cal.App.4th 1223, 1232, 94 Cal.Rptr.2d 740 (Waste Management ), disapproved in part on another point in Save the Plastic Bag , supra , at pp. 160, 166-171, 127 Cal.Rptr.3d 710, 254 P.3d 1005.)",
+      "The superior court articulated a significant point at the demurrer hearing. The change of which SJJC complains occurred after the City determined which of the three submissions met all of the criteria listed in the RFP-and more importantly, that change did not relax any requirements that existed at the time the RFP was issued, such as the obligation to follow existing law. The Exemplar Agreement itself did not contain the proposed curfew term to which Signature and BCH objected-i.e., the potential eviction of noncompliant aircraft and termination of the lease. Although the City attempted to make the curfew policy more restrictive (consistent with existing FBO leases at the airport) before completing the award to Signature, Signature refused to agree to the additional term, and the parties were, as the court put it, brought \"back to square one,\" with no additional curfew restriction beyond what had been presented in the RFP. Thus, the eventual award did not grant Signature any benefits beyond what any responsive bidder would have enjoyed. And even if SJJC were able to show that a benefit did accrue to Signature through the retraction of the proposed additional curfew restriction, that benefit could not have had any effect on SJJC, which remained a nonresponsive bidder for reasons independent of the curfew issue.",
+      "SJJC argues that even if its bid was nonresponsive, it still has a beneficial interest because it would have an opportunity to submit a new bid responsive to a new RFP issued \"on fair and lawful terms.\" In effect, SJJC envisions a judicially mandated opportunity for a losing bidder to submit a successful proposal even when the losing bid was incontrovertibly nonresponsive. The court was under no duty to provide such a second bite at the apple in those circumstances. Thus, even assuming that the City impermissibly relaxed its curfew restrictions to benefit Signature, we fail to see how a new RFP would make any difference to SJJC's chances of success, since its proposal was disqualified at the preliminary phase for failing to conform to the City's criteria in multiple respects unrelated to curfew conditions. We must conclude, therefore, that SJJC did not suffer prejudice from either the failure to include the proposed curfew restriction in the original RFP or the alleged change in the curfew conditions culminating in the City's award of the lease to Signature.",
+      "In a related contention SJJC maintains that it makes no difference that its bid was nonresponsive in determining its standing to challenge a bid award. None of the cases it cites for this proposition advances SJJC's position. M & B Construction v . Yuba County Water Agency (1999) 68 Cal.App.4th 1353, 81 Cal.Rptr.2d 231 is inapposite because the petition granted by the trial court (and reversed on appeal) involved a contractor who (unlike SJJC) challenged the grounds for the agency's rejection of its bid. In Monterey Mechanical Co. v . Sacramento Regional County Sanitation Dist. (1996) 44 Cal.App.4th 1391, 52 Cal.Rptr.2d 395, the contractor was entitled to a writ of mandate because the sanitation district had used improper criteria in disqualifying the contractor, who had submitted the lowest bid. Likewise, in Taylor Bus Service Inc . v . San Diego Bd . of Education (1987) 195 Cal.App.3d 1331, 241 Cal.Rptr. 379 and Domar Electric Inc . v . City of Los Angeles (1995) 41 Cal.App.4th 810, 48 Cal.Rptr.2d 822 the low bidder's petition challenged the rejection of its bid as nonresponsive. D .H . Williams Construction Inc . v . Clovis Unified School Dist. (2007) 146 Cal.App.4th 757, 53 Cal.Rptr.3d 345 (followed in Great West Contractors , Inc . v . Irvine Unified School Dist . (2010) 187 Cal.App.4th 1425, 115 Cal.Rptr.3d 378 ) also involved the rejection of a purportedly nonresponsive bid, but in legal effect it was found to be not a responsible bid, thereby requiring due process before the school district could properly exercise its discretion in considering the bid. Similarly unavailing is SJJC's reliance on DeSilva Gates Construction LP v . Department of Transportation (2015) 242 Cal.App.4th 1409, 195 Cal.Rptr.3d 891. There the successful bidder on a public works contract complained on appeal that DeSilva lacked standing \"because, as a nonresponsive bidder, it had no interest in the contract.\" (Id . at p. 1421, 195 Cal.Rptr.3d 891 ) The argument was rejected; DeSilva had standing as a beneficially interested party because its bid was lower than that of the successful bidder.",
+      "Finally, SJJC argues in the alternative that even if it has no special interest or right of its own to protect, it nonetheless has \" 'citizen standing' or 'public interest standing' \" to bring its petition to challenge the award to Signature. This aspect of standing enables a petitioner to seek mandamus \" ' \"to procure the enforcement of a public duty.\" ' \" (Save the Plastic Bag , supra , 52 Cal.4th at p. 166, 127 Cal.Rptr.3d 710, 254 P.3d 1005 ; see also Brown , supra , 198 Cal.App.4th at p. 14, 132 Cal.Rptr.3d 388 [duty to provide medical care to indigent residents recognized as public duty subject to enforcement by private citizen].) But the public interest exception is not a gateway to standing for any individual or entity. In Save the Plastic Bag , the Supreme Court cautioned that while corporations may have standing to bring a legal challenge under the public interest exception, that does not mean that the exception is \"freely available to business interests lacking a beneficial interest in the litigation. No party, individual or corporate, may proceed with a mandamus petition as a matter of right under the public interest exception. As the Waste Management court correctly observed, 'Judicial recognition of citizen standing is an exception to, rather than repudiation of, the usual requirement of a beneficial interest. The policy underlying the exception may be outweighed by competing considerations of a more urgent nature.' \" (Save the Plastic Bag , supra , at p. 170, fn. 5, 127 Cal.Rptr.3d 710, 254 P.3d 1005 ; see also Department of Consumer Affairs v. Supe rior Court (2016) 245 Cal.App.4th 256, 262, 199 Cal.Rptr.3d 354 [rejecting application of public interest standing where car buyers lacked \"any beneficial interest in an actual controversy\"].) More specifically, where the claim of \"citizen\" or \"public interest\" standing is driven by personal objectives rather than \"broader public concerns,\" a court may find the litigant to lack such standing. (Save the Plastic Bag , supra , at p. 169, 127 Cal.Rptr.3d 710, 254 P.3d 1005.) For example, as the Supreme Court in Save the Plastic Bag pointed out, it would be improper for a petitioner-whether corporation or individual-to \"attempt to use CEQA to impose regulatory burdens on a business competitor, with no demonstrable concern for protecting the environment.\" (Ibid .; see Carsten v . Psychology Examining Com ., supra , 27 Cal.3d at p. 799, 166 Cal.Rptr. 844, 614 P.2d 276 [petitioner's knowledge of events underlying her lawsuit showed that her interests were those of a board member, not a neutral citizen].)",
+      "Citing Save the Plastic Bag , supra , 52 Cal.4th 155, 127 Cal.Rptr.3d 710, 254 P.3d 1005 and Rialto Citizens for Responsible Growth v . City of Rialto (2012) 208 Cal.App.4th 899, 146 Cal.Rptr.3d 12 (Rialto ), SJJC renews the argument it made to the court below, that it is \"particularly [well suited] to bring this action as (i) one of three entities that submitted a response to the RFP, and (ii) a current airport tenant. No other potential plaintiff has Atlantic's 'particular expertise' and 'enhanced understanding of the public interests at stake.' \" This reasoning undermines the theory it purports to promote. In effect SJJC contends that as a potential competitor at the airport it should know what the public should want. It does not demonstrate how the City Council erred in determining that Signature's FBO would be in the public interest. Its very argument confirms that its position is driven by personal objectives rather than \"broader public concerns.\" (Save the Plastic Bag , supra , at p. 169, 127 Cal.Rptr.3d 710, 254 P.3d 1005.)",
+      "Rialto does not suggest otherwise. There the citizen group was not a competitor but \"a nonprofit public benefit corporation, and as such ha[d] no commercial or competitive interests to undermine or override its public interest standing.\" (Rialto , supra , 208 Cal.App.4th at p. 915, 146 Cal.Rptr.3d 12.) In those circumstances it was \"appropriate to apply the public interest exception.\" (Ibid . ) Also distinguishable is Marshall v . Pasadena Unified School Dist. (2004) 119 Cal.App.4th 1241, 15 Cal.Rptr.3d 344 (Marshall ), where recognition of \"citizen standing\" was deemed appropriate because the aim of the petitioners was not to secure an opportunity to bid but to \"protect the public fisc by requiring the District 'to publicly advertise for bids to complete the work ... and to award a contract for said work to the lowest responsible bidder.' \" (Id . at p. 1252, 15 Cal.Rptr.3d 344.) Here, by contrast, SJJC is a competitive bidder, with substantial economic interests that go beyond concern for the public fisc; indeed, it forthrightly acknowledges that it is seeking another opportunity to bid.",
+      "Rather than specifying the public duty and public need at issue here, SJJC only cites \"the concern of procurement laws (e.g., protection from favoritism, and protection of the public fisc, fair play, due process, etc.)\" and professes its interest as a citizen \"in ensuring that the City follows the law.\" SJJC identifies no violation of specific statutes that indicate an abandonment of the City's public duty to conduct a fair procurement process. Nor does SJJC reinvigorate its claim that the City violated its own municipal laws and charter, a contention the superior court rejected as based on inapplicable provisions. Even if it is sufficient to assert a general public duty \"to conduct a fair RFP process in conformity with the City's duties under its own RFP rules and criteria,\" the properly pleaded facts alleged in SJJC's petition, together with the exhibits and judicially noticeable facts (Evans v . City of Berkeley (2006) 38 Cal.4th 1, 20, 40 Cal.Rptr.3d 205, 129 P.3d 394 ; Keffeler v . Partnership Healthplan of California (2014) 224 Cal.App.4th 322, 335, fn. 10, 168 Cal.Rptr.3d 577 ), do not delineate a violation of that duty. SJJC has also identified no \"weighty\" public need comparable to the \"basic human need\" for indigent residents to obtain medical care (Brown , supra , 198 Cal.App.4th at p. 14, 132 Cal.Rptr.3d 388 ; see also Madera Community Hospital v . County of Madera (1984) 155 Cal.App.3d 136, 145, 201 Cal.Rptr. 768 ), the protection of public resources by requiring advertisement for bids to perform a public contract (Marshall , supra , 119 Cal.App.4th at p. 1252, 15 Cal.Rptr.3d 344 ), the public need for a report on the results of a reevaluation of the state's welfare standards (California Homeless & Housing Coalition v . Anderson (1995) 31 Cal.App.4th 450, 459, 37 Cal.Rptr.2d 639 ), protection of the environment through CEQA (Save the Plastic Bag , supra , 52 Cal.4th at p. 170, 127 Cal.Rptr.3d 710, 254 P.3d 1005 ), or protection of public school students from discrimination, harassment, and bullying (Hector F . v . El Centro Elementary School Dist . (2014) 227 Cal.App.4th 331, 334, 173 Cal.Rptr.3d 413 ).",
+      "SJJC has thus failed to establish either a beneficial interest as a competitive bidder or a weighty public need requiring a citizen's intervention to enforce a public duty. The inability to make that showing confirms that even if the City abused its discretion in accepting Signature's proposal, no prejudice to SJJC has resulted. SJJC submitted a patently nonresponsive proposal, which was properly rejected for failing to conform to even the most basic requirements of the RFP. No reissuance of the RFP setting forth the S.J.M.C. curfew laws would improve SJJC's prospects of that proposal's being selected. In short, neither SJJC nor the public would derive any benefit from reversal of the superior court's order. The court properly denied the petition.",
+      "In its demurrer the City (joined by Signature) asserted the same grounds as in its challenge to SJJC's request for mandamus relief-that is, (1) SJJC had failed to identify any mandatory duty violated by the City; and (2) it lacked a beneficial interest sufficient to confer standing to challenge the award to Signature. As noted earlier, the superior court agreed with the City and Signature that SJJC had \"conspicuously fail[ed] to identify any \"specific law, statute or regulation imposing a mandatory/ministerial duty\" that the City had violated. The court also rejected SJJC's attempt to state a cause of action \"by simply alleging that the City of San Jose violated the terms of the RFP itself.\" Finally, the court stated that SJJC had \"fail[ed] to properly allege any abuse of discretion\" by the City.",
+      "\"The grant or denial of a permanent injunction rests within the trial court's sound discretion and will not be disturbed on appeal absent a showing of a clear abuse of discretion.\" (Horsford v . Board of Trustees of California State University (2005) 132 Cal.App.4th 359, 390, 33 Cal.Rptr.3d 644.) Although the superior court did not directly address the request for an injunction, it implicitly determined that SJJC was not entitled to this remedy because it had failed to cite an applicable S.J.M.C. or charter provision supporting its allegation that the City had \"arbitrarily and capriciously conduct[ed] an irregular, inconsistent and biased RFP process\" in contravention of the S.J.M.C. and \"well-settled State law.\" We find no error in this reasoning. In addition, as discussed earlier, even if the City departed from its own RFP procedure by altering the curfew requirements, that deviation had no effect on SJJC, whose bid was unquestionably nonresponsive for multiple reasons that were independent of the curfew conditions. As SJJC will suffer no actual injury caused by the conduct of which it complains, the court was not required to enjoin the City and Signature from pursuing the FBO agreement they had reached. (Cf.",
+      "The third cause of action contained a request for a declaration \"as to whether the City violated applicable laws and/or the terms of the RFP as set forth above.\"",
+      "SJJC contends that its allegation of \"actual and existing controversies\" was \"more than sufficient to state a cause of action for declaratory relief.\" In its view, a declaration that the City's conduct was unlawful would benefit SJJC as well as others, \"by creating an opportunity for [SJJC] to re-bid the Project in a fair and lawful RFP process ... [T]his is the specific result that the [first amended complaint] seeks.\"",
+      "We disagree with SJJC's assertion that an actual controversy exists between SJJC and the City. SJJC lost its own opportunity to compete for the new airport FBO by submitting a manifestly nonresponsive bid. The question of whether the City changed the curfew restrictions for the project after Signature submitted the only responsive bid does not affect SJJC, whose bid had already been properly rejected for reasons unrelated to existing curfew provisions. There is thus no actual controversy \"relating to the legal rights and duties of the respective parties \" within the meaning of Code of Civil Procedure section 1060. (Italics added.)",
+      "It is not enough, however, for a plaintiff to assert generally that applicable statutory provisions exist and that it will allege a violation of those provisions in its next pleading. SJJC fails to explain not only how the Public Contract Code in general applies to these facts, but also what specific section was violated, and how the City's conduct amounted to that violation. Furthermore, even if SJJC could identify the violation of a specific statutory or municipal code requirement, it is unable to demonstrate how such a violation affected the contents of SJJC's proposal, disadvantaged SJJC in the bidding process, or caused the City to reject its bid. Consequently, SJJC has not met its burden to show a reasonable possibility that any further amendment would state a legally sufficient cause of action. Further leave to amend the petition and complaint was not required here."
+    ],
+    "corrections": "",
+    "head_matter": "SJJC AVIATION SERVICES, LLC, Plaintiff and Appellant,\nv.\nCITY OF SAN JOSE, et al., Defendants and Respondents;\nSignature Flight Support Corporation, et al., Real Parties in Interest and Respondents.\nH041035\nCourt of Appeal, Sixth District, California.\nFiled May 24, 2017\nCounsel for Plaintiff and Appellant, SJJC AVIATION SERVICES, LLC: David P. Lanferman, Ash Pirayou, Palo Alto, Peter J. Howell, Alan B. Fenstermacher, Rutan & Tucker, Costa Mesa\nCounsel for Defendants and Respondents, CITY OF SAN JOSE, et al.: Richard Doyle, City Attorney Nora Frimann, Ardell Johnson, Margo Laskowska, Office of the City Attorney\nCounsel for Real Parties in Interest and Respondents: SIGNATURE FLIGHT SUPPORT CORPORATION, et al. Charles Lagrange Coleman, III, San Francisco, David I. Holtzman, Los Angeles, Amanda Jean Monchamp, San Francisco, Holland & Knight In this action SJJC Aviation Services, LLC (SJJC) filed a petition for writ of mandate and a complaint seeking to overturn the decision by the City of San Jose (the City) to award a lease and operating agreement to real parties in interest Signature Flight Support Corporation (Signature) and its prospective subtenant, BCH San Jose LLC (BCH). The superior court sustained the demurrers of the City and real parties to SJJC's first amended petition and complaint without leave to amend. SJJC appeals from the ensuing judgment of dismissal, contending that the \"flawed\" process of soliciting bids for the lease should be set aside and asserting abuse of discretion by the court in denying leave to amend. We will affirm the judgment.\nBackground\nBecause this appeal arises from the sustaining of demurrers, in summarizing the history of the dispute we draw primarily from the facts asserted in the operative pleading, SJJC's first amended petition and complaint. Toward this end \"we accept as true the properly pleaded material factual allegations of the complaint, together with facts that may properly be judicially noticed.\" (Crowley v . Katleman (1994) 8 Cal.4th 666, 672, 34 Cal.Rptr.2d 386, 881 P.2d 1083 ; Moore v . Regents of University of California (1990) 51 Cal.3d 120, 125, 271 Cal.Rptr. 146, 793 P.2d 479 (Moore ).)\nAppellant, a wholly owned subsidiary of Atlantic Aviation FBO, Inc. (Atlantic), is a fixed base operator (FBO) that currently operates a full-service facility at the Norman Y. Mineta San Jose International Airport, which is owned by the City. In early 2012 the City addressed a plan to add a second FBO on the west side of the airport. The new FBO would, according to the City's expectations, \"create a competitive environment for facilities providing a range of services to the public, meeting the needs of Silicon Valley companies for access to global markets, providing economic benefit to the region, and revenue to the City and Airport.\" Consistent with that plan, in August 2012 the City issued a request for proposals (RFP) \"for the development and operation of aeronautical services facilities to serve general aviation activities at the [airport].\" In addition to a specific description of the operations and services to be undertaken, the detailed requirements for the proposal included an explanation of the proposer's experience, financial qualifications, management and business plan, and marketing approach, as well as a \"proposed rent schedule\" and lease term. In the RFP the City explained that an evaluation panel would first determine, according to pass/fail criteria, which proposals were responsive and then rank those responsive proposals using scoring criteria. The scoring criteria most important to the City were revenue to the airport and revenue to the City. The selected respondent or respondents would be recommended to the City Council for the award of a ground lease and operating agreement. The RFP emphasized that revenue generation would be the \"primary consideration\" in selecting the proposals to be submitted for approval; the highest revenue-generating proposal would be placed at the site, with the second highest proposal to merit placement on the remaining available land. The RFP also emphasized that proposals that did not conform to the standards and procedures described might be considered \"non-responsive and subject to rejection.\" Attached to the RFP was an \"Exemplar Agreement\" which was anticipated to govern the parties' relationship \"in substantially the form attached to this RFP,\" but with revisions incorporating pertinent details of the successful bidder's proposal. The City reserved the right \"to waive any informality or irregularity in any proposal.\" It also reserved \"the right to reject any and all proposals or portions thereof received in response to this RFP and thereafter reissue the RFP.\"\nThe City received responses from three companies: Signature, Ross Aviation (Ross), and SJJC. Signature's proposal offered a 50-year lease term with a capital investment of $82 million. It anticipated construction of a facility covering 29 acres encompassing a terminal, seven hangars, and a shop area. SJJC, on the other hand, proposed a \"phased approach\": Rather than immediate construction of facilities, it contemplated planning for development; it would pay \"up to $290 million\" in exchange for five-year options to develop the entire west side of the airport. Some of the specific requested elements of the RFP were deemed inapplicable-for example, no management plan was included because SJJC's proposal was \"not defined as FBO or SASO.\" Likewise, SJJC\ndid not include a business plan because \"[t]he proposal is not specifically defined as of this time.\"\nBoth Ross's and SJJC's proposals were rejected as nonresponsive. Ross's proposal had failed to include FBO storage information, a \"pass/fail\" selection criterion. SJJC had omitted nine required elements, including a rent proposal, its minimum capital investment, and minimum guaranteed property, sales, and use taxes. The staff summary of the three proposals indicated that SJJC had described no facility, whereas Ross and Signature had outlined provisions for a terminal, hangar, shop area, and ramp, among other terms relating to the lease area and specific sources of projected revenue generation for the City.\nBoth Ross and SJJC submitted letters of protest. In SJJC's letter it acknowledged that its proposal had not addressed all the specific items the City had identified as disqualifying it for consideration. Because it was \"not proposing any facilities,\" several of the requested items were considered \"not applicable to Atlantic's proposal.\" In SJJC's view, however, its \"strictly financial proposal\"-\"[i]n essence a simple real estate development agreement\"-offered a higher value to the City, consistent with the City Council's intent \"to make revenue generation the primary consideration in a successful proposal.\" SJJC believed that its \"Plan First\" approach was superior to the \"RFP First\" approach contemplated by the City, because it would allow the airport to \"pursue a comprehensive planning process\" in partnership with SJJC, thus accruing revenue while maintaining \"total flexibility\" to develop the land once the City determined the \"highest-and-best use\" for the property.\nUnsuccessful in its protest, SJJC then submitted an appeal challenging both its disqualification and the City's \"Notice of Intended Award\" to Signature. The City Attorney advised the City Council that the defects in SJJC's proposal were material and thus not waivable as minor irregularities; to accept its proposal with such material omissions \"would result in Atlantic['s] gaining a competitive advantage over the proposer that complied with all of the RFP submittal requirements.\" SJJC complained that the City had not followed its own procedures, having rejected SJJC's proposal while ignoring \"serious material flaws in Signature's [p]roposal.\" In SJJC's view, the City had treated Signature preferentially instead of adhering to the same standards. Thus, if the City upheld the rejection of SJJC's proposal, it should reject Signature's as well.\nIn anticipation of the City Council's meeting on the FBO project, William F. Sherry, the Director of Aviation for the City, updated the council on the negotiations with Signature, which he had already recommended for the award. Sherry reminded the council that it had directed the RFP to specify that the successful applicant would be subject to the existing \"Airport Curfew Ordinance\" that applied to existing FBOs and their subtenants. Those existing leases contained curfew provisions that went beyond the curfew ordinance, but they were applicable only if they were contained in all FBO leases. However, Signature-and in particular, its subtenant, BCH-had objected to the additional provisions. BCH was concerned about the term that allowed the City to evict a tenant if it violated the curfew even once, even though that had never occurred since the addition of the provisions in 2004. Nevertheless, Signature was willing to agree to the provisions in the lease presented to it, which contained a term requiring compliance with all applicable federal, state, and local laws. Sherry believed that this provision was sufficient to bind Signature to the curfew ordinance, and he recommended not including the additional curfew term in the proposed Signature lease. The existing curfew terms with the other tenants, including SJJC, would then no longer be enforceable; all would be subjected only to the curfew ordinance.\nAt the City Council hearing on April 9, 2013, SJJC's attorney voiced its objections to the recommendation of Signature for the award, identifying defects in Signature's proposal that should invalidate acceptance of its bid. SJJC also had objections to the City Council's approval of staff recommendations until completion of the environmental review process under the California Environmental Quality Act (CEQA).\nAfter hearing from representatives of the affected entities and the public, the City Council \"denied\" SJJC's appeal. It then heard input from affected parties regarding the curfew provisions and other issues. Following the April 9 hearing, the City Council adopted a resolution authorizing the City Manager to negotiate a ground lease and operating agreement with Signature for the construction and operation of its FBO facility. One week later a supplemental resolution authorized the City Manager to execute those agreements, as amended to use the general language currently used in airline leases-that is, a requirement to comply with all laws.\nSJJC filed two petitions for a writ of mandate in May 2013 against the City and the City Council, naming Signature and BCH. The first, filed on May 9, challenged the award to Signature as a violation of CEQA. The second, the subject of this appeal, was filed May 16, seeking an order to rescind the award and reissue the RFP. Each petition was combined with a complaint for injunctive and declaratory relief.\nIn July 2013 Signature, joined by BCH, demurred to the petition and moved to strike portions of it, as did the City. The superior court denied the motions to strike without prejudice, but it sustained the demurrers in part with leave to amend, finding an insufficient basis for the vague allegations that state and local law and \"ministerial and/or mandatory duties must have been breached.\"\nSJJC filed its first amended petition and complaint on October 23, 2013. As it had in the previous pleading, it complained that the City had \"prejudicially abused its discretion and acted arbitrarily and capriciously by awarding the [FBO] Project to Signature.\" According to SJJC, the City had favored Signature, overlooking the deficiencies in Signature's proposal and materially deviating from the requirements of the RFP, thus giving Signature a competitive advantage over the other proposers. The City thus violated its \"clear mandatory, ministerial, non-discretionary duty\" to conduct a fair RFP process by failing to disqualify the Signature proposal and by changing the terms of the RFP, including the curfew requirements. SJJC invoked the S.J.M.C. as the basis for its allegation of an unfair, biased procedure, referring to chapters 4.12 and 4.07, and specifically citing sections 4.12.210, 4.12.215, 14.07.100, 14.07.300, 14.07.600, 14.07.660, and 14.07.560(B). It also alleged violations of sections 1217 and 1302 of the City's charter (pertaining to bid requirements for public works projects and grants of franchises respectively). In addition to its request for a writ of mandate, SJJC sought a judicial declaration of the City's violations and an injunction to stop the City and Signature from proceeding with the project. Both SJJC and the public, SJJC alleged, would be \"irreparably harmed\" if the court did not force the City to set aside its prior approval and \"rebid the Project\" in compliance with state and municipal law, the City's charter, and the RFP itself.\nSignature (jointly with BCH) and the City each demurred again, asserting that SJJC had failed to cite any applicable statutory duty that the City had violated. The cited provisions of the City's charter and its municipal code were inapplicable, they argued, because they concerned public works projects and public utility franchises, whereas the RFP at issue was for a lease of public property for a private FBO facility involving no expenditure by the City. They further argued that SJJC had no standing, other than through its CEQA challenge, to oppose the FBO award to Signature because SJJC was not a party \"beneficially interested\" within the meaning of Code of Civil Procedure section 1086 (hereafter, section 1086 ); instead, it was only a competitor which had submitted a nonresponsive bid. Real parties also renewed their motion to strike, in which the City joined.\nSJJC responded that it was not required to allege \"a specific legal provision to support a petition for a writ of mandate.\" In addition to the code sections already cited, the City violated the terms of the RFP itself by accepting a proposal with material omissions, contrary to the City's \"inherent duty to treat all proposals the same.\" SJJC also responded to the assertion that it had no standing to petition for the writ: it did have standing as \"a party who participated in the skewed RFP process,\" because it was \"specifically and adversely affected by the City's modification of the curfew requirements (and Exemplar Agreement) after all the proposals were submitted and after the release of the Notice of Intended Award.\" Such \"arbitrary actions,\" SJJC argued, \"provided Signature with a competitive advantage at the expense of Atlantic (and others)\" and thus \"compel that [sic ] the award be rescinded and rebid.\" SJJC also claimed \" 'citizen standing' \" to bring this action \"in order to protect the public fisc,\" an undertaking for which it believed it was especially well suited as one of the three entities that had bid on the project and as a current airport tenant.\nOn February 18, 2014, the court heard argument on the demurrers together with the motion to strike and several requests for judicial notice. On March 4, 2014, it filed its order sustaining the demurrers without leave to amend. After taking judicial notice of the text of the code sections on which SJJC had relied, the court concluded that SJJC had failed to cite applicable authority supporting its assertion that the City had violated a mandatory duty. It had also failed to allege abuse of discretion. The court denied further leave to amend, because SJJC had failed to show how any amendment would change the legal effect of its pleading. On May 2, 2014, the court entered its judgment dismissing the action with prejudice. SJJC then brought this timely appeal.\nDiscussion\nSJJC contends that the court erred in sustaining the City's and real parties' demurrers because it had pleaded legally sufficient causes of action showing abuse of discretion in the City's RFP process and award to Signature. Our review is governed by settled standards, which apply equally whether a demurrer challenges a complaint or a petition. (See Jones v . Omnitrans (2004) 125 Cal.App.4th 273, 277, 22 Cal.Rptr.3d 706 [dismissal of petition for writ of mandate after demurrer order reviewed under appellate rules for demurrer to a complaint].) We review the petition and complaint de novo \"to determine whether it alleges facts stating a cause of action under any legal theory.... [\u00b6] Because the function of a demurrer is not to test the truth or accuracy of the facts alleged in the complaint, we assume the truth of all properly pleaded factual allegations. [Citation.] Whether the plaintiff will be able to prove these allegations is not relevant; our focus is on the legal sufficiency of the complaint.\" (Los Altos Golf and Country Club v . County of Santa Clara (2008) 165 Cal.App.4th 198, 203, 80 Cal.Rptr.3d 340 ; see also Ferrick v . Santa Clara University (2014) 231 Cal.App.4th 1337, 1341, 181 Cal.Rptr.3d 68.) \"Further, we give the complaint a reasonable interpretation, reading it as a whole and its parts in their context.\" (Blank v . Kirwan (1985) 39 Cal.3d 311, 318, 216 Cal.Rptr. 718, 703 P.2d 58 (Blank ); Schifando v . City of Los Angeles (2003) 31 Cal.4th 1074, 1081, 6 Cal.Rptr.3d 457, 79 P.3d 569 (Schifando ).)\nWe also consider matters that may be judicially noticed and facts appearing in any exhibits attached to the petition and complaint. (Code Civ. Proc., \u00a7 430.30, subd. (a) ; Schifando , supra , 31 Cal.4th at p. 1081, 6 Cal.Rptr.3d 457, 79 P.3d 569 ; Blank , supra , 39 Cal.3d at p. 318, 216 Cal.Rptr. 718, 703 P.2d 58.) We do not, however, assume the truth of \"mere contentions or assertions contradicted by judicially noticeable facts.\" (Evans v. City of Berkeley (2006) 38 Cal.4th 1, 20, 40 Cal.Rptr.3d 205, 129 P.3d 394 ; see also Blatty v . New York Times Co . (1986) 42 Cal.3d 1033, 1040, 232 Cal.Rptr. 542, 728 P.2d 1177 [\"when the allegations of the complaint contradict or are inconsistent with such facts, we accept the latter and reject the former\"].)\nAfter reviewing the allegations of the petition, the accompanying exhibits, and the matters properly subject to judicial notice, we determine whether the petition states a cause of action as a matter of law. (Cf. Moore , supra , 51 Cal.3d at p. 125, 271 Cal.Rptr. 146, 793 P.2d 479.) Finally, if the lower court has sustained the demurrer without leave to amend, as here, \"we decide whether there is a reasonable possibility that the defect can be cured by amendment: if it can be, the trial court has abused its discretion and we reverse.\" (City of Dinuba v . County of Tulare (2007) 41 Cal.4th 859, 865, 62 Cal.Rptr.3d 614, 161 P.3d 1168.) However, \"[t]he burden of proving such reasonable possibility is squarely on the plaintiff.\" (Blank , supra , 39 Cal.3d at p. 318, 216 Cal.Rptr. 718, 703 P.2d 58 ; Schifando , supra , 31 Cal.4th at p. 1081, 6 Cal.Rptr.3d 457, 79 P.3d 569 ; Berg & Berg Enterprises , LLC v . Boyle (2009) 178 Cal.App.4th 1020, 1035, 100 Cal.Rptr.3d 875 (Berg & Berg ).)\nHere the superior court sustained the demurrers on the ground that SJJC had \"failed to identify any applicable mandatory or ministerial statutory duty that was allegedly violated by the City.\" It expressly declined to reach the issue of whether SJJC had a beneficial interest entitling it to bring a petition for a writ of mandate. Recognizing that we review the correctness of lower court's ruling, not its reasoning (Berg & Berg Enterprises , supra , 178 Cal.App.4th at pp. 1034-1035, 100 Cal.Rptr.3d 875 ; Mendoza v . Town of Ross (2005) 128 Cal.App.4th 625, 631, 27 Cal.Rptr.3d 452 ; see also Blumhorst v . Jewish Family Services of Los Angeles (2005) 126 Cal.App.4th 993, 1000, 24 Cal.Rptr.3d 474 (Blumhorst ) [reviewing court may decide standing issue even if not addressed by the trial court] ), we find the demurrers meritorious on the second ground raised by the City and real parties.\n1 . SJJC 's Beneficial Interest\nIn their demurrers the City and real parties asserted that SJJC was not \"beneficially interested\" in the outcome of the RFP \"because it chose to submit a nonresponsive proposal that simply disagreed with the premise of the RFP.\" In their answering briefs on appeal, they maintain this position. Because SJJC was a nonresponsive bidder on a \"non-public contract,\" it was not a \"serious contender\" for the airport award; consequently, it lacked a \"plausible claim\" or other \"direct stake\" in the award and thus can gain no benefit from the requested writ.\nThe beneficial interest asserted by the City and real parties is derived from section 1086, which states that a writ of mandate \"must be issued upon the verified petition of the party beneficially interested.\" (See Brown v . Crandall (2011) 198 Cal.App.4th 1, 8, 132 Cal.Rptr.3d 388 (Brown ) [section 1086 establishes a standing requirement for writs of mandate]; Lindelli v . Town of San Anselmo (2003) 111 Cal.App.4th 1099, 1107, 4 Cal.Rptr.3d 453 [same].) \"The requirement that a petitioner be 'beneficially interested' has been generally interpreted to mean that one may obtain the writ only if the person has some special interest to be served or some particular right to be preserved or protected over and above the interest held in common with the public at large.\" (Carsten v . Psychology Examining Com . (1980) 27 Cal.3d 793, 796, 166 Cal.Rptr. 844, 614 P.2d 276.) \"The beneficial interest must be direct and substantial.\" (Save the Plastic Bag Coalition v . City of Manhattan Beach (2011) 52 Cal.4th 155, 165, 127 Cal.Rptr.3d 710, 254 P.3d 1005 (Save the Plastic Bag ).) This standard \"is equivalent to the federal 'injury in fact' test, which requires a party to prove by a preponderance of the evidence that it has suffered 'an invasion of a legally protected interest that is \"(a) concrete and particularized, and (b) actual or imminent, not conjectural or hypothetical.\" ' \" (Associated Builders & Contractors , Inc . v . San Francisco Airports Com . (1999) 21 Cal.4th 352, 362, 87 Cal.Rptr.2d 654, 981 P.2d 499.) A petitioner has no beneficial interest within the meaning of the statute if he or she \"will gain no direct benefit from [the writ's] issuance and suffer no direct detriment if it is denied.\" (Waste Management of Alameda County , Inc . v . County of Alameda (2000) 79 Cal.App.4th 1223, 1232, 94 Cal.Rptr.2d 740 (Waste Management ), disapproved in part on another point in Save the Plastic Bag , supra , at pp. 160, 166-171, 127 Cal.Rptr.3d 710, 254 P.3d 1005.)\nSJJC maintains that it is \"clearly 'beneficially interested' \" because it was \"a party actually involved in the RFP process and a current airport tenant,\"\nwhose interest is \"much different from that of any interest held in common with the public.\" In SJJC's view, it makes no difference that its bid was nonresponsive; it was nonetheless affected by the City's change in the conditions of the RFP after bids were submitted. If it obtains relief, the City will be required to issue a new RFP and it will be able to \"participate in a fair and impartial RFP process ... where the RFP's requirements are not a moving target and are equally applicable to all bidders.\"\nWe are unconvinced. In claiming a beneficial interest as one of the entities that submitted bids to the City, SJJC fails to show how the alleged defect in the City's RFP process undermined the effort by SJJC to submit a responsive proposal, or how it made any difference in the process of determining which bids were responsive. The reason SJJC's bid was rejected had nothing to do with existing curfew conditions; it was rejected because it did not include nine of the required items listed in the RFP. Any additional criterion in which the proposer would have had to agree to a more restrictive curfew would not have enhanced the chances of SJJC's success in either the bidding process or its challenge to the City's decision, because its own bid inadequately addressed the objectives of the RFP.\nThe superior court articulated a significant point at the demurrer hearing. The change of which SJJC complains occurred after the City determined which of the three submissions met all of the criteria listed in the RFP-and more importantly, that change did not relax any requirements that existed at the time the RFP was issued, such as the obligation to follow existing law. The Exemplar Agreement itself did not contain the proposed curfew term to which Signature and BCH objected-i.e., the potential eviction of noncompliant aircraft and termination of the lease. Although the City attempted to make the curfew policy more restrictive (consistent with existing FBO leases at the airport) before completing the award to Signature, Signature refused to agree to the additional term, and the parties were, as the court put it, brought \"back to square one,\" with no additional curfew restriction beyond what had been presented in the RFP. Thus, the eventual award did not grant Signature any benefits beyond what any responsive bidder would have enjoyed. And even if SJJC were able to show that a benefit did accrue to Signature through the retraction of the proposed additional curfew restriction, that benefit could not have had any effect on SJJC, which remained a nonresponsive bidder for reasons independent of the curfew issue.\nSJJC argues that even if its bid was nonresponsive, it still has a beneficial interest because it would have an opportunity to submit a new bid responsive to a new RFP issued \"on fair and lawful terms.\" In effect, SJJC envisions a judicially mandated opportunity for a losing bidder to submit a successful proposal even when the losing bid was incontrovertibly nonresponsive. The court was under no duty to provide such a second bite at the apple in those circumstances. Thus, even assuming that the City impermissibly relaxed its curfew restrictions to benefit Signature, we fail to see how a new RFP would make any difference to SJJC's chances of success, since its proposal was disqualified at the preliminary phase for failing to conform to the City's criteria in multiple respects unrelated to curfew conditions. We must conclude, therefore, that SJJC did not suffer prejudice from either the failure to include the proposed curfew restriction in the original RFP or the alleged change in the curfew conditions culminating in the City's award of the lease to Signature.\nSJJC relies on Baldwin -Lima -Hamilton Corp . v . Superior Court (1962) 208 Cal.App.2d 803, 25 Cal.Rptr. 798 (Baldwin ) to illustrate its point about receiving a second chance. Its reliance is misplaced. In that case Baldwin, in the second of its two bids, was awarded a contract to furnish equipment to the City and County of San Francisco, but that second bid was nonresponsive because Baldwin had not complied with a term requiring manufacture of the equipment in the United States. Although that term was deemed invalid, its first bid, while responsive to the bid call, was higher than that of its competitor, petitioner Allis. The superior court properly issued a writ of mandate based on abuse of discretion by the city's purchasing agent in awarding the contract to Baldwin. The purchasing agent's decision to bypass the \"place of manufacture\" provision and award the contract to Baldwin \"had a direct and injurious result on Allis.\" (Id . at p. 824, 25 Cal.Rptr. 798.) Allis \"was peculiarly affected by such abuse of discretion\" because it was the only other bidder, and its responsive bid was lower than Baldwin's original responsive bid. Upon a new invitation affording \"full and fair competitive bidding,\" Allis would have another opportunity to bid. The appellate court thus concluded that Allis was \"a 'party beneficially interested' and as such entitled to invoke the remedy of mandamus.\" (Id . at pp. 824-825, 25 Cal.Rptr. 798 ; see also Schram Construction , Inc . v . Regents of University of California (2010) 187 Cal.App.4th 1040, 1057, 114 Cal.Rptr.3d 680 [university's failure to disclose material information about selection procedures and criteria placed contractor at a disadvantage in bidding and negatively impacted competition].)\nBaldwin does not help SJJC. Unlike Allis, SJJC cannot be considered to be the lowest responsive bidder; its bid was not responsive at all. SJJC insists that this fact is irrelevant, as numerous appellate decisions have allowed nonresponsive bidders to challenge awards of public contracts. It contends that it was \"adversely affected by the City's arbitrary failure to timely disclose-until after the bids had been submitted-that it would change the conditions of the RFP.\" (Emphasis omitted.) But beyond this conclusory assertion SJJC does not explain how it was harmed by the process leading to the City's decision. It has not occupied a position like that of the successful petitioner in Baldwin , where Allis was entitled to a second bidding opportunity because it had already been the lowest responsive bidder. SJJC has not shown that it would have submitted the lowest (or indeed, any) responsive bid had the City either included an additional term or omitted any term appearing in the RFP received by SJJC and others.\nIn a related contention SJJC maintains that it makes no difference that its bid was nonresponsive in determining its standing to challenge a bid award. None of the cases it cites for this proposition advances SJJC's position. M & B Construction v . Yuba County Water Agency (1999) 68 Cal.App.4th 1353, 81 Cal.Rptr.2d 231 is inapposite because the petition granted by the trial court (and reversed on appeal) involved a contractor who (unlike SJJC) challenged the grounds for the agency's rejection of its bid. In Monterey Mechanical Co. v . Sacramento Regional County Sanitation Dist. (1996) 44 Cal.App.4th 1391, 52 Cal.Rptr.2d 395, the contractor was entitled to a writ of mandate because the sanitation district had used improper criteria in disqualifying the contractor, who had submitted the lowest bid. Likewise, in Taylor Bus Service Inc . v . San Diego Bd . of Education (1987) 195 Cal.App.3d 1331, 241 Cal.Rptr. 379 and Domar Electric Inc . v . City of Los Angeles (1995) 41 Cal.App.4th 810, 48 Cal.Rptr.2d 822 the low bidder's petition challenged the rejection of its bid as nonresponsive. D .H . Williams Construction Inc . v . Clovis Unified School Dist. (2007) 146 Cal.App.4th 757, 53 Cal.Rptr.3d 345 (followed in Great West Contractors , Inc . v . Irvine Unified School Dist . (2010) 187 Cal.App.4th 1425, 115 Cal.Rptr.3d 378 ) also involved the rejection of a purportedly nonresponsive bid, but in legal effect it was found to be not a responsible bid, thereby requiring due process before the school district could properly exercise its discretion in considering the bid. Similarly unavailing is SJJC's reliance on DeSilva Gates Construction LP v . Department of Transportation (2015) 242 Cal.App.4th 1409, 195 Cal.Rptr.3d 891. There the successful bidder on a public works contract complained on appeal that DeSilva lacked standing \"because, as a nonresponsive bidder, it had no interest in the contract.\" (Id . at p. 1421, 195 Cal.Rptr.3d 891 ) The argument was rejected; DeSilva had standing as a beneficially interested party because its bid was lower than that of the successful bidder.\nUnquestionably SJJC, whose nonconforming bid was properly disqualified at the initial \"pass/fail\" phase of review, cannot claim a right comparable to those of the contractors cited above. SJJC is not disputing the determination that its proposal was nonresponsive; instead, it has seized on an extraneous event, the withdrawal of a proposed change in the terms of the lease to Signature, that cannot have altered the fact that SJJC's bid failed in nearly every respect to meet the conditions set forth in the RFP.\n2 . Public Interest /Citizen Standing\nFinally, SJJC argues in the alternative that even if it has no special interest or right of its own to protect, it nonetheless has \" 'citizen standing' or 'public interest standing' \" to bring its petition to challenge the award to Signature. This aspect of standing enables a petitioner to seek mandamus \" ' \"to procure the enforcement of a public duty.\" ' \" (Save the Plastic Bag , supra , 52 Cal.4th at p. 166, 127 Cal.Rptr.3d 710, 254 P.3d 1005 ; see also Brown , supra , 198 Cal.App.4th at p. 14, 132 Cal.Rptr.3d 388 [duty to provide medical care to indigent residents recognized as public duty subject to enforcement by private citizen].) But the public interest exception is not a gateway to standing for any individual or entity. In Save the Plastic Bag , the Supreme Court cautioned that while corporations may have standing to bring a legal challenge under the public interest exception, that does not mean that the exception is \"freely available to business interests lacking a beneficial interest in the litigation. No party, individual or corporate, may proceed with a mandamus petition as a matter of right under the public interest exception. As the Waste Management court correctly observed, 'Judicial recognition of citizen standing is an exception to, rather than repudiation of, the usual requirement of a beneficial interest. The policy underlying the exception may be outweighed by competing considerations of a more urgent nature.' \" (Save the Plastic Bag , supra , at p. 170, fn. 5, 127 Cal.Rptr.3d 710, 254 P.3d 1005 ; see also Department of Consumer Affairs v. Supe rior Court (2016) 245 Cal.App.4th 256, 262, 199 Cal.Rptr.3d 354 [rejecting application of public interest standing where car buyers lacked \"any beneficial interest in an actual controversy\"].) More specifically, where the claim of \"citizen\" or \"public interest\" standing is driven by personal objectives rather than \"broader public concerns,\" a court may find the litigant to lack such standing. (Save the Plastic Bag , supra , at p. 169, 127 Cal.Rptr.3d 710, 254 P.3d 1005.) For example, as the Supreme Court in Save the Plastic Bag pointed out, it would be improper for a petitioner-whether corporation or individual-to \"attempt to use CEQA to impose regulatory burdens on a business competitor, with no demonstrable concern for protecting the environment.\" (Ibid .; see Carsten v . Psychology Examining Com ., supra , 27 Cal.3d at p. 799, 166 Cal.Rptr. 844, 614 P.2d 276 [petitioner's knowledge of events underlying her lawsuit showed that her interests were those of a board member, not a neutral citizen].)\nCiting Save the Plastic Bag , supra , 52 Cal.4th 155, 127 Cal.Rptr.3d 710, 254 P.3d 1005 and Rialto Citizens for Responsible Growth v . City of Rialto (2012) 208 Cal.App.4th 899, 146 Cal.Rptr.3d 12 (Rialto ), SJJC renews the argument it made to the court below, that it is \"particularly [well suited] to bring this action as (i) one of three entities that submitted a response to the RFP, and (ii) a current airport tenant. No other potential plaintiff has Atlantic's 'particular expertise' and 'enhanced understanding of the public interests at stake.' \" This reasoning undermines the theory it purports to promote. In effect SJJC contends that as a potential competitor at the airport it should know what the public should want. It does not demonstrate how the City Council erred in determining that Signature's FBO would be in the public interest. Its very argument confirms that its position is driven by personal objectives rather than \"broader public concerns.\" (Save the Plastic Bag , supra , at p. 169, 127 Cal.Rptr.3d 710, 254 P.3d 1005.)\nRialto does not suggest otherwise. There the citizen group was not a competitor but \"a nonprofit public benefit corporation, and as such ha[d] no commercial or competitive interests to undermine or override its public interest standing.\" (Rialto , supra , 208 Cal.App.4th at p. 915, 146 Cal.Rptr.3d 12.) In those circumstances it was \"appropriate to apply the public interest exception.\" (Ibid . ) Also distinguishable is Marshall v . Pasadena Unified School Dist. (2004) 119 Cal.App.4th 1241, 15 Cal.Rptr.3d 344 (Marshall ), where recognition of \"citizen standing\" was deemed appropriate because the aim of the petitioners was not to secure an opportunity to bid but to \"protect the public fisc by requiring the District 'to publicly advertise for bids to complete the work ... and to award a contract for said work to the lowest responsible bidder.' \" (Id . at p. 1252, 15 Cal.Rptr.3d 344.) Here, by contrast, SJJC is a competitive bidder, with substantial economic interests that go beyond concern for the public fisc; indeed, it forthrightly acknowledges that it is seeking another opportunity to bid.\nMoreover, the \"citizen\" exception to the \"beneficial interest\" requirement may be applied \"when the public duty is sharp and the public need weighty.\" (Waste Management , supra , 79 Cal.App.4th at pp. 1236-1237, 94 Cal.Rptr.2d 740.) Determining whether the exception is warranted involves a \"judicial balancing of interests\" (Id . at p. 1237, 94 Cal.Rptr.2d 740 ), to promote \"the policy of guaranteeing citizens the opportunity to ensure that no governmental body impairs or defeats the purpose of legislation establishing a public right.\" ( Green v . Obledo (1981) 29 Cal.3d 126, 144, 172 Cal.Rptr. 206, 624 P.2d 256 ; Save the Plastic Bag , supra , 52 Cal.4th at p. 166, 127 Cal.Rptr.3d 710, 254 P.3d 1005.)\nRather than specifying the public duty and public need at issue here, SJJC only cites \"the concern of procurement laws (e.g., protection from favoritism, and protection of the public fisc, fair play, due process, etc.)\" and professes its interest as a citizen \"in ensuring that the City follows the law.\" SJJC identifies no violation of specific statutes that indicate an abandonment of the City's public duty to conduct a fair procurement process. Nor does SJJC reinvigorate its claim that the City violated its own municipal laws and charter, a contention the superior court rejected as based on inapplicable provisions. Even if it is sufficient to assert a general public duty \"to conduct a fair RFP process in conformity with the City's duties under its own RFP rules and criteria,\" the properly pleaded facts alleged in SJJC's petition, together with the exhibits and judicially noticeable facts (Evans v . City of Berkeley (2006) 38 Cal.4th 1, 20, 40 Cal.Rptr.3d 205, 129 P.3d 394 ; Keffeler v . Partnership Healthplan of California (2014) 224 Cal.App.4th 322, 335, fn. 10, 168 Cal.Rptr.3d 577 ), do not delineate a violation of that duty. SJJC has also identified no \"weighty\" public need comparable to the \"basic human need\" for indigent residents to obtain medical care (Brown , supra , 198 Cal.App.4th at p. 14, 132 Cal.Rptr.3d 388 ; see also Madera Community Hospital v . County of Madera (1984) 155 Cal.App.3d 136, 145, 201 Cal.Rptr. 768 ), the protection of public resources by requiring advertisement for bids to perform a public contract (Marshall , supra , 119 Cal.App.4th at p. 1252, 15 Cal.Rptr.3d 344 ), the public need for a report on the results of a reevaluation of the state's welfare standards (California Homeless & Housing Coalition v . Anderson (1995) 31 Cal.App.4th 450, 459, 37 Cal.Rptr.2d 639 ), protection of the environment through CEQA (Save the Plastic Bag , supra , 52 Cal.4th at p. 170, 127 Cal.Rptr.3d 710, 254 P.3d 1005 ), or protection of public school students from discrimination, harassment, and bullying (Hector F . v . El Centro Elementary School Dist . (2014) 227 Cal.App.4th 331, 334, 173 Cal.Rptr.3d 413 ).\nSJJC has thus failed to establish either a beneficial interest as a competitive bidder or a weighty public need requiring a citizen's intervention to enforce a public duty. The inability to make that showing confirms that even if the City abused its discretion in accepting Signature's proposal, no prejudice to SJJC has resulted. SJJC submitted a patently nonresponsive proposal, which was properly rejected for failing to conform to even the most basic requirements of the RFP. No reissuance of the RFP setting forth the S.J.M.C. curfew laws would improve SJJC's prospects of that proposal's being selected. In short, neither SJJC nor the public would derive any benefit from reversal of the superior court's order. The court properly denied the petition.\n3 . Injunctive Relief\nIn its second cause of action SJJC sought an injunction to prevent the City and Signature from pursuing the project \"until such time as the City has rejected all responses to its RFP and re-issue [sic ] the RFP, pursuant to S.J.M.C. section 14.07.620(A), in compliance with its mandatory legal duties under its own Charter, Municipal Code, State law, and all other applicable rules, regulations, procedures and express terms of the RFP.\" SJJC alleged that without such an order it would suffer \"great and irreparable harm,\" including deprivation of \"an opportunity to participate in a fair, unbiased RFP process\" conducted in compliance with those \"laws and regulations.\"\nIn its demurrer the City (joined by Signature) asserted the same grounds as in its challenge to SJJC's request for mandamus relief-that is, (1) SJJC had failed to identify any mandatory duty violated by the City; and (2) it lacked a beneficial interest sufficient to confer standing to challenge the award to Signature. As noted earlier, the superior court agreed with the City and Signature that SJJC had \"conspicuously fail[ed] to identify any \"specific law, statute or regulation imposing a mandatory/ministerial duty\" that the City had violated. The court also rejected SJJC's attempt to state a cause of action \"by simply alleging that the City of San Jose violated the terms of the RFP itself.\" Finally, the court stated that SJJC had \"fail[ed] to properly allege any abuse of discretion\" by the City.\nOn appeal, SJJC maintains that it has standing to seek injunctive relief because it is an unsuccessful bidder with no adequate remedy at law. The \"irreparable harm\" it alleged \"can only be avoided by enjoining the City from proceeding with the Project or from allowing Signature to implement the Project, and enjoining the City to set aside the tainted award to Signature.\"\n\"The grant or denial of a permanent injunction rests within the trial court's sound discretion and will not be disturbed on appeal absent a showing of a clear abuse of discretion.\" (Horsford v . Board of Trustees of California State University (2005) 132 Cal.App.4th 359, 390, 33 Cal.Rptr.3d 644.) Although the superior court did not directly address the request for an injunction, it implicitly determined that SJJC was not entitled to this remedy because it had failed to cite an applicable S.J.M.C. or charter provision supporting its allegation that the City had \"arbitrarily and capriciously conduct[ed] an irregular, inconsistent and biased RFP process\" in contravention of the S.J.M.C. and \"well-settled State law.\" We find no error in this reasoning. In addition, as discussed earlier, even if the City departed from its own RFP procedure by altering the curfew requirements, that deviation had no effect on SJJC, whose bid was unquestionably nonresponsive for multiple reasons that were independent of the curfew conditions. As SJJC will suffer no actual injury caused by the conduct of which it complains, the court was not required to enjoin the City and Signature from pursuing the FBO agreement they had reached. (Cf.\nBlumhorst , supra , 126 Cal.App.4th at p. 1004, 24 Cal.Rptr.3d 474 [plaintiff seeking injunction must show a likelihood he will be harmed in the future]; Coral Construction , Inc . v . City and County of San Francisco (2004) 116 Cal.App.4th 6, 24, 10 Cal.Rptr.3d 65 [acknowledging that \"standing cannot be conferred if it hinges upon a single never-to-be-repeated event\"].) Because the material allegations of the petition and complaint do not state a legally sufficient claim, an injunction was not warranted. The superior court did not abuse its discretion in denying the requested relief.\n4 . Declaratory Relief\nThe third cause of action contained a request for a declaration \"as to whether the City violated applicable laws and/or the terms of the RFP as set forth above.\"\nCode of Civil Procedure section 1060 authorizes a declaratory judgment \"in cases of actual controversy relating to the legal rights and duties of the respective parties....\" \"The 'actual controversy' referred to in this statute is one [that] admits of definitive and conclusive relief by judgment within the field of judicial administration, as distinguished from an advisory opinion upon a particular or hypothetical state of facts. The judgment must decree, not suggest, what the parties may or may not do.\" (Selby Realty Co . v . City of San Buenaventura (1973) 10 Cal.3d 110, 117, 109 Cal.Rptr. 799, 514 P.2d 111 ; Coronado Cays Homeowners Assn . v . City of Coronado (2011) 193 Cal.App.4th 602, 608, 123 Cal.Rptr.3d 90 (Coronado ).) \"Whether a claim presents an 'actual controversy' within the meaning of Code of Civil Procedure section 1060 is a question of law that we review de novo.\" (Environmental Defense Project of Sierra County v . County of Sierra (2008) 158 Cal.App.4th 877, 885, 70 Cal.Rptr.3d 474.) \"When an actual controversy does exist, Code of Civil Procedure section 1061 gives the trial court discretion to determine whether it is 'necessary' and 'proper' to exercise the power to provide declaratory relief. (Code Civ. Proc., \u00a7 1061.)\" (American Meat Institute v . Leeman (2009) 180 Cal.App.4th 728, 741, 102 Cal.Rptr.3d 759 ; Coronado , supra , at p. 607, 123 Cal.Rptr.3d 90.)\nSJJC contends that its allegation of \"actual and existing controversies\" was \"more than sufficient to state a cause of action for declaratory relief.\" In its view, a declaration that the City's conduct was unlawful would benefit SJJC as well as others, \"by creating an opportunity for [SJJC] to re-bid the Project in a fair and lawful RFP process ... [T]his is the specific result that the [first amended complaint] seeks.\"\nWe disagree with SJJC's assertion that an actual controversy exists between SJJC and the City. SJJC lost its own opportunity to compete for the new airport FBO by submitting a manifestly nonresponsive bid. The question of whether the City changed the curfew restrictions for the project after Signature submitted the only responsive bid does not affect SJJC, whose bid had already been properly rejected for reasons unrelated to existing curfew provisions. There is thus no actual controversy \"relating to the legal rights and duties of the respective parties \" within the meaning of Code of Civil Procedure section 1060. (Italics added.)\nFurthermore, SJJC is in reality complaining of past acts by the City and is seeking a remedy that will allow it another opportunity to submit a responsive proposal. This is not the intended purpose of Code of Civil Procedure section 1060. Declaratory relief \" 'operates prospectively, and not merely for the redress of past wrongs. It serves to set controversies at rest before they lead to repudiation of obligations, invasion of rights or commission of wrongs; in short, the remedy is to be used in the interests of preventive justice, to declare rights rather than execute them.' \" (Babb v . Superior Court (1971) 3 Cal.3d 841, 848, 92 Cal.Rptr. 179, 479 P.2d 379.)\n5 . Denial of Leave to Amend\nSJJC finally contends that the superior court abused its discretion by taking the \" 'drastic step' \" of denying it another opportunity to amend the petition and complaint. While denying that the current pleading is insufficient, SJJC submits that it can cure the defect \"to more clearly allege and demonstrate that the City is subject [to] the requirements of the Public Contract Code and its mandatory duties.\" SJJC suggests that \"the provisions of the Public Contract Code may be applicable to the City, even though it is a charter city, as provided by Public Contract Code [section] 1100.7,\" and it asserts that with leave to amend, it will \"further allege more specific violations.\"\nIt is not enough, however, for a plaintiff to assert generally that applicable statutory provisions exist and that it will allege a violation of those provisions in its next pleading. SJJC fails to explain not only how the Public Contract Code in general applies to these facts, but also what specific section was violated, and how the City's conduct amounted to that violation. Furthermore, even if SJJC could identify the violation of a specific statutory or municipal code requirement, it is unable to demonstrate how such a violation affected the contents of SJJC's proposal, disadvantaged SJJC in the bidding process, or caused the City to reject its bid. Consequently, SJJC has not met its burden to show a reasonable possibility that any further amendment would state a legally sufficient cause of action. Further leave to amend the petition and complaint was not required here.\nDisposition\nThe judgment of dismissal is affirmed.\nWE CONCUR:\nThe parties below frequently referred to the petitioner as Atlantic rather than SJJC. We will adhere to \"SJJC\" except where \"Atlantic\" is used in the appellate briefs or the superior court record.\nFor purposes of the RFP, \"general aviation\" was defined as \"any aeronautical activity other than scheduled commercial passenger, cargo or military aeronautical activities.\"\nThe initial evaluation was for completeness of the proposal according to RFP requirements; conformance to the City's \"Airport Minimum Standards\"; conformance to specific requirements in the RFP, \"including references, minimum ground rent and minimum capital development investment\"; and documentation of the proposer's \"[m]inimum [e]xperience.\"\nIn the scoring phase, qualifying proposals were ranked separately depending on whether the proposer was a commercial or non-commercial operator. The criteria were the same, however; only the percentage allocated to each category differed between the two classes of proposers. In addition to revenue generation, the scoring criteria for each proposal included \"[q]uality of [the] [p]roposed [f]acilities and [c]apital [i]nvestment\" and benefits to the local community. An additional criterion applicable only to a commercial proposal was the operator's business and management plan.\nThe City had designated 32 acres available for the FBO facilities.\nAn SASO, or \"Specialized Aviation Services Operator,\" within the meaning of the RFP, was a commercial facility that was not an FBO.\nChapter 25.03 of the San Jose Municipal Code (S.J.M.C.) sets restrictions on aircraft operations between the curfew hours of 11:30 p.m. and 6:30 a.m. (See, e.g., S.J.M.C. \u00a7\u00a7 25.03.225, 25.03.300-25.03.330.) It also sets forth the procedures for determining and punishing violations. (See S.J.M.C. \u00a7\u00a7 25.03.400-25.03.490.)\nThat petition is the subject of a companion case on appeal in SJJC Aviation Services, LLC v. City of San Jose et al. (H041946).\nIn this discussion real parties will occasionally be referred to collectively as Signature.\nSJJC's motion for judicial notice in this court is denied.\nThose omitted proposal items included letters of reference from two financial institutions; three years of audited financial statements; a financial \"pro forma\" with projected revenue and expenses; a management plan; a rent proposal; minimum guaranteed property, sales, and use taxes; and a minimum capital investment of $1 million per acre. In responding to SJJC's letter of protest, the purchasing officer reminded the company that the City's \"clearly stated\" objective was to obtain proposals from qualified firms that would \" 'design, develop, finance, construct, and operate aeronautical services facilities.' \" SJJC readily acknowledged that its intent was not to construct any new facility in its immediate plan.\nWhether SJJC as an existing tenant at the airport would necessarily be affected by the relaxation of the curfew requirement as applied to Signature is not before us.\nPacific Bell v. California State & Consumer Services Agency (1990) 225 Cal.App.3d 107, 275 Cal.Rptr. 62 also has no application to this case. There the petitioner did not bid on the project, but instead challenged the terms of the RFP itself as a violation of the Public Contract Code.\nSJJC's petition cited the following S.J.M.C. sections: 4.12.210, 4.12.215, 14.07.100, 14.07.300, 14.07.460, 14.07.510, 14.07.600, and 14.07.660. It also adverted to sections 1217 and 1302 of the City's charter. The superior court determined, however, that none of those provisions applied to the City's conduct here, a ruling SJJC does not directly contest on appeal.\nAs the superior court implicitly recognized, \"as a 'charter city,' as that status is recognized in the California Constitution (Cal. Const., art. XI, \u00a7 2, 3 ), the City is empowered by the Constitution to govern its own 'municipal affairs' to the extent [that] the field is not preempted by state law. In this regard, article XI, section 5, provides in relevant part: 'It shall be competent in any city charter to provide that the city governed thereunder may make and enforce all ordinances and regulations in respect to municipal affairs, subject only to the restrictions and limitations provided in their several charters and in respect to other matters they shall be subject to general laws.' (Cal. Const., art. XI, \u00a7 5, subd. (a).)\" (MCM Construction, Inc. v. City and County of San Francisco (1998) 66 Cal.App.4th 359, 372, 78 Cal.Rptr.2d 44.)\nPublic Contract Code section 1100.7 states: \"This code is the basis of contracts between most public entities in this state and their contractors and subcontractors. With regard to charter cities, this code applies in the absence of an express exemption or a city charter provision or ordinance that conflicts with the relevant provision of this code.\""
+  },
+  "file_name": "0637-01",
+  "first_page_order": 637,
+  "last_page_order": 654
+}

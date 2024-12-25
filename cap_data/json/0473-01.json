@@ -1,0 +1,80 @@
+{
+  "id": 12513560,
+  "name": "PEOPLE v. BIAS",
+  "name_abbreviation": "People v. Bias",
+  "decision_date": "2017-06-28",
+  "docket_number": "S233634",
+  "first_page": "473",
+  "last_page": "473",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 473"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Cal.5th 858",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12513451
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-rptr-3d/216/0285-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 466,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25865716495440466
+    },
+    "sha256": "e904863636da41c784de9228fc08ea0e28eed186e71cb9793e2e759f43022e3a",
+    "simhash": "1:8b150e69a0f32b52",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE\nv.\nBIAS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "PEOPLE\nv.\nBIAS\nS233634\nSupreme Court of California\nJune 28, 2017\nThe above-captioned matter is transferred to the Court of Appeal, Fourth Appellate District, Division Two, with directions to vacate its decision and to reconsider the cause in light of the decision in People v. Gonzales (2017) 2 Cal.5th 858, 216 Cal.Rptr.3d 285, 392 P.3d 437. (Cal. Rules of Court, rule 8.528(d).)\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0473-01",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

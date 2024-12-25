@@ -1,0 +1,416 @@
+{
+  "id": 12513532,
+  "name": "Nancy BRENNER, Individually and as Executor, etc., et al., Plaintiffs and Appellants, v. UNIVERSAL HEALTH SERVICES OF RANCHO SPRINGS, INC., et al., Defendants and Respondents.",
+  "name_abbreviation": "Brenner v. Universal Health Servs. of Rancho Springs, Inc.",
+  "decision_date": "2017-06-07",
+  "docket_number": "D071094",
+  "first_page": "135",
+  "last_page": "149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 135"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "288 P.3d 717",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Cal.Rptr.3d 383",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Cal.4th 783",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3932210
+      ],
+      "pin_cites": [
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/55/0783-01"
+      ]
+    },
+    {
+      "cite": "45 Cal.Rptr.3d 222",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "499 U.S. 400",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11319062
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0400-01"
+      ]
+    },
+    {
+      "cite": "46 Cal.Rptr.3d 258",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Cal.App.4th 715",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6052879
+      ],
+      "pin_cites": [
+        {
+          "page": "720-721"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/141/0715-01"
+      ]
+    },
+    {
+      "cite": "116 Cal.Rptr.3d 658",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Cal.App.4th 101",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4225310
+      ],
+      "pin_cites": [
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/189/0101-01"
+      ]
+    },
+    {
+      "cite": "212 P.3d 736",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Cal.Rptr.3d 464",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Cal.4th 381",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3899168
+      ],
+      "pin_cites": [
+        {
+          "page": "388"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/47/0381-01"
+      ]
+    },
+    {
+      "cite": "101 P.3d 563",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Cal.Rptr.3d 676",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.4th 733",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        633011
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/34/0733-01"
+      ]
+    },
+    {
+      "cite": "19 P.3d 1196",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Cal.Rptr.2d 457",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.4th 268",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        265423
+      ],
+      "pin_cites": [
+        {
+          "page": "272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/25/0268-01"
+      ]
+    },
+    {
+      "cite": "330 P.3d 912",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Cal.Rptr.3d 601",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Cal.4th 1029",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        4263637
+      ],
+      "pin_cites": [
+        {
+          "page": "1037"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/59/1029-01"
+      ]
+    },
+    {
+      "cite": "210 Cal.Rptr.3d 388",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.App.5th 810",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12456797
+      ],
+      "pin_cites": [
+        {
+          "page": "832"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/5/0810-01"
+      ]
+    },
+    {
+      "cite": "53 Cal.Rptr.3d 700",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Cal.App.4th 1519",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5567008
+      ],
+      "pin_cites": [
+        {
+          "page": "1530"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/146/1519-01"
+      ]
+    },
+    {
+      "cite": "60 Cal.Rptr.3d 124",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Cal.App.4th 653",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3720231
+      ],
+      "pin_cites": [
+        {
+          "page": "658"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/151/0653-01"
+      ]
+    },
+    {
+      "cite": "24 P.3d 493",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Cal.Rptr.2d 841",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.4th 826",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        265450
+      ],
+      "pin_cites": [
+        {
+          "page": "850"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/25/0826-01"
+      ]
+    },
+    {
+      "cite": "176 Cal.Rptr.3d 279",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Cal.App.4th 582",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4331588
+      ],
+      "pin_cites": [
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/228/0582-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1493,
+    "char_count": 47254,
+    "pagerank": {
+      "raw": 4.248927854374854e-08,
+      "percentile": 0.2692448478656478
+    },
+    "sha256": "58d71242b4450db1307c0ba65dd342aee88577e396f88db757f4e736b18f51e0",
+    "simhash": "1:e9c7cc6e0d368d79",
+    "word_count": 7533
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nancy BRENNER, Individually and as Executor, etc., et al., Plaintiffs and Appellants,\nv.\nUNIVERSAL HEALTH SERVICES OF RANCHO SPRINGS, INC., et al., Defendants and Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "AARON, J.\nI.\nINTRODUCTION\nPlaintiffs Nancy Brenner, individually and in her representative capacity as representative of the estate of Dale Brenner, and Zach Brenner, individually, appeal judgments entered in favor of defendants Universal Health Services of Rancho Springs, Inc., doing business as Southwest Healthcare System-Inland Valley Medical Center (UHS) and Dr. Young H. Lee, M.D. (Dr. Lee or Lee).\nDale Brenner, Nancy's husband and Zach's father, was a patient at the Inland Valley Medical Center for approximately 23 days after he suffered a stroke a few hours after arriving at the emergency department of the hospital. He was eventually transferred to another medical facility, where he later died. Approximately a year after Dale Brenner's death, the plaintiffs sued UHS, Lee, and additional defendants, asserting causes of action for wrongful death based on medical negligence; retaliation, in violation of Health and Safety Code section 1278.5 ; and elder abuse, in violation of Welfare and Institutions Code sections 15610, et seq. Lee and UHS moved for summary judgment, which the trial court granted. The trial court thereafter entered judgments in favor of UHS and Lee.\nOn appeal, the plaintiffs contend that the trial court erroneously granted summary judgment in favor of UHS and Lee. We affirm the court's judgments.\nII.\nFACTUAL AND PROCEDURAL BACKGROUND\nA. Factual background\nOn May 31, 2012, Dale Brenner (Brenner), who was 71 years old at the time, was brought to the emergency department at the Inland Valley Medical Center, accompanied by his wife, Nancy, who had been a nurse for over 30 years. Brenner was complaining about severe shortness of breath, and his blood pressure upon admission to the facility was 198/100. Brenner's medical history included diagnoses of a previous heart attack, cardiac disease, insulin dependent diabetes, chronic obstructive pulmonary disease, a previous stroke (2007), high cholesterol, hypertension, sleep apnea, renal insufficiency, deep venous thrombosis requiring anti-coagulation medication, and congestive heart failure, as well as two coronary artery bypass graft surgeries (1990 and 1991) and a tracheostomy (2007).\nSeveral hours after Brenner arrived at the emergency department, he suffered a stroke. He was thereafter admitted to the hospital's Intensive Care Unit (ICU). Brenner was placed on tube feedings and bi-level positive airway pressure (BiPAP).\nOn June 3, 2012, Nancy attempted to reach the Director of Nursing and the CEO of the hospital to express her concerns regarding the sufficiency of Brenner's care in the ICU. She also contacted the hospital's case manager office to complain.\nBrenner's condition began to improve, and on June 4, 2012, he was transferred to the Progressive Care Unit (PCU), which provides a lower level of care than the ICU. That same day, Nancy made a request at the nurse's station to speak to the nursing supervisor regarding Brenner's positioning and feeding tube issues that had occurred during the transfer process.\nThe following day, Nancy left messages with a physician, who she contends failed to return her calls. She also asked to speak with the nursing supervisor that evening.\nBrenner was transferred back to the ICU on June 7, 2012. Dr. Timothy Killeen informed Nancy that Brenner was in septic shock and was demonstrating signs of kidney failure.\nOn June 9, Dr. Lee, who specializes in critical care and pulmonology, first saw Brenner. Lee was covering for Dr. Killeen over the weekend. Dr. Lee noted that Brenner was in no acute distress and that his vital signs were stable. By June 10, at approximately noon, however, Dr. Lee noted that Brenner's condition had \"significantly deteriorated.\" Brenner was short of breath and more \"obtunded\" (i.e., less alert). Brenner required continuous BiPAP. Dr. Lee planned to intubate Brenner. Dr. Lee's notes include the fact that he had been informed by Nancy that Brenner had a history of prior difficult intubation and had previously undergone an \"emergent cricothyroidotomy.\" Dr. Lee requested an anesthesiologist to assist with the intubation.\nAn anesthesiologist arrived to perform the intubation, but encountered difficulty in performing the procedure. A surgeon arrived to perform a possible emergency tracheostomy. Nancy refused to leave the room, even after having been asked to do so multiple times and being told that a sterile environment was required. The anesthesiologist was ultimately able to successfully intubate Brenner. He noted that he believed Brenner may have aspirated prior to intubation.\nLater that afternoon, Brenner's diastolic blood pressure dropped. Dr. Lee ordered that a \"PICC\" line be placed in order to administer medication to regulate Brenner's blood pressure. After a radiologist unsuccessfully attempted to place a \"PICC\" line in Brenner's arm, a central line was recommended instead. At approximately 3:30 p.m., Dr. Lee began a procedure to insert a central line into Brenner's right internal jugular vein.\nAccording to Nancy, she asked Dr. Lee why he was not using an ultrasound to determine the appropriate placement of the central line. Dr. Lee replied that it was \" 'not necessary.' \" He refused to perform the procedure unless Nancy waited outside of the room. Nancy left the room. Approximately 30 minutes into the procedure, Nancy asked a nurse whether something had gone wrong. She was told that there had been some problems during the procedure but that everything was fine.\nAccording to the nursing notes, Nancy was permitted back in Brenner's room at approximately 3:50 p.m. There was a dressing over the site of the central line insertion. No bleeding was indicated from the dressing. According to Nancy, when she returned to the room, there was blood all over the bedding and she saw the beginning signs of bruising and swelling around Brenner's neck.\nThe following morning, June 11, a nurse noticed a lump on Brenner's neck, and she checked the central line insertion site. The nurse noted the presence of a hematoma. She paged Dr. Lee. Dr. Lee then ordered a chest x-ray, which demonstrated that the right central line catheter was located in the superior vena cava, which, according to an expert, was the \"appropriate position,\" and that Brenner had not suffered a pneumothorax (i.e., a punctured lung ).\nLater that morning, a nurse informed Lee that Brenner's hematoma appeared to be increasing in size. Lee told the nurse to put a pressure dressing over it. The nurse also told Lee that Nancy wanted to speak with him. He informed the nurse that he was no longer on call for Dr. Killeen. The nurse called Dr. Killeen, who told the nurse that he would call Nancy as soon as he could.\nAlso on June 11, 2012, a vascular surgeon evaluated Brennan's neck hematoma. A CT scan of the area showed the existence of a soft tissue hematoma along the sternocleidomastoid muscle. The CT scan demonstrated that the hematoma had no demonstrable effect on the carotid arteries and showed no indication that the carotid artery had been injured. The surgeon believed that any active bleeding in the area had stopped, and noted that he would consider operating to drain the hematoma if it continued to grow or began to impose pressure on Brenner's airway.\nBrenner was treated by Dr. Killeen for another 11 days. At some point, Nancy requested that Brenner be transferred to Scripps Green Hospital. He was transferred there on June 22, 2012.\nPrior to Brenner's transfer to Scripps Green Hospital, during the final week he remained at Inland Valley Medical Center, Nancy met with the hospital's CEO and others regarding her concerns about Brenner's medical treatment.\nAfter the transfer to Scripps Green Hospital, a cardiothoracic surgeon evaluated Brenner for a potential tracheostomy, given Brenner's respiratory failure due to severe pulmonary disease. Without a tracheostomy, Brenner was facing the potential of being intubated for a prolonged period. Later, however, the surgeon noted that if Brenner's family wanted him to undergo aggressive care, he would have to be evaluated for laser therapy at UCSD for treatment of subglottic stenosis (narrowing of the windpipe) before a tracheostomy could be performed.\nAn MRI revealed that a significant portion of Brenner's brain tissue had died. Any surgical intervention as to an occlusion in his left carotid artery, even if successful, would not have provided Brenner with a decent quality of life. Brenner's treating physicians recommended to Nancy and Zach that they remove Brenner from life support. They agreed to do so and to have Brenner transferred to hospice care. Brenner died on June 29, 2012. Brenner's death certificate identifies \"ACUTE RESPIRATORY FAILURE\" as the primary cause of death. The death certificate also lists as contributing causes \"NON TRAUMATIC RIGHT NECK HEMATOMA\" and \"CEREBROVASCULAR ACCIDENT.\"\nB. Procedural background\nApproximately a year after Brenner died, the plaintiffs filed a complaint against UHS, Lee, Dr. Nizar Salek, and Dr. Timothy Killeen. In the original complaint, the plaintiffs asserted causes of action for (1) elder abuse, in violation of Welfare and Institutions Code section 15610, et seq., as to all defendants; (2) retaliation, in violation of Health and Safety Code section 1278.5, as to all defendants; and (3) \"[w]rongful [d]eath/ [m]edical [n]egligence,\" as to all defendants. In response to a demurrer filed by Lee, the plaintiffs amended the complaint to allege the same causes of action, but to limit the elder abuse claim to UHS, alone.\nLee filed a second demurrer and a motion to strike the plaintiffs' requests for predeath pain and suffering and punitive damages. UHS also moved to strike the request for punitive damages from the first amended complaint. The trial court overruled Lee's second demurrer, but struck from the complaint the plaintiffs' request for damages in the form of predeath pain and suffering, as well as the request for punitive damages.\nThe plaintiffs filed a motion for leave to file a second amended complaint in order to add a request for punitive damages, pursuant to Code of Civil Procedure section 425.13.\nIn late January, 2015, during the time period during which the parties were briefing the plaintiffs' motion for leave to file a second amended complaint, Lee filed a motion for summary judgment. The same day, UHS filed a motion for summary judgment. The motions were set for separate hearings to occur in mid-to-late April 2015.\nOn March 16, 2015, the court entered an order denying the motion for leave to amend to add a request for punitive damages.\nThe court held a hearing on Lee's motion for summary judgment in April 2015. The trial court overruled all of the plaintiffs' evidentiary objections. The trial court concluded that summary adjudication in favor of Lee was appropriate with respect to the retaliation claim. The court also determined that the plaintiffs' expert's declaration was legally insufficient to establish a triable issue of material fact with respect to causation as to the wrongful death claim.\nIn addition, the court concluded that Lee was entitled to summary adjudication with respect to the claim for retaliation under Health and Safety Code section 1278.5.\nThe court held a hearing on UHS's motion for summary judgment the following week. The court overruled all of the parties' evidentiary objections, and then turned to the merits of the summary judgment motion. The court took the matter under submission at the conclusion of the hearing and ultimately granted the motion in full.\nThe trial court entered judgment in favor of Lee on May 29, 2015. The trial court entered judgment in favor of UHS on June 5, 2015.\nOn September 4, 2015, the Court of Appeal, Fourth District, Division Two, entered an order deeming Nancy's premature notice of appeal to have been a notice of appeal filed following the entry of judgments. The court also construed the notice to include Zach, individually, as an appellant and to indicate Nancy's status in appealing both as an individual, as well as in her representative capacity as representative of Brenner's estate. The case was subsequently transferred to the Court of Appeal, Fourth District, Division One on September 13, 2016, per an order of the Supreme Court.\nIII.\nDISCUSSION\nA. The trial court properly granted summary judgment in favor of the respondents\n1. Summary judgment standards\n\"Summary judgment and summary adjudication provide courts with a mechanism to cut through the parties' pleadings in order to determine whether, despite their allegations, trial is in fact necessary to resolve their dispute. [Citations.] A defendant moving for summary judgment or summary adjudication may demonstrate that the plaintiff's cause of action has no merit by showing that (1) one or more elements of the cause of action cannot be established, or (2) there is a complete defense to that cause of action.\" (Collin v. CalPortland Co . (2014) 228 Cal.App.4th 582, 587, 176 Cal.Rptr.3d 279 (Collin ).)\nGenerally, \"the party moving for summary judgment bears an initial burden of production to make a prima facie showing of the nonexistence of any triable issue of material fact; if [that party] carries [this] burden of production, [the moving party] causes a shift, and the opposing party is then subjected to a burden of production of his own to make a prima facie showing of the existence of a triable issue of material fact.\" (Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826, 850, 107 Cal.Rptr.2d 841, 24 P.3d 493.) In moving for summary judgment, \"all that the defendant need do is to show that the plaintiff cannot establish at least one element of the cause of action-for example, that the plaintiff cannot prove element X .\" (Id. at p. 853, 107 Cal.Rptr.2d 841, 24 P.3d 493.) \"A defendant moving for summary judgment or summary adjudication need not conclusively negate an element of the plaintiff's cause of action. [Citations.] Instead, the defendant may show through factually devoid discovery responses that the plaintiff does not possess and cannot reasonably obtain needed evidence.\" (Collin , supra , 228 Cal.App.4th at p. 587, 176 Cal.Rptr.3d 279.)\n\"After the defendant meets its threshold burden [to demonstrate that a cause of action has no merit], the burden shifts to the plaintiff to present evidence showing that a triable issue of one or more material facts exists as to that cause of action or affirmative defense. [Citations.] The plaintiff may not simply rely on the allegations of its pleadings but, instead, must set forth the specific facts showing the existence of a triable issue of material fact. [Citation.] A triable issue of material fact exists if, and only if, the evidence reasonably permits the trier of fact to find the contested fact in favor of the plaintiff in accordance with the applicable standard of proof.\" (Collin , supra , 228 Cal.App.4th at p. 588, 176 Cal.Rptr.3d 279.)\n\"On appeal, the reviewing court makes ' \"an independent assessment of the correctness of the trial court's ruling [regarding summary judgment], applying the same legal standard as the trial court in determining whether there are any genuine issues of material fact or whether the moving party is entitled to judgment as a matter of law.\" ' \" (Hesperia Citizens for Responsible Development v. City of Hesperia (2007) 151 Cal.App.4th 653, 658, 60 Cal.Rptr.3d 124.) Our task is to determine whether a triable issue of material fact exists. (Collin , supra , 228 Cal.App.4th at p. 588, 176 Cal.Rptr.3d 279.) In independently examining the record on appeal \"to determine whether triable issues of material fact exist,\" we \" 'consider[ ] all the evidence set forth in the moving and opposition papers except that to which objections were made and sustained.' \" (Ambriz v. Kelegian (2007) 146 Cal.App.4th 1519, 1530, 53 Cal.Rptr.3d 700.)\n2. Summary adjudication of the claim for wrongful death as a result of medical negligence, as to both UHS and Lee\n3. Retaliation in violation of Health and Safety Code section 1278.5 as to UHS and Lee\nThe plaintiffs contend that the trial court erred in granting summary adjudication in favor of the defendants on the cause of action for retaliation, in violation of Health and Safety Code section 1278.5 (Section 1278.5 ). Section 1278.5 provides in relevant part:\n\"(a) The Legislature finds and declares that it is the public policy of the State of California to encourage patients, nurses, members of the medical staff, and other health care workers to notify government entities of suspected unsafe patient care and conditions. The Legislature encourages this reporting in order to protect patients and in order to assist those accreditation and government entities charged with ensuring that health care is safe. The Legislature finds and declares that whistleblower protections apply primarily to issues relating to the care, services, and conditions of a facility and are not intended to conflict with existing provisions in state and federal law relating to employee and employer relations.\n\"(b)(1) No health facility shall discriminate or retaliate, in any manner, against any patient, employee, member of the medical staff, or any other health care worker of the health facility because that person has done either of the following:\n\"(A) Presented a grievance, complaint, or report to the facility, to an entity or agency responsible for accrediting or evaluating the facility, or the medical staff of the facility, or to any other governmental entity.\n\"(B) Has initiated, participated, or cooperated in an investigation or administrative proceeding related to, the quality of care, services, or conditions at the facility that is carried out by an entity or agency responsible for accrediting or evaluating the facility or its medical staff, or governmental entity.\n\"(2) No entity that owns or operates a health facility, or which owns or operates any other health facility, shall discriminate or retaliate against any person because that person has taken any actions pursuant to this subdivision.\n\"(3) A violation of this section shall be subject to a civil penalty of not more than twenty-five thousand dollars ($25,000). The civil penalty shall be assessed and recovered through the same administrative process set forth in Chapter 2.4 (commencing with Section 1417) for long-term health care facilities.\n\"(c) Any type of discriminatory treatment of a patient by whom, or upon whose behalf, a grievance or complaint has been submitted, directly or indirectly, to a governmental entity or received by a health facility administrator within 180 days of the filing of the grievance or complaint, shall raise a rebuttable presumption that the action was taken by the health facility in retaliation for the filing of the grievance or complaint.\n\"(d)(1) There shall be a rebuttable presumption that discriminatory action was taken by the health facility, or by the entity that owns or operates that health facility, or that owns or operates any other health facility, in retaliation against an employee, member of the medical staff, or any other health care worker of the facility, if responsible staff at the facility or the entity that owns or operates the facility had knowledge of the actions, participation, or cooperation of the person responsible for any acts described in paragraph (1) of subdivision (b), and the discriminatory action occurs within 120 days of the filing of the grievance or complaint by the employee, member of the medical staff or any other health care worker of the facility.\"\nSubdivisions (b)(1) and (b)(2) of Section 1278.5 create the statutory prohibition against discrimination and/or retaliation on the part of a health facility or an entity that owns a health facility against certain identified individuals-i.e., against a \"patient, employee, member of the medical staff, or any other health care worker of the health facility.\"\nAccording to the plaintiffs, both defendant UHS and defendant Lee unlawfully retaliated against Brenner as a result of Nancy's complaints to staff at the hospital about the care her husband was receiving.\na. Summary adjudication of the statutory retaliation claim asserted against Lee was proper\nAfter the parties briefed the issues on appeal, another appellate court issued an opinion interpreting the text of Section 1278.5 and concluding that the statute does not create a claim as against individual doctors. (See Armin v. Riverside Community Hospital (2016) 5 Cal.App.5th 810, 832, 210 Cal.Rptr.3d 388 (Armin ) [\"We conclude section 1278.5 does not allow individual doctors to be sued\"].) The Armin court explained that subdivision (b) of Section 1278.5 focuses on health care facilities, and prohibits only facilities from retaliating against the individuals who fall within the identified groups: \"Subdivision (b) is the operative subdivision, forbidding facilities, and only facilities , from retaliating against individuals who complain of potentially unsafe care or conditions-even if they complain to somebody other than a government entity. The civil penalty provision in subdivision (b) confirms the focus on the hospital-facility, by referring the reader to statutes regulating nursing homes.\" (Armin , supra , at pp. 832-833, 210 Cal.Rptr.3d 388.) We agree with the Armin court's analysis and interpretation of the statute, adopt it here, and conclude that the plaintiffs are unable to state a statutory retaliation claim, pursuant to Section 1278.5, as to defendant Lee because the statute does not create a claim against individual doctors.\nb. Summary adjudication of the statutory retaliation claim asserted against UHS was proper\nWe next consider whether summary adjudication of the plaintiffs' claim against UHS based on Section 1278.5 was appropriate. We conclude that it was, based on our interpretation of the statute as to those persons whose complaints and/or conduct with respect to an investigation of a facility fall within its purview. In addressing this issue, we rely on well-established and familiar principles of statutory interpretation: \"Our primary task in interpreting a statute is to determine the Legislature's intent, giving effect to the law's purpose. [Citation.] We consider first the words of a statute, as the most reliable indicator of legislative intent. [Citation.] ' \" 'Words must be construed in context, and statutes must be harmonized, both internally and with each other, to the extent possible.' [Citation.] Interpretations that lead to absurd results or render words surplusage are to be avoided.\" ' \" (Tuolumne Jobs & Small Business Alliance v. Superior Court (2014) 59 Cal.4th 1029, 1037, 175 Cal.Rptr.3d 601, 330 P.3d 912.)\nTo the extent the statutory language is ambiguous, \"we may resort to extrinsic sources, including the ostensible objects to be achieved and the legislative history.\" (Day v. City of Fontana (2001) 25 Cal.4th 268, 272, 105 Cal.Rptr.2d 457, 19 P.3d 1196.) \"If the statutory language permits more than one reasonable interpretation, courts may consider other aids, such as the statute's purpose, legislative history, and public policy.\" (Coalition of Concerned Communities, Inc. v. City of Los Angeles (2004) 34 Cal.4th 733, 737, 21 Cal.Rptr.3d 676, 101 P.3d 563 ; accord, Imperial Merchant Services, Inc. v. Hunt (2009) 47 Cal.4th 381, 388, 97 Cal.Rptr.3d 464, 212 P.3d 736.) Further, a \"statute's every word and provision should be given effect so that no part is useless, deprived of meaning or contradictory. Interpretation of the statute should be consistent with the purpose of the statute and statutory framework.\" (Fireman's Fund Ins. Co. v. Workers' Comp. Appeals Bd. (2010) 189 Cal.App.4th 101, 109, 116 Cal.Rptr.3d 658.) \" ' \"An interpretation that renders related provisions nugatory must be avoided [citation]; each sentence must be read not in isolation but in the light of the statutory scheme [citation]; and if a statute is amenable to two alternative interpretations, the one that leads to the more reasonable result will be followed.\" ' \" (People v. Kirk (2006) 141 Cal.App.4th 715, 720-721, 46 Cal.Rptr.3d 258.)\nThe parties dispute whether a Section 1278.5 claim lies when the complaints or grievances made to hospital staff and/or administrators about patient care are made by someone other than the patient. UHS refers to the portion of the statute that creates the cause of action-i.e., subdivision (b)-to assert that only a patient who has made a complaint himself or herself may bring a claim pursuant to Section 1278.5. That provision does appear to limit the individuals for whom statutory protection has been granted, since it prohibits discrimination or retaliation against \"against any patient, employee, member of the medical staff, or any other health care worker of the health facility because that person has\" either \"[p]resented a grievance, complaint, or report to the facility, to an entity or agency responsible for accrediting or evaluating the facility, or the medical staff of the facility, or to any other governmental entity\" or \"initiated, participated, or cooperated in an investigation or administrative proceeding related to, the quality of care, services, or conditions at the facility that is carried out by an entity or agency responsible for accrediting or evaluating the facility or its medical staff, or governmental entity.\" (Section 1278.5, subd. (b)(1) & (2), italics added.) By its terms, subdivision (b) of section 1278.5 appears to limit a cause of action to any of the listed individuals who, themselves, have made a complaint or been involved in an investigation or administrative proceeding.\nHowever, the plaintiffs point out that subdivision (c) of Section 1278.5, which creates an evidentiary presumption for purposes of asserting a claim pursuant to the statute, makes reference to a \"grievance or complaint\" that has been made on \"behalf\" of a patient. Specifically, subdivision (c) provides that a rebuttable presumption of retaliation is created anytime that there is \"[a]ny type of discriminatory treatment of a patient by whom, or upon whose behalf , a grievance or complaint has been submitted, directly or indirectly, to a governmental entity or received by a health facility administrator within 180 days of the filing of the grievance or complaint.\" (Italics added.) The plaintiffs assert that \"[i]t ... follows that an individual making complaints on behalf of a patient has standing under the statute.\" (Italics added.)\nFirst, we conclude that, contrary to plaintiffs' contention, the reference to \"upon whose behalf\" in subdivision (c) of Section 1278.5 does not vest any and all persons who complain on behalf of a patient with \"standing\" to bring a claim under Section 1278.5. Section 1278.5, subdivision (c) does not itself create a statutory cause of action. Rather, it merely expresses the circumstances under which an evidentiary presumption as to the existence of retaliation is created. Subdivision (b) of the statute is the provision that creates the statutory right that may be vindicated. As we have already indicated, subdivision (b) of Section 1278.5 grants the right to bring an action for discrimination or retaliation pursuant to the statute solely to the individuals identified in subdivision (b), i.e., \"patient[s], employee[s], member[s] of the medical staff, or any other health care worker[s] of the health facility\" who themselves have made a complaint. Subdivision (b) does not permit an individual who is not a patient and not an employee, member of the medical staff, or other health care worker at the facility, but who has complained on behalf of a patient, to bring a claim for discrimination or retaliation, either against that individual or against the patient. Thus, to the extent that Nancy is attempting to assert a cause of action on her own behalf (i.e., in her individual capacity), she does not have standing to do so under the statute because there is no suggestion that Nancy is one of the identified individuals who may bring a claim under the statute.\nNor does Nancy have standing, in her individual capacity, to assert any rights that Brenner, as the patient, may have had pursuant to the statute. As a general rule, a third party does not have standing to bring a claim asserting a violation of someone else's rights. (See Powers v. Ohio (1991) 499 U.S. 400, 410, 111 S.Ct. 1364, 113 L.Ed.2d 411 [\"In the ordinary course, a litigant must assert his or her own legal rights and interests, and cannot rest a claim to relief on the legal rights or interests of third parties\"].)\nHowever, Nancy has also filed this action as a representative of Brenner's estate. In this role, she may be able to bring claims for relief based on Brenner's legal rights, pursuant to the survival statutes. Specifically, Code of Civil Procedure section 377.30 provides: \"A cause of action that survives the death of the person entitled to commence an action or proceeding passes to the decedent's successor in interest ... and an action may be commenced by the decedent's personal representative or, if none, by the decedent's successor in interest.\" A survivor claim is a claim asserted on behalf of the victim or decedent. (Quiroz , supra , 140 Cal.App.4th at p. 1281, 45 Cal.Rptr.3d 222.) Therefore, in her role as representative of Brenner's estate, Nancy appears to have \"standing\" to assert a claim for Brenner's entitlement to recovery, if such entitlement exists, under Section 1278.5.\nThe fact that Nancy may have standing to assert a claim on behalf of Brenner's estate pursuant to Section 1278.5 does not end our inquiry, however. We must determine whether UHS is nevertheless entitled to summary adjudication with respect to this claim. We conclude that the statute does not permit any survivor claim that Nancy may be bringing on behalf of Brenner's estate arising from an alleged violation of Section 1278.5.\nSpecifically, the question that we must address is whether the statute protects a patient from alleged \"retaliation\" resulting from complaints made by persons other than those identified in subdivision (b) of the statute. In other words, does the statute create a cause of action for discrimination and/or retaliation against a patient that occurs as a result of a relative, friend, or someone other than the patient, or medical or hospital staff, making a complaint about the patient's care? As we shall explain, we conclude that the statute is drawn more narrowly than plaintiffs suggest, and that it does not allow for recovery under the circumstances presented in this case.\nFirst, as explained above, subdivision (b) of Section 1278.5, when given its plain meaning, provides protection, and a cause of action, solely to the person who himself or herself has engaged in the protected whistleblowing activity (i.e., the patient, or employee or other staff member who presented a grievance complaint or report about patient care, or initiated, cooperated with, or participated in an investigation about patient care) and who suffered discriminatory or retaliatory acts by the health care facility as a result of that whistleblowing activity. The purpose of the statute, as described in subdivision (a) of Section 1278.5, supports this view of subdivision (b): \"[I]t is the public policy of the State of California to encourage patients, nurses, members of the medical staff, and other health care workers to notify government entities of suspected unsafe patient care and conditions.\" (Italics added.) In order to further the identified public policy, the Legislature has decided to afford protections to these particular individuals with respect to their conduct in notifying \"government entities of suspected unsafe patient care and conditions,\" as well as in notifying the health care facilities, themselves, of suspected unsafe patient care and conditions. (Section 1278.5, subd. (b).) It is thus clear that Section 1278.5 has, as its primary focus, the protection of those who engage in what are considered \"whistleblowing\" activities. As so interpreted, the protections of subdivision (b) of section 1278.5 are limited to protecting the identified individuals from discrimination or retaliation based on their own whistleblowing activity, and not from discrimination or retaliation based on another person's whistleblowing activity. The evidence presented on summary judgment demonstrates that the \"complaints\" on which the cause of action is based are complaints made by Nancy, who was not a \"patient, employee, member of the medical staff, or any other health care worker of the health facility\" (Section 1278.5, subd. (b)(1) ).\nHowever, as the plaintiffs point out, a plain reading of subdivision (c) of section 1278.5 demonstrates that a patient is entitled to an evidentiary presumption in favor of the existence of retaliation whenever there has been any discriminatory treatment of the patient undertaken within 180 days of the submission of a grievance or complaint to a governmental entity, or within 180 days of receipt of a grievance or complaint by a health facility administrator, when that grievance or complaint was made by the patient or was made \"upon [the patient's] behalf .\" (Italics added.) The plaintiffs contend that the phrase \"upon whose behalf\" in subdivision (c) of the statute \"is clear on its face that complaints may be made 'on behalf of' a patient.\"\nIn our view, however, the intersection of subdivisions (b) and (c) of Section 1278.5 is far from \"clear.\" Rather, these subdivisions appear, on their face, to be contradictory. Subdivision (b) states that only when one of the identified individuals, including a patient, makes a complaint himself or herself is he or she protected from discrimination and/or retaliation from a health care facility. For example, subdivision (b) protects a patient from discrimination or retaliation by the health facility when that patient makes a complaint about patient care, and also protects an employee of the health facility from discrimination or retaliation by the health facility when that employee makes a complaint about patient care. Thus, under the plain text of subdivision (b), a patient or an employee who himself or herself complains about patient care and is discriminated or retaliated against as a result of making that complaint has a claim under Section 1278.5 against the health facility that engaged in the discriminatory or retaliatory act. Subdivision (b), by its plain terms however, does not appear to provide a patient with a claim for retaliation or discrimination as a result of an employee complaining about that patient's care. In other words, subdivision (b), by its terms, protects from discrimination or retaliation only the individual who complains or engages in other whistleblowing activity.\nDespite the wording of subdivision (b), subdivision (c) of Section 1278.5 appears to contemplate that a patient may meet his or her evidentiary burden to prove an entitlement to recover under Section 1278.5 when that patient can show that he or she complained, or that someone else complained on his or her behalf, and that within 180 days of the making of the complaint, the patient suffered some discriminatory act. Given that subdivision (b) of the statute envisions that the person protected by the statute, and the person who is thus entitled to recover for discrimination or retaliation under the statute, is the person who made a complaint or engaged in other protected activity , subdivision (c)'s suggestion that a patient is entitled to an evidentiary presumption of retaliation under the statute even when the patient is not the person who made the complaint , appears to be in conflict with subdivision (b), at least with respect to the circumstances under which a patient , as opposed to an employee, staff member or other health care worker, is entitled to protection under the statute.\nWhen faced with potentially inconsistent statutory provisions, \" '[a] court must, where reasonably possible, harmonize [the] statutes, reconcile seeming inconsistencies in them, and construe them to give force and effect to all of their provisions. [Citations.] This rule applies although one of the statutes involved deals generally with a subject and another relates specifically to particular aspects of the subject.' [Citation.] Thus, when ' \"two codes are to be construed, they 'must be regarded as blending into each other and forming a single statute.' [Citation.] Accordingly, they 'must be read together and so construed as to give effect, when possible, to all the provisions thereof.' \" ' \" (Pacific Palisades Bowl Mobile Estates, LLC v. City of Los Angeles (2012) 55 Cal.4th 783, 805, 149 Cal.Rptr.3d 383, 288 P.3d 717.)\nReading subdivisions (b) and (c) together, and construing them so as to give effect to both provisions, we conclude that the most reasonable interpretation of subdivision (c)'s reference to a grievance or complaint being made \"upon [the patient's] behalf\" is that it is referring to a grievance or complaint that has been submitted by one of the other individuals identified in subdivision (b)-i.e., an \"employee, member of the medical staff, or any other health care worker of the health facility\"-on a patient's behalf. We recognize that in doing so, we must interpret subdivision (b) to mean something slightly different from what its plain meaning would suggest. Given that subdivision (c), as we interpret it, creates an evidentiary presumption in favor of a patient against whom retaliation has occurred when a person who works for or within a health facility makes a complaint on that patient's behalf, subdivision (b) must be interpreted so as to permit a cause of action to be brought by any patient against whom a health facility discriminates or retaliates as a result of the patient or one of the other identified persons (i.e., an employee, member of the medical staff, or any other health care worker of the health facility) having engaged in whistleblower actions on that patient's behalf. Thus, we interpret subdivision (b)(1) as prohibiting a health facility from both discriminating or retaliating against any of the identified individuals as a result of that particular individual undertaking whistleblowing activity, and also from discriminating or retaliating against a patient as a result of one of the other identified individuals (i.e., an employee, member of the medical staff, or other health care worker of the facility) undertaking whistleblowing activity on behalf of that patient. Such an interpretation fulfills the stated policy of Section 1278.5 by prohibiting discrimination and/or retaliation against any patient, employee, member of the medical staff or other health care worker of the health facility as a result of any patient, employee, member of the medical staff or other health care worker of the heath facility having engaged in whistleblowing activities surrounding suspected unsafe patient care and conditions; it also harmonizes the otherwise conflicting subdivisions at issue in this case.\nGiven our interpretation of Section 1278.5, we conclude that defendant UHS is entitled to judgment as a matter of law with respect to Nancy's survivor claim under Section 1278.5. The plaintiffs concede that the \"complaints\" on which they base the claim were made by Nancy, who was not a \"patient, employee, member of the medical staff, or ... health care worker of the health facility.\" Thus, any alleged discrimination or retaliation that UHS purportedly engaged in as to Brenner does not fall within the provisions of Section 1278.5. Summary adjudication of this claim in favor of UHS was therefore proper.\n4. Elder abuse, as asserted against UHS only\nB. Given that the trial court properly granted summary judgment in favor of the defendants on appeal, we need not consider plaintiffs' final contention, related to an earlier ruling by the trial court IV.\nDISPOSITION\nThe judgments are affirmed as to defendants UHS and Lee.\nWE CONCUR:\nHUFFMAN, Acting P.J.\nHALLER, J.\nWhen referring to the plaintiffs individually, we refer to them by their first names for purposes of clarity. We intend no disrespect.\nDrs. Salek and Killeen are not parties to this appeal.\nOn June 10, 2016, the plaintiffs filed a request for judicial notice in which they request that this court take judicial notice of three reporter's transcripts from additional hearings that took place in the trial court:\n(1) The reporter's transcript from an October 7, 2013 hearing on Lee's demurrer and motion to strike; (2) The reporter's transcript from a November 24, 2014 trial setting conference; and (3) The reporter's transcript from a March 6, 2015 hearing on the plaintiffs' motion for leave to file second amended complaint to plead punitive damages pursuant to Code of Civil Procedure section 425.13.\nUHS opposed the request for judicial notice, arguing that \"[a]ppellants are attempting to present new information that was not considered by the trial court in ruling on Inland Valley Medical Center's motion for summary judgment, and was not part of the documents presented to support their arguments in Appellants' Opening Brief.\" We disagree. The reporter's transcripts are from the underlying proceedings. Everything that occurred during these proceedings was known to, and presumably considered by, the trial court in making rulings with respect to the case, including rulings addressing the defendants' motions for summary judgment. The plaintiffs could have sought to augment the record on appeal to include these transcripts (see Cal. Rules of Court, rule 8.155(a)(1) [\"At any time, on motion of a party or its own motion, the reviewing court may order the record augmented to include: [\u00b6] ... [\u00b6] (B) A certified transcript-or agreed or settled statement-of oral proceedings not designated under rule 8.130\"].) We see no reason why judicial notice of these transcripts should not be granted. We therefore grant the request for judicial notice.\nSee footnote *, ante.\nThe parties do not address Zach's standing to appeal the summary adjudication of this claim. As the plaintiffs concede, however, there has never been any allegation that anyone took discriminatory or retaliatory actions against Brenner as a result of complaints made by Zach. Therefore, although ostensibly both plaintiffs (Zach and Nancy, in both of her capacities) appeal from the trial court's granting of summary adjudication of the Section 1278.5 claim in favor of the defendants, it appears that Zach is not entitled to bring this claim against the defendants even under the theory for standing that the plaintiffs' proffer with respect to Nancy.\nThis rule would also prevent Zach, in his individual capacity, from being able to assert a claim on Brenner's behalf under Section 1278.5.\nAgain, a survivor cause of action is distinct from a cause of action for wrongful death. Unlike a cause of action for wrongful death, a survivor cause of action is not a new cause of action that vests in the heirs on the death of the decedent, but is instead a separate and distinct cause of action that belonged to the decedent before death, but by statute, survives that event. (Quiroz, supra, 140 Cal.App.4th at p. 1264, 45 Cal.Rptr.3d 222.) These claims are technically asserted by different plaintiffs and seek compensation for different injuries than the injury asserted in a wrongful death cause of action. (Id. at p. 1278, 45 Cal.Rptr.3d 222.) The survival statutes do not create a cause of action, but provide for the post eath enforcement of a cause of action on behalf of the decedent. Damages for a survivor cause of action are limited to those sustained by the decedent or incurred before death. (Id. at p. 1264, 45 Cal.Rptr.3d 222.)\nAgain, the full text of subdivision (c) of section 1278.5 provides: \"Any type of discriminatory treatment of a patient by whom, or upon whose behalf, a grievance or complaint has been submitted, directly or indirectly, to a governmental entity or received by a health facility administrator within 180 days of the filing of the grievance or complaint, shall raise a rebuttable presumption that the action was taken by the health facility in retaliation for the filing of the grievance or complaint.\" (Italics added.)\nOur interpretation of the statute leaves open the question whether an individual who is acting on behalf of an incapacitated patient in making medical decisions for that patient pursuant to a heath care directive may be considered to be stepping into the shoes of the patient and acting as the patient for purposes of Section 1278.5. Although the plaintiffs mention in their reply brief that Nancy \"stated she had power of attorney to make health decisions for Mr. Brenner,\" this suggestion is insufficient to allow us to address this issue on appeal. First, it is clear that the plaintiffs have not raised this legal argument. Although they mention that Nancy stated that she had power of attorney, the legal argument that they make on appeal is that this fact supports their position that there is \"no issue that Mrs. Brenner has standing for her complaints brought on behalf of her husband.\" This is distinct from a legal argument that Nancy was, essentially, acting in the role of a \"patient\" under section 1278.5, subdivision (b)(1), pursuant to a health care directive.\nFurther, even if the plaintiffs had made this legal argument, the only portion of the record to which they cite would not permit them to avoid summary judgment. This is because the record reference is to Nancy's declaration in which she states the following: \"The nurse, Leslie, continued to argue with me but I would not back down. I informed the nurse that I was Dale's power of attorney and decision maker with respect to his health care.\" Notably, Nancy does not declare that she was acting pursuant to a health care directive and was making decisions on Brenner's behalf because he was incapacitated. Rather, she states merely that she told someone else that she had power of attorney to make medical decisions. Further, the plaintiffs have not cited to anything else in the record, such as a copy of any health care directive, that could establish that Nancy was acting, pursuant to some legal authority, in Brenner's shoes as the patient.\nSee footnote *, ante.\nSee footnote *, ante.",
+        "type": "majority",
+        "author": "AARON, J."
+      }
+    ],
+    "attorneys": [
+      "Certified for Partial Publication.",
+      "Bohm Law Group, Lawrance A. Bohm, Sacramento, Bradley J. Mancusco and Maria E. Minney for Plaintiffs and Appellants.",
+      "Dummit, Buchholz & Trapp, Scott D. Buchholz and Moira S. Brennan, San Diego, for Defendant and Respondent Universal Health Services of Rancho Springs, Inc.",
+      "Schmid & Voiles, Denise H. Greer, Sidney J. Martin, Los Angeles, and Michael C. Ting for Defendant and Respondent Young H. Lee., M.D."
+    ],
+    "corrections": "",
+    "head_matter": "Nancy BRENNER, Individually and as Executor, etc., et al., Plaintiffs and Appellants,\nv.\nUNIVERSAL HEALTH SERVICES OF RANCHO SPRINGS, INC., et al., Defendants and Respondents.\nD071094\nCourt of Appeal, Fourth District, Division 1, California.\nFiled June 7, 2017\nCertified for Partial Publication.\nBohm Law Group, Lawrance A. Bohm, Sacramento, Bradley J. Mancusco and Maria E. Minney for Plaintiffs and Appellants.\nDummit, Buchholz & Trapp, Scott D. Buchholz and Moira S. Brennan, San Diego, for Defendant and Respondent Universal Health Services of Rancho Springs, Inc.\nSchmid & Voiles, Denise H. Greer, Sidney J. Martin, Los Angeles, and Michael C. Ting for Defendant and Respondent Young H. Lee., M.D.\nPursuant to California Rules of Court, rule 8.1110, this opinion is certified for publication with the exception of parts III.A.2, III.A.4 and III.B."
+  },
+  "file_name": "0135-01",
+  "first_page_order": 135,
+  "last_page_order": 149
+}

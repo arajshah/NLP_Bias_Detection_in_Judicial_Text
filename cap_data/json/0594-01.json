@@ -1,0 +1,479 @@
+{
+  "id": 12513566,
+  "name": "The PEOPLE, Plaintiff and Respondent, v. Luis ALFORD, Defendant and Appellant.",
+  "name_abbreviation": "People v. Alford",
+  "decision_date": "2017-06-15",
+  "docket_number": "D070486",
+  "first_page": "594",
+  "last_page": "604",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 594"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 964"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "2017 WL 2438828",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Cal.App.5th 558",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12513596
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-rptr-3d/219/0090-01"
+      ]
+    },
+    {
+      "cite": "15 Cal.Rptr.3d 148",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Cal.App.4th 1192",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        838222
+      ],
+      "pin_cites": [
+        {
+          "page": "1200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/119/1192-01"
+      ]
+    },
+    {
+      "cite": "95 P.3d 906",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal.Rptr.3d 645",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.4th 254",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        633024
+      ],
+      "pin_cites": [
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/34/0254-01"
+      ]
+    },
+    {
+      "cite": "248 P.3d 1185",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Cal.Rptr.3d 331",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.4th 717",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3914469
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/51/0717-01"
+      ]
+    },
+    {
+      "cite": "171 P.3d 32",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 13,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Cal.Rptr.3d 310",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 13,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.4th 749",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3673051
+      ],
+      "pin_cites": [
+        {
+          "page": "757"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/42/0749-01"
+      ]
+    },
+    {
+      "cite": "78 Cal.Rptr.2d 819",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Cal.App.4th 1163",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        358314
+      ],
+      "pin_cites": [
+        {
+          "page": "1169"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/66/1163-01"
+      ]
+    },
+    {
+      "cite": "291 P.3d 316",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Cal.Rptr.3d 93",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Cal.4th 1169",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3931801
+      ],
+      "pin_cites": [
+        {
+          "page": "1180, fn. 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/55/1169-01"
+      ]
+    },
+    {
+      "cite": "187 Cal.Rptr.3d 132",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "236 Cal.App.4th Supp. 10",
+      "category": "reporters:state",
+      "reporter": "Cal. App. Supp. 4th",
+      "case_ids": [
+        6845497
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/236/Supp. 10-01"
+      ]
+    },
+    {
+      "cite": "120 Cal.Rptr.3d 195",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "191 Cal.App.4th 859",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4228171
+      ],
+      "pin_cites": [
+        {
+          "page": "869"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/191/0859-01"
+      ]
+    },
+    {
+      "cite": "29 Cal.Rptr.3d 700",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 10,
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Cal.App.4th 183",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2882051
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "193-195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/130/0183-01"
+      ]
+    },
+    {
+      "cite": "82 Cal.Rptr.2d 231",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Cal.App.4th 1246",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1662523
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1256-1257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/69/1246-01"
+      ]
+    },
+    {
+      "cite": "76 Cal.Rptr.2d 34",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Cal.App.4th 1329",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        505075
+      ],
+      "pin_cites": [
+        {
+          "page": "1332"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/64/1329-01"
+      ]
+    },
+    {
+      "cite": "46 P.3d 388",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 13,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Cal.Rptr.2d 922",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 13,
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.4th 1151",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1103379
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1153-1154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/27/1151-01"
+      ]
+    },
+    {
+      "cite": "77 Cal.Rptr.2d 492",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 8,
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Cal.App.4th 1511",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        527278
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1522"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/65/1511-01"
+      ]
+    },
+    {
+      "cite": "44 Cal.Rptr.2d 575",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Cal.App.4th 1690",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6045500
+      ],
+      "pin_cites": [
+        {
+          "page": "1694-1696"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/37/1690-01"
+      ]
+    },
+    {
+      "cite": "206 Cal.Rptr.3d 202",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 10,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Cal.App.5th 223",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12454792
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "229-237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/2/0223-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1074,
+    "char_count": 34807,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.31966072153241365
+    },
+    "sha256": "1377e9736e2ec6ad47cf171fdd8de5c45b449ce10671066f38bf2e30481d688f",
+    "simhash": "1:3eede62672767f4e",
+    "word_count": 5471
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The PEOPLE, Plaintiff and Respondent,\nv.\nLuis ALFORD, Defendant and Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "HALLER, J.\nLuis Alford pled guilty to possessing methamphetamine for sale. (Health & Saf. Code, \u00a7 11378.) The court sentenced Alford to eight years in custody, plus three years four months on mandatory supervision. The court also imposed various fines and assessments. Alford's appellate challenge concerns the court's imposition of a monetary penalty (Pen. Code, \u00a7 1464 ; Gov. Code, \u00a7 76000, together \"penalty statutes\") based on two statutory assessments: (1) a criminal laboratory analysis fee (laboratory fee) (\u00a7 11372.5); and (2) a drug program fee (\u00a7 11372.7).\nAlford acknowledges the court properly assessed him for the laboratory and drug program fees (\u00a7\u00a7 11372.5, 11372.7), but contends the court erred in concluding the penalty statutes applied to require an additional penalty on top of those fees. There is a split in authority in the Courts of Appeal on this precise issue. (See People v. Watts (2016) 2 Cal.App.5th 223, 229-237, 206 Cal.Rptr.3d 202 [imposition of the additional penalty not permitted] (Watts ); People v. Sierra (1995) 37 Cal.App.4th 1690, 1694-1696, 44 Cal.Rptr.2d 575 (Sierra ) [additional penalty upheld on drug program fee]; People v. Martinez (1998) 65 Cal.App.4th 1511, 1522, 77 Cal.Rptr.2d 492 [additional penalty required on laboratory fee] (Martinez ).) We determine the court's assessment of the additional penalties was proper.\nWe affirm the judgment, but remand for the court to correct a clerical error and itemize the fines and penalties in the abstract of judgment.\nRELEVANT FACTS AND PROCEDURE\nAs the factual basis for his plea, Alford admitted he possessed methamphetamine for sale and distribution in an amount greater than 10 kilograms. The court imposed various fines and assessments, including a $205 \"Lab Fee\" under section 11372.5, subdivision (a), and a $615 \"Drug Program Fee\" under section 11372.7, subdivision (a).\nAfter the judgment was entered, Alford moved to strike portions of these two assessments, noting the statutes limit the laboratory fees to $50 and drug program fees to $150 (\u00a7\u00a7 11372.5, 11372.7), and arguing that the court erred in adding the Penal Code section 1464 and Government Code section 76000 penalties to these fees. Alford relied primarily on Watts, supra , 2 Cal.App.5th 223, 206 Cal.Rptr.3d 202, a case filed after Alford's sentencing, in which the First District Court of Appeal had disagreed with the prevailing majority view on the issue.\nThe trial court denied the motion. On appeal, Alford reasserts his challenge to the penalty assessments. He argues the court erred in adding $155 to the laboratory fee and $465 to the drug program fee.\nDISCUSSION\nA. Relevant Statues\nThe penalty statutes (Pen. Code, \u00a7 1464 ; Gov. Code, \u00a7 76000 ) mandate that a court impose a penalty assessment \"upon every fine, penalty, or forfeiture imposed and collected ... for all criminal offenses\" with certain exceptions not applicable here.\n(See People v. Talibdeen (2002) 27 Cal.4th 1151, 1153-1154, 119 Cal.Rptr.2d 922, 46 P.3d 388 (Talibdeen ). ) \"Although these 'parasitic' assessments punish a defendant in the sense that they increase the total monetary charge imposed, they were created in large part to generate revenue and are deposited into various state and county funds.\" (Watts, supra , 2 Cal.App.5th at p. 229, 206 Cal.Rptr.3d 202.)\nAlford contends the court erred in adding these statutory penalties to the amounts assessed under sections 11372.5 and 11372.7 because these latter code sections do not impose a \"fine\" or \"penalty\" within the meaning of the penalty statutes, and instead levy only a \"fee.\" The Attorney General counters that the court properly added the penalty assessments \"because those two fees are actually fines.\" In asserting these arguments, the parties focus on the wording of sections 11372.5 and 11372.7. We thus begin by setting forth the relevant language of these statutes.\nSection 11372.5, the laboratory fee statute, consists of three subdivisions. Subdivision (a) states the circumstances under which this fee is to be imposed:\n\"Every person who is convicted of a violation of [specified drug offenses, including section 11378 ], shall pay a criminal laboratory analysis fee in the amount of fifty dollars ... for each separate offense. The court shall increase the total fine necessary to include this increment.\n\"With respect to those offenses specified in this subdivision for which a fine is not authorized by other provisions of law, the court shall, upon conviction, impose a fine in an amount not to exceed fifty dollars ..., which shall constitute the increment prescribed by this section and which shall be in addition to any other penalty prescribed by law.\" (\u00a7 11372.5, subd. (a).)\nSubdivision (b) provides that the funds collected must be used to pay costs incurred by crime laboratories providing analyses for controlled substances in criminal investigations, to purchase and maintain laboratory equipment, and for continuing education and training of forensic scientists employed by these laboratories. (\u00a7 11372.5, subd. (b).) Subdivision (c) concerns the distribution of the funds at the end of each fiscal year. (\u00a7 11372.5, subd. (c).)\nSection 11372.7, subdivision (a), the drug program fee statute, contains five subdivisions. Subdivision (a) describes the circumstances under which this fee is to be imposed:\n\"Except as otherwise provided in subdivision (b) or (e), each person who is convicted of a violation of this chapter shall pay a drug program fee in an amount not to exceed one hundred and fifty dollars ... for each separate offense. The court shall increase the total fine, if necessary, to include this increment, which shall be in addition to any other penalty prescribed by law.\" (\u00a7 11372.7, subd. (a).)\nSection 11372.7, subdivision (b) imposes an ability-to-pay requirement, and subdivision (e) provides that the section does not apply to certain marijuana possession convictions. Section 11372.7, subdivisions (c) and (d) concern the required use of the collected funds, including to fund local drug abuse treatment and prevention programs, and mandate that at least one-third of these funds be used for drug prevention programs in schools and the community.\nB. Relevant Case Law\nIn considering the parties' conflicting arguments regarding the applicability of the penalty statutes (Pen. Code, \u00a7 1464 ; Gov. Code, \u00a7 76000 ) to the laboratory and drug program fee statutes (\u00a7 11372.5, 11372.7), we are guided by prior judicial interpretations of these laws.\nThe first California appellate court to consider the issue held the drug program fee imposed under section 11372.7 \"is a fine and/or a penalty to which the penalty assessment provisions of Penal Code section 1464 and Government Code section 76000 apply.\" (Sierra, supra , 37 Cal.App.4th at p. 1696, 44 Cal.Rptr.2d 575.) In Sierra , the Fifth District reasoned that section 11372.7 \"describes itself as both a fine and/or a penalty,\" and this plain language triggers the penalty statutes because these statutes specifically apply to a \"fine\" or \"penalty.\" (Sierra , at p. 1695, 44 Cal.Rptr.2d 575.) The Sierra court explained that because the \"fine\" and \"penalty\" language used in section 11372.7 is \"the identical language used in subdivision (a) of Penal Code section 1464 [,] [the drug program fee] is subject to the mandatory penalty assessments set forth in [the penalty statutes].\" (Sierra , at p. 1695, 44 Cal.Rptr.2d 575.) The Sierra defendant had argued the last sentence of section 11372.7, subdivision (a) means Penal Code section 1464 is inapplicable because this final sentence states that the section 11372.7 amount must be assessed \"in addition to any other penalty prescribed by law,\" which the defendant argued reflected that the section 11372.7 amount could not be increased. (Sierra , at pp. 1694-1695, 44 Cal.Rptr.2d 575.) The Sierra court rejected this interpretation, finding it would lead to \"absurd consequences.\" (Id. at p. 1696, 44 Cal.Rptr.2d 575.)\nA few years later, in Martinez, supra , 65 Cal.App.4th 1511, 77 Cal.Rptr.2d 492, the Second District, Division Five extended the reasoning of Sierra to hold that the laboratory fee (\u00a7 11327.5) is subject to an increased assessment under the penalty statutes. (Martinez , at p. 1522, 77 Cal.Rptr.2d 492.) The Martinez court found Sierra persuasive and also relied on its prior holding that the laboratory fee is, in substance, a \"fine.\" (Martinez , at p. 1522, 77 Cal.Rptr.2d 492 ; see People v . Sanchez (1998) 64 Cal.App.4th 1329, 1332, 76 Cal.Rptr.2d 34 [\"Just as a ' \"[r] ose is a rose is a rose is a rose[ ]\" ' ..., a fine is a fine is a fine is a fine....\"].) The Martinez court held: \"Under the reasoning of Sierra , ... [section 11372.5] defines the [laboratory] fee as an increase to the total fine and therefore is subject to penalty assessments....\" (Martinez , at p. 1522, 77 Cal.Rptr.2d 492 ; accord People v. Terrell (1999) 69 Cal.App.4th 1246, 1256-1257, 82 Cal.Rptr.2d 231 (Terrell ) [holding penalty statutes apply to section 11372.5 laboratory fee].)\nSeveral years after Sierra , Martinez , and Terrell, the California Supreme Court considered the issue whether a trial court has discretion to waive penalties under Penal Code section 1464. (Talibdeen, supra , 27 Cal.4th 1151, 119 Cal.Rptr.2d 922, 46 P.3d 388.) As here, the trial court's sentence included a laboratory fee of $50 under section 11372.5, subdivision (a). (Talibdeen , at p. 1153, 119 Cal.Rptr.2d 922, 46 P.3d 388.) But unlike in this case the trial court did not levy the additional statutory penalties under Penal Code section 1464 and Government Code section 76000. (Talibdeen , at p. 1153, 119 Cal.Rptr.2d 922, 46 P.3d 388.) The Court of Appeal concluded this was error because the additional penalties were a mandatory and not a discretionary sentencing choice. (Ibid. ) The Court of Appeal thus added the statutory penalties even though the prosecutor had not asked for them at the sentencing hearing. (Talibdeen , at p. 1153, 119 Cal.Rptr.2d 922, 46 P.3d 388.)\nThe defendant challenged this ruling, and the California Supreme Court held \"the Court of Appeal properly corrected the omission on appeal.\" (Talibdeen, supra , 27 Cal.4th at p. 1154, 119 Cal.Rptr.2d 922, 46 P.3d 388.) Viewing Penal Code section 1464's plain language and legislative history, the high court found the additional statutory penalties were \"mandatory\" additions to a section 11372.5 laboratory fee, unless Penal Code section 1464, subdivision (d) applies, and interpreted the subdivision (d) exception to mean \"the defendant [must be] in the midst of serving a term of imprisonment.\" (Talibdeen , at p. 1155, 119 Cal.Rptr.2d 922, 46 P.3d 388.) In so ruling, the court assumed the penalty statutes applied to section 11372.5 (because the defendant did not challenge this principle). But in analyzing the Penal Code section 1464, subdivision (d) exception, the court referred to the Sierra and Martinez decisions, without suggesting any disagreement with their predicate holdings regarding the applicability of the penalty statutes to the laboratory fee statute. (Talibdeen, supra , at p. 1156, 119 Cal.Rptr.2d 922, 46 P.3d 388.) The high court additionally concluded its opinion by stating it would \"follow our lower courts and hold that the Court of Appeal properly corrected the trial court's omission of the [statutory] penalties even though the People raised the issue for the first time on appeal,\" and cited several supporting appellate court decisions, including Martinez, supra , 65 Cal.App.4th 1511, 77 Cal.Rptr.2d 492 and Terrell, supra , 69 Cal.App.4th 1246, 82 Cal.Rptr.2d 231, both of which held the penalty statutes applied to the laboratory fee statute. (Talibdeen , at p. 1157, 119 Cal.Rptr.2d 922, 46 P.3d 388.)\nThree years later, the Second District, Division Seven suggested the laboratory fee (\u00a7 11372.5) cannot be properly characterized as a penalty. (People v. Vega (2005) 130 Cal.App.4th 183, 193-195, 29 Cal.Rptr.3d 700 (Vega ).) In Vega , the defendants were convicted of conspiracy to transport cocaine and to possess cocaine for sale. (Id. at p. 185, 29 Cal.Rptr.3d 700.) As conspiracy is not an offense specified in section 11372.5, the appellate issue was whether the court was authorized to impose the section 11372.5 laboratory fee for a conspiracy to commit an identified offense. (Vega , at p. 194, 29 Cal.Rptr.3d 700.) The court determined that because a conspiracy is punished in the same manner as the underlying felony, the dispositive question was whether the laboratory fee constituted punishment. (Ibid . ) After analyzing the issue, the court determined the laboratory fee is not a punishment. (Id. at p. 195, 29 Cal.Rptr.3d 700.) The court reasoned that section 11372.5's \"main purpose\" is not retribution or deterrence, but instead to defray the \"administrative cost\" of testing the substances to secure the defendant's conviction. (Vega , at p. 195, 29 Cal.Rptr.3d 700.) The court recognized the Talibdeen decision provided \"[s]upport for\" a determination that section 11372.5 was a punitive measure, but ultimately found Talibdeen was \"not controlling ... because the court did not address the question\" and instead \"proceeded under the assumption the fee was a punishment.\" (Vega , at pp. 194-195, 29 Cal.Rptr.3d 700.)\nSix years later, the same Court of Appeal division that decided Martinez, supra , 65 Cal.App.4th 1511, 77 Cal.Rptr.2d 492, held the Legislature intended the section 11372.5 laboratory fee to be punitive and therefore the fine must be stayed under Penal Code section 654 after the court imposed the fee on another count. (People v. Sharret (2011) 191 Cal.App.4th 859, 869, 120 Cal.Rptr.3d 195.) The Sharret court identified numerous factors to support its conclusion that the laboratory fee is \"punitive in nature,\" including: (1) the statutory language that the \"laboratory analysis fee is an increment of a fine and as such it is a fine\"; (2) the principle that \" '[f]ines arising from [criminal] convictions are generally considered punishment' \"; (3) the laboratory fee is imposed only upon conviction of a criminal offense and has solely a law enforcement purpose; and (4) the laboratory analysis fee \"has no application in a civil context\" or \"civil purpose.\" (Id. at pp. 869-870, 120 Cal.Rptr.3d 195.) In reaching its conclusion, the Sharret court did not discuss or mention Vega, supra , 130 Cal.App.4th 183, 29 Cal.Rptr.3d 700.\nFour years later, in People v. Moore (2015) 236 Cal.App.4th Supp. 10, 187 Cal.Rptr.3d 132 (Moore ), the Appellate Division of the Superior Court of Nevada County expressly disagreed with the Sierra line of cases, and concluded that the penalty statutes did not apply to the laboratory fee statute. According to Moore , the statutory language is \"imprecise,\" and the Sierra and Vega courts had each been on a \"fool's errand\" in trying to decide the issue based on the text of sections 11372.5 and 11372.7, which use all three terms: fee, fine, and penalty. (Moore , at p. 16, 187 Cal.Rptr.3d 132.) Relying primarily on Penal Code section 1463's definition of \"total fine\" (Pen. Code, \u00a7 1463, subd. (l ) ), the Moore court concluded Sierra erred in treating \" 'total fine' \" as synonymous with \"base fine\" and thus in adding the penalty assessments on top of the laboratory fee. (Moore , at p. 17, 187 Cal.Rptr.3d 132.)\nOne year later, in Watts , the First District, Division One rejected the Sierra line of cases and agreed with the result in Moore , but on a different rationale. (Watts, supra , 2 Cal.App.5th at pp. 226, 229-237, 206 Cal.Rptr.3d 202.) In Watts , the trial court had imposed numerous penalties, including under Penal Code section 1464 and Government Code section 76000, on top of a section 11372.5 laboratory fee, and the Court of Appeal on its own motion raised the issue of the propriety of the penalty assessments (based on the recent Moore decision). (Watts , at pp. 226, 229, 206 Cal.Rptr.3d 202.) The Watts court first addressed whether the high court's decision in Talibdeen was controlling on this issue, and found it was not because the Talibdeen court had \"assumed, but never decided\" the penalty statutes applied to the laboratory fee. (Watts , at p. 231, 206 Cal.Rptr.3d 202.)\nThe Watts court then looked closely at section 11372.5's language, and concluded the Legislature intended the laboratory fee \"to be exactly what it called it in the first paragraph [of section 11372.5], a fee, and not a fine, penalty, or forfeiture subject to [Penal Code section 1464 ] penalty assessments.\" (Watts, supra , 2 Cal.App.5th at p. 231, 206 Cal.Rptr.3d 202.) The court found support for its conclusion in section 11372.5's legislative \"evolution,\" noting that when originally enacted in 1980, the statute \"required every person convicted of an enumerated offense to, 'as part of any fine imposed, pay an increment in the amount of fifty dollars ($50) for each separate offense.' \" (Watts , at p. 234, 206 Cal.Rptr.3d 202.) The court found it significant that when this portion of the statute was later amended, the Legislature eliminated the reference to the fee being part of the \"fine imposed\" and renamed it from being an \" 'increment' \" to a \" 'fee.' \" (Ibid. ) Although the court recognized the contrary \"fine\" language in the second paragraph of section 11372.5, the court ultimately found this langue was \"surplusage\" and was not intended to convey a different meaning from the first paragraph. (Watts , at pp. 235-237, 206 Cal.Rptr.3d 202.) The Watts court also agreed with Vega, supra , 130 Cal.App.4th 183, 29 Cal.Rptr.3d 700, that the laboratory fee is imposed primarily to defray administrative costs, and therefore it is a \"fee\" not subject to the penalty statutes. (Watts , at p. 235, 206 Cal.Rptr.3d 202.)\nC. Analysis\nRelying on Watts , Alford contends the court erred in imposing penalty assessments on the laboratory fee and drug program fee imposed in his case. We find this contention to be without merit. Although Watts 's analysis was thoughtful and comprehensive, we are not persuaded by its ultimate conclusion.\nFirst, in our view, we are governed by Talibdeen 's legal determination that the penalty is mandatory, even if the Talibdeen defendant did not specifically raise the issue presented here. (Talibdeen, supra , 27 Cal.4th 1151, 119 Cal.Rptr.2d 922, 46 P.3d 388.) In Talibdeen , the California Supreme Court considered the question whether the trial court has discretion to waive the Penal Code section 1464 and Government Code section 76000 penalties after the imposition of the same section 11372.5 laboratory fee that is at issue in this case. (Talibdeen , at p. 1153, 119 Cal.Rptr.2d 922, 46 P.3d 388.) In analyzing this question, the high court stated, \"Although subdivision (a) of Penal Code section 1464 and subdivision (a) of Government Code section 76000called for the imposition of state and county penalties based on [the section 11372.5] fee, the trial court did not levy these penalties ...\" (ibid. , italics added, fn. omitted), and the court held that under the circumstances of the case \"imposition of these penalties is mandatory\" (id . at p. 1155, 119 Cal.Rptr.2d 922, 46 P.3d 388 ). In reaching its conclusion, the Talibdeen court said it was following the lower court decisions, including Martinez and Terrell , each of which analyzed the specific issue before us (the applicability of the statutory penalties to the laboratory fee and/or drug program fee) and each of which decided that the penalty statutes did apply to these particular fee statutes. (Talibdeen, supra , 27 Cal.4th at p. 1157, 119 Cal.Rptr.2d 922, 46 P.3d 388 ; see Terrell, supra , 69 Cal.App.4th at pp. 1256-1257, 82 Cal.Rptr.2d 231 ; Martinez, supra , 65 Cal.App.4th at pp. 1519-1522, 77 Cal.Rptr.2d 492 ; see also Sierra , 37 Cal.App.4th at pp. 1695-1696, 44 Cal.Rptr.2d 575.) Because the holdings of these Court of Appeal decisions constituted the logical predicate to the high court's ultimate conclusion on the mandatory nature of the penalty as applied to a section 11372.5 assessment, we necessarily conclude they were encompassed within the Talibdeen court's holding. (See Vega, supra , 130 Cal.App.4th at p. 194, 29 Cal.Rptr.3d 700 [acknowledging that Talibdeen \"held the penalty assessments applicable to ' \"every fine, penalty, or forfeiture\" ' applied to the laboratory analysis fee in ... section 11372.5\"].) If the high court had intended to disavow the Sierra , Martinez , and Terrell holdings on this issue or suggest it was not reaching the propriety of these rulings, it could have said so. It did not.\n\" ' \"The doctrine of stare decisis expresses a fundamental policy ... that a rule once declared in an appellate decision constitutes a precedent which should normally be followed.... It is based on the assumption that certainty, predictability and stability in the law are the major objectives of the legal system....\" ' \" (Riverisland Cold Storage, Inc. v. Fresno-Madera Production Credit Assn. (2013) 55 Cal.4th 1169, 1180, fn. 9, 151 Cal.Rptr.3d 93, 291 P.3d 316.) These policies apply here. The Talibdeen court held the penalty statute assessments are mandatory after the imposition of a laboratory fee, and the high court has not issued any contrary rulings since that time. We thus find Talibdeen controlling under the circumstances of this case.\nMoreover, even dicta from the California Supreme Court is generally to be followed absent a reason to depart from the high court's conclusion. (Hubbard v. Superior Court (1997) 66 Cal.App.4th 1163, 1169, 78 Cal.Rptr.2d 819.) We see no principled basis to disagree with the high court's assumption that the mandatory penalty assessments apply in the situation before us. The penalty statutes require the penalty in addition to any \"fine, penalty, or forfeiture.\" (Pen. Code, \u00a7 1424, subd. (a) ; Gov. Code, \u00a7 76000, subd. (a).) Alford argues the section 11372.5 and 11372.7 assessments do not fit into any of these categories because these assessments are merely in the nature of an administrative \"fee\" and not a penalty . However, the penalty statutes have a broad scope-the additional assessment is required not only based on a statutory \"penalty\" or \"forfeiture,\" but also by a \"fine.\" (Pen. Code, \u00a7 1464, subd. (a).) Read in this context, the term \"fine\" must mean something other than a \"penalty.\" Otherwise there would be no need for the three-part disjunctive phrase. Because sections 11372.5 and 11372.7 require the defendants to pay monetary amounts after a drug-related conviction and these amounts are to be used in programs related to the drug crime for which the defendant was convicted, we agree with the Attorney General that these amounts are, in substance, a fine for the defendant's criminal conduct.\nAdditionally, even if Penal Code section 1464 is triggered only by punitive measures, the settled rule is that assessments (regardless of their identification as a fee or fine) \"arising from [criminal] convictions are generally considered punishment.\" (People v. Alford (2007) 42 Cal.4th 749, 757, 68 Cal.Rptr.3d 310, 171 P.3d 32 (Alford ).) Although parties may rebut this principle in a particular case, the circumstances here do not support a deviation from the general rule. The propriety of this conclusion is illustrated by the distinctions between this case and Alford , in which the court found a court security assessment was solely a nonpunitive fee. (Id. at pp. 755-759, 68 Cal.Rptr.3d 310, 171 P.3d 32.)\nIn Alford , the issue was whether Penal Code section 1465.8, subdivision (a)(1), which required the imposition of a $20 court security fee \"on every conviction for a criminal offense,\" was intended to be a punishment and therefore subject to ex post facto prohibitions. (Alford, supra , 42 Cal.4th at pp. 752, 755-759, 68 Cal.Rptr.3d 310, 171 P.3d 32.) Analyzing the legislative history and the statutory language, the court found that although \"[f]ines arising from convictions are generally considered punishment\" (id. at p. 757, 68 Cal.Rptr.3d 310, 171 P.3d 32 ), the court security fee serves a \"nonpunitive purpose\" and therefore did not violate prohibitions against ex post facto statutes (id. at p. 759, 68 Cal.Rptr.3d 310, 171 P.3d 32 ). The court identified several factors supporting this conclusion: (1) the express purpose of the assessment was not to punish but to ensure adequate funding for court security (id. at pp. 756, 758, 68 Cal.Rptr.3d 310, 171 P.3d 32 ); (2) the \"court security fee was enacted as part of an emergency budgetary measure for the nonpunitive purpose of funding court security\" (id. at p. 756, 68 Cal.Rptr.3d 310, 171 P.3d 32 ); (3) the security fee measure was effective only if specified trial court funding levels were enacted (ibid . ); (4) \"[a]s originally enacted, the fee was 'part of an extensive statutory scheme applicable to both criminal and specified civil cases designed to fund and coordinate court security' \" (id. at p. 759, 68 Cal.Rptr.3d 310, 171 P.3d 32 ); (5) the security fee may be collected when bail is posted, \"which includes arrestees who will never be charged in an information, indictment, or complaint with a crime\" (id. at p. 756, 68 Cal.Rptr.3d 310, 171 P.3d 32 ); (6) the fee amount is not dependent on the seriousness of the offense (id. at p. 759, 68 Cal.Rptr.3d 310, 171 P.3d 32 ); and (7) the statute labels the assessment solely as a \" 'fee,' and not a 'fine' \" (id. at p. 757, 68 Cal.Rptr.3d 310, 171 P.3d 32 ).\nThese factors are largely inapplicable to the statutes before us. The statutes here do not characterize the assessment solely as a fee, but also include references to the amount as a \"fine\" and/or a \"penalty.\" (\u00a7 11372.5, subd. (a); 11372.7, subd. (a).) Further, the security fee statute (which now refers to the fee as a \"court operations\" assessment) (Pen. Code, \u00a7 1465.8, subd. (a) ) provides that the penalty statutes (Pen. Code, \u00a7 1464 and Gov. Code, \u00a7 76000 ) do not apply to increase this assessment (Pen. Code, \u00a7 1465.8, subd. (b) ). Significantly, there is no similar prohibition in section 11372.5 or section 11372.7. (See Bruns v. E-Commerce Exchange, Inc. (2011) 51 Cal.4th 717, 727, 122 Cal.Rptr.3d 331, 248 P.3d 1185 [if a statute contains a certain provision on one subject and omits it in another statute on a related or analogous subject, the omission is evidence of a different legislative intent]; In re Jennings (2004) 34 Cal.4th 254, 273, 17 Cal.Rptr.3d 645, 95 P.3d 906.) Additionally, the laboratory and drug program fees are imposed only on criminal defendants and only after a conviction for particular drug crimes that are related to these programs. This differs substantially from the court security fee that applied not only to all criminal cases (including some dismissed cases), but also to civil and probate cases. (Alford, supra , 42 Cal.4th at p. 758, 68 Cal.Rptr.3d 310, 171 P.3d 32.) There is also nothing comparable in this case to the conditional nature of Penal Code section 1465.8's initial enactment. As the Alford court said, \"Although it conceivably could happen, it is difficult to divine a punitive purpose for a fee that would go into effect only if specified trial court funding levels ... were enacted.\" (Id. at p. 756, 68 Cal.Rptr.3d 310, 171 P.3d 32.)\nIn reaching the conclusion that the assessments under sections 11372.5 and 11372.7 fall within the meaning of the penalty statutes' \"fine, penalty, or forfeiture\" language, we accept that there are budgetary reasons for these assessments. (See Vega, supra , 130 Cal.App.4th at p. 195, 29 Cal.Rptr.3d 700.) However, the parties have not cited to any statutory language or legislative history showing funding for the services provided was the sole purpose of the assessments. Although the assessments can offset the cost of testing drugs confiscated from persons convicted of certain drug offenses and provide additional funding for drug prevention programs, this does not make an otherwise penal statute not punitive. A fine and fee system can serve deterrence and punishment objectives, and help mitigate the effects of crime. These goals are not mutually exclusive-any particular assessment can seek to achieve more than one of these goals. These multiple objectives do not evidence a legislative intent to exempt assessments imposed under either section 11372.5 or section 11372.7 from the mandatory penalties.\nD. Abstract of Judgment Must Be Modified\nGenerally, an abstract of judgment must identify the amount and statutory grounds for each base fine plus the amount and statutory basis for each penalty assessment. (People v. High (2004) 119 Cal.App.4th 1192, 1200, 15 Cal.Rptr.3d 148.) This itemization allows the Department of Corrections and Rehabilitation to \"fulfill its statutory duty to collect and forward deductions from prisoner wages to the appropriate agency.\" (Ibid. )\nThe trial court did not itemize the fines and penalty assessments. The Attorney General agrees this case should be remanded for the court to modify the abstract of judgment to reflect the itemization of the fines and fees. (See People v. High, supra , 119 Cal.App.4th at p. 1200, 15 Cal.Rptr.3d 148.) We agree and remand on this limited basis.\nDISPOSITION\nJudgment affirmed, and the matter is remanded with directions to the trial court to prepare an amended abstract of judgment that itemizes with the statutory basis, all imposed fines, fees, and penalties. The judgment is affirmed as modified. The trial court is directed to forward a certified copy of the amended abstract of judgment to the Department of Corrections and Rehabilitation.\nWE CONCUR:\nMCCONNELL, P.J.\nDATO, J.\nAll further undesignated statutory references are to the Health and Safety Code.\nWe would welcome the California Supreme Court granting a review petition to resolve the conflict among the Courts of Appeal on this statutory construction issue. The judicial and public attorney resources devoted to the issue (including many published and nonpublished appellate decisions) have likely far outweighed the penalties collected. After this opinion was prepared and was being finalized for publication, the Third District filed an opinion on this same issue reaching the same conclusion as we have reached. (People v. Moore (June 6, 2017, C079171) 12 Cal.App.5th 558, 219 Cal.Rptr.3d 90, 2017 WL 2438828.)\nPenal Code section 1464, subdivision (a)(1) states: \"Subject to Chapter 12 (commencing with [Government Code section 76000 ] ), there shall be levied a state penalty in the amount of ten dollars ($10) for every ten dollars ($10), or part of ten dollars ($10), upon every fine, penalty, or forfeiture imposed and collected by the courts for all criminal offenses, including all offenses, except parking offenses as defined in subdivision (i) of Section 1463, involving a violation of a section of the Vehicle Code or any local ordinance adopted pursuant to the Vehicle Code.\" (Italics added.)\nGovernment Code section 76000, subdivision (a) states: \"(1) Except as otherwise provided elsewhere in this section, in each county there shall be levied an additional penalty in the amount of seven dollars ($7) for every ten dollars ($10), or part of ten dollars ($10), upon every fine, penalty, or forfeiture imposed and collected by the courts for all criminal offenses, including all offenses involving a violation of the Vehicle Code or any local ordinance adopted pursuant to the Vehicle Code. [\u00b6] (2) This additional penalty shall be collected together with and in the same manner as the amounts established by Section 1464 of the Penal Code.... [\u00b6] (3) This additional penalty does not apply to the following: [\u00b6] (A) Any restitution fine. [\u00b6] (B) Any penalty authorized by Section 1464 of the Penal Code or this chapter. [\u00b6] (C) [Certain specified] parking offense [s]. [\u00b6] (D) The state surcharge authorized by Section 1465.7 of the Penal Code.\" (Italics added.)\nSection 11372.5, subdivision (b) states: \"The county treasurer shall maintain a criminalistics laboratories fund. The sum of fifty dollars ... shall be deposited into the fund for every conviction under [the drug offenses specified in subdivision (a) ], in addition to fines, forfeitures, and other moneys which are transmitted by the courts to the county treasurer pursuant to Section 11502.... The county may retain an amount of this money equal to its administrative cost incurred pursuant to this section. Moneys in the criminalistics laboratories fund shall, except as otherwise provided in this section, be used exclusively to fund (1) costs incurred by criminalistics laboratories providing microscopic and chemical analyses for controlled substances, in connection with criminal investigations ..., (2) the purchase and maintenance of equipment for use by these laboratories in performing the analyses and (3) for continuing education, training, and scientific development of forensic scientists regularly employed by these laboratories. Moneys in the criminalistics laboratory fund shall be in addition to any allocations pursuant to existing law.\"\nSection 11372.7, subdivision (c) provides: \"The county treasurer shall maintain a drug program fund. For every drug program fee assessed and collected pursuant to subdivisions (a) and (b), an amount equal to this assessment shall be deposited into the fund for every conviction pursuant to this chapter, in addition to fines, forfeitures, and other moneys which are transmitted by the courts to the county treasurer pursuant to Sections 11372.5 and 11502.... Amounts deposited in the drug program fund shall be allocated by the administrator of the county's drug program to drug abuse programs in the schools and the community, subject to the approval of the board of supervisors, as follows [listing of specified programs].\" Section 11372.7, subdivision (d) states:\n\"Moneys deposited into a county drug program fund pursuant to this section shall supplement, and shall not supplant, any local funds made available to support the county's drug abuse prevention and treatment efforts.\"\nPenal Code section 1464, subdivision (d) allows a court to waive \"all or any part of the ... penalty\" if the \"person convicted ... is in prison until the fine is satisfied\" and the payment \"would work a hardship on the person convicted or his or her immediate family.\"",
+        "type": "majority",
+        "author": "HALLER, J."
+      }
+    ],
+    "attorneys": [
+      "Michelle C. Rogers, under appointment by the Court of Appeal, for Defendant and Appellant.",
+      "Xavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Julie L. Garland, Assistant Attorney General, Steve Oetting and Warren J. Williams, Deputy Attorneys General, for Plaintiff and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "The PEOPLE, Plaintiff and Respondent,\nv.\nLuis ALFORD, Defendant and Appellant.\nD070486\nCourt of Appeal, Fourth District, Division 1, California.\nFiled June 15, 2017\nMichelle C. Rogers, under appointment by the Court of Appeal, for Defendant and Appellant.\nXavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Julie L. Garland, Assistant Attorney General, Steve Oetting and Warren J. Williams, Deputy Attorneys General, for Plaintiff and Respondent."
+  },
+  "file_name": "0594-01",
+  "first_page_order": 594,
+  "last_page_order": 604
+}

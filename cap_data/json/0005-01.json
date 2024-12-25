@@ -1,0 +1,827 @@
+{
+  "id": 12513567,
+  "name": "Ryan SAUNDERS, Petitioner, v. SUPERIOR COURT, County of Santa Clara, (Limited Jurisdiction), Respondent; San Jose Mercury News, LLC, Real Party in Interest.",
+  "name_abbreviation": "Saunders v. Superior Court",
+  "decision_date": "2017-04-28",
+  "docket_number": "No. 16AP002041",
+  "first_page": "5",
+  "last_page": "26",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 5"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. Supp. 5th 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. Super. Ct.",
+    "id": 15278,
+    "name": "California Superior Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 2473",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12581677
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "2489"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/134/2473-01"
+      ]
+    },
+    {
+      "cite": "20 Cal.4th 1178",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        829714
+      ],
+      "pin_cites": [
+        {
+          "page": "1198-1209, & fn. 25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/20/1178-01"
+      ]
+    },
+    {
+      "cite": "64 Cal.Rptr.3d 854",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Cal.App.4th 642",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3615582
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "648"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/154/0642-01"
+      ]
+    },
+    {
+      "cite": "833 F.3d 803",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4350470
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/833/0803-01"
+      ]
+    },
+    {
+      "cite": "819 F.3d 880",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4253597
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/819/0880-01"
+      ]
+    },
+    {
+      "cite": "824 F.3d 421",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4323087
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/824/0421-01"
+      ]
+    },
+    {
+      "cite": "71 Cal.Rptr. 193",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "265 Cal.App.2d 216",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2204966
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "218, fn. 1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/265/0216-01"
+      ]
+    },
+    {
+      "cite": "2 Cal.5th 608",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12513412
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "615-616, 625-629"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-rptr-3d/214/0274-01"
+      ]
+    },
+    {
+      "cite": "533 P.2d 222",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Cal.Rptr. 94",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Cal.3d 757",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2317610
+      ],
+      "pin_cites": [
+        {
+          "page": "775"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/13/0757-01"
+      ]
+    },
+    {
+      "cite": "277 Cal.Rptr. 354",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "226 Cal.App.3d 1128",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2334676
+      ],
+      "pin_cites": [
+        {
+          "page": "1136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/226/1128-01"
+      ]
+    },
+    {
+      "cite": "610 P.2d 436",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Cal.Rptr. 539",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.3d 123",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2261806
+      ],
+      "pin_cites": [
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/27/0123-01"
+      ]
+    },
+    {
+      "cite": "46 Cal.Rptr.2d 84",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Cal.App.4th 526",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6045433
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "532"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/39/0526-01"
+      ]
+    },
+    {
+      "cite": "198 Cal.Rptr. 489",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Cal.App.3d 258",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2121459
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/151/0258-01"
+      ]
+    },
+    {
+      "cite": "74 Cal.Rptr.2d 595",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Cal.App.4th 1200",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "pin_cites": [
+        {
+          "page": "1202-1204"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Cal.Rptr. 821",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 Cal.App.3d 777",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2029289
+      ],
+      "pin_cites": [
+        {
+          "page": "782"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/67/0777-01"
+      ]
+    },
+    {
+      "cite": "980 P.2d 337",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Cal.Rptr.2d 778",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "478 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203186
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "8, 12-14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/478/0001-01"
+      ]
+    },
+    {
+      "cite": "7 Cal.Rptr.2d 841",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Cal.App.4th 106",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2315400
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/6/0106-01"
+      ]
+    },
+    {
+      "cite": "314 P.3d 488",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 18,
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Cal.Rptr.3d 250",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 18,
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 Cal.4th 300",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        4000798
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "309"
+        },
+        {
+          "page": "308-323"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/58/0300-01"
+      ]
+    },
+    {
+      "cite": "23 P.3d 563",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Cal.Rptr.2d 323",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.4th 703",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        265406
+      ],
+      "pin_cites": [
+        {
+          "page": "713"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/25/0703-01"
+      ]
+    },
+    {
+      "cite": "109 P.2d 942",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal.2d 280",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2205571
+      ],
+      "pin_cites": [
+        {
+          "page": "287-291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/17/0280-01"
+      ]
+    },
+    {
+      "cite": "85 Cal.Rptr. 782",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Cal.App.3d 194",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4383839
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/6/0194-01"
+      ]
+    },
+    {
+      "cite": "103 Cal.Rptr. 683",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.App.3d 292",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4406744
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/27/0292-01"
+      ]
+    },
+    {
+      "cite": "31 Cal.Rptr.2d 44",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.App.4th 1095",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1944149
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/25/1095-01"
+      ]
+    },
+    {
+      "cite": "123 Cal.Rptr. 448",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Cal.App.3d 347",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6040981
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/50/0347-01"
+      ]
+    },
+    {
+      "cite": "273 Cal.Rptr. 196",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 11,
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 Cal.App.3d 1284",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4382766
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/223/1284-01"
+      ]
+    },
+    {
+      "cite": "23 Cal.Rptr.3d 50",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Cal.App.4th 629",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1237833
+      ],
+      "pin_cites": [
+        {
+          "page": "641"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/125/0629-01"
+      ]
+    },
+    {
+      "cite": "304 P.2d 13",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Cal.2d 428",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2340910
+      ],
+      "pin_cites": [
+        {
+          "page": "432"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/47/0428-01"
+      ]
+    },
+    {
+      "cite": "53 Cal.Rptr.3d 722",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Cal.App.4th 1545",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5568169
+      ],
+      "pin_cites": [
+        {
+          "page": "1549"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/146/1545-01"
+      ]
+    },
+    {
+      "cite": "187 Cal.Rptr.3d 403",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "236 Cal.App.4th 1470",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6845384
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1483"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/236/1470-01"
+      ]
+    },
+    {
+      "cite": "553 P.2d 624",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Cal.Rptr. 464",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal.3d 859",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2292843
+      ],
+      "pin_cites": [
+        {
+          "page": "863"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/17/0859-01"
+      ]
+    },
+    {
+      "cite": "553 P.2d 565",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Cal.Rptr. 405",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal.3d 908",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2292811
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "925"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/17/0908-01"
+      ]
+    },
+    {
+      "cite": "210 Cal.Rptr. 899",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Cal.App.3d 1112",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2126920
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/164/1112-01"
+      ]
+    },
+    {
+      "cite": "873 P.2d 1246",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Cal.Rptr.2d 651",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Cal.4th 948",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1981844
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/7/0948-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1845,
+    "char_count": 65861,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2586577441387509
+    },
+    "sha256": "36ed1f8058783f1f0db8939fd23905f213a3d52df6421eb69675e4fe626cb2f5",
+    "simhash": "1:a9fab7b662ccf692",
+    "word_count": 10457
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ryan SAUNDERS, Petitioner,\nv.\nSUPERIOR COURT, County of Santa Clara, (Limited Jurisdiction), Respondent;"
+    ],
+    "opinions": [
+      {
+        "text": "Williams, P.J.\nPetitioner Ryan Saunders, who worked as a custodial officer in the county jail, was accused of eight misdemeanor counts of violating Penal Code section 13304, for his alleged unauthorized access, receipt, or possession of local summary criminal information. The People alleged by complaint that Saunders had illegally accessed a county criminal-information database-CJIC-and passed protected information to people associated to a Hell's Angels motorcycle gang.\nAs part of pre-filing investigation in 2015, law enforcement, namely the Santa Clara County Sheriff's Office, which also employed Saunders as a custodial officer in the jail, sought and obtained a search warrant for his personal cell-phone records. The warrant sought a broad swath of information, including but not limited to text-message content for a two-and-a-half-year period of time. The search warrant was executed and the third-party service provider, Verizon, complied by producing Saunders's cell-phone records, and placing them in the hands of the Sheriff's Office as the prosecuting law enforcement agency.\nAfter the misdemeanor complaint was filed, the People determined that Saunders's cell-phone records were not needed, and would not be used for, prosecution of the case against him. No portion of the records was ever admitted into evidence or used in any court proceeding in connection with the case, which has since resolved by plea. But in the meantime, the local newspaper and real party in interest, San Jose Mercury News LLC, learned that Saunders's text-message content produced in response to the search warrant was likely to include vile and racist text messages exchanged between Saunders and other custodial officers working in the jail. This prompted the Mercury News to initiate a California Public Records Act request with Santa Clara County, by which it sought access to Saunders's seized cell-phone records in the hands of the Sheriff's Office.\nIn response, the County, through the Office of the County Counsel, (erroneously) concluded that Saunders's personal cell-phone records seized under the search warrant were open to public access under the Act. But instead of acquiescing to the Mercury News's CPRA request by providing or making available the seized documents directly to the Mercury News under that Act, the County deposited a compact disk containing the records with the court. Saunders objected to the release of his private cell-phone content to the Mercury News, contending there was no right of public access to this information and that he and his right to a fair trial would be harmed by its release.\nSaunders and the Mercury News litigated this question below, with the trial court ultimately ordering the release of the seized records with certain redactions. The court did not identify the authority it relied on for its order, other than its stated recognition that the records were subject to the court's \"control and disposition.\" But the court expressly concluded that Saunders had not presented \"a compelling justification\" for withholding release of the seized records to the public and there was no need to keep them confidential. The court also found that release of the records would have no prejudicial impact on Saunders.\nSaunders sought writ relief in prohibition or mandate in the Appellate Division, and we stayed the trial court's release order and issued an order to show cause. After full briefing and oral argument, we conclude that the trial court's order releasing Saunders's private cell-phone records-obtained through execution of a search warrant on a third-party service provider-to the Mercury News was an abuse of discretion. For one thing, even acknowledging policies promoting public access to court or judicial records, property or things seized under a search warrant are not publicly accessible, unlike warrant materials-the warrant, supporting probable-cause affidavit, and return-under Penal Code section 1534, subdivision (a). Moreover, the seized records, in their present state and in this procedural context, are not court or judicial records, and there is no associated public right of access, whether rooted in the federal or state Constitution, statutory authorities, or the common law, to such private property or things seized under a search warrant and constructively possessed by the court pending a criminal prosecution, when those things are never offered in evidence or otherwise used in a court proceeding. And even if the court acted only through its inherent power to control the disposition of the seized records regardless of their status as a court or judicial record, their release at this procedural juncture before they were ever offered in evidence or otherwise used in the criminal proceeding, would cause irreparable harm to Saunders's constitutional right to privacy. We accordingly grant writ relief.\nSTATEMENT OF THE CASE\nAs noted, Saunders was charged by misdemeanor complaint with eight violations of Penal Code section 13304, which prohibits an unauthorized person from buying, receiving, or possessing a record of local summary criminal-history information or information obtained from such record. The underlying facts of these crimes are not relevant to this writ proceeding. But in sum, and as we've noted by way of introduction, Saunders was alleged to have engaged in the prohibited conduct by accessing and obtaining information from CJIC while he was employed as a correctional deputy in the county jail, and turning that information over to members of a Hell's Angel motorcycle gang.\nDuring the 2015 criminal investigation that preceded the filing of the misdemeanor complaint, law enforcement sought to obtain (under search warrant number CSW47657 ) Saunders's personal cell-phone records for a two-and-a-half-year period from his third-party service provider, \"Cellco Partnership, LLP DBA Verizon Wireless\" (Verizon). The search warrant broadly sought, among other things, \"[a]ll records associated with the identified mobile number\" belonging to Saunders, including all phone numbers communicating with Saunders's phone number by call and text message; text message content; voicemail; \"all data connections;\" cell-site information; subscriber, billing, and credit information; email; digital images and \"associated metadata;\" address books; calendars; and \"applications and their associated account information,\" including but not limited to Facebook, Instagram, Twitter and Skype.\nOne June 12, 2015, the same day the search warrant was issued, and before it was executed, a portion of the supporting affidavit (\"Hobbs Attachment-Exhibit A\") was ordered sealed by the magistrate under the cited authority of Evidence Code sections 1040 -1042, People v. Hobbs (1994) 7 Cal.4th 948, 30 Cal.Rptr.2d 651, 873 P.2d 1246, and People v. Flannery (1985) 164 Cal.App.3d 1112, 210 Cal.Rptr. 899.\nAccording to the July 28, 2015 \"search warrant return inventory,\" what law enforcement obtained from Verizon by executing the search warrant was \"[e]lectronic phone records\" related to Saunders's personal cell-phone number from November 1, 2012 to June 12, 2015. According to the parties, the phone records seized under the warrant include actual content of Saunders's text messages. He submits that this content is private, contains \"private facts\" and \"embarrassing communications,\" and that he did not consent to its release beyond the intended recipients of the messages. Some of the texts were apparently vile and racist in nature; we say apparently because we have not viewed them ourselves. And, according to the Mercury News, some of these offensive messages were sent to and received by other custodial officers, though we are aware of nothing to establish that some or all of these text messages were sent or received while the communicating parties were at work in the jail. According to briefing filed in the trial court by the Mercury News, Saunders wrote in one text message to another custodial officer: \"I know you are on vacation, going to be more f- - - up than a n- - - - -'s checkbook by 4 p.m.\"\nOn November 17, 2015, several months after the search warrant was executed, a different judge than the magistrate who had signed the search warrant and the sealing order issued an order \"that Search Warrant #CSW47657 and all supporting affidavits, probable cause statements, attachments, and seized documents which were sealed on June 12, 2015 ... be unsealed and made part of the public record.\" (Italics added.) This order purported to \"unseal\" matters that had not been sealed in the first place, as the sealing order had covered only the \"Hobbs Attachment-Exhibit A\" to the probable cause affidavit. The law enforcement affidavit supporting the application to \"unseal\" \"all supporting affidavits, probable cause attachments, attachments, and seized documents\" urged that unsealing was necessary \"so the information contained within may be properly and fully utilized as needed for any criminal proceedings.\"\nUpon getting wind of this overbroad unsealing order, the Mercury News concluded that its public right of access to Saunders's seized phone records had been established and initiated a CPRA request with Santa Clara County, through which it sought access to the seized cell-phone content in the hands of the Sheriff's Office. The County appears to have then agreed that the trial court's November 17, 2015 unsealing order made the records seized under the search warrant part of the public record and subject to the CPRA, but recognized that the Sheriff's possession of the seized records was constructive only and in service to the court. In response to the Mercury News's CPRA request, the County did not directly provide the seized records to the Mercury News under the Act but instead deposited a compact disk containing Saunders's seized cell-phone records with the judge who had signed the \"unsealing\" order.\nThat judge later clarified at a hearing that he had not intended by the unsealing order to \"unseal\" the records seized under the warrant. The court correctly explained that this order could not have \"unsealed\" the content of Saunders's text messages, which is what the Mercury News was primarily after, because these seized records had not been sealed by the June 12, 2015 order in the first place and, in fact, had not even been obtained by law enforcement until later when the search warrant was executed. But the court did express a concern that Saunders's seized cell-phone records had become part of the court file by the County having deposited the compact disk with the court and they potentially had thereby become \"court records\" subject to being released to the public.\nSaunders objected to the release of his cell-phone records-and specifically his text messages-contending there was no right of public access to these records by the \"unsealing\" order or any other authority. The Mercury News appeared in court and filed papers pressing for the release of the seized records, particularly the text-message content. At that juncture, the County took no position on the release of the records. And, for their part, the People informed the court that they did not intend to use Saunders's seized cell-phone records in the underlying criminal case against him and \"submitted\" the issue to the court.\nOn May 20, 2016, based on its conclusion that the records were subject to its \"control and disposition,\" the court ordered the release to the public of Saunders's seized cell-phone records, excluding any \"emails\" along with phone and text numbers with which his phone had communicated. The court also ordered redaction of personal identifying information except \"first names and first initials of the last names\" of any individuals whose names appeared in the records. As noted, the court found that Saunders had not presented \"a compelling justification\" against release of the seized records and saw no reason to keep them confidential. The court further found that release of the records would have no prejudicial impact on Saunders.\nSaunders then timely pursued writ relief, alternatively in prohibition or mandate, in this court. We stayed the trial court's order releasing the seized records, issued an order to show cause, held oral argument after full briefing, and then requested and received supplemental briefing after learning that Saunders had resolved the criminal case by change of plea.\nDISCUSSION\nI. Scope of Relief in Mandate and Standard of Review\nCode of Civil Procedure section 1085, subdivision (a), is the source of authority for a court to order relief in mandate. Subdivision (b) of this section specifically provides that the appellate division of a superior court may issue a writ of mandate in a limited civil, misdemeanor, or infraction case.\nThe writ of mandate lies generally to compel an inferior court or its officer to perform an act that the law imposes as a duty when no plain, speedy, and adequate remedy at law is available. (Payne v. Superior Court (1976) 17 Cal.3d 908, 925, 132 Cal.Rptr. 405, 553 P.2d 565 ; Loder v. Municipal Court (1976) 17 Cal.3d 859, 863, 132 Cal.Rptr. 464, 553 P.2d 624.) \" 'Although mandamus does not generally lie to control the exercise of judicial discretion, the writ will issue \"where, under the facts, that discretion can be exercised in only one way.\" ' [Citations.]\" (Diaz-Barba v. Superior Court (2015) 236 Cal.App.4th 1470, 1483, 187 Cal.Rptr.3d 403 ; San Diego Gas & Electric Co. v. Superior Court (2007) 146 Cal.App.4th 1545, 1549, 53 Cal.Rptr.3d 722.) In other words, mandate \"lies to control judicial discretion when that discretion has been abused.\" (State Farm etc. Ins. Co. v. Superior Court (1956) 47 Cal.2d 428, 432, 304 P.2d 13 (State Farm ); see also Gray v. Superior Court (2005) 125 Cal.App.4th 629, 641, 23 Cal.Rptr.3d 50 [mandate proper to set aside order or judgment that abuses discretion vested in the court].) Discretion is abused when its \"exercise exceeded all bounds of reason, all of the circumstances before it being considered.\" (State Farm, supra , 47 Cal.2d at p. 432, 304 P.2d 13.) An abuse of discretion remediable by mandate may consist of a misinterpretation of a statute or case law, or an improper ruling under the particular facts.\nAn order granting disclosure in violation of a privilege or privacy right, typically in discovery proceedings, is emblematic of the sort of order subject to relief in mandate for which no legal remedy is adequate because a later appeal will not cure the prejudicial disclosure of privileged or private information. (Oziel v. Superior Court (1990) 223 Cal.App.3d 1284, 1294, 273 Cal.Rptr. 196 (Oziel ) [mandate available in cases in which discovery violates a privilege or intrudes on constitutionally secured right to privacy].) A writ of mandate is also properly used to adjudicate matters like this one, which are collateral to criminal proceedings, including for the return of a defendant's property confiscated by police (see, e.g., Espinosa v. Superior Court (1975) 50 Cal.App.3d 347, 123 Cal.Rptr. 448 [return of firearms after acquittal]; People v. Beck (1994) 25 Cal.App.4th 1095, 31 Cal.Rptr.2d 44 [return of firearms after conviction of unrelated offense] ); for return of property seized with or without a warrant (see, e.g., Oziel, supra , at p. 1294, 273 Cal.Rptr. 196 ); or for the sealing of an arrest record (see, e.g., Scott A. v. Superior Court (1972) 27 Cal.App.3d 292 -293, fn. 1, 103 Cal.Rptr. 683 ; McMahon v. Superior Court (1970) 6 Cal.App.3d 194, 85 Cal.Rptr. 782 ). The present order is thus appropriately reviewed by petition for writ of mandate.\nThe writ of prohibition, in contrast, lies to restrain a threatened judicial act without or in excess of jurisdiction. (Code Civ. Proc., \u00a7 1102.) It is appropriate to preventatively preempt jurisdictional defects or errors, not to restrain errors of a nonjurisdictional nature or to prevent an abuse of discretion. (Abelleira v. District Court of Appeal (1941) 17 Cal.2d 280, 287-291, 109 P.2d 942.) We conclude that a writ of prohibition is not a proper vehicle in this case as the trial court unquestionably had jurisdiction to act and already did so. We accordingly proceed to consider Saunders's petition for one in mandate alone.\nII. The CPRA Does Not Apply\nFor clarity, we address this point at the outset. Although the Mercury News initially sought the seized records from the County under the CPRA, the County did not follow the procedures under that Act by directly providing the records to the Mercury News for inspection (Govt. Code, \u00a7 6253, subd. (a)), making a copy available to the Mercury News on payment of a fee (Govt. Code, \u00a7 6253, subd. (b)), or offering a justification for withholding the records (Govt. Code, \u00a7 6255 [permitted justification is that on facts of particular case, public interest better served by nondisclosure] ). The County instead deposited a compact disk containing the records with the trial court-a response not covered by the Act. And the Mercury News initiated no further action or sought any remedy as provided under the Act to obtain the records. (Govt. Code, \u00a7\u00a7 6258 & 6259 [provisions for injunctive or declaratory relief or relief in mandate to enforce right to inspect or receive copy of public record].) Nor did the trial court mention the CPRA in ordering the seized records released to the public. Nor does the Mercury News, in arguing that the order was proper, rest on the CPRA.\nIt thus seems undisputed that the CPRA does not apply here and has no direct effect on our analysis, notwithstanding the Mercury News's initial request that sparked the chain of events leading us here.\nEven if the trial court or the Mercury News had invoked the CPRA as support for the order releasing the records, we would reject its application in these circumstances. The records, seized under a search warrant, were always subject to the control of the court, not the County, even before the court had actual possession of them. The County could thus not have simply released the records or made them available in response to a CPRA request. As observed by the Court of Appeal in People v. Superior Court (Laff ) (2001) 25 Cal.4th 703, 713, 107 Cal.Rptr.2d 323, 23 P.3d 563 (Laff ), \"[l]aw enforcement officials who seize property pursuant to a warrant issued by the court do so on behalf of the court, which has authority pursuant to Penal Code section 1536 to control the disposition of the property.\" What's more, although the CPRA governs requests for the records of most public agencies, it expressly exempts the judicial branch. (Gov. Code, \u00a7 6252, subd. (f)(1) ; Sander v. State Bar of California (2013) 58 Cal.4th 300, 309, 165 Cal.Rptr.3d 250, 314 P.3d 488 (Sander ); Copley Press, Inc. v. Superior Court (1992) 6 Cal.App.4th 106, 111, 7 Cal.Rptr.2d 841 (Copley Press ).) It was singularly the court, therefore, which had not only the express power under Penal Code section 1536 to control disposition of the seized property or things, but the inherent power to do so, as the trial court here recognized. (Laff, supra , 25 Cal.4th at pp. 713-714, 107 Cal.Rptr.2d 323, 23 P.3d 563.)\nWe thus dispense with any further discussion of the CPRA as a possible source of authority for the challenged order releasing the records to the public.\nIII. The Text Messages Are Not Court or Judicial Records Subject to a Statutory or Constitutional Right of Public Access\nThe Mercury News asserts that \"California law provides that after execution of a search warrant, the warrant and related documents are required to be made public as court records\" under Penal Code section 1534. This is a true statement of the law as far as it goes. But this does not mean that property or things seized under a search warrant, like Saunders's cell-phone records, are warrant materials that fall under Penal Code section 1534. They are not. By its contention, the Mercury News has conflated the warrant documents, which by statute become available to the public, with property or things seized under the warrant.\nPenal Code section 1534 provides in pertinent part: \"A search warrant shall be executed and returned within 10 days after date of issuance.... The documents and records of the court relating to the warrant need not be open to the public until the execution and return of the warrant or the expiration of the 10-day period after issuance. Thereafter, if the warrant has been executed, the documents and records shall be open to the public as a judicial record .\" (Pen. Code, \u00a7 1534, subd. (a), italics added.)\nContrary to the Mercury News's contention, this section does not provide authority for the trial court's order here. Property or things seized under the authority of a search warrant, in whatever form they may take, do not constitute \"documents and records of the court relating to the warrant.\" They therefore are not \"judicial records\" subject to being made public under Penal Code section 1534.\nA study of relevant statutory text quickly confirms this conclusion. The Penal Code sections applicable to search warrants distinguish between the documents and records of the warrant itself and the evidence or property seized under the warrant's authority. For example, Penal Code section 1534, subdivision (a), distinguishes between \"documents and records of the court relating to the warrant\" and \"execution\" of the warrant. Likewise, Penal Code section 1535 refers to \"property\" taken under the warrant and makes no mention of documents or records relating to the warrant. (Pen. Code, \u00a7 1535 [\"When the officer takes property under the warrant, he must give a receipt for the property taken (specifying it in detail) to the person from whom it was taken by him, or in whose possession it was found; or, in the absence of any person, he must leave it in the place where he found the property\"].) Similarly, Penal Code section 1536 speaks to \"property or things taken on a warrant\" and omits any reference to documents or records relating to the warrant. (Pen. Code, \u00a7 1536 [\"All property or things taken on a warrant must be retained by the officer in his custody, subject to the order of the court to which he is required to return the proceedings before him, or of any other court in which the offense in respect to which the property or things taken is triable\"].) And, again, Penal Code section 1537 differentiates between the warrant itself and \"the property taken\" under that warrant. (Pen. Code, \u00a7 1537 [\"The officer must forthwith return the warrant to the magistrate, and deliver to him a written inventory of the property taken, made publicly or in the presence of the person from whose possession it was taken, and of the applicant for the warrant, if they are present, verified by the affidavit of the officer at the foot of the inventory, and taken before the magistrate at the time, to the following effect: 'I, R.S., the officer by whom this warrant was executed, do swear that the above inventory contains a true and detailed account of all the property taken by me on the warrant' \"].)\nThe Court of Appeal addressed Penal Code section 1534 in Oziel , a decision on which Saunders relies. In Oziel , news organizations sought disclosure of videotapes depicting the execution of a search warrant in a murder prosecution at the residence and office of a psychotherapist who had treated the defendants. (Oziel, supra, 223 Cal.App.3d at pp. 1288-1290, 273 Cal.Rptr. 196.) The media argued that the videotapes were \"documents or records of the court relating to a search warrant under Penal Code section 1534, which provides that if a search warrant has been executed, 'the documents and records shall be open to the public as a judicial record[.]' \" (Id. at p. 1290, 273 Cal.Rptr. 196.) The media also argued that disclosure was required under the First Amendment right to open trials.\nThe Oziel court concluded that the videotapes were not a \"judicial record\" because they had not been offered as an exhibit or admitted into evidence in any court proceedings and, further, because \"property seized under color of a search warrant\" was not the legal equivalent of \"the affidavit, return or other documents and records of the court relating to the warrant,\" which were made judicial records under Penal Code section 1534, subdivision (a). (Oziel, supra, 223 Cal.App.3d at p. 1295, 273 Cal.Rptr. 196, original italics.) The court also cited as support Code of Civil Procedure section 1904, which defines a judicial record as \"the record or official entry of the proceedings in a court of justice, or of the official act of a judicial officer, in an action or special proceeding.\" The sought-after videotapes did not constitute judicial records subject to public access under this definition. We note that the defined phrase \"court record\" at Government Code section 68151, subdivision (a) would not include property or evidence seized under a search warrant. Nor would rule 2.550 of the California Rules of Court, which defines a court \"record\" and governs the requirements for sealing them.\nThe Oziel conclusions about seized property not constituting a court or judicial record are directly on point here. As in Oziel , the property or thing being sought by the media, the Mercury News, was obtained under a search warrant and has not been offered as an exhibit or admitted into evidence in any court proceedings. Further, these seized records are never going to become a \"judicial record\" by being filed, offered into evidence, or otherwise used in a judicial proceeding.\nThe Mercury News attempts to distinguish Oziel on the basis that unlike this one, that case arose in the context of a search warrant involving records of a treating psychotherapist, invoking the special provisions of Penal Code section 1524, subdivisions (c) and (d). These provisions concern the appointment of a special master to accompany the person who will serve a search warrant seeking documentary evidence in the possession of a lawyer, a physician, a psychotherapist, or a member of the clergy when such person is not suspected of engaging in the criminal activity for which the warrant is requested. But this extra confidential setting makes no difference to Oziel 's first conclusion that property or things seized under a search warrant are not judicial records and are distinguished from warrant materials that are ultimately to be made public as judicial or court records under Penal Code section 1534, subdivision (a). This conclusion is likewise applicable here.\nIt is true that the Oziel court did discuss the specific statutory special-master procedures at play under Penal Code section 1524, subdivisions (c) and (d), when a search warrant seeks documentary records from a listed professional not suspected of criminal activity. But this discussion was in the context of the court having later assumed, for the sake of argument, that property seized under a warrant is a judicial record subject to a First Amendment right of public access to judicial proceedings. With that conclusion assumed \"arguendo,\" the Oziel court then engaged in the weighing and balancing of countervailing policy considerations necessitated by that conclusion to determine which competing interest-public access or nondisclosure-would predominate in that case. (See Press-Enterprise Co. v. Superior Court (1986) 478 U.S. 1, 8, 12-14, 106 S.Ct. 2735, 92 L.Ed.2d 1 [announcing two-part experience and logic test for whether First Amendment right of access attaches to a particular judicial proceeding]; NBC Subsidiary, supra , 20 Cal.4th at pp. 1209-1210, 86 Cal.Rptr.2d 778, 980 P.2d 337 [extending First Amendment right of access to civil cases].) These opposing considerations in Oziel included the First Amendment right of access on the one hand and, collectively on the other hand, the special need for confidentiality as reflected by the statutory special-master procedures, plus the constitutional privacy rights of Oziel, images of whose home, office, and spouse were captured on the videotapes. (Oziel, supra , 223 Cal.App.3d at pp. 1295-1302, 273 Cal.Rptr. 196.) The Court of Appeal ultimately concluded that even assuming the videotapes were judicial records, in the procedural setting of that case, confidentiality and privacy would carry the day in a First Amendment right-of-access analysis. (Id. at p. 1302, 273 Cal.Rptr. 196.)\nBut this conclusion in Oziel was the suspenders over the belt. It is the belt-that property or things seized under a search warrant and not yet used in any court proceeding are distinguished from \"warrant materials\" and do not constitute court or judicial records-that we rely on here.\nThe Mercury News further seeks to distinguish Oziel , citing to article I, section 3, subdivision (b) of the California Constitution (Proposition 59) and observing that the case was decided before the California Constitution was amended to include this express right of access to the records of public agencies, which for this purpose includes the courts. This constitutional provision says that the \"people have the right of access to information concerning the conduct of the people's business, and, therefore, the meetings of public bodies and the writings of public officials and agencies shall be open to public scrutiny.\" (Cal. Const., art. I, \u00a7 3, subd. (b)(1).) It goes on to provide that a \"statute, court rule, or other authority, including those in effect on the effective date of this subdivision, shall be broadly construed if it furthers the people's right of access, and narrowly construed if it limits the right of access.\" (Cal. Const., art. I, \u00a7 3, subd. (b)(2).)\nBut the Mercury News cites no authoritative or persuasive authority, and our own independent research has yielded none, holding or suggesting that the records here-seized by law enforcement under a search warrant, not admitted into evidence or as an exhibit in any court proceeding, and, in fact, not contemplated to ever be introduced against Saunders in the underlying prosecution-fall within the quoted language of the constitutional provision.\nThe plain text presupposes that a \"writing\" subject to this provision qualifies as a public record, court or otherwise. And to the extent this constitutional provision requires us to liberally construe the Penal Code sections relating to search warrants to further the people's right of access, we have no power to disregard the statutory text that, as we have explained, clearly distinguishes between warrant materials on the one hand and property or things seized under a warrant on the other hand. Thus, while article I, section 3 of the State Constitution broadly promotes the people's right of access to public business, it does nothing for the Mercury News here because Saunders's seized cell-phone records are not court or judicial records affected by its coverage.\nIV. The Common Law Public Right of Access\nIn Sander, supra , 58 Cal.4th 300, 308-323, 165 Cal.Rptr.3d 250, 314 P.3d 488, the California Supreme Court addressed the common law public right of access in a case involving records of the State Bar, as an administrative arm of the California Supreme Court, and therefore a judicial entity, in matters of admission and discipline of attorneys. The high court recognized that the common law public right of access was historically not limited to access to \" 'public records' \" or writings per se as defined in statute but included \" 'other matters,' \" i.e., that \" 'which is \"public,\" and in which the whole public may have an interest.' [Citation.]\" (Id . at p. 314, 165 Cal.Rptr.3d 250, 314 P.3d 488.) The court discussed the historical development and evolution of the common law public right of access, sometimes in response to legislation affecting public access, like the CPRA, adopted in 1968. Even though this Act exempts the judiciary, both cases and statutes continued after its adoption to recognize the distinct common law public right of access. (Sander, supra , 58 Cal.4th at p. 318, 165 Cal.Rptr.3d 250, 314 P.3d 488.) \"The common law right of access continued to be applied and to develop in cases addressing court records, which recognized that '[t]o prevent secrecy in public affairs[,] public policy makes public records and documents available for public inspection by newsmen and members of the general public alike.' (Estate of Hearst (1977) 67 Cal.App.3d 777, 782 [136 Cal.Rptr. 821].) 'Absent strong countervailing reasons, the public has a legitimate interest and right of general access to court records....' (Id . at p. 784 [136 Cal.Rptr. 821].)\" (Sander, supra , 58 Cal.4th at p. 318, 165 Cal.Rptr.3d 250, 314 P.3d 488.) Its essential test remains a balancing one when the records at issue do not fall squarely within or without categories of matters historically recognized as either publicly accessible or not subject to disclosure. An important common-law-public-right-of-access case, Copley Press , was decided in 1992. (Copley Press, supra , 6 Cal.App.4th 106, 7 Cal.Rptr.2d 841.) There, the Court of Appeal \"summarized the principles governing public access to court records. It identified two categories of records typically used in the courts. The first included 'documentation which accurately and officially reflects the work of the court, such as its orders and judgments, its scheduling and administration of cases, its assignment of judicial officers and administrators [,] ... the official court minutes, all its written orders and dispositions, the official reports of oral proceedings, ... the master calendar [,] ... [and] the various documents filed in or received by the court ... and the evidence admitted in court proceedings.' [Citation.] These documents are ' \"judicial record[s]\" ' that 'represent and reflect the official work of the court, in which the public and press have a justifiable interest.' [Citation.] They are presumptively accessible to the public.\" (Sander, supra , 58 Cal.4th at pp. 318-319, 165 Cal.Rptr.3d 250, 314 P.3d 488, fn. omitted but see fn. 12 ante in this opinion; see also KNSD Channels 7/39 v. Superior Court (1998) 63 Cal.App.4th 1200, 1202-1204, 74 Cal.Rptr.2d 595 [common law public right of access, though not absolute, applies presumptively to evidence introduced in judicial proceedings but still must be reconciled with legitimate countervailing public or private interests].)\n\"The second category of records identified in Copley Press includes informal and preliminary writings used by the courts, such as rough drafts, informal notes, memoranda, and other preliminary writings. [Citation.] Although such writings are used by judges in the course of judicial work, they are not subject to the right of public access. [Citations.] The reason is that public access to such documents is not generally in the public interest because they are 'tentative, often wrong, sometimes misleading ... they do not speak for the court and do not constitute court action.' [Citation.] ... Knowing that such [raw] materials could be exposed to the public eye would inhibit their creation.\" (Sander, supra , 58 Cal.4th at p. 319, 165 Cal.Rptr.3d 250, 314 P.3d 488, italics added.)\nBut Copley Press recognized \"that not every document used and maintained by the courts clearly falls into one of these two categories. It identified a third category of records that 'are on the margin' of these two categories. [Citation.]\" (Sander, supra , 58 Cal.4th at p. 319, 165 Cal.Rptr.3d 250, 314 P.3d 488.) Copley Press involved minute books kept by clerks serving six judges. The minute books were the clerks' informal notes \"as a precursor to the creation of the formal minutes of the court. [Copley Press ] concluded that the clerk's rough minutes [fell] into this marginal category. They are not official records of the court and do not constitute court action, but '[o]n the other hand, they do not partake of the discretionary and incomplete content that characterizes the judge's bench notes or the first drafts of various court documents.' [Citation.] The [Copley Press ] court concluded that the clerk's rough minutes should be disclosed to the public.\" (Sander , supra , 58 Cal.4th at p. 319, 165 Cal.Rptr.3d 250, 314 P.3d 488.) The books were kept regularly by all clerks, they reflected the clerks' ministerial actions, and \" 'presumptively contain[ed]\nonly accurate, descriptive and non-discretionary information.' [Citation.]\" (Ibid . ) And the books were the \" 'one repository of easy access' that provided 'a continuous chronology of each court's daily activities.' Thus, in deciding whether documents that do not clearly fit into the category of public court records are subject to a right of access, Copley Press focused on the usefulness of the records and thereby on the public's interest in access to those records.\" (Sander, supra , 58 Cal.4th at p. 320, 165 Cal.Rptr.3d 250, 314 P.3d 488, italics added.)\nSander also cited with approval Pantos v. City and County of San Francisco (1984) 151 Cal.App.3d 258, 198 Cal.Rptr. 489 (Pantos ), as reflecting an enduring and correct approach to the common law right of public access before and after the adoption of the CPRA in 1968. In Pantos , the Court of Appeal held that a \"court's master jury list of potential jurors qualified for service was a judicial record that must be disclosed to the public. [Citation.]\nThe master list constituted an official list prepared by the jury commissioner that had historically been treated as a public document , and the Court of Appeal found no compelling reason for nondisclosure. [Citation.]\" (Sander, supra , 58 Cal.4th at p. 320, 165 Cal.Rptr.3d 250, 314 P.3d 488, italics added.) But Pantos also held that completed juror questionnaires used by the commissioner to determine whether citizens were qualified for jury service need not be disclosed. These documents were used and maintained by the court but they had not historically been disclosed to the public. Although it was argued that public access to the questionnaires would enhance the fairness of jury selection, the court concluded that jury voir dire was sufficient for this purpose. (Pantos, supra , 151 Cal.App.3d at pp. 263-265, 198 Cal.Rptr. 489.) And the questionnaires informed prospective jurors filling them out that the form would remain confidential. (Id. at p. 264, 198 Cal.Rptr. 489.) The Pantos court concluded that disclosure of the questionnaires under these circumstances might adversely affect a juror's willingness to serve, and this in turn would negatively have an impact on efficient court administration. The public interest in withholding the questionnaires thus outweighed \" 'the public interest in disclosure.' [Citation.]\" (Sander, supra , 58 Cal.4th at p. 320, 165 Cal.Rptr.3d 250, 314 P.3d 488.)\nUnlike the CPRA, the common law right of public access does not recognize a presumptive right of access to every record in possession of a government agency that is in any way related to the public's affairs. \"Although the official records of government actions have historically been treated as subject to public access and are readily categorized as 'public records,' for other matters or types of records a determination must be made concerning whether the records at issue should be treated as public, taking into account the public's interest in disclosure as well as the competing interests involved .\" (Sander, supra , 58 Cal.4th at p. 323, 165 Cal.Rptr.3d 250, 314 P.3d 488, italics added.) Thus, whether there is a common law right of public access to particular records in the hands of a court that are neither an official record historically treated as such nor a court's informal and preliminary predecisional materials but instead fall into the \"marginal\" third category, comes down to whether there is a legitimate public interest in the records and whether that interest is not outweighed by other interests . (Ibid . )\nThe Sander court went on to conclude that the records at issue there-the State Bar admissions database-fell into the \"marginal\" third category because the records did not constitute either an \"official record of the State Bar's actions\" \"historically\" treated as a public record or a record similar to \"preliminary, predecisional materials whose disclosure could undermine the purposes for which they were created and which could be misleading or inaccurate.\" (Sander, supra , 58 Cal.4th at pp. 323-324, 165 Cal.Rptr.3d 250, 314 P.3d 488.) Because the records were not of either clearly delineated category, the \"threshold consideration in determining whether these records are subject to public disclosure is the public interest that would be served by disclosure. In making that determination, the particular motive of the party seeking the information is not the relevant interest. [Citations.] Rather, we focus on 'whether disclosure would contribute significantly to public understanding of government activities.' [Citations.] Thus, although plaintiff Sander's motive in seeking the information is to facilitate his research regarding law school admissions practices, we focus on the interest of the general public in the activities of the State Bar .\" (Id . at p. 324, 165 Cal.Rptr.3d 250, 314 P.3d 488, italics added.)\nIt is therefore the activities of the particular public agency holding the records, here the court, that is the focus of this public-interest analysis of records falling into the marginal third category. The Mercury News skews and muddles this analysis by misplaced focus on the urged public interest in Saunders's position and activities as a custodial officer and public employee. But the proper focus when applying the common law right of public access to records falling within the \"marginal\" category remains on whether disclosure would contribute significantly to public understanding of the particular agency's-here, the court's-activities.\nV. The Trial Court Abused its Discretion in Ordering Public Disclosure of the Seized Records\nWe have concluded that the Penal Code sections governing search warrants did not mandate release of Saunders's seized records. We have also concluded that neither the CPRA nor the state constitutional right of public access to \"the writings of public officials\" (Cal. Const., art. I, \u00a7 3 ) apply here. We now address whether the trial court's release of the records constituted an abuse of discretion under the common law right of public access, although the trial court did not expressly rely on this doctrine.\nWe first observe that Saunders's seized records, not offered in evidence or otherwise used in any court proceeding, are arguably not a judicial or court record subject to disclosure at all, as he maintains. The records, while in the constructive possession of the court for purposes of prosecution, were not created, used, or maintained by the court. They do not constitute government information. They have not been the subject of an adjudicatory proceeding. They are not part of any predecisional court process and are unrelated to the inner workings of the court. They were obtained from a third party under color of law, they include matter of an unquestionably and historically private nature (cell-phone content), and they have not been viewed, altered, or manipulated for purposes of any court or judicial process involving the underlying case against Saunders-the reason they were seized in the first place. But we will assume, for purposes of argument, that the seized records, by virtue of the court's constructive possession of them, lend themselves to a public-right-of-access analysis under the common law or the court's power to control and dispose of them. As ought to be apparent, under the common-law-right-of-public-access approach, the seized records fall into the \"marginal\" third category as they are not either official or public records of the court in the historical sense or the court's predecisional adjudicatory or deliberative materials. That means there is no presumption in favor of access and we must consider as a threshold question whether the public interest would be served by disclosure, meaning, for these purposes, whether disclosure would \"contribute significantly to the public understanding of [the court's] activities.\" (Sander, supra , 58 Cal.4th at pp. 323-324, 165 Cal.Rptr.3d 250, 314 P.3d 488.)\nWhile the Mercury News presses various reasons for public interest in Saunders's personal cell-phone records, none of them have anything to do with the public understanding of the court's activities. These proffered reasons concern Saunders's status as a public employee and a custodial officer and his and his fellow custodial officers' conduct and expressed views while functioning as jail guards. The Mercury News argues that the text messages are \"unquestionably of profound public interest\" because Saunders is said to have exchanged vile and racist remarks while a correctional officer and, thus, while in a position with \"considerable power\" and \"public trust.\" The Mercury News further offers that Saunders's salary was ultimately paid by the public and that his occupation necessitates his interaction with other individuals of many races. While this surely articulates a public interest, it is not the kind that bears on our analysis here. The Mercury News's emphasized motive in seeking disclosure in the public interest of the activities and views of custodial officers, as righteous as that appears to be, is not the focus of the common law right of public access to court records, which remains whether disclosure would contribute significantly to the public's understanding of the court's activities. And we conclude that disclosure of the seized records, when they have not been offered in evidence or otherwise used in any court proceeding involving the case against Saunders, would contribute little to nothing to the public's understanding of the court's activities.\nHaving concluded that disclosure of the seized records would not contribute to the public's understanding of the court's activities, which is the relevant gauge of public interest under Sander , or at least one reading of it, we may end our analysis here, for this means that the records need not be considered \"public\" and need not be disclosed under the common law right of public access, without consideration of countervailing interests. (Sander, supra , 58 Cal.4th at pp. 324-325, 165 Cal.Rptr.3d 250, 314 P.3d 488.) But for completeness of our analysis, we will proceed to consider the competing interests weighing on the question of disclosure here.\nBalanced against this weak showing of public interest in disclosure is Saunders's considerable and constitutional privacy interest in his personal cell-phone records, particularly the text-message content, entirely discounted though that privacy interest is by the Mercury News.\nArticle I, section 1 of the California Constitution provides for the inalienable right of privacy. \"This 'inalienable right' is a 'fundamental interest' of our society, essential to those rights guaranteed under the federal Constitution.\" (Garstang v. Superior Court (1995) 39 Cal.App.4th 526, 532, 46 Cal.Rptr.2d 84, quoting City of Santa Barbara v. Adamson (1980) 27 Cal.3d 123, 130, 164 Cal.Rptr. 539, 610 P.2d 436.) And the California right to privacy is broader than that provided under the federal Constitution. (Urbaniak v. Newton (1991) 226 Cal.App.3d 1128, 1136, 277 Cal.Rptr. 354.)\nAs we have noted, the United States Supreme Court in Riley recognized a federal privacy interest in cell-phone content, albeit in a different circumstance-incident to arrest. (Riley, supra , --- U.S. ---- [134 S.Ct. at pp. 2489-2491, 2494-2495] [inherent nature of cell-phone content in today's society raises profound and broad privacy concerns].) And while the Electronic Privacy Communications Act (Pen. Code, \u00a7 1546.1 et seq., eff. Jan. 1, 2016) was not yet enacted when the search warrant here was issued and executed, this legislation speaks to the established and important public policy of protecting private electronic device information, even when this information is properly the subject of a search warrant and in the hands of a third-party service provider. The legislation provides additional privacy protections to this kind of information-like notice, time limits, and sealing provisions-reflecting the recognized heightened privacy concerns in both cell-phone records and content. (Pen. Code, \u00a7\u00a7 1546.1 -1546.4.) And we remain mindful that Saunders's personal cell-phone records, including text-message content, was obtained by law enforcement under a search warrant for a specific purpose related to criminal prosecution, and that the records were not offered as an exhibit or admitted into evidence in any court proceeding in the underlying criminal case. Public release of these records to the Mercury News based on what began as a CPRA request would be to use this information for an entirely other, and arguably improper, purpose, bearing on the constitutional right to privacy and the ability of one to control circulation of personal information. (See, e.g., White v. Davis (1975) 13 Cal.3d 757, 775, 120 Cal.Rptr. 94, 533 P.2d 222 [analyzing purposes of constitutional privacy amendment].)\nSaunders declares in support of his petition that his text messages were intended to be private and made on his personal cell phone. He did not share his private text messages with anyone other than the intended recipients. And he does not consent to their release. The scope of the search warrant was topically very broad and it covered a two-and-a-half-year period of time. And the order releasing Saunders's cell-phone records was not limited to text-message content relating to the conduct of the people's business. Even when such information is properly requested under the more broad CPRA, by, for example, a request for content maintained on employees' personal cell-phone accounts, privacy interests must be weighed against disclosure and dictate that mechanisms be used to give employees the opportunity to redact personal records from public records, so long as they are trained in how to distinguish between the two. (City of San Jose v. Superior Court (2017) 2 Cal.5th 608, 615-616, 625-629, 214 Cal.Rptr.3d 274, 389 P.3d 848.)\nAssessing on the one hand the tenuous showing of public interest in disclosure for purposes of the common law right of public access, which in this case focuses on whether disclosure of the seized records would contribute significantly to the public understanding of the court's activities, and on Saunders's competing constitutional privacy interests in his cell-phone records, including text-message content, on the other hand, we are convinced that the records should not be treated as public and that the trial court's order releasing them, even in redacted form, was an abuse of discretion. Part of the error was holding Saunders to the requirement that he demonstrate \"a compelling justification\" for nondisclosure, a burden he did not bear under any analysis given the nature of the records and the procedural context of the underlying criminal case. We view this not as a matter of merely coming to a different conclusion than the trial court did in a range of legally permissible outcomes, but, rather, as a question to which, in these procedural circumstances and on this record, there is but only one answer-nondisclosure.\nAs the trial court referenced only its power to control and dispose of the seized records, whether as inherent power or that derived from Penal Code section 1536, as authority for its order, we address that as well, concluding that the appropriate analysis is functionally the same as that performed under the common law right of public access and leads to the same result here.\nBased on the filings by both parties, as well as our own independent research, Oziel, supra, 223 Cal.App.3d 1284, 273 Cal.Rptr. 196, appears to be the most relevant, published authority on the considerations, in this procedural posture, affecting the court's exercise of control over the records as property or things seized under a search warrant. Although the Oziel court determined that the videotapes there depicting the execution of a search warrant were not a \"judicial record,\" echoing concerns expressed in Craemer, supra, 265 Cal.App.2d 216, 71 Cal.Rptr. 193, the Oziel court also said, \"[a]ssuming arguendo that such property constitutes a judicial record, 'the right of access [to judicial records] is not absolute. Nondisclosure may be appropriate \"for compelling countervailing reasons.\" ' [Citation.]\" (Oziel, supra, 223 Cal.App.3d at p. 1295, 273 Cal.Rptr. 196.) \" 'Clearly, a court has inherent power to control its own records to protect rights of litigants before it, but \"where there is no contrary statute or countervailing public policy, the right to inspect public records must be freely allowed.\" (Craemer [, supra, 265 Cal.App.2d at p.] 222 [71 Cal.Rptr. 193].) The court in Craemer suggested that countervailing public policy might come into play as a result of events that tend to undermine individual security, personal liberty, or private property, or that injure the public or the public good.' [Citations.]\" (Oziel, supra, 223 Cal.App.3d at p. 1295, 273 Cal.Rptr. 196, fn. omitted.)\nWe think, based on our preceding analysis of the common law right of public access, that Saunders's significant right to privacy in his seized cell-phone records and particularly text-message content, not ever offered in evidence or used in any court proceeding related to the criminal case against him, under these circumstances is more than a sufficient, countervailing interest that overcomes any asserted interests in favor of a public right of access as addressed in Craemer and Oziel . Arguably, the analysis in these cases, just like what Sander requires when applying the common law right of public access, calls for balancing of competing interests only after a determination that the subject records are indeed \"public records,\" leading in that event to a presumption in favor of access. By the nature of the records here and the manner in which they were acquired-through execution of a search warrant-we do not have that.\nDISPOSITION\nLet a peremptory writ of mandate issue directing respondent Superior Court to vacate its order of May 20, 2016, releasing Saunders's cell-phone records seized under search warrant number CSW47657, specifically to the Mercury News and generally to the public, and to enter a new and different order denying release of the seized records. Further, the seized records (compact disk) placed by the County with the Superior Court on or about April 22, 2016, must be returned to the County (through the Office of the County Counsel) and maintained by the Santa Clara County Sheriff's Office as seized property, subject to ultimate disposition by the Superior Court or other tribunal under Penal Code section 1536. The temporary stay issued by this court on May 23, 2016, shall remain in effect until finality of this opinion. Costs in this original proceeding are awarded to petitioner Saunders. (Cal. Rules of Court, rule 8.936.)\nWE CONCUR:\nMcKay McCoy, J.\nWeinstein, J.\nThe California Public Records Act appears at Government Code section 6250, et seq. We will refer to it as the CPRA or the Act.\nThe parties to this writ proceeding appear to have focused their arguments on the release of Saunders's text messages only. But the trial court more broadly ordered the release of the seized records, not just the text messages contained within those records. We therefore treat the challenged order as covering the entirety of the seized cell-phone records, except as to information specifically ordered to be withheld or redacted.\nAnd as further noted, the underlying criminal case against Saunders is no longer pending, as he entered into a no contest plea and was sentenced on October 18, 2016. But this did not moot his writ petition as the Superior Court's collateral order directing release of Saunders's seized cell-phone records to the public is still extant, though it remains stayed by our order.\nOn our own motion, we take judicial notice of the Superior Court's search warrant file number CSW47657, which contains the search warrant, a sealing order that permitted the affiant to keep a sealed portion of his affidavit in support of the search warrant in his own custody or that of \"his law enforcement agency\" until further order of the court, a later \"unsealing order,\" and the \"search warrant return inventory.\" In spite of the \"unsealing order,\" the sealed portion of the affidavit has not made its way to the Superior Court's search warrant file and we accordingly are not in a position to review it. The entire affidavit, as a court record, even while a portion was sealed, should have remained in the court's possession and should not have been permitted to be retained, even temporarily, by the affiant or his law enforcement agency.\nThe Mercury News contends that the cell-phone records seized under a search warrant from a third-party service provider here are not \"property\" or things subject to disposition under the Penal Code sections relating to search warrants. But the seized records surely are \"property or things taken on a warrant\" (Pen. Code, \u00a7 1536 ) and the actual content of Saunders's text messages, which is the parties' focus here, is matter as to which he has a beneficial and private interest. While cell-site location information or an internet protocol address in the hands of a third-party provider may not give rise to the same expectations of privacy (U.S. v. Graham (4th Cir. 2016) 824 F.3d 421 ; U.S. v. Carpenter (6th Cir. 2016) 819 F.3d 880 ; U.S. v. Caira (7th Cir. 2016) 833 F.3d 803 ), actual message content such as that at issue here most certainly does.\nAgain, this court has not reviewed the text messages, as doing so is not necessary to resolution of this writ proceeding. But the Mercury News published an article on the subject on December 4, 2015, an incomplete copy of which was attached as an exhibit to papers filed by the Mercury News in the trial court, which are in turn an exhibit to Saunders's writ petition.\nAs it is here framed, the CPRA request, which is not included in the record before us, was submitted to the County because the Sheriff's Office was in physical possession of the seized records, not because Saunders, as a custodial officer, was a County employee.\nThe parties have not addressed whether the Mercury News had standing to insert itself in the criminal case against Saunders. But we assume it did based on the First Amendment, the common law, and the unique position of the press to assert a right of public access to court proceedings. (See Alvarez v. Superior Court (2007) 154 Cal.App.4th 642, 648, 64 Cal.Rptr.3d 854 [newspaper had standing to seek inspection of grand jury transcripts]; Craemer v. Superior Court (1968) 265 Cal.App.2d 216, 218, fn. 1, 71 Cal.Rptr. 193 (Craemer ) [reporter had standing to seek writ of mandate to inspect sealed grand jury transcript]; NBC Subsidiary (KNBC-TV ), Inc. v. Superior Court (1999) 20 Cal.4th 1178, 1198-1209, & fn. 25, 86 Cal.Rptr.2d 778, 980 P.2d 337 (NBC Subsidiary ) [recognizing that right of public access, as applicable to the judicial branch, is not limited to court adjudicatory records and includes distinct First Amendment right to open trials and broader common law right of access to inspect public records where there is no contrary statute or countervailing public policy].) We further assume the Mercury News, as the beneficiary of the court's order releasing Saunders's seized cell-phone records, is properly named as a real party in interest in this original writ proceeding. But we do note that the Mercury News made no affirmative noticed motion, petition, or application in the trial court for release of, or public access to, Saunders's seized records or for a judicial determination that there was a public right of access to these records. And, as noted, the proceedings that occurred in the trial court deviated from any determination of rights under the CPRA.\nSaunders named the Mercury News, the People, and the County of Santa Clara as real parties in interest. But the Mercury News was the only real party to respond to our order to show cause, consistently with the stated positions of neutrality in the court below by the People and the County about the release of the records.\nThe media further argued, unsuccessfully, that disclosure was required under the CPRA. (Oziel, supra, 223 Cal.App.3d at pp. 1292-1294, 273 Cal.Rptr. 196.)\nEven if the text messages were considered to be within the purview of article I, section 3, subdivision (b) of the California Constitution, they would likely fall within an exception to the public right of access due to Saunders's competing constitutional right to privacy, which we will get to. Article I, section 3, subdivision (b)(3) says that, \"Nothing in this subdivision supersedes or modifies the right of privacy guaranteed by Section 1 or affects the construction of any statute, court rule, or other authority to the extent that it protects that right to privacy, including any statutory procedures governing discovery or disclosure of information concerning the official performance or professional qualifications of a peace officer.\"\nAs the Supreme Court in Sander observed, albeit in a footnote, although both the First Amendment and the state analogue, article I, section 2, subdivision (a) of the California Constitution, \" 'provide broad access rights to judicial hearings and records,' \" under constitutional principles, this presumptive access applies to \"records of civil and criminal adjudicatory proceedings,\" which must be \"disclosed to the public unless there is an overriding interest that supports sealing of the record, there is a substantial probability that the interest will be prejudiced by disclosure, the sealing is narrowly tailored to serve the overriding interest, and there is no less restrictive means of achieving the overriding interest. (NBC Subsidiary, supra [20 Cal.4th] at p. 1218 [86 Cal.Rptr.2d 778, 980 P.2d 337].) Because the State Bar's records are not records of adjudicatory proceedings, neither the First Amendment nor the counterpart state free speech provision is implicated in the present case.\" (Sander, supra, 58 Cal.4th at p. 319, fn. 7, 165 Cal.Rptr.3d 250, 314 P.3d 488.) The same is true in this case as property seized under a search warrant that has not been offered into evidence or otherwise used in any court proceeding is indisputably not a record of an adjudicatory proceeding.\nThe Mercury News contends that Saunders did not sufficiently assert any privacy interest in the trial court so as to preserve the claim. We are not convinced that Saunders's right to privacy, particularly in the text messages, is in any way diminished or compromised because he did not articulate specific words and did not cite to the California Constitution (Cal. Const., art. I, \u00a7 1 ). He did cite Penal Code section 1546.1 (The Electronic Communications Privacy Act, not yet enacted when the search warrant here was issued and executed) and argued that his text messages were \"personal and sensitive.\" And he made it clear from the outset of the issue that he objected to the public disclosure of these materials. Particularly given the very nature of the materials at issue, all parties and the trial court should have been well aware that the public release of Saunders's cell-phone records, including text-message content, would drastically affect his privacy interests. (See Riley v. California (2014) --- U.S. ----, ----, 134 S.Ct. 2473, 2489, 189 L.Ed.2d 430 (Riley ) [search of cell phone not justified as search incident to arrest because, among other things, cell phones differ quantitatively and qualitatively from other objects that might be kept on an arrestee; the inherent nature of cell-phone content in today's society raises profound and broad privacy concerns].) This remains so, notwithstanding that Saunders's privacy in the text messages is alleged to have already been affected by law enforcement agents having obtained them under a search warrant, and because a few of the text messages were apparently released to the Mercury News, arguably by the Sheriff herself. We think it an entirely different matter to release this content to public view and inspection, especially when the text messages were not ever going to be used by the prosecution in the underlying criminal case. We accordingly conclude that Saunders's right to privacy as a competing interest against disclosure has been preserved and we further exercise our discretion to reach the issue in any event given the profound significance of this interest.\nWe have not considered Saunders's right to a fair trial in the mix as although he raised that concern in opposition to release of his seized records, it is no longer a relevant concern as the criminal case has since resolved.",
+        "type": "majority",
+        "author": "Williams, P.J."
+      }
+    ],
+    "attorneys": [
+      "Counsel for Petitioner, Ryan Saunders: Joshua A. Olander, Sacramento, Mastagni Holstedt APC",
+      "Counsel for Real Party in Interest, San Jose Mercury News, LLC: James M. Chadwick, Palo Alto, David E. Snyder, Sheppard, Mullin, Richter, & Hampton, LLP",
+      "Counsel for Real Party in Interest, The People: District Attorney, Jeffrey Rosen, Supervising DDA Kaci R. Lopez",
+      "Counsel for Real Party in Interest, The County of Santa Clara: County Counsel, James R. Williams, Asst. County, Counsel Robert M. Coelho"
+    ],
+    "corrections": "",
+    "head_matter": "Ryan SAUNDERS, Petitioner,\nv.\nSUPERIOR COURT, County of Santa Clara, (Limited Jurisdiction), Respondent;\nSan Jose Mercury News, LLC, Real Party in Interest.\nNo. 16AP002041\nAppellate Division, Superior Court, SANTA CLARA COUNTY.\nFiled April 28, 2017\nCounsel for Petitioner, Ryan Saunders: Joshua A. Olander, Sacramento, Mastagni Holstedt APC\nCounsel for Real Party in Interest, San Jose Mercury News, LLC: James M. Chadwick, Palo Alto, David E. Snyder, Sheppard, Mullin, Richter, & Hampton, LLP\nCounsel for Real Party in Interest, The People: District Attorney, Jeffrey Rosen, Supervising DDA Kaci R. Lopez\nCounsel for Real Party in Interest, The County of Santa Clara: County Counsel, James R. Williams, Asst. County, Counsel Robert M. Coelho"
+  },
+  "file_name": "0005-01",
+  "first_page_order": 5,
+  "last_page_order": 26
+}

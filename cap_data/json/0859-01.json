@@ -1,0 +1,1715 @@
+{
+  "id": 12513591,
+  "name": "Rolland JACKS et al., Plaintiffs and Appellants, v. CITY OF SANTA BARBARA, Defendant and Respondent.",
+  "name_abbreviation": "Jacks v. City of Santa Barbara",
+  "decision_date": "2017-06-29",
+  "docket_number": "S225589",
+  "first_page": "859",
+  "last_page": "896",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 859"
+    },
+    {
+      "type": "parallel",
+      "cite": "397 P.3d 210"
+    },
+    {
+      "type": "parallel",
+      "cite": "3 Cal. 5th 248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "44 P.2d 451",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Cal.App.2d 200",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2200425
+      ],
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/6/0200-01"
+      ]
+    },
+    {
+      "cite": "815 F.3d 17",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4147418,
+        12310171
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/815/0017-01",
+        "/us-app-dc/421/0229-01"
+      ]
+    },
+    {
+      "cite": "644 N.W.2d 339",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        9425044
+      ],
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/644/0339-01"
+      ]
+    },
+    {
+      "cite": "251 Cal.Rptr. 411",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 Cal.App.3d 660",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2348451
+      ],
+      "pin_cites": [
+        {
+          "page": "667-670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/204/0660-01"
+      ]
+    },
+    {
+      "cite": "44 Cal.4th 431",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3888373
+      ],
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/44/0431-01"
+      ]
+    },
+    {
+      "cite": "841 P.2d 990",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Cal.Rptr.2d 470",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Cal.4th 389",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        2001596
+      ],
+      "pin_cites": [
+        {
+          "page": "394-400"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/4/0389-01"
+      ]
+    },
+    {
+      "cite": "62 Cal. 69",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2307068
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/62/0069-01"
+      ]
+    },
+    {
+      "cite": "104 P.2d 38",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.2d 612",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2226801
+      ],
+      "pin_cites": [
+        {
+          "page": "617-618"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/15/0612-01"
+      ]
+    },
+    {
+      "cite": "604 P.2d 566",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Cal.Rptr. 172",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Cal.3d 154",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2263747
+      ],
+      "pin_cites": [
+        {
+          "page": "159-160"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/26/0154-01"
+      ]
+    },
+    {
+      "cite": "729 P.2d 186",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 Cal.Rptr. 22",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.3d 1172",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4464655
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "1183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/42/1172-01"
+      ]
+    },
+    {
+      "cite": "64 P. 560",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Cal. 389",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2004778
+      ],
+      "pin_cites": [
+        {
+          "page": "391"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/132/0389-01"
+      ]
+    },
+    {
+      "cite": "765 P.2d 373",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1901,
+      "opinion_index": 0
+    },
+    {
+      "cite": "254 Cal.Rptr. 211",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1901,
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Cal.3d 654",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1971377
+      ],
+      "year": 1901,
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/47/0654-01"
+      ]
+    },
+    {
+      "cite": "44 P. 230",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Cal. 553",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        4371511
+      ],
+      "pin_cites": [
+        {
+          "page": "558"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/111/0553-01"
+      ]
+    },
+    {
+      "cite": "57 Cal. 614",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2290213
+      ],
+      "pin_cites": [
+        {
+          "page": "616"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/57/0614-01"
+      ]
+    },
+    {
+      "cite": "157 P. 608",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Cal. 525",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2068722
+      ],
+      "pin_cites": [
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/172/0525-01"
+      ]
+    },
+    {
+      "cite": "471 F.Supp. 1030",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4079592
+      ],
+      "pin_cites": [
+        {
+          "page": "1032"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/471/1030-01"
+      ]
+    },
+    {
+      "cite": "443 F.Supp. 274",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3980232
+      ],
+      "pin_cites": [
+        {
+          "page": "280-281"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/443/0274-01"
+      ]
+    },
+    {
+      "cite": "26 Cal.Rptr.3d 153",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Cal.App.4th 914",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        18579
+      ],
+      "pin_cites": [
+        {
+          "page": "927"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/127/0914-01"
+      ]
+    },
+    {
+      "cite": "78 P.2d 731",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Cal.2d 156",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2224885
+      ],
+      "pin_cites": [
+        {
+          "page": "162-164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/11/0156-01"
+      ]
+    },
+    {
+      "cite": "215 P.2d 441",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.2d 822",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4398110
+      ],
+      "pin_cites": [
+        {
+          "page": "826"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/34/0822-01"
+      ]
+    },
+    {
+      "cite": "74 P.3d 795",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.Rptr.3d 703",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal.4th 781",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        17552
+      ],
+      "pin_cites": [
+        {
+          "page": "792"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/31/0781-01"
+      ]
+    },
+    {
+      "cite": "324 P.3d 50",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Cal.Rptr.3d 189",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 Cal.4th 1081",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        4001135
+      ],
+      "pin_cites": [
+        {
+          "page": "1103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/58/1081-01"
+      ]
+    },
+    {
+      "cite": "358 P.2d 926",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Cal.Rptr. 470",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Cal.2d 103",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4380878
+      ],
+      "pin_cites": [
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/55/0103-01"
+      ]
+    },
+    {
+      "cite": "103 Cal.Rptr.3d 485",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Cal.App.4th 1057",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4212118
+      ],
+      "pin_cites": [
+        {
+          "page": "1081"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/180/1057-01"
+      ]
+    },
+    {
+      "cite": "27 Cal. 613",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2242338
+      ],
+      "pin_cites": [
+        {
+          "page": "627"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/27/0613-01"
+      ]
+    },
+    {
+      "cite": "148 P. 217",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Cal. 24",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2037014
+      ],
+      "pin_cites": [
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/170/0024-01"
+      ]
+    },
+    {
+      "cite": "118 P. 796",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Cal. 265",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2032643
+      ],
+      "pin_cites": [
+        {
+          "page": "285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/161/0265-01"
+      ]
+    },
+    {
+      "cite": "48 P. 1012",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Cal. 83",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1931455
+      ],
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/117/0083-01"
+      ]
+    },
+    {
+      "cite": "211 P.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.2d 465",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4397972
+      ],
+      "pin_cites": [
+        {
+          "page": "473"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/34/0465-01"
+      ]
+    },
+    {
+      "cite": "115 P.2d 3",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Cal.2d 210",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2185762
+      ],
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/18/0210-01"
+      ]
+    },
+    {
+      "cite": "563 P.2d 238",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Cal.Rptr. 199",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Cal.3d 467",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2291114
+      ],
+      "pin_cites": [
+        {
+          "page": "475"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/19/0467-01"
+      ]
+    },
+    {
+      "cite": "26 Cal.Rptr. 348",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 Cal.App.2d 780",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2108641
+      ],
+      "pin_cites": [
+        {
+          "page": "801"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/209/0780-01"
+      ]
+    },
+    {
+      "cite": "110 Cal.Rptr. 111",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.App.3d 504",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4452161
+      ],
+      "pin_cites": [
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/34/0504-01"
+      ]
+    },
+    {
+      "cite": "185 Cal.Rptr. 779",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Cal.App.3d 845",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2088896
+      ],
+      "pin_cites": [
+        {
+          "page": "850"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/135/0845-01"
+      ]
+    },
+    {
+      "cite": "186 Cal.Rptr. 719",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Cal.App.3d 79",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2097418
+      ],
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/137/0079-01"
+      ]
+    },
+    {
+      "cite": "561 P.2d 273",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Cal.Rptr. 183",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Cal.3d 208",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2291152
+      ],
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/19/0208-01"
+      ]
+    },
+    {
+      "cite": "104 Cal.Rptr.3d 262",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Cal.App.4th 584",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4213554
+      ],
+      "pin_cites": [
+        {
+          "page": "591"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/181/0584-01"
+      ]
+    },
+    {
+      "cite": "900 P.2d 601",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.Rptr.2d 352",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Cal.4th 1226",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1992344
+      ],
+      "pin_cites": [
+        {
+          "page": "1232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/10/1226-01"
+      ]
+    },
+    {
+      "cite": "900 P.2d 690",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.Rptr.2d 441",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Cal.4th 138",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1960662
+      ],
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/11/0138-01"
+      ]
+    },
+    {
+      "cite": "17 Cal.Rptr.2d 400",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Cal.App.4th 1035",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6042221
+      ],
+      "pin_cites": [
+        {
+          "page": "1048"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/13/1035-01"
+      ]
+    },
+    {
+      "cite": "57 Cal.Rptr.2d 618",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.App.4th 1761",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4682167
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1777-1778"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/49/1761-01"
+      ]
+    },
+    {
+      "cite": "721 P.2d 1111",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Cal.Rptr. 726",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.3d 365",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4465128
+      ],
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/42/0365-01"
+      ]
+    },
+    {
+      "cite": "187 P.3d 37",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Cal.Rptr.3d 312",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "591 P.2d 34",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Cal.Rptr. 10",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Cal.3d 470",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2268500
+      ],
+      "pin_cites": [
+        {
+          "page": "474-476"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/23/0470-01"
+      ]
+    },
+    {
+      "cite": "200 P. 395",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Cal. 570",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2150693
+      ],
+      "pin_cites": [
+        {
+          "page": "578-583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/186/0570-01"
+      ]
+    },
+    {
+      "cite": "266 P.2d 27",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.2d 129",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        1241371
+      ],
+      "pin_cites": [
+        {
+          "page": "133-134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/42/0129-01"
+      ]
+    },
+    {
+      "cite": "60 Cal.Rptr.2d 187",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.App.4th 1691",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        892477
+      ],
+      "pin_cites": [
+        {
+          "page": "1694-1695"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/51/1691-01"
+      ]
+    },
+    {
+      "cite": "233 U.S. 195",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3673045
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/233/0195-01"
+      ]
+    },
+    {
+      "cite": "99 Cal.Rptr.2d 198",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Cal.App.4th 1167",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1355819
+      ],
+      "pin_cites": [
+        {
+          "page": "1171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/82/1167-01"
+      ]
+    },
+    {
+      "cite": "206 P. 983",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 8,
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 Cal. 664",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2255714
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/188/0664-01"
+      ]
+    },
+    {
+      "cite": "73 P.2d 234",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Cal.2d 743",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2249552
+      ],
+      "pin_cites": [
+        {
+          "page": "749"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/9/0743-01"
+      ]
+    },
+    {
+      "cite": "83 P. 54",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Cal. 313",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2123428
+      ],
+      "pin_cites": [
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/148/0313-01"
+      ]
+    },
+    {
+      "cite": "250 Cal.Rptr. 420",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "203 Cal.App.3d 1132",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2380239
+      ],
+      "pin_cites": [
+        {
+          "page": "1148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/203/1132-01"
+      ]
+    },
+    {
+      "cite": "4 Cal.Rptr.2d 601",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.App.4th 728",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2307485
+      ],
+      "pin_cites": [
+        {
+          "page": "736-737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/3/0728-01"
+      ]
+    },
+    {
+      "cite": "231 P.3d 350",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Cal.Rptr.3d 620",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.4th 277",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6050751
+      ],
+      "pin_cites": [
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/49/0277-01"
+      ]
+    },
+    {
+      "cite": "841 P.2d 144",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 6,
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Cal.Rptr.2d 159",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 6,
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Cal.4th 132",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        2001633
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "141"
+        },
+        {
+          "page": "142, fn. 15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/4/0132-01"
+      ]
+    },
+    {
+      "cite": "15 Cal.Rptr.3d 457",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Cal.App.4th 374",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1109221
+      ],
+      "pin_cites": [
+        {
+          "page": "390-391"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/120/0374-01"
+      ]
+    },
+    {
+      "cite": "14 P.3d 930",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Cal.Rptr.2d 719",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Cal.4th 830",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1180125
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "835"
+        },
+        {
+          "page": "839"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/24/0830-01"
+      ]
+    },
+    {
+      "cite": "166 Cal.Rptr. 674",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Cal.App.3d 656",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4715254
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/108/0656-01"
+      ]
+    },
+    {
+      "cite": "211 Cal.Rptr. 567",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Cal.App.3d 227",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2128899
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/165/0227-01"
+      ]
+    },
+    {
+      "cite": "902 P.2d 225",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.Rptr.2d 207",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Cal.4th 220",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1960664
+      ],
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/11/0220-01"
+      ]
+    },
+    {
+      "cite": "648 P.2d 935",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Cal.Rptr. 713",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Cal.3d 47",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1950703
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/32/0047-01"
+      ]
+    },
+    {
+      "cite": "643 P.2d 941",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Cal.Rptr. 324",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal.3d 197",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1979960
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/31/0197-01"
+      ]
+    },
+    {
+      "cite": "583 P.2d 1281",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Cal.Rptr. 239",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Cal.3d 208",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2282065
+      ],
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/22/0208-01"
+      ]
+    },
+    {
+      "cite": "937 P.2d 1350",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 23,
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Cal.Rptr.2d 447",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 23,
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.4th 866",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1005956
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "879"
+        },
+        {
+          "page": "874"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/15/0866-01"
+      ]
+    },
+    {
+      "cite": "159 Cal.Rptr.3d 424",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Cal.App.4th 195",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6049844
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/218/0195-01"
+      ]
+    },
+    {
+      "cite": "257 Cal.Rptr. 615",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 Cal.App.3d 940",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4443838
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "949-950"
+        },
+        {
+          "page": "949"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/209/0940-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2636,
+    "char_count": 125448,
+    "pagerank": {
+      "raw": 1.2075593960236795e-07,
+      "percentile": 0.5951346970421828
+    },
+    "sha256": "42fdcd857199fb409055890cd1893f4832774d3238f6e08d35f0a5d26be33255",
+    "simhash": "1:ad70ee916c5242e9",
+    "word_count": 20568
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rolland JACKS et al., Plaintiffs and Appellants,\nv.\nCITY OF SANTA BARBARA, Defendant and Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Cantil-Sakauye, C.J.\nPursuant to an agreement between Southern California Edison (SCE) and defendant City of Santa Barbara (the City), SCE includes on its electricity bills to customers within the City a separate charge equal to 1 percent of SCE's gross receipts from the sale of electricity within the City, and transfers the revenues to the City. The City contends this separate charge, together with another charge equal to 1 percent of SCE's gross receipts that SCE includes in its electricity rates, is the fee paid by SCE for the privilege of using City property in connection with the delivery of electricity. Plaintiffs Rolland Jacks and Rove Enterprises, Inc., contend the 1 percent charge that is separately stated on electricity bills is not compensation for the privilege of using City property, but is instead a tax imposed without voter approval, in violation of Proposition 218. (Cal. Const., art. XIII C, \u00a7 2, added by Prop. 218.)\nAs we explain below, the right to use public streets or rights-of-way is a property interest, and Proposition 218 does not limit the authority of government to sell or lease its property and spend the compensation it receives for whatever purposes it chooses. Therefore, charges that constitute compensation for the use of government property are not subject to Proposition 218's voter approval requirements. To constitute compensation for a property interest, however, the amount of the charge must bear a reasonable relationship to the value of the property interest; to the extent the charge exceeds any reasonable value of the interest, it is a tax and therefore requires voter approval.\nThe litigation below did not address whether the charges bear a reasonable relationship to the value of the property interests. Therefore, we affirm the judgment of the Court of Appeal to the extent it reversed the trial court's grant of the City's motion for judgment on the pleadings, but we reverse the Court of Appeal's order that the trial court grant summary adjudication to plaintiffs.\nI. FACTS\nThe parties stipulated to the following facts in the trial court. Beginning in 1959, the City and SCE entered into a series of franchise agreements granting SCE the privilege to construct and use equipment along, over, and under the City's streets to distribute electricity. At issue in this case is an agreement the City and SCE began negotiating in 1994, when their 1984 agreement was about to expire. The 1984 agreement required SCE to pay to the City a fee equal to 1 percent of the gross annual receipts from SCE's sale of electricity within the City in exchange for the franchise granted by the City. During the course of extended negotiations regarding a new agreement, the City and SCE extended the terms of the 1984 agreement five times, from September 1995 to December 1999.\nIn the negotiations for a long-term agreement, the City pursued a fee equal to 2 percent of SCE's gross annual receipts from the sale of electricity within the City. At some point in the negotiations, SCE proposed that it would remit to the City as a franchise fee 2 percent of its gross receipts if the Public Utilities Commission (PUC) consented to SCE's inclusion of the additional 1 percent as a surcharge on its bills to customers. Based on SCE's proposal, the City and SCE tentatively agreed to a 30-year agreement that included the provisions for payment of 2 percent of gross receipts. Following notice and a hearing, the City Council of Santa Barbara adopted the agreement as City Ordinance No. 5135 on December 7, 1999, with a term beginning on January 1, 2000 (the 1999 agreement). The ordinance was not submitted to the voters for their approval.\nThe 1999 agreement divides its 30-year period into two terms. The first two years were the \"initial term,\" during which SCE was required to pay the City an \"initial term fee\" equal to 1 percent of its gross receipts from the sale of electricity within the City. The subsequent 28 years are the \"extension term,\" during which SCE is to pay the additional 1 percent charge on its gross receipts, denominated the \"recovery portion,\" for a total \"extension term fee\" of 2 percent of SCE's gross receipts from the sale of electricity within the City. At issue in this case is the recovery portion, which we, like the parties, refer to as the surcharge.\nThe agreement required SCE to apply to the PUC by April 1, 2001, for approval to include the surcharge on its bills to ratepayers within the City, and to use its best efforts to obtain PUC approval by April 1, 2002. Approval was to be sought in accordance with the PUC's \"Re Guidelines for the Equitable Treatment of Revenue-Producing Mechanisms Imposed by Local Government Entities on Public Utilities.\" (Investigation on the Commission's Own Motion to Establish Guidelines for the Equitable Treatment of Revenue-Producing Mechanisms Imposed by Local Government Entities on Public Utilities (1989) 32 Cal.P.U.C.2d 60, 63 [Cal. P.U.C. Dec. No. 89-05-063] (PUC Investigation ).) The agreement further provided that, in the event the PUC did not give its approval by the end of the initial term, either party could terminate the agreement. Thereafter, the City agreed to delay the time within which SCE was required to seek approval from the PUC, but SCE eventually obtained PUC approval, and began billing its customers within the City for the full extension term fee in November 2005.\nThe agreement provided that half of the revenues generated by the surcharge were to be allocated to the City's general fund and half to a City undergrounding projects fund. In November 2009, however, the City Council decided to reallocate the revenues from the surcharge, directing that all of the funds be placed in the City's general fund without any limitation on the use of these funds.\nIn 2011, plaintiffs filed a class action complaint challenging the surcharge. In their first amended complaint, they alleged the surcharge was an illegal tax under Proposition 218, which requires voter approval for all local taxes. (Cal. Const., art. XIII C.) Plaintiffs sought refunds of the charges collected, as well as declaratory relief and injunctive relief requiring the City to discontinue collection of the surcharge.\nOn cross-motions for summary adjudication and the City's motion for summary judgment, the trial court ruled that a franchise fee is not a tax under Proposition 218. Its ruling was based largely on Santa Barbara County Taxpayer Assn., supra , 209 Cal.App.3d 940, 257 Cal.Rptr. 615, which held that franchise fees are not \"proceeds of taxes\" for purposes of calculating limits on state and local appropriations under article XIII B of the California Constitution. Notwithstanding this ruling, the trial court denied the motions, based on its view that Proposition 26, which was approved by the voters in 2010, retroactively altered the definition of a tax under Proposition 218 to encompass franchise fees. Therefore, the court concluded, the City had failed to establish that the surcharge did not violate Proposition 218 during the period after Proposition 26 was adopted in 2010.\nThereafter, the City moved for judgment on the pleadings, contending that Proposition 26 does not apply retroactively to the surcharge. The trial court agreed, citing Brooktrails Township Community Services Dist. v. Board of Supervisors of Mendocino County (2013) 218 Cal.App.4th 195, 159 Cal.Rptr.3d 424, which held that Proposition 26 does not apply retroactively. Based on its earlier conclusion that the surcharge, as a franchise fee, was not a tax under Proposition 218 (see Santa Barbara County Taxpayer Assn., supra , 209 Cal.App.3d 940, 257 Cal.Rptr. 615 ), and its additional conclusion that a franchise fee, as negotiated compensation, need not be based on the government's costs, the trial court ruled that the surcharge was not subject to the voter approval requirements of Proposition 218. Therefore, it granted the City's motion for judgment on the pleadings.\nThe Court of Appeal reversed the judgment. It looked to our opinion in Sinclair Paint Co. v. State Bd. of Equalization (1997) 15 Cal.4th 866, 64 Cal.Rptr.2d 447, 937 P.2d 1350 (Sinclair Paint ), which considered whether a charge imposed by the state on those engaged in the stream of commerce of lead-containing products was a tax or a fee under Proposition 13, an earlier voter initiative that requires voter approval of various taxes. (Cal. Const., art. XIII A.) Noting that our analysis in Sinclair Paint focused on whether the primary purpose of the charge was to raise revenue or to regulate those charged, the Court of Appeal considered whether the primary purpose of the surcharge is to raise revenue or to compensate the City for allowing SCE to use its streets and rights-of-way. Based on its conclusion that the surcharge's \"primary purpose is for the City to raise revenue from electricity users for general spending purposes rather than for SCE to obtain the right-of-way to provide electricity,\" the Court of Appeal held that the surcharge is a tax, and therefore requires voter approval under Proposition 218. (Cal. Const., art. XIII C, \u00a7 2, subd. (b).)\nWe granted review to address whether the surcharge is a tax subject to Proposition 218's voter approval requirement, or a fee that may be imposed by the City without voter consent.\nII. DISCUSSION\nOver the past four decades, California voters have repeatedly expanded voter approval requirements for the imposition of taxes and assessments. These voter initiatives have not, however, required voter approval of certain charges related to a special benefit received by the payor or certain costs associated with an activity of the payor. Whether the surcharge required voter approval hinges on whether it is a valid charge under the principles that exclude certain charges from voter approval requirements. Our evaluation of this issue begins with a review of four voter initiatives that require voter approval of taxes, and the legal principles underlying the exclusion of certain charges from the initiatives' requirements. We then describe the historical characteristics of franchise fees, the Legislature's history of regulating the calculation of franchise fees, and the PUC's requirements concerning the imposition of franchise fees that exceed the average charges imposed by other local governments in the utility's service area. Finally, we analyze whether the surcharge is a valid franchise fee or a tax, and we hold that a charge imposed in exchange for franchise rights is a valid fee rather than a tax only if the amount of the charge is reasonably related to the value of the franchise.\nA. Restrictions on Taxes and Other Charges\n1. Voter Initiatives\nBeginning in 1978, state voters have imposed various limitations upon the authority of state and local governments to impose taxes and fees. Proposition 13, which was adopted that year, set the assessed value of real property as the \"full cash value\" on the owner's 1975-1976 tax bill, limited increases in the assessed value to 2 percent per year unless there was a change in ownership, and limited the rate of taxation on real property to 1 percent of its assessed value. (Cal. Const., art. XIII A, \u00a7\u00a7 1, 2.) In addition, to prevent tax savings related to real property from being offset by increases in state and local taxes, Proposition 13 required approval by two-thirds of the members of the Legislature in order to increase state taxes, and required approval by two-thirds of the local electors of a city, county, or special district in order for such a local entity to impose special taxes. (Cal. Const., art. XIII A, \u00a7\u00a7 3, 4 ; Sinclair Paint, supra , 15 Cal.4th at p. 872, 64 Cal.Rptr.2d 447, 937 P.2d 1350 ; Amador Valley Joint Union High Sch. Dist. v. State Bd. of Equalization (1978) 22 Cal.3d 208, 231, 149 Cal.Rptr. 239, 583 P.2d 1281 (Amador Valley ).)\nProposition 13 did not define \"special taxes,\" but this court addressed the initiative's restrictions on such taxes in two early cases. In Los Angeles County Transportation Commission v. Richmond (1982) 31 Cal.3d 197, 182 Cal.Rptr. 324, 643 P.2d 941, we held that the requirement that \"special districts\" obtain two-thirds voter approval for special taxes applied only to those special districts empowered to levy property taxes. (Id . at p. 207, 182 Cal.Rptr. 324, 643 P.2d 941.) In City and County of San Francisco v. Farrell (1982) 32 Cal.3d 47, 184 Cal.Rptr. 713, 648 P.2d 935 (Farrell ), \"we construe[d] the term 'special taxes' in section 4 [of article XIII A] to mean taxes which are levied for a specific purpose.\" (Id . at p. 57, 184 Cal.Rptr. 713, 648 P.2d 935.) In addition, the Legislature provided that \" 'special tax' shall not include any fee which does not exceed the reasonable cost of providing the service or regulatory activity for which the fee is charged and which is not levied for general revenue purposes.\" (Gov. Code, \u00a7 50076.)\nThereafter, in 1986, the voters approved Proposition 62, which \"added a new article to the Government Code (\u00a7\u00a7 53720 -53730 ) requiring that all new local taxes be approved by a vote of the local electorate.\" (Santa Clara County Local Transportation Authority v. Guardino (1995) 11 Cal.4th 220, 231, 45 Cal.Rptr.2d 207, 902 P.2d 225, fn. omitted.) The initiative embraced the definition of special taxes set forth in Farrell , supra , 32 Cal.3d 47, 184 Cal.Rptr. 713, 648 P.2d 935 (Gov. Code, \u00a7 53721 ; see Guardino , at p. 232, 45 Cal.Rptr.2d 207, 902 P.2d 225 ), but applied its voter approval requirements to any district rather than only to special districts, and defined \"district\" broadly. (Gov. Code, \u00a7 53720, subd. (b) [\" 'district' means an agency of the state, formed ... for the local performance of governmental or proprietary functions within limited boundaries\"].) By the time Proposition 62 was proposed, courts as well as the Legislature had recognized that various fees were not taxes for purposes of Proposition 13 (see Beaumont Investors v. Beaumont-Cherry Valley Water Dist. (1985) 165 Cal.App.3d 227, 211 Cal.Rptr. 567 ; Mills v. County of Trinity (1980) 108 Cal.App.3d 656, 166 Cal.Rptr. 674 ), but Proposition 62 was silent with respect to the imposition of fees.\nNext, in 1996, state voters approved Proposition 218, known as the \"Right to Vote on Taxes Act.\" (Apartment Assn. of Los Angeles County, Inc. v. City of Los Angeles (2001) 24 Cal.4th 830, 835, 102 Cal.Rptr.2d 719, 14 P.3d 930 (Apartment Assn. ).) Proposition 218 addressed two principal concerns. First, it was not clear whether Proposition 62, which enacted statutory provisions, bound charter jurisdictions. (Howard Jarvis Taxpayers Assn. v. City of San Diego (2004) 120 Cal.App.4th 374, 390-391, 15 Cal.Rptr.3d 457.) Therefore, Proposition 218 amended the Constitution to add voter approval requirements for general and special taxes, thereby binding charter jurisdictions. (Cal. Const., art. XIII C, \u00a7\u00a7 1, 2.)\nSecond, Proposition 13 was \"not intended to limit 'traditional' benefit assessments.\" (Knox v. City of Orland (1992) 4 Cal.4th 132, 141, 14 Cal.Rptr.2d 159, 841 P.2d 144 (Knox ) [upholding property-based assessments for public landscaping and lighting improvements].) Proposition 218 was adopted in part to address Knox 's holding. (Greene v. Marin County Flood Control & Water Conservation Dist . (2010) 49 Cal.4th 277, 284, 109 Cal.Rptr.3d 620, 231 P.3d 350.) It requires an agency proposing an assessment on property to determine the proportionate special benefit to be derived by each parcel subject to the assessment; to support the assessment with an engineer's report; to give written notice to each parcel owner of the amount of the proposed assessment and the basis of the calculation; and to provide each owner with a ballot to vote in favor of or against the proposed assessment. It also requires the agency to hold a public hearing, and bars imposition of the assessment if a majority of parcel owners within the assessment area submit ballots in opposition to the assessment, with each ballot weighted based on the proposed financial obligation of the affected parcel. In the event legal action is brought contesting an assessment, the agency has the burden to establish that the burdened properties receive a special benefit and the assessment is proportional to the benefits conferred. (Cal. Const., art. XIII D, \u00a7\u00a7 2, subd. (b), 4 ; see Apartment Assn., supra , 24 Cal.4th 830, 102 Cal.Rptr.2d 719, 14 P.3d 930.) Most recently, in 2010, after the charge at issue in this case was adopted, state voters approved Proposition 26. That measure amended the Constitution to provide that for purposes of article XIII C, which addresses voter approval of local taxes, \" 'tax' means any levy, charge, or exaction of any kind imposed by a local government\" (Cal. Const., art. XIII C, \u00a7 1, subd. (e)), except (1) a charge imposed for a specific benefit or privilege received only by those charged, which does not exceed its reasonable cost, (2) a charge for a specific government service or product provided directly to the payor and not provided to those not charged, which does not exceed its reasonable cost, (3) charges for reasonable regulatory costs related to the issuance of licenses, permits, investigations, inspections, and audits, and the enforcement of agricultural marketing orders, (4) charges for access to or use, purchase, rental, or lease of local government property, (5) fines for violations of law, (6) charges imposed as a condition of developing property, and (7) property-related assessments and fees as allowed under article XIII D. The local government bears the burden of establishing the exceptions. (Cal. Const., art. XIII C, \u00a7 1, subd. (e).)\n2. Characteristics of Valid Fees\nAs noted above, following the enactment of Proposition 13, the Legislature and courts viewed various fees as outside the scope of the initiative. (Gov. Code, \u00a7 50076 ; Evans v. City of San Jose (1992) 3 Cal.App.4th 728, 736-737, 4 Cal.Rptr.2d 601 (Evans ), and cases cited therein.) In Sinclair Paint, supra , 15 Cal.4th 866, 64 Cal.Rptr.2d 447, 937 P.2d 1350, we summarized three categories of charges that are fees rather than taxes, and therefore are not subject to the voter approval requirements of Proposition 13. First, special assessments may be imposed \"in amounts reasonably reflecting the value of the benefits conferred by improvements.\" (Sinclair Paint, at p. 874, 64 Cal.Rptr.2d 447, 937 P.2d 1350.) Second, development fees, which are charged for building permits and other privileges, are not considered taxes \"if the amount of the fees bears a reasonable relation to the development's probable costs to the community and benefits to the developer.\" (Id . at p. 875, 64 Cal.Rptr.2d 447, 937 P.2d 1350.) Third, regulatory fees are imposed under the police power to pay for the reasonable cost of regulatory activities. (Id . at pp. 875-876, 64 Cal.Rptr.2d 447, 937 P.2d 1350.)\nThe commonality among these categories of charges is the relationship between the charge imposed and a benefit or cost related to the payor. With respect to charges for benefits received, we explained in Knox, supra , 4 Cal.4th 132, 14 Cal.Rptr.2d 159, 841 P.2d 144, that \"if an assessment for ... improvements provides a special benefit to the assessed properties, then the assessed property owners should pay for the benefit they receive.\" (Id . at p. 142, 14 Cal.Rptr.2d 159, 841 P.2d 144 ; see Evans, supra , 3 Cal.App.4th at p. 738, 4 Cal.Rptr.2d 601 [when a \"discrete group is specially benefitted ... [, t]he public should not be required to finance an expenditure through taxation which benefits only a small segment of the population\"].) But \"if the assessment exceeds the actual cost of the improvement, the exaction is a tax and not an assessment.\" (Knox, at p. 142, fn. 15, 14 Cal.Rptr.2d 159, 841 P.2d 144.) With respect to costs, we explained in Sinclair Paint, supra , 15 Cal.4th 866, 879, 64 Cal.Rptr.2d 447, 937 P.2d 1350, that Proposition 13's goal of providing effective property tax relief is promoted rather than subverted by shifting costs to those who generate the costs. (See San Diego Gas & Electric Co. v. San Diego County Air Pollution Control Dist . (1988) 203 Cal.App.3d 1132, 1148, 250 Cal.Rptr. 420.) However, if the charges exceed the reasonable cost of the activity on which they are based, the charges are levied for unrelated revenue purposes, and are therefore taxes. (Sinclair Paint , at pp. 874, 881, 64 Cal.Rptr.2d 447, 937 P.2d 1350.)\nIn sum, restricting allowable fees to the reasonable cost or value of the activity with which the charges are associated serves Proposition 13's purpose of limiting taxes. (See Amador Valley, supra , 22 Cal.3d at p. 231, 149 Cal.Rptr. 239, 583 P.2d 1281 [Prop. 13's restrictions on real property taxes \"could be withdrawn or depleted by additional or increased state or local levies other than property taxes\"].) If a state or local governmental agency were allowed to impose charges in excess of the special benefit received by the payor or the cost associated with the payor's activities, the imposition of fees would become a vehicle for generating revenue independent of the purpose of the fees. Therefore, to the extent charges exceed the rationale underlying the charges, they are taxes.\nAlthough Sinclair Paint, supra , 15 Cal.4th 866, 64 Cal.Rptr.2d 447, 937 P.2d 1350, focused on restrictions imposed by Proposition 13, its analysis of the characteristics of fees that may be imposed without voter approval remains sound. According to Proposition 218's findings and declarations, \"Proposition 13 was intended to provide effective tax relief and to require voter approval of tax increases. However, local governments have subjected taxpayers to excessive tax, assessment, fee and charge increases that ... frustrate the purposes of voter approval for tax increases....\" (Prop. 218, \u00a7 2, reprinted at Historical Notes, 2B West's Ann. Cal. Const. (2013) foll. art. XIII C, \u00a7 1, p. 363, italics added.) As relevant here, this finding reflects a concern with excessive fees, not fees in general. In addition, although Proposition 218 imposed additional restrictions on the imposition of assessments, that initiative did not impose additional restrictions on other fees. (Cal. Const., arts. XIII C, \u00a7\u00a7 1, 2, XIII D, \u00a7 4.) Finally, Sinclair Paint 's understanding of fees as charges reasonably related to specific costs or benefits is reflected in Proposition 26, which exempted from its expansive definition of tax (1) charges imposed for a specific benefit or privilege which do not exceed its reasonable cost, (2) charges for a specific government service or product provided which do not exceed its reasonable cost, and (3) charges for reasonable regulatory costs related to specified regulatory activities. (Cal. Const., art. XIII C, \u00a7 1, subd. (e).)\nTo determine how franchise fees fit within these principles, we next consider the nature of franchise fees. We also describe the regulatory framework related to their calculation and imposition.\nB. Franchise Fees\n1. Nature of Franchise Fees\nA franchise to use public streets or rights-of-way is a form of property (Stockton Gas etc. Co. v. San Joaquin Co. (1905) 148 Cal. 313, 319, 83 P. 54 ), and a franchise fee is the purchase price of the franchise. (City & Co. of S.F. v. Market St. Ry. Co . (1937) 9 Cal.2d 743, 749, 73 P.2d 234.) Historically, franchise fees have not been considered taxes. (See Tulare County v. City of Dinuba (1922) 188 Cal. 664, 670, 206 P. 983 [franchise fee based on gross receipts of utility is not a tax]; City and County of San Francisco v. Market St. Ry. Co ., supra , 9 Cal.2d at p. 749, 73 P.2d 234 [payments for franchises are not taxes]; Santa Barbara County Taxpayer Assn., supra , 209 Cal.App.3d 940, 949-950, 257 Cal.Rptr. 615 [franchise fees are not proceeds of taxes].) Nothing in Proposition 218 reflects an intent to change the historical characterization of franchise fees, or to limit the authority of government to sell or lease its property and spend the compensation received for whatever purposes it chooses. (See Cal. Const., arts. XIII A, \u00a7 3, subd. (b)(4), XIII C.)\nThis understanding that restrictions on taxation do not encompass amounts paid in exchange for property interests is confirmed by Proposition 26, the purpose of which was to reinforce the voter approval requirements set forth in Propositions 13 and 218. (Prop. 26, \u00a7 1, subd. (f), Historical Notes, reprinted at 2B West's Ann. Cal. Const., supra , foll. art. XIII A, \u00a7 3, p. 297 [\"to ensure the effectiveness of these constitutional limitations, [Proposition 26] defines a 'tax' ... so that neither the Legislature nor local governments can circumvent these restrictions on increasing taxes by simply defining new or expanded taxes as 'fees' \"].) Although Proposition 26 strengthened restrictions on taxation by expansively defining \"tax\" as \"any levy, charge, or exaction of any kind imposed by a local government\" (Cal. Const., art. XIII C, \u00a7 1, subd. (e)), it provided an exception for \"[a] charge imposed for entrance to or use of local government property, or the purchase, rental, or lease of local government property.\" (Id ., subd. (e)(4).)\n2. Laws Governing the Calculation of Franchise Fees\nThe Legislature has taken several approaches to the issue of the amount of compensation to be paid to local jurisdictions in exchange for rights-of-way over the jurisdictions' land relating to the provision of services such as electricity. As described more fully below, it initially barred the imposition of franchise fees due to perceived abuses by local governments. Thereafter, it authorized local agencies to grant franchises, and established two formulas with which to calculate franchise fees. These formulas do not bind charter jurisdictions, such as the City, but they provide helpful background to the PUC's regulation of charges imposed on ratepayers.\nThe California Constitution as adopted in 1879 provided that \"[i]n any city where there are no public works owned and controlled by the municipality for the supplying the same with water or artificial light, any individual, or any company duly incorporated for such purpose ..., shall ... have the privilege of using the public streets and thoroughfares thereof, and of laying down pipes and conduits therein, and connections therewith, so far as may be necessary for introducing into and supplying such city and its inhabitants either with gaslight or other illuminating light, or with fresh water for domestic and all other purposes, upon the condition that the municipal government shall have the right to regulate the charges thereof.\" (Cal. Const., former art. XI, \u00a7 19.) The provision was intended to prevent a municipality from creating a monopoly within its jurisdiction by imposing burdens on parties who wanted to compete with an existing private utility. Although cities could not impose franchise fees on these \"constitutional franchises,\" they were authorized to tax a franchise on the basis that a franchise constitutes real property within the city.\n(Stockton etc. Co. v. San Joaquin Co., supra , 148 Cal. at pp. 315-321, 83 P. 54 ; City of Santa Cruz v. Pacific Gas & Electric Co . (2000) 82 Cal.App.4th 1167, 1171, 99 Cal.Rptr.2d 198.) In 1911, this constitutional provision was replaced with a provision that authorized the private establishment of public works for providing services such as light, water, and power \"upon such conditions and under such regulations as the municipality may prescribe under its organic law.\" (Sen. Const. Amend. No. 49, Stats. 1911 (1911 Reg. Sess.) res. ch. 67, p. 2180.) The constitutional amendment did not impair rights under existing constitutional franchises. (Russell v. Sebastian (1914) 233 U.S. 195, 210, 34 S.Ct. 517, 58 L.Ed. 912.)\nIn the meantime, in 1905, the Legislature enacted the Broughton Act, which authorized cities and counties to enter franchise agreements for the provision of electricity and various other services not encompassed by the constitutional restrictions on franchise fees. (Stats. 1905, ch. 578, p. 777; County of Alameda v. Pacific Gas & Electric Co . (1997) 51 Cal.App.4th 1691, 1694-1695, 60 Cal.Rptr.2d 187 (County of Alameda ).) The legislation provided that when an application for a franchise was received by a city or county, the governing body was to advertise for bids and award the franchise to the highest bidder. The successful bidder was required to pay, in addition to the amount bid, 2 percent of the gross annual receipts from the \"use, operation or possession\" of the franchise after the first five years of the term of the franchise agreement had passed. (Stats. 1905, ch. 578, \u00a7\u00a7 2-3, pp. 777-778.)\nThe Broughton Act's provision that the fee be based on the receipts from the use, operation or possession of the franchise results in a complicated calculation of franchise fees. Usually, some portion of a utility's rights-of-way are on private property or property outside the jurisdiction of the city or county granting the franchise, and the utility's gross receipts attributable to a particular franchise must be reduced in proportion to the utility's rights-of-way that are not within the franchise agreement. (Tulare County v. City of Dinuba, supra , 188 Cal. at pp. 673-676, 206 P. 983.) In addition, because gross receipts arise from all of a utility's operative property, such as equipment and warehouses, the portion of gross receipts attributable to property other than the franchise must be excluded from the calculation of the franchise fee. (County of L.A. v. Southern etc. Gas Co. (1954) 42 Cal.2d 129, 133-134, 266 P.2d 27.) Finally, if a utility also provides service under a constitutional franchise-for example, where it provides artificial light under a constitutional franchise in the same area in which it provides electricity under a franchise agreement entered pursuant to the Broughton Act-the franchise fee applies only to the gross receipts from the provision of services under the nonconstitutional franchise. (Oakland v. Great Western Power Co . (1921) 186 Cal. 570, 578-583, 200 P. 395.) In 1937, apparently due in part to the complexity involved in calculating franchise fees under the Broughton Act, the Legislature enacted an alternative scheme by which cities could grant franchises for the transmission of electricity and gas. (Stats. 1937, ch. 650, p. 1781; see Pub. Util. Code, \u00a7 6201 et seq. (1937 Act); County of Alameda, supra , 51 Cal.App.4th at pp. 1695-1696, 60 Cal.Rptr.2d 187.) Instead of a bidding process, the 1937 Act requires only a public hearing before the local government that will decide whether to grant an application for a franchise, at which objections to the granting of the franchise may be made. (Pub. Util. Code, \u00a7\u00a7 6232 -6234.) In addition, although the 1937 Act reiterates the Broughton Act formula for calculating franchise fees, it also provides an alternative formula: \"this payment shall be not less than 1 percent of the applicant's gross annual receipts derived from the sale within the limits of the municipality of the utility service for which the franchise is awarded.\" (Pub. Util. Code, \u00a7 6231, subd. (c).) According to a review of that year's legislation, the new franchise system was \"expected to bring more adequate returns to cities, while lessening disputes concerning amounts to be paid.\" (David, The Work of the 1937 California Legislature: Municipal Matters (1937) 11 So.Cal.L.Rev. 97, 107.)\nAs noted above, these statutory provisions do not bind jurisdictions governed by a charter, such as the City, but charter jurisdictions are free to follow the procedures set forth in the 1937 Act. (Pub. Util. Code, \u00a7 6205.) However, the 1937 Act's provisions \"relating to the payment of a percentage of gross receipts shall not be construed as a declaration of legislative judgment as to the proper compensation to be paid a chartered municipality for the right to exercise franchise privileges therein.\" (Pub. Util. Code, \u00a7 6205.) We explain below that although a charter jurisdiction's franchise fees are not limited by these statutory formulas, the PUC has concluded that it is not fair or reasonable to allow a utility to recoup from all of its utility customers charges imposed by a jurisdiction whose charges exceed the average amount of charges imposed by other local governments. Therefore, the PUC has established a procedure by which a utility may obtain approval to impose a surcharge on the bills of only those customers within the particular jurisdiction that imposes higher-than-average charges.\n3. PUC Scrutiny of Utility Charges\nThe PUC sets the rates of a publicly regulated utility to permit the utility to recover its costs and expenses in providing its service, and to receive a fair return on the value of the property it uses in providing its service. (Southern California Gas Company v. Public Utilities Co m . (1979) 23 Cal.3d 470, 474-476, 153 Cal.Rptr. 10, 591 P.2d 34.) Among a utility's costs and expenses are government fees and taxes. Historically, \"fees and taxes imposed upon the utility itself by the various governmental entities within the utility's service territory ... tended to average out, with the total derived from each taxing jurisdiction tending to be approximately equal. Therefore, rather than impose a special billing procedure upon utilities to account for the small differences historically involved, the [PUC] ... permitted a utility to simply average them and allowed them to be 'buried' in the rate structure applicable to the entire system.\"\n(PUC Investigation , supra , 32 Cal.P.U.C.2d at p. 63.) As voters restricted the taxing authority of local governments, however, some local jurisdictions increased the charges they imposed in connection with the provision of utility services. \"As the number and increasing amounts of these local revenue-producing mechanisms began to multiply, the [PUC] became concerned that averaging these costs among all ratepayers would create inequities among ratepayers.\" (Ibid . )\nIn response to this concern, the PUC established a procedure by which utilities may obtain approval to impose disproportionate charges on ratepayers within the jurisdiction that imposed the charges.\n(PUC Investigation , supra , 32 Cal.P.U.C.2d at pp. 62, 69.) When a local government imposes taxes or fees \"which in the aggregate significantly exceed the average aggregate of taxes or fees imposed by the other local governmental entities within the public utility's service territory,\" a utility may file an advice letter seeking approval to charge \"local government fee surcharges.\" (Id . at p. 73.) Such surcharges \"shall be included as a separate item or items to bills rendered to applicable customers. Each surcharge shall be identified as being derived from the local governmental entity responsible for it.\" (Ibid . )\nThe purpose of the PUC's procedure concerning local government fee surcharges is to ensure that utility rates are just, reasonable, and nondiscriminatory. (PUC Investigation , supra , 32 Cal.P.U.C.2d at p. 69 ; see Pub. Util. Code, \u00a7\u00a7 451 [all public utility charges shall be just and reasonable], 453 [no public utility shall discriminate], 728 [if PUC finds rates are unreasonable or discriminatory, it shall order just and reasonable rates].) \"Basic rates ... are those designed to recoup a utility's costs incurred to serve all its customers. (PUC Investigation, supra , 32 Cal.P.U.C.2d at p. 69.) If disproportionate taxes and fees are incorporated into all customers' basic rates, \"some of these ratepayers would be subsidizing others but are not themselves benefiting from such increased taxes or fees.\" (Ibid . )\nThe PUC's decision does not concern the validity of any charges imposed by local government. The PUC explained that it \"[did] not dispute or seek to dispute the authority or right of any local governmental entity to impose or levy any form of tax or fee upon utility customers or the utility itself, which that local entity, as a matter of general or judicial decision, has jurisdiction to impose, levy, or increase. Any issue relating to such local authority is a matter for the Superior Court, not this Commission.\" (PUC Investigation , supra , 32 Cal.P.U.C.2d at p. 69.)\nC. Validity of the Surcharge\n1. Relationship Between Franchise Rights and Franchise Fees\nPlaintiffs contend the surcharge is a tax rather than a fee under Proposition 218, and therefore requires voter approval. Whether a charge is a tax or a fee \"is a question of law for the appellate courts to decide on independent review of the facts.\" (Sinclair Paint, supra , 15 Cal.4th at p. 874, 64 Cal.Rptr.2d 447, 937 P.2d 1350.) In resolving this issue, the provisions of Proposition 218 \"shall be liberally construed to effectuate its purposes of limiting local government revenue and enhancing taxpayer consent.\" (Prop. 218, \u00a7 5, reprinted at Historical Notes, supra , 2B West's Ann. Cal. Const., foll. Art. XIII C, \u00a7 1, at p. 363; see Silicon Valley Taxpayers Assn., Inc. v. Santa Clara County Open Space Authority, supra , 44 Cal.4th at pp. 446, 448, 79 Cal.Rptr.3d 312, 187 P.3d 37 [express purpose of Prop. 218 was to limit methods of exacting revenue from taxpayers; its provisions are to be liberally construed].)\nAs explained earlier, a franchise is a form of property, and a franchise fee is the price paid for the franchise. Moreover, historically, franchise fees have not been considered taxes, and nothing in Proposition 218 reflects an intention to treat amounts paid in exchange for property interests as taxes. Finally, like the receipt by a discrete group of a special benefit from the government, the receipt of an interest in public property justifies the imposition of a charge on the recipient to compensate the public for the value received. Therefore, sums paid for the right to use a jurisdiction's rights-of-way are fees rather than taxes. But as explained below, to constitute compensation for the value received, the fees must reflect a reasonable estimate of the value of the franchise.\nEach of the categories of valid fees we recognized in Sinclair Paint, supra , 15 Cal.4th 866, 64 Cal.Rptr.2d 447, 937 P.2d 1350, was restricted to an amount that had a reasonable relationship to the benefit or cost on which it was based. We observed that special assessments were allowed \"in amounts reasonably reflecting the value of the benefits conferred\" (id . at p. 874, 64 Cal.Rptr.2d 447, 937 P.2d 1350 ), development fees were allowed \"if the amount of the fees bears a reasonable relation to the developer's probable costs to the community and benefits to the developer\" (id . at p. 875, 64 Cal.Rptr.2d 447, 937 P.2d 1350 ), and regulatory fees were allowed where the fees reflected bear a \"reasonable relationship to the social or economic 'burdens' that [the payor's] operations generated\" (id . at p. 876, 64 Cal.Rptr.2d 447, 937 P.2d 1350 ; see Pennell v. City of San Jose (1986) 42 Cal.3d 365, 375, 228 Cal.Rptr. 726, 721 P.2d 1111 ). To the extent fees exceed a reasonable amount in relation to the benefits or costs underlying their imposition, they are taxes. (Sinclair Paint at p. 881, 64 Cal.Rptr.2d 447, 937 P.2d 1350 ; Knox, supra , 4 Cal.4th at p. 142, fn. 15, 14 Cal.Rptr.2d 159, 841 P.2d 144.)\nIn the course of our analysis, we observed that, \"[i]n general, taxes are imposed for revenue purposes, rather than in return for a specific benefit conferred or privilege granted,\" and we looked to whether the primary purpose of a charge was to generate revenue. (Sinclair Paint, supra , 15 Cal.4th at p. 874, 64 Cal.Rptr.2d 447, 937 P.2d 1350 ; id . at pp. 879-880, 64 Cal.Rptr.2d 447, 937 P.2d 1350.) The issue of whether the funds generated by the types of fees considered in Sinclair Paint were used primarily for revenue purposes was relevant because the fees were related to an expenditure by the government or a cost borne by the public. More particularly, in connection with special assessments, the government seeks to recoup the costs of the program that results in a special benefit to particular properties, and in connection with development fees and regulatory fees, the government seeks to offset costs borne by the government or the public as a result of the payee's activities.\nIn contrast, a fee paid for an interest in government property is compensation for the use or purchase of a government asset rather than compensation for a cost. Consequently, the revenue generated by the fee is available for whatever purposes the government chooses rather than tied to a public cost. The aspect of the transaction that distinguishes the charge from a tax is the receipt of value in exchange for the payment. (See Sinclair Paint , 15 Cal.4th at p. 874, 64 Cal.Rptr.2d 447, 937 P.2d 1350 [contrasting taxes from charges imposed in return for a special benefit or privilege]; 9 Witkin, Summary of Cal. Law (10th ed. 2005) Taxation, \u00a7 1, p. 25 [\"in taxation, ... no compensation is given to the taxpayer except by way of governmental protection and other general benefits\"].)\nPlaintiffs observe, however, that SCE customers pay the surcharge, but SCE receives the franchise rights; therefore, they contend, the ratepayers do not receive any value in exchange for their payment of the charge. As noted above, publicly regulated utilities are allowed to recover their costs and expenses by passing them on to their ratepayers. Among the charges included in the rates charged to customers within the City is the initial 1 percent of gross receipts paid in exchange for franchise rights, yet plaintiffs do not contend that this initial 1 percent is a tax because ratepayers do not receive the franchise rights. The fact that the surcharge is placed on customers' bills pursuant to the franchise agreement rather than a unilateral decision by SCE does not alter the substance of the surcharge; like the initial 1 percent charge, it is a payment made in exchange for a property interest that is needed to provide electricity to City residents. Because a publicly regulated utility is a conduit through which government charges are ultimately imposed on ratepayers, we would be placing form over substance if we precluded the City from establishing that the surcharge bears a reasonable relationship to the value of the property interest it conveyed to SCE because the City expressed in its ordinance what was implicit-that once the PUC gave its approval, SCE would place the surcharge on the bills of customers within the City.\nAlthough Sinclair Paint 's consideration of the purposes to which revenues will be put is not relevant in the context of transfers of public property interests, its broader focus on the relationship between a charge and the rationale underlying the charge provides guidance in evaluating whether the surcharge is a tax. Just as the amount of fees imposed to compensate for the expense of providing government services or the cost to the public associated with a payer's activities must bear a reasonable relationship to the costs and benefits that justify their imposition, fees imposed in exchange for a property interest must bear a reasonable relationship to the value received from the government. To the extent a franchise fee exceeds any reasonable value of the franchise, the excessive portion of the fee does not come within the rationale that justifies the imposition of fees without voter approval. Therefore, the excessive portion is a tax. If this were not the rule, franchise fees would become a vehicle for generating revenue independent of the purpose of the fees. In light of the PUC's investigation of local governments' attempts to produce revenue through charges imposed on public utilities, this concern is more than merely speculative. (See PUC Investigation, supra , 32 Cal.P.U.C.2d 60.)\nWe recognize that determining the value of a franchise may present difficulties. Unlike the cost of providing a government improvement or program, which may be calculated based on the expense of the personnel and materials used to perform the service or regulation, the value of property may vary greatly, depending on market forces and negotiations. Where a utility has an incentive to negotiate a lower fee, the negotiated fee may reflect the value of the franchise rights, just as the negotiated rent paid by the lessor of a publicly owned building reflects its market value, despite the fact that a different lessor might have negotiated a different rental rate. In the absence of bona fide negotiations, however, or in addition to such negotiations, an agency may look to other indicia of value to establish a reasonable value of franchise rights.\nIn sum, a franchise fee must be based on the value of the franchise conveyed in order to come within the rationale for its imposition without approval of the voters. Its value may be based on bona fide negotiations concerning the property's value, as well as other indicia of worth. Consistent with the principles that govern other fees, we hold that to constitute a valid franchise fee under Proposition 218, the amount of the franchise fee must bear a reasonable relationship to the value of the property interests transferred.\n(See Sinclair Paint, supra , 15 Cal.4th at pp. 874-876, 64 Cal.Rptr.2d 447, 937 P.2d 1350.)\n2. The City's Alternative Theories to Support the Surcharge\nWe find the City's remaining arguments in defense of the surcharge to be without merit.\nThe City contends that the surcharge is not a tax imposed on ratepayers because it is a burden SCE voluntarily assumed. The terms of the 1999 agreement belie the contention that SCE assumed a burden to pay the surcharge. The 1999 agreement states that SCE \"shall collect\" the surcharge from all SCE customers within the City, and the collection shall be based on electricity consumption. Arguably, these provisions are ambiguous as to whether the mandatory language imposes a duty to collect the surcharge, or imposes a duty, if it collects the surcharge, to apply it to all customers within the City based on consumption. However, the next paragraph of the 1999 agreement refers to \"[t]he conditions precedent to the obligation of [SCE ] under this Section 5 to levy, collect, and deliver to City the [surcharge].\" In addition, the parties stipulated that \"[t]he SCE assessments, collections and remittance of the [surcharge] were required by Santa Barbara Ordinance 5135.\" Finally, as noted above, public utilities are allowed to pass along to their customers expenses the utilities incur in producing their services, and SCE could terminate the 1999 agreement if the PUC did not agree to the inclusion of the surcharge on customers' bills. Thus, it does not appear that SCE assumed any burden to pay the surcharge from its assets.\nWe also reject the City's contention that imposition of the surcharge on customers is the result of a decision by SCE and the PUC. As discussed above, the purpose of the PUC's involvement in the process was to ensure that higher-than-average fees were not imposed on customers who reside outside the City. The fact that the 1999 agreement required SCE to seek the approval of the PUC to include the charge on customers' bills, and allowed either party to terminate the agreement if the PUC's approval was not obtained, reflects that SCE was not willing to assume the burden of paying the surcharge, and that both parties to the agreement understood that the charge would be collected from ratepayers. These conclusions are confirmed by the parties' negotiations, which reflect that SCE was willing only to collect the charge from its customers and remit the revenue to the City. Finally, the City stipulated that the parties reached their agreement on the condition that the surcharge would become payable only if SCE obtained the PUC's consent to include the surcharge as a customer surcharge. In sum, the City and SCE agreed that SCE would impose the surcharge on customers and remit the revenues to the City.\nIn a similar vein, the City contends we should look to a revenue measure's legal incidence-who is required to pay the revenues-rather than its economic incidence-who bears the economic burden of the measure. The City's contention is based on its view that SCE bears the legal incidence of the charges and, therefore, the charges are not a tax on the ratepayers. In support of its theory, the City cites case law holding that nonresidents do not have taxpayer standing under Code of Civil Procedure section 526a to challenge a jurisdiction's actions based on their payment of taxes within the jurisdiction. (See Cornelius v. Los Angeles County etc. Authority (1996) 49 Cal.App.4th 1761, 1777-1778, 57 Cal.Rptr.2d 618 [plaintiff who did not live in Los Angeles County was denied taxpayer standing to challenge a county affirmative action program based in part on payment of sales and gasoline taxes in Los Angeles County]; Torres v. City of Yorba Linda (1993) 13 Cal.App.4th 1035, 1048, 17 Cal.Rptr.2d 400 [plaintiffs who did not live within a city were denied taxpayer standing to challenge a redevelopment plan based on the payment of sales taxes in the city].) These cases would support an argument that individuals who live outside the City do not have taxpayer standing to challenge the surcharge, but they do not provide guidance concerning what constitutes a tax under various voter initiatives restricting taxation.\nIn any event, all that the City ultimately contends in this regard is that the economic incidence of a charge does not determine whether it is a tax. We agree. Valid fees do not become taxes simply because their cost is passed on to the ratepayers. As our discussion above reflects, the determination of whether a charge that is nominally a franchise fee constitutes a tax depends on whether it is reasonably related to the value of the franchise rights. Finally, the City asserts that the negotiated value of the franchise is entitled to deference because the City's adoption of the 1999 agreement was a legislative act and because charter jurisdictions have broad discretion to enter franchise agreements. (See Gov. Code, \u00a7 50335 [the legislative body of a local agency may grant utility easements \"upon such terms and conditions as the parties thereto may agree\"].) The record does not adequately disclose the negotiations that occurred with respect to the value of the franchise, and we are therefore unable to evaluate what deference, if any, might be due.\nIII. THE JUDGMENT OF THE COURT OF APPEAL\nAs noted above, the Court of Appeal concluded that the surcharge's primary purpose was to raise revenue for general spending purposes rather than to compensate the City for the rights-of-way. Therefore, it held, the surcharge is a tax, and requires voter approval under Proposition 218. Based on these conclusions, it reversed the trial court's grant of the City's motion for judgment on the pleadings, and \"directed the trial court to grant [plaintiffs'] motion for summary adjudication because the City imposed the 1% surcharge without complying with Proposition 218.\" As explained below, we agree that the judgment on the pleadings must be reversed, but we conclude that plaintiffs did not establish a right to summary adjudication.\nA motion for judgment on the pleadings presents the question of whether \"the plaintiff's complaint state[s] facts sufficient to constitute a cause of action against the defendant.\" (Smiley v. Citibank (1995) 11 Cal.4th 138, 145, 44 Cal.Rptr.2d 441, 900 P.2d 690.) The trial court generally considers only the allegations of the complaint, but may also consider matters that are subject to judicial notice. (Id . at p. 146, 44 Cal.Rptr.2d 441, 900 P.2d 690.) \" 'Moreover, the allegations must be liberally construed with a view to attaining substantial justice among the parties.' [Citation.] 'Our primary task is to determine whether the facts alleged provide the basis for a cause of action against defendants under any theory.' \" (Alliance Mortgage Co. v. Rothwell (1995) 10 Cal.4th 1226, 1232, 44 Cal.Rptr.2d 352, 900 P.2d 601.) \"An appellate court independently reviews a trial court's order on such a motion.\" (Smiley, supra , at p. 146, 44 Cal.Rptr.2d 441, 900 P.2d 690.)\nThe first amended complaint alleges that the surcharge is not a franchise fee, but is instead a tax that requires voter approval under Proposition 218. In addition, with the parties' consent, the trial court took judicial notice of the written stipulation of facts submitted in connection with the motions for summary adjudication and summary judgment, and a second stipulation of facts submitted in connection with the City's motion for judgment on the pleadings. As described above, the stipulated facts reflect that the City and SCE agreed to double the amount to be paid for the privilege of using the rights-of-way and to pass these charges on to the ratepayers, but they do not address the relationship, if any, between the surcharge and the value of the franchise. Liberally construed, the first amended complaint and the stipulated facts adequately allege the basis for a claim that the surcharge bears no reasonable relationship to the value of the franchise, and is therefore a tax requiring voter approval under Proposition 218. Accordingly, the trial court erred in granting judgment on the pleadings to the City.\nNext we consider the Court of Appeal's direction to the trial court to grant plaintiffs' motion for summary adjudication. A plaintiff moving for summary adjudication with respect to a claim must establish each element of the claim. The burden then shifts to the defendant to demonstrate a triable issue of fact exists as to the claim. (Code Civ. Proc., \u00a7 437c, subd. (p)(1).) Like a ruling on a motion for judgment on the pleadings, a ruling on a motion for summary adjudication is reviewed de novo.\n(Kendall v. Walker (2009) 181 Cal.App.4th 584, 591, 104 Cal.Rptr.3d 262.)\nPlaintiffs sought summary adjudication of the allegation that the surcharge is a tax. (Code Civ. Proc., \u00a7 437c, subd. (f).) They asserted that the tests set forth in Sinclair Paint, supra , 15 Cal.4th 866, 64 Cal.Rptr.2d 447, 937 P.2d 1350, remain good law, but like the Court of Appeal, they drew from Sinclair Paint the principle that if the primary purpose of a charge is to raise revenue, the charge is a tax. Plaintiffs also challenged the surcharge on the ground that it was not based on a determination that there was a reasonable relationship between the charge and any costs borne by the City. In response, the City noted that Sinclair Paint, supra , 15 Cal.4th 866, 64 Cal.Rptr.2d 447, 937 P.2d 1350, addressed the distinction between regulatory fees and taxes. The City relied instead on Santa Barbara County Taxpayer Assn., supra , 209 Cal.App.3d 940, 257 Cal.Rptr. 615, which held that franchise fees are not \"proceeds of taxes\" for purposes of calculating limits on state and local appropriations under article XIII B of the California Constitution. The trial court concluded that \"[b]ecause the measure of compensation [for a franchise] is a matter of contractual negotiation, the amount of the franchise fee need not be based on costs.\"\nAlthough plaintiffs' allegations and the stipulated facts adequately allege the basis for a contention that the surcharge bears no reasonable relationship to the value of the franchise, plaintiffs' motion for summary adjudication did not establish this contention. As explained in our discussion of franchise fees, cities are free to sell or lease their property, and the fact that a franchise fee is collected for the purpose of generating revenue does not establish that the compensation paid for the property interests is a tax. In addition, in contrast to fees imposed for the purpose of recouping the costs of government services or programs, which are limited to the reasonable costs of the services or programs, franchise fees are not based on the costs incurred in affording a utility access to rights-of-way. Therefore, the facts on which plaintiffs relied in seeking summary adjudication did not establish their claim that the surcharge is a tax.\nIV. DISPOSITION\nWe affirm the judgment of the Court of Appeal to the extent it reversed the trial court's judgment, and we reverse the judgment to the extent it directed the trial court to grant plaintiffs' motion for summary adjudication. The case is remanded to the Court of Appeal with directions to remand the matter to the trial court for further proceedings consistent with this opinion.\nWe Concur:\nWerdegar, J.\nCorrigan, J.\nLiu, J.\nCu\u00e9llar, J.\nKruger, J.\nDISSENTING OPINION BY CHIN, J.\nChin, J.\nSince 1970, the City of Santa Barbara (the City) has imposed \"a tax\" on those using electricity in the City. Since 1977, the amount of the tax has been \"six percent (6%) of the charges made for\" energy use. (Santa Barbara Mun. Code, \u00a7 4.24.030. ) In 1999, the City, in order to raise revenues for general governmental purposes, passed an ordinance-City Ordinance No. 5135 (the Ordinance)-separately requiring those receiving electricity within the City from Southern California Edison (SCE) to pay an additional 1 percent of the amount of their electrical bill. I conclude that this additional charge constitutes a tax that the City imposed in violation of the voter approval requirements of article XIII C of the California Constitution, as adopted by the voters at the November 5 General Election through passage of Proposition 218 (Proposition 218). The City's arguments to the contrary are unpersuasive.\nThe majority agrees that most of the City's arguments fail, but it largely agrees with the City that the charge is a \"valid franchise fee ... rather than a tax.\" (Maj. opn., ante , 219 Cal.Rptr.3d at p. 865, 397 P.3d at p. 215.) Putting its own gloss on the City's argument-a gloss the City expressly rejects-the majority concludes that the charge is a valid franchise fee to the extent it \"bear[s] a reasonable relationship to,\" as alternatively phrased, \"the value of the property interests transferred\" (maj. opn., ante , at p. 876, 397 P.3d at pp. 223-224), \"the value of the franchise conveyed\" (ibid .), or \"the value of the franchise rights\" (id . at p. 877, 397 P.3d at p. 225).\nThere is a fundamental problem with this approach: The electricity users upon whom the City imposes the charge, and who actually pay it, do not receive the franchise, any franchise rights, or any property interests. The Ordinance grants those valuable rights and interests only to SCE , the electricity supplier. Because the Ordinance requires SCE's customers to pay for rights and interests the City has granted to SCE, the charge does not constitute a \"franchise fee\" for purposes of the rule that \"franchise fees [are not] considered taxes.\" (Maj. opn., ante , 219 Cal.Rptr.3d at p. 869, 397 P.3d at p. 218.) In reality, it is just an increase in the City's user tax, which the City calls a franchise fee. It thus constitutes precisely what the voters adopted article XIII C to preclude: a \"tax increase[ ] disguised via euphemistic relabeling as 'fees,' 'charges,' or 'assessments.' \" (Apartment Assn. of Los Angeles County, Inc. v. City of Los Angeles (2001) 24 Cal.4th 830, 839, 102 Cal.Rptr.2d 719, 14 P.3d 930.) Consistent with our duty , as established by the voters themselves, to \"liberally construe[ ]\" article XIII C of the California Constitution \"to effectuate [the] purpose[ ] of limiting local government revenue and enhancing taxpayer consent\" (Prop. 218, \u00a7 5, reprinted at 1 Stats. 1996, p. A-299), I conclude that the charge is invalid because the City imposed it on SCE's customers without voter approval.\nThe majority cites no support for its conclusion that a charge imposed on and paid by someone who is granted nothing in return is not tax as to that person so long as someone else receives franchise rights for the payment. Indeed, as I explain below, the majority's analysis is inconsistent with our case law. And the line the majority draws between a valid franchise fee and a tax-whether the amount of the charge to a utility's customers bears a reasonable relationship to the value the entity receives-is problematic in many ways and renders long-standing statutory provisions regarding utility franchises vulnerable to constitutional challenge. For all of these reasons, I dissent.\nI. FACTUAL AND LEGAL BACKGROUND\nIn 1887, SCE's predecessor, the Santa Barbara Electric Company, began supplying electricity in the City. In 1959, the City, pursuant to an agreement with SCE, adopted Ordinance No. 2728 granting SCE a 25-year franchise to use public property to transmit and distribute electricity. The ordinance required SCE to pay the City 2 percent of its \"gross annual receipts ... arising from the use, operation or possession of [the] franchise,\" with a minimum payment of one-half percent of SCE's \"gross annual receipts derived ... from the sale of electricity within the [City's] limits ... under both\" the franchise being granted by the ordinance and SCE's separate and preexisting \"constitutional franchise.\" The ordinance specified that the City was granting the franchise \"under and in accordance with the provisions of [the] Franchise Act of 1937.\"\nIn 1985, after the 1959 franchise expired, the City, pursuant to another agreement with SCE, adopted Ordinance No. 4312 granting SCE a 10-year franchise to use public property to transmit and distribute electricity. \"[A]s compensation,\" the ordinance required SCE to pay to the City 2 percent of its \"annual gross receipts ... arising from the use, operation or possession of th[e] franchise,\" with a minimum payment of 1 percent of SCE's \"annual gross receipts derived ... from the sale of electricity within the limits of [the] City under both\" the franchise being granted by the ordinance and SCE's separate and preexisting \"constitutional franchise.\" The 1985 ordinance also required SCE to \"collect for [the] City any utility users tax imposed by [the] City.\" This provision reflected the City's imposition in 1970 of \"a tax\" on \"every person in\" the City using electricity in the City. (Santa Barbara Ord. No. 3436.) The amount of the tax was initially three percent \"of the charges made for\" use of electricity. (Ibid .) In 1977, the City doubled the tax to 6 percent. (Santa Barbara Ord. No. 3927, amending Santa Barbara Mun. Code, \u00a7 4.24.030; see Santa Barbara Ord. No. 4289 (1984), amending Santa Barbara Mun. Code, tit. 4.)\nThe year after the City doubled its electricity users tax, California voters passed Proposition 13. As the majority notes, Proposition 13 amended our Constitution to limit increases in the assessed value of real property to 2 percent per year (absent a change in ownership) and to limit the rate of taxation on real property to 1 percent of its assessed value. (Maj. opn., ante , 219 Cal.Rptr.3d at pp. 865-866, 397 P.3d at p. 215.) In order to prevent these tax savings from being offset by increases in state and local taxes, Proposition 13 also amended our Constitution to require approval by two-thirds of the local electors of a city, county, or special district in order for such a local entity to impose or raise special taxes. (Maj. opn., ante , at pp. 865-866, 397 P.3d at p. 215.) Since the voters enacted these limits on the City's taxing powers, the City has not formally increased the percentage of its electricity users tax.\nHowever, in 1999, the City informally and effectively increased this tax by passing the Ordinance, which codified a new franchise agreement with SCE and required users of electricity within the City to pay an additional 1 percent of their electrical bill. According to the parties' stipulated facts, this charge began as a proposal from \"City staff,\" \"[d]uring the negotiations for the new franchise agreement,\" to \"increase[ ] [the] annual 'franchise fee' \" from 1 percent of SCE's gross receipts for electricity sold within the City-the amount under the expiring agreement-to 2 percent. \"City staff\" proposed the increase in order \"to raise additional revenues for the City for general City governmental purposes.\" \"After a period of negotiations,\" SCE said it would agree \"to remit to the City a two percent ... franchise fee provided that the City agreed that the increase in the franchise fee would be payable to the City only if the California Public Utilities Commission ... consented to SCE's request that it be allowed to include the additional 1% amount as a customer surcharge on the bills of SCE to its customers in the City.\" City staff and SCE reached agreement \"[o]n that basis\" and the City Council later adopted the tentative agreement as Ordinance No. 5135 (Dec. 7, 1999).\nThe Ordinance granted SCE a franchise to use public property to construct and operate an electric transmission system. It provided for an : \" 'Initial Term' \" of three years-January 1, 2000, through December 31, 2002-and set the payment for that term at 1 percent of SCE's \"Gross Annual Receipts.\" (Ord. No. 5135, \u00a7\u00a7 3.A, 5.) The Ordinance also provided for an \" 'Extension Term' \" beginning 60 days after the California Public Utilities Commission (PUC) approved an \"Extension Term Fee\" and ending December 31, 2029. (Ord., \u00a7 3.B.) The total Extension Term Fee was 2 percent of SCE's Gross Annual Receipts, and comprised two elements: (1) the 1 percent Initial Term Fee; and (2) a 1 percent \"Recovery Portion.\" (Ord., \u00a7 5.B.) Like the City's electricity users tax, the Recovery Portion was to be collected from \"all electric utility customers served by [SCE] within the boundaries of the City\" and was \"based on consumption or use of electricity.\" (Ibid .) SCE's \"obligation\" was \"to levy\" the Recovery Portion on its customers, \"collect\" this payment from its customers, and \"deliver\" the collected amount \"to [the] City.\" (Ord., \u00a7 5.C.) In other words, according to the parties' stipulated facts, Ordinance No. 5135 \"obligate[d]\" all persons in the City receiving electricity from SCE \"to pay\" the Recovery Portion, and \"require[d] [SCE] to collect\" the Recovery Portion \"from\" its City customers \"and remit [it] to\" the City. The Ordinance made PUC approval of the Extension Term Fee a \"condition [ ] precedent to\" SCE's \"obligation ... to levy, collect, and deliver to [the] City the Recovery Portion.\"\nIf that approval was not obtained by the end of the Initial Term-December 31, 2002-the franchise would \"continue on a year to year basis at the Initial Term Fee\"-1 percent of gross revenues-until terminated by either party upon written notice.\nIn April 2001, the City and SCE agreed to delay for up to two years the filing with the PUC of a request for approval of the Extension Term Fee. In December 2004, almost three years later, the City directed SCE to submit the request. During that period, the only compensation SCE paid the City for the franchise was the Initial Term Fee. SCE eventually submitted the request on March 30, 2005, asking for approval \"to bill and collect from its customers within the City ... a 1.0% electric franchise surcharge to be remitted to the City by SCE as a pass-through fee, pursuant to SCE's new franchise agreement with the City.\" The request explained that the new franchise agreement \"expressly provides for the additional amount to be surcharged to SCE's customers within the City,\" and requires PUC approval \"in order for SCE to bill and collect the additional franchise surcharge for the City.\" The request also explained that, upon the PUC's approval, SCE would \"bill and collect the surcharge revenues and pass through the revenues directly to the City.\" On April 20, 2005, the PUC granted SCE's request.\nIn November 2005, SCE began billing the Recovery Portion to, and collecting it from, customers in the City, and remitting those revenues in their entirety to the City. At first, the City apportioned the revenues in accordance with the Ordinance, i.e., half to the City's general fund and half to a City undergrounding projects fund. In November 2009, the City directed that all revenues from the Recovery Portion be placed in its general fund without any limitation on use.\nDISCUSSION\nPlaintiffs Rolland Jacks and Rove Enterprises, Inc., claim that the City, by imposing the Recovery Portion through adoption of Ordinance No. 5135, violated article XIII C of the California Constitution. As here relevant, article XIII C provides that \"local government[s]\" may not \"impose ... any general tax ... until that tax is submitted to the electorate and approved by a majority vote\" (Cal. Const., art. XIII C, \u00a7 2, subd. (b)), and may not \"impose ... any special tax ... until that tax is submitted to the electorate and approved by a two-thirds vote\" (id ., \u00a7 2, subd. (d)). Plaintiffs argue that the Recovery Portion is a tax within the meaning of these provisions and that the City violated article XIII C by imposing it without voter approval.\nIn opposition to this argument, the City focuses heavily on the word \"impose\" in article XIII C's provisions, asserting that the Recovery Portion was not \"imposed\" by the City on anyone. According to the City, the Recovery Portion is, as to SCE, a \"voluntary\" payment to which SCE, a \"sophisticated, commercial entit[y] with substantial market power,\" \"willingly agreed\" in order \"to obtain use of valuable public rights of way in its for-profit business.\" As to SCE's customers, SCE and/or the PUC \"imposed\" the Recovery Portion, and the City \"played no part in\" the decisions of those entities.\nThe majority correctly rejects these arguments, explaining that the terms of the agreement and the Ordinance require that the Recovery Portion \"be collected from\" SCE's customers and impose on SCE only an obligation \"to collect the charge from its customers and remit the revenue to the City.\" (Maj. opn., ante , 219 Cal.Rptr.3d at p. 876, 397 P.3d at p. 224.) Indeed, the City's arguments necessarily fail in light of its stipulation that \"[p]ursuant to City Ordinance [No.] 5135, all persons in the City receiving electricity from SCE are obligated to pay the 1% Recovery Portion.\" (Italics added.)\nIn a related argument, the City asserts that the Recovery Portion is not \"imposed\"\non SCE's customers because its \"legal incidence\"-i.e., the \"legal duty to pay it\"-\"is on SCE.\" According to the City, that SCE's customers in fact \"ultimately bear[ ]\" the Recovery Portion's \"economic burden\" is irrelevant because, under the law, \"whether a charge is a tax is determined by its legal incidence.\"\nThe City is correct to focus on the Recovery Portion's legal incidence, but its argument fails because, under the Ordinance, both the legal incidence and the economic burden of the Recovery Portion fall on SCE's customers, not on SCE. The rule in California is that where the government mandates payment of a charge by one party, and imposes a duty on some other party to collect the payment and remit it to the government, the legal incidence of the charge falls, not on the party collecting the payment-who acts merely as the government's collection agent or conduit-but on the party from whom the payment is, by law, collected. (Western States Bankcard Assn. v. City and County of San Francisco (1977) 19 Cal.3d 208, 217, 137 Cal.Rptr. 183, 561 P.2d 273 (Western States ) [tax ordinances lacked \"mandatory pass-on provisions\" that would \"shift the legal incidence of the tax\"]; Bunker Hill Associates v. City of Los Angeles (1982) 137 Cal.App.3d 79, 87, 186 Cal.Rptr. 719 [\" 'the legal incidence of a tax does not necessarily fall on the party who acts as conduit by forwarding collected taxes to the state,' \" and charge imposed on tenants, that lessors were legally required to collect and transmit to the government, was not a tax on lessors]; Occidental Life Ins. Co. v. State Bd. of Equalization (1982) 135 Cal.App.3d 845, 850, 185 Cal.Rptr. 779 (Occidental Life ) [whether \" 'pass on' \" of charge is \"mandatory\" is \"legally significant\" in determining who bears the charge's \"legal incidence\"].) Consistent with this rule, in City of Modesto v. Modesto Irrigation Dist. (1973) 34 Cal.App.3d 504, 506, 110 Cal.Rptr. 111, the court held that a monthly charge imposed by the City of Modesto for use of water, gas, electricity, and telephone service, \"paid by the service user (the consumer), but ... collected by the service supplier,\" was \"a tax against the utility user, not the utility supplier.\"\nUnder these principles, the legal incidence of the Recovery Portion falls on SCE's customers, not, as the City asserts, on SCE. As noted above, the City has stipulated that SCE's customers \"are obligated to pay\" the Recovery Portion \"[p]ursuant to City Ordinance [No.] 5135,\" and that SCE's duty under the Ordinance is \"to collect\" the Recovery Portion \"from all SCE electricity users in the City and remit those funds to the City.\" The terms of the Ordinance and the representations in SCE's application for PUC approval, as set forth above, fully support this stipulation. On this record, it is clear that the Ordinance mandates payment of the Recovery Portion by SCE's customers and makes SCE the City's collection agent and conduit regarding this payment. Accordingly, the legal incidence of the Recovery Portion is on SCE's customers.\nThe City's final argument is that the Recovery Portion is a \"franchise fee\"-i.e., \"a bargained-for price for use of the City's rights of way in SCE's search for profits\"-and that under California case law, a franchise fee \"is not a tax.\" The majority essentially agrees with the City. \"Historically,\" the majority begins, \"franchise fees have not been considered\" by California courts to be \"taxes,\" and \"[n]othing in Proposition 218 reflects an intent to change\" this rule. (Maj. opn., ante , 219 Cal.Rptr.3d at pp. 869-870, 397 P.3d at pp. 218-219.) Putting its own gloss on the City's argument, the majority then concludes that the Recovery Portion is a \"franchise fee\" and not a tax insofar as its amount \"is reasonably related to the value of the franchise.\" (Maj. opn., ante , at p. 865, 397 P.3d at p. 215.) \"To the extent [it] exceeds any reasonable value of the franchise,\" it \"is a tax\" rather than a \"franchise fee,\" because \"the excessive portion ... does not come within the rationale that justifies the imposition of fees without voter approval.\" (Id. at p. 875, 397 P.3d at p. 223.)\nWhether a charge constitutes a \"tax\" for purposes of the Constitution \"is a question of law for the appellate courts to decide on independent review of the facts.\" ( Sinclair Paint Co. v. State Bd. of Equalization (1997) 15 Cal.4th 866, 874, 64 Cal.Rptr.2d 447, 937 P.2d 1350.) In answering this question, we should not, as the majority appears to do, rely on the circumstance that the charge is \"nominally a franchise fee.\" (Maj. opn., ante , 219 Cal.Rptr.3d at p. 877, 397 P.3d at p. 225.) In determining whether a charge is a tax, courts \"are not bound by what the parties may have called the liability\" (Bank of America v. State Bd. of Equal. (1962) 209 Cal.App.2d 780, 801, 26 Cal.Rptr. 348 (Bank of America )), and are \"not to be guided by labels\" (Beamer v. Franchise Tax Board (1977) 19 Cal.3d 467, 475, 138 Cal.Rptr. 199, 563 P.2d 238 ) or \"bare legislative assertion\" (Flynn v. San Francisco (1941) 18 Cal.2d 210, 215, 115 P.2d 3 ). Instead, their \"task is to determine the[ ] true nature\" of the charge (Beamer v. Franchise Tax Board , supra , at p. 475, 138 Cal.Rptr. 199, 563 P.2d 238 ), based on \" 'its incidents' \" and \" 'the natural and legal effect of the language employed in' \" the enactment (Ainsworth v. Bryant (1949) 34 Cal.2d 465, 473, 211 P.2d 564 ). This general principle is especially applicable here for two reasons: (1) Proposition 218's \"main concern\" was \"perhaps\" the \"euphemistic relabeling\" of taxes \"as 'fees,' 'charges,' or 'assessments' \" (Apartment Assn. of Los Angeles County, Inc. v. City of Los Angeles , supra , 24 Cal.4th at p. 839, 102 Cal.Rptr.2d 719, 14 P.3d 930 ); and (2) Proposition 218 expressly required courts to \"liberally construe[ ]\" article XIII C \"to effectuate its purposes of limiting local government revenue and enhancing taxpayer consent\" (Prop. 218, \u00a7 5, reprinted at 1 Stats. 1996, p. A-299). Given the City's argument, the question here is whether the Recovery Portion, in light its incidents, constitutes the type of charge we have declared to be a franchise fee instead of a tax. One of our earliest decisions to discuss this type of charge is County of Tulare v. City of Dinuba (1922) 188 Cal. 664, 206 P. 983 (Tulare ). There, we held that the annual payment imposed by the Broughton Act (\u00a7 6001 et seq.) on the successful bidder for a franchise to provide electricity-2 percent of gross annual receipts from the use, operation or possession of the franchise-is \"neither a tax nor a license.\" (Tulare , at p. 670, 206 P. 983.) Instead, it is a \"charge\" that \"the holder of the franchise undertakes to pay as part of the consideration, for the privilege of using the avenues and highways occupied by the public utility.... [\u00b6] It is purely a matter of contract.... [I]t is a matter of option with the applicant whether he will accept the franchise on those terms. His obligation to pay is not imposed by law but by his acceptance of the franchise.\" (Ibid ., italics added.)\nTulare makes clear that the Recovery Portion, irrespective of its relationship to the value of the franchise SCE received, is not a franchise fee for purposes of the rule that a franchise fee is not a tax. As explained above, the Recovery Portion is not a charge that \"the holder of the franchise\"-SCE-\"undert[ook] to pay.\" (Tulare , supra , 188 Cal. at p. 670, 206 P. 983.) Indeed, as the majority correctly states, the terms of the Ordinance \"belie\" this characterization, establishing instead that SCE did not \"assume[ ] a burden to pay\" the Recovery Portion. (Maj. opn., ante , 219 Cal.Rptr.3d at p. 876, 397 P.3d at p. 224.) And the City's factual stipulation that the Ordinance \"obligated\" SCE's customers \"to pay\" the Recovery Portion conclusively establishes that their \"obligation to pay\" the Recovery Portion was, in fact, \"imposed by law,\" not by their \"acceptance of the franchise.\" (Tulare , at p. 670, 206 P. 983.) Indeed, SCE's customers did not receive a franchise, which, as the majority explains, \"is a privilege granted by the government to a particular individual or entity rather than to all as a common right.\" (Maj. opn., ante , at p. 863, fn. 1, 397 P.3d at p. 213, fn. 1.) The Ordinance granted them no legal right to make any use of the City's property or to conduct a franchise for supplying electricity. In short, the Recovery Portion simply lacks the incidents of a franchise fee for purposes of the rule that franchise fees are not taxes. \"To call it a fee\" rather than a tax is simply \"a transparent evasion.\" (Fatjo v. Pfister (1897) 117 Cal. 83, 85, 48 P. 1012.)\nAlthough the majority recognizes the principles underlying the rule that franchise fees are not taxes, it fails to apply them. The majority observes that \"a franchise fee is the purchase price of the franchise\" (maj. opn., ante , 219 Cal.Rptr.3d at p. 869, 397 P.3d at p. 218), but it does not explain how the Recovery Portion, which the City has imposed on someone other than the purchaser of the franchise, meets this test. The majority explains that \"sums paid for the right to use a jurisdiction's rights-of-way are fees rather than taxes\" because \"the receipt of an interest in public property justifies the imposition of a charge on the recipient to compensate the public for the value received.\" (Maj. opn., ante , at pp. 873-874, 397 P.3d at p. 222, italics added.) But the Recovery Portion is not imposed \"on the recipient\" of the interest in public property. (Ibid .) The majority explains that \"restrictions on taxation do not encompass amounts paid in exchange for property interests\" (maj. opn., ante , at p. 869, 397 P.3d at p. 218, italics added), and that what \"distinguishes\" a valid charge \"from a tax is the receipt of value in exchange for the payment \" (id . at p. 874, 397 P.3d at p. 222, italics added). But SCE's customers do not receive any property interest or value \"in exchange for\" paying the Recovery Portion. (Ibid .) In short, the Recovery Portion lacks the \"historical characteristics of franchise fees\" that the majority identifies from our decisions. (Id . at p. 865, 397 P.3d at p. 215.) It therefore does not, to use the majority's own words, \"come within the rationale that justifies\" (id . at p. 875, 397 P.3d at p. 223) the rule that franchise fees are not taxes.\nAccording to the majority, in determining whether the Recovery Portion is a franchise fee rather than a tax, it is irrelevant that SCE's customers \"pay the surcharge\" while \"SCE receives the franchise rights,\" that SCE's customers \"do not receive any value in exchange for their payment,\" and that the City is requiring SCE's customers \"to compensate the City for the utility's use of public property.\" (Maj. opn., ante , 219 Cal.Rptr.3d at pp. 874-875, 397 P.3d at pp. 222-223, italics added.) The stated basis for this view is that \"publicly regulated utilities are allowed to recover their costs and expenses by passing them on to their ratepayers,\" and are therefore merely \"conduit[s] through which government charges are ultimately imposed on ratepayers.\" (Id . at p. 875, 397 P.3d at p. 223.) Given this circumstance, the majority reasons, it makes no difference that the Recovery Portion is an obligation the City imposes directly on SCE's customers, instead of a contractual obligation of SCE that SCE \"unilateral[ly]\" decides to pass on to its customers. (Ibid. ) The City, the majority asserts, should not be \"precluded\" from showing that the Recovery Portion bears a reasonable relationship to the value of the property interest it conveyed to SCE merely because the Ordinance expressly mandates what would have been \"implicit\" had SCE agreed to pay the Recovery Portion itself-\"that once the PUC gave its approval, SCE would place the surcharge on the bills of customers within the City.\" (Ibid .)\nFor a number of reasons, I disagree. First, the majority's view is inconsistent with our case law, which, as explained above, establishes that a franchise fee-as distinguished from a tax-is a \"charge [that] the holder of the franchise undertakes to pay ,\" i.e., an \"obligation to pay\" that is \"purely a matter of contract\" and that is \"imposed\" on the payor \"not ... by law but by his acceptance of the franchise.\" (Tulare , supra , 188 Cal. at p. 670, 206 P. 983, italics added.) As also explained above, the Recovery Portion is not a charge that \"the holder of the franchise undert[ook] to pay,\" and it is imposed by the City on SCE's customers \"by law\" instead of by their \"acceptance of [any] franchise.\" (Ibid . ) The majority cites no authority for its conclusion that a charge imposed by law on one person to pay for someone else's right to use public property in a business is a franchise fee rather than a tax. Second, the majority fails to explain why SCE's purported unfettered ability to pass on to customers charges it contractually agrees to pay means that whether the charge is a tax on its customers depends on the value of the franchise to SCE . Had SCE contractually agreed to pay the Recovery Portion itself, it could not assert that the charge was a tax to the extent it exceeds the value of the franchise rights. As we have explained, because a municipality's power to permit utilities to use public property \"on such terms as are satisfactory to it\" includes the power to \" 'require the payment of such compensation as seems proper,' \" courts do not \"question whether or not the amount charged is a reasonable charge.\" (Sunset Tel. & Tel. Co. v. City of Pasadena (1911) 161 Cal. 265, 285, 118 P. 796 (Sunset ).) And if, as the majority asserts, the utility in this scenario is merely \"a conduit through which government charges are ultimately imposed on ratepayers\" (maj. opn., ante , 219 Cal.Rptr.3d at p. 875, 397 P.3d at p. 223), then there is no logical reason why the value of the benefit to the utility would be the proper measure of whether the charge is a tax as to the utility's customers . Nor is there any logical reason for making this the test where, as here, a municipality imposes the charge directly on those customers.\nIndeed, the majority's conclusion in this regard is inconsistent with its own discussion of the very case law on which it principally relies. As the majority explains, our prior decisions identify \"categories of charges\" that constitute valid \"fees rather than taxes\" for purposes of applying Proposition 13. (Maj. opn., ante , 219 Cal.Rptr.3d at p. 868, 397 P.3d at p. 217.) \"The commonality among these categories,\" the majority states, \"is the relationship between the charge imposed and a benefit ... to the payor .\" (Ibid .) For example, the majority observes, \"we [have] explained ... that 'if an assessment for ... improvements provides a special benefit to the assessed properties, then the assessed property owners should pay for the benefit they receive .' \" (Ibid ., italics added.) Under these cases, the majority states, a purported fee is a tax for purposes of Proposition 13 to the extent it exceeds \"the special benefit received by the payor .\" (Maj. opn., ante , at p. 868, 397 P.3d at p. 218, italics added.)\nA closer look at our assessment decisions reveals that a nexus between the benefit conferred and the person paying the charge is a prerequisite to concluding that the charge is not a tax. As we explained over 100 years ago, \"the compensating benefit to the property owner\" on whom the government imposes a charge for an improvement \"is the warrant, and the sole warrant, for\" finding that the charge is a valid assessment rather than a tax. (Spring Street Co. v. City of Los Angeles (1915) 170 Cal. 24, 30, 148 P. 217.) Thus, \"if we are not able to say that the owner for the specific charge imposed is compensated by the increased value of the property, then most manifestly we have a special tax.\" (Ibid. ) In other words, an assessment levied upon property owners \"without regard to the benefit actually accruing to them by means of the improvement, is a tax.\" (Creighton v. Manson (1865) 27 Cal. 613, 627, italics added.) The majority purports to reaffirm and follow these decisions insofar as they set forth \"the characteristics of fees that may be imposed without voter approval\" (maj. opn., ante , 219 Cal.Rptr.3d at p. 868, 397 P.3d at p. 217), but it then eliminates the principal characteristic it itself identifies: \"the relationship between the charge imposed and a benefit ... to the payor \" (id ., at p. 868, 397 P.3d at p. 217, italics added).\nThe charge the majority here says is a valid fee differs in another significant respect from the charges we have previously held to be permissible fees instead of taxes: the measure of what is permissible. As the majority observes, as to all of the charges for benefits we have dealt with in prior cases, we have held that they are \"taxes\" to the extent they \"exceed the reasonable cost of the activity on which they are based.\" (Maj. opn., ante , --- Cal.Rptr.3d at p. ----, --- P.3d at p. ----, italics added.) This is true even of property assessments; although a given property may be assessed based on the proportionate share of the benefit it receives from a government improvement, the assessment is a valid fee rather than a tax only to the extent it does not exceed the proportionate cost of the improvement to the government. (Knox v. City of Orland (1992) 4 Cal.4th 132, 142, fn. 15, 14 Cal.Rptr.2d 159, 841 P.2d 144.) In other words, \"an assessment is not measured by the precise amount of special benefits enjoyed by the assessed property,\" but \"reflects costs allocated according to relative benefit received.\" (Town of Tiburon v. Bonander (2009) 180 Cal.App.4th 1057, 1081, 103 Cal.Rptr.3d 485.) Thus, \"an assessment exceeding the cost of the improvement, so as to furnish revenue to the city\" constitutes a tax. (City of Los Angeles v. Offner (1961) 55 Cal.2d 103, 109, 10 Cal.Rptr. 470, 358 P.2d 926.) Consistent with these common law principles, Proposition 218 amended the state Constitution to provide that \"[n]o assessment shall be imposed on any parcel which exceeds the reasonable cost of the proportional special benefit conferred on that parcel.\" (Cal. Const., art. XIII D, \u00a7 4, subd. (a).) Thus, were a city, in order to raise revenue for general purposes, to impose a charge to recover the amount by which the benefit conferred by a government improvement exceeds the cost, the charge would be a tax.\nThe majority here affords different treatment to the general revenue-raising measure at issue. It holds that cost is irrelevant, and that a charge labeled a \"franchise fee\" becomes a tax as to a utility's customers only to the extent the charge exceeds \"the value\" to the utility of \"the property interests transferred\" (maj. opn., ante, 219 Cal.Rptr.3d at p. 876, 397 P.3d at pp. 223-224), \"the value of the franchise conveyed\" (ibid .), or \"the value of the franchise rights\" (id . at p. 877, 397 P.3d at p. 225). Contrary to the majority's analysis, our prior decisions clearly do not provide support for the line the majority draws between a valid fee and a tax, or for its conclusion that the method the City used here to raise money for general purposes is, uniquely, not a tax. And because there is no existing authority for the majority's newly minted approach, the majority is incorrect that focusing on the fact the Recovery Portion is directly imposed by the City on SCE's customers \"preclude[s]\" the City from doing something it otherwise could, i.e., proving the charge is a fee rather than a tax by \"establishing that [it] bears a reasonable relationship to the value of the property interest it conveyed to SCE.\" (Maj. opn., ante , at p. 875, 397 P.3d at p. 223.)\nThird, there is no factual or legal basis for the majority's assumption that a utility, through price increases, necessarily can and will pass on to its customers charges it is legally required to pay. With respect to the sales tax, we have observed that a retailer \"may choose simply to absorb the sales tax\" imposed by statute instead of passing it on to its customers. (Loeffler v. Target Corp. (2014) 58 Cal.4th 1081, 1103, 171 Cal.Rptr.3d 189, 324 P.3d 50.) A utility could make a similar business decision with respect to higher payments it has become contractually obligated to pay in exchange for its right to operate; it could, for reasons related to the marketplace, simply decline to pass the increase on to its customers.\nMoreover, in order to pass charges on to customers through a price increase, a utility would have to apply for and obtain approval from the PUC. Under our Constitution, the PUC has both the power and the duty to \"fix rates\" for California public utilities (Cal. Const. art. XII, \u00a7 6 ), such that the charges they demand for service are \"just and reasonable\" (\u00a7 451 ; see Southern California Edison Co. v. Peevey (2003) 31 Cal.4th 781, 792, 3 Cal.Rptr.3d 703, 74 P.3d 795 ). This constitutional power, we have observed, includes the \"power to prevent a utility from passing on to the ratepayers unreasonable costs for materials and services.\" ( Pac. Tel. & Tel. Co. v. Public Utilities Com. (1950) 34 Cal.2d 822, 826, 215 P.2d 441 (Pac. Tel . ).) We have also observed that where \"the safeguards provided by arms-length bargaining are absent,\" the PUC, in exercising its constitutional power, has \"been vigilant to protect the rate-payers from excessive rates reflecting excessive payments.\" (Ibid .)\nIn one especially relevant example of its exercise of this power, the PUC disallowed, for purposes of a requested rate increase, contractual payments a utility made to its controlling parent company for various services. (Pac. Tel. , supra , 34 Cal.2d at p. 825, 215 P.2d 441.) The contract between the two entities specified that the amount of the payment was 1 percent of the utility's gross receipts. (Ibid . ) In disallowing these payments as a basis for a rate increase, the PUC reasoned that the utility \"exercise[d] no real, untrammeled and independent judgment in its negotiations\" with its parent company and that \"arms-length bargaining\" between the two entities was \"not, in fact, engaged in, although ... in some instances\" they had \"made ... an attempt to simulate the same.\" (Dec. No. 42529 (1949) 48 Cal.P.U.C. 461, 470.) The PUC further reasoned that the formula for the amount of the payments-a \"percentage of gross revenues\"-was \"a false measuring rod\": it was \"totally unrealistic and [bore] no rational relationship to the reasonable cost of services rendered, reflect[ed] no causal or proximate connection or relationship between payments made thereunder and reasonable value of the services rendered and [was] neither supported by law, logic nor elementary common sense.\" (Id . at p. 472.) The utility's \"payment of these excessive amounts,\" the PUC concluded, did not support the utility's request for a rate increase. (Ibid .)\nNothing would preclude the PUC from finding, for similar reasons, that it would not be just and reasonable for a utility, having agreed to pay a city double what it had paid for many years as compensation for using public property, to raise its rates in order to recoup from customers the doubled cost to which it agreed. Nor would anything preclude the PUC from finding that where the utility's duty to pay the increase was expressly made contingent on the utility's ability to recoup the expense from its customers, the increase was not \"based on bona fide negotiations.\" (Maj. opn., ante , 219 Cal.Rptr.3d at p. 876, 397 P.3d at p. 223.) Indeed, the majority rightly questions whether \"the negotiations\" here, which placed responsibility for paying the Recovery Portion on SCE's ratepayers and imposed no financial responsibility for that charge on SCE, reasonably reflect \"the value\" of what SCE received from the City. (Maj. opn., ante , at p. 877, 397 P.3d at p. 225.) And where the payment is set as a percentage of a utility's gross annual receipts, the PUC could also find that the formula is \"a false measuring rod,\" i.e., it \"bears no rational relationship to\" the value of what the utility is receiving. (Dec. No. 42529, supra , 48 Cal.P.U.C. at p. 472.) In short, had SCE agreed to pay the Recovery Portion and then applied for a rate increase to pass on the charge to its customers, the PUC could have \"disallow[ed] expenditures that it [found] unreasonable, thus insuring that any excessive costs [would] be met from [SCE's] profits. The effect of the payments on rates and services [would have been] no greater than in any other case where the [PUC] and management disagree on the reasonableness of an expenditure, and the management concludes that it is good business judgment to make such payments from its profits despite the fact that it cannot recoup them from its rate payers.\" ( Pac. Tel. , supra , 34 Cal.2d, at p. 832, 215 P.2d 441.) The majority ignores this precedent in assuming that a utility, through rate increases, necessarily can pass on to its customers any and all charges it has agreed to pay.\nIndeed, the facts in the record indicate that SCE and the City did not share the majority's assumption. As the majority explains, the record shows \"that SCE was not willing to assume the burden of paying\" the additional 1 percent the City demanded, and \"was willing only to collect the charge from its customers and remit the revenue to the City.\" (Maj. opn., ante , 219 Cal.Rptr.3d at p. 876, 397 P.3d at p. 224.) It is for this reason that the agreement and the Ordinance provided that \"the charge would be collected from ratepayers\" and \"would become payable only if SCE obtained the PUC's consent to include the surcharge as a customer surcharge.\" (Ibid .) Moreover, as explained above, although the agreement required SCE to obtain PUC approval by December 31, 2002, SCE and the City agreed not even to apply for PUC approval until over two years later, in March 2005. According to a letter from the City to SCE, the delay was \"[b]ased\" in part \"upon the tremendous uncertainty associated with the end of the [California] deregulation transition period ... and the volatility and uncertainty of rates.\" Were it true, as the majority assumes, that SCE necessarily could have passed on the Recovery Portion to its customers, there would have been no reason for SCE to have refused legal responsibility for the proposed charge, for SCE and the City to have made the Recovery Portion contingent on \"the PUC's consent to include the surcharge as a customer surcharge\" (maj. opn., ante , at p. 877, 397 P.3d at p. 224), or for SCE and the City to have delayed submission of the application for PUC approval. In other words, as plaintiffs assert, the facts in the record indicate that, unlike the majority, SCE and the City did not consider the PUC to be \"a mere rubber stamp of financial burdens\" SCE and the City \"might try to impose upon utility users.\"\nFourth, the majority's approach, in addition to being inconsistent with our case law, is fundamentally inconsistent with Proposition 218's purpose. The majority, partially quoting the first two sentences of Proposition 218's findings and declarations, suggests that the voters were \"concern[ed] with excessive fees, not fees in general.\" (Maj. opn., ante , 219 Cal.Rptr.3d at p. 869, 397 P.3d at p. 218.) But the majority ignores the very next sentence of the findings and declarations: \"This measure protects taxpayers by limiting the methods by which local governments exact revenue from taxpayers without their consent.\" (Prop. 218, \u00a7 2, reprinted at 1 Stats. 1996, p. A-295.) Proposition 218 expressly provided that article XIII C \"shall be liberally construed to effectuate\" this goal, i.e., \"limiting local government revenue and enhancing taxpayer consent.\" (Prop. 218, \u00a7 5, reprinted at Historical Notes, 2B West's Ann. Cal. Const. (2013), foll. Art. XIII C, \u00a7 1, at p. 363.) The majority also ignores the ballot arguments in favor of Proposition 218, which (1) warned that \"politicians [had] created a loophole in the law that allows them to raise taxes without voter approval by calling taxes 'assessments' and 'fees,' \" and (2) stated that \"Proposition 218 guarantees your right to vote on local tax increases-even when they are called something else, like 'assessments' or 'fees' and imposed on homeowners.\" (Ballot Pamp., Gen. Elec. (Nov. 5, 1996) argument in favor of Prop. 218, p. 76.) The record here shows that the City imposed the Recovery Portion on SCE's customers in order to raise revenue for general governmental purposes. The charge clearly constitutes one of the \" 'revenue-producing mechanisms' \" that, as the majority explains, local governments adopted because \"voters restricted [their] taxing authority.\" (Maj. opn., ante , at p. 872, 397 P.3d at p. 221.) By holding that the City may raise revenue from SCE's consumers by calling the charge a franchise fee, even though those paying the fee receive no franchise, the majority sanctions this obvious evasion of Proposition 218 and allows the City to use the utility as a middleman for what is a tax disguised as a fee, in derogation of Proposition 218's express purpose and liberal construction clause.\nFifth, the majority's concern about the possible treatment of charges passed on to ratepayers by a utility's \"unilateral decision\" does not justify its refusal to recognize the significance under our case law of the fact that SCE's customers do not receive franchise rights in exchange for paying the Recovery Portion, and its focus instead on the value of those rights to an entity that is not paying for them. (Maj. opn., ante , 219 Cal.Rptr.3d at p. 875, 397 P.3d at p. 223.) Initially, the facts of this case do not present that scenario, and holding here that the Recovery Portion is a tax rather than a franchise fee because SCE's customers receive no franchise rights in return for their payment would not preclude ratepayers from arguing in a future case that we should expand article XIII C's reach to franchise charges that a utility, having contractually agreed to pay, unilaterally decides to pass on to its customers. The majority's concern about this scenario does not justify its contraction of article XIII C so as to make it inapplicable where it clearly does and should apply: direct government imposition of a charge on those who receive nothing in return.\nIn any event, the majority's analysis is contrary to decades of California case law establishing that, for purposes of determining whether a charge is a tax or a fee as to the payor, charges passed on to the payor by the unilateral and discretionary decision of some third party are, in fact, different from charges legally imposed on the payor by the government. (E.g. Western States , supra , 19 Cal.3d at pp. 217-218, 137 Cal.Rptr. 183, 561 P.2d 273 ; Western L. Co. v. State Bd. of Equalization (1938) 11 Cal.2d 156, 162-164, 78 P.2d 731 (Western L. ).) The majority simply ignores these cases in reasoning that the two types of charges must be treated the same. (Maj. opn., ante , 219 Cal.Rptr.3d at p. 875, 397 P.3d at p. 223.)\nIndeed, the effect of the majority's approach is to allow claims that this long-standing and unbroken line of precedent precludes. Under that precedent, a charge that is not imposed by the government on the payor-either directly or by inclusion of a mandatory pass-on provision-and that is passed on to the payor by the unilateral and discretionary decision of some third party, is not a tax, even if it is \"implicit\" (maj. opn., ante , 219 Cal.Rptr.3d at p. 875, 397 P.3d at p. 223) that the third party on whom the charge is imposed will pass it on to the payor. Notably, in Howard Jarvis Taxpayers Assn. v. City of Fresno (2005) 127 Cal.App.4th 914, 927, 26 Cal.Rptr.3d 153, the court applied this principle to hold that a charge the City of Fresno had imposed on a utility, and that the utility had passed on to its customers, was not \"a tax on utilities consumers \" within the meaning of article XIII C. The court explained that \"[a]n exaction imposed on any particular ratepayer in an amount established in the discretion of the utility ... is not an exercise of the city's taxing power.\" ( Howard Jarvis , at p. 927, 26 Cal.Rptr.3d 153.) Applying this principle, it held that the charge at issue was \"not a tax upon consumers of utilities\" because the legislation establishing it placed \"the 'levy' directly upon the utility\" and did \"not require[ ]\" the utility \"to recover the ... fee from ratepayers in any particular manner.\" (Ibid. )\nCourts applying the federal Constitution's prohibition on state taxation of the federal government have used the same analysis specifically with respect to so-called utility franchise fees. In U.S. v. City of Leavenworth, Kan. (D.Kan. 1977) 443 F.Supp. 274, 280-281, a city ordinance provided that an electrical utility would pay, as a franchise fee, \" 'three percent (3%) of its gross revenue from the sale of electric energy to all customers within\" city limits, and the utility in turn billed its customers \"a three percent franchise fee.\" The United States, as a purchaser of electricity from the utility, argued that the fee it had been charged constituted \"an impermissible tax upon the federal government.\" (Id. at p. 281.) The court rejected the argument because the ordinance imposed \"[l]egal liability for payment of the exaction\" on the utility and \"contain[ed] no provisions for collection directly from\" the utility's customers and \"no requirement that [the utility] pass on to\" its customers \"all or any part of the financial burden of the franchise fee.\" (Id. at p. 282.)\nFollowing this decision, in U.S. v. State of Md. (D.Md. 1979) 471 F.Supp. 1030, 1032, another federal court rejected the claim of the United States, again as a purchaser of electricity, that an environmental surcharge the State of Maryland had imposed was a constitutionally invalid tax on the federal government. Although agreeing that the surcharge was a tax-i.e., \"an 'enforced contribution to provide for the support of the government' \" (id . at p. 1036 )-the court denied relief because the surcharge was not a tax on the federal government (id . at pp. 1037-1041 ). By statute, the court first reasoned, the surcharge was \"directly imposed on the electric companies\" and was their \" 'direct obligation.' \" (Id. at p. 1038.) As to whether the surcharge was a tax on customers of the electric companies, the determinative factor, the court explained, was whether the law \"required [the companies] to pass [the charge] on to their customers for payment.\" (Ibid. ) The surcharge was not a tax on the federal government, the court then held, because the utilities, although \"authorize[d] ... to pass [it] on to their customers\" (id . at p. 1039 ), were \"not required\" by law to do so (id. at p. 1038.) Notably, in reaching this conclusion, the court both followed the Kansas franchise fee decision discussed above and distinguished a Minnesota decision holding that \"a franchise fee imposed\" upon a gas company by a city was an unconstitutional tax \"as applied to purchases of natural gas by an agency of the United States ... because the city required the utility to add the franchise tax to its rates.\" (Id. at p. 1040, italics added.)\nThis long-standing and consistent precedent from both California and elsewhere no doubt explains why, as the majority notes, \"plaintiffs do not contend\" in this case that the Initial Term Fee \"is a tax\" that was imposed in violation of the state Constitution. (Maj. opn., ante , 219 Cal.Rptr.3d at p. 875, 397 P.3d at p. 223.) However, under the majority's holding that charges passed on by utilities are the same, for tax purposes, as charges imposed directly on ratepayers, plaintiffs now can, and surely will, make this argument. Indeed, the majority expressly states that the differences between the Initial Term Fee and the Recovery Portion are \"unrelated to the character or validity\" of these charges. (Maj. opn., ante , at p. 875, fn. 10, 397 P.3d at p. 223, fn. 10.) Thus, plaintiffs may now allege that even the Initial Term Fee is a tax because it is passed on to them through SCE's rates and it exceeds the value of the franchise rights SCE received.\nIn the same way, the majority's holding renders both the Broughton Act and the 1937 Act vulnerable to constitutional challenge. Notwithstanding our holding almost 100 years ago that the fees utilities must pay under the Broughton Act are not taxes under the state Constitution (Tulare , supra , 188 Cal. at p. 670, 206 P. 983 ), under the majority's holding, both these payments and similar payments required by the 1937 Act are invalid taxes to the extent they are passed on by utilities to customers through rates and they exceed the value of the franchise rights conveyed. Notably, nothing suggests that these statutorily established charges reflect the value of a franchise. Moreover, the majority's holding that the Constitution requires courts to determine the value of a franchise would seem to render the 1937 Act unconstitutional insofar as it provides that \"[n]o franchise granted under this chapter shall ever be given any value before any court ... in any proceeding of any character in excess of the cost to the grantee of the necessary publication and any other sum paid by it to the municipality therefor at the time of acquisition.\" (\u00a7 6263.)\nFinally, as a practical matter, the majority's approach is problematic in a number of ways. The majority mentions one: the inherent \"difficulties\" in \"determining the value of a franchise.\" (Maj. opn., ante , 219 Cal.Rptr.3d at p. 875, 397 P.3d at p. 223.) The majority references several factors it says may bear on value: \"market forces\" and \"bona fide negotiations.\" (Ibid .) It suggests there may be \"other indicia of value\" (ibid. ), but it declines to offer any guidance as to what those other indicia might be, instead \"leav[ing] th[e] issue to be addressed by expert opinion and subsequent case law\" (id . at p. 876, fn. 11, 397 P.3d at p. 223, fn. 11). But as we noted over 100 years ago, \"[t]here are few subjects on which witnesses are more likely to differ than that of the value of property, and few are more difficult of satisfactory determination.\" (O'Hara v. Wattson (1915) 172 Cal. 525, 528, 157 P. 608.) We also long ago recognized that \"the value of franchises may be as various as the objects for which they exist, and the methods by which they are employed, and may change with every moment of time.\" (San Jose Gas Co. v. January (1881) 57 Cal. 614, 616.) There are also uncertainties regarding the other side of the majority's equation, i.e., the amount of the payment. As we have recognized, a utility's annual receipts are \"a most indefinite,\" \"elusive,\" and \"uncertain quantity\" that is \"dependent upon many conditions.\" (Thompson v. Board of Supervisors (1896) 111 Cal. 553, 558, 44 P. 230.) Moreover, the total compensation the Ordinance requires for granting the franchise is 2 percent of SCE's \"Gross Annual Receipts.\" Given the majority's view that all costs are necessarily passed along to customers, this entire 2 percent-not just the one percent Recovery Portion-will have to be considered in determining the amount of the charge and whether it bears a \"reasonable relationship\" to \"value.\" (Maj. opn., ante , at p. 862, 397 P.3d at p. 213.) And even were it possible to determine with any certainty the value of the franchise and the amount of the charge, the majority fails to explain what constitutes a \"reasonable relationship\" between these amounts. (Ibid .) Presumably, exact correspondence is unnecessary, but what is necessary, the majority does not say. As we have explained, \"the question whether a contract\" that impacts a utility's rates and services \"is reasonable is one on which, except in clear cases, there is bound to be conflicting evidence and considerable leeway for conflicting opinions.\" (Pac. Tel. , supra , 34 Cal.2d at p. 828, 215 P.2d 441.)\nPerhaps to justify its failure to offer any real guidance on this admittedly \"difficult[ ]\" issue (maj. opn., ante , 219 Cal.Rptr.3d at p. 875, 397 P.3d at p. 223), the majority notes that \"[t]he parties' briefs do not consider the means by which franchise rights might be valued.\" (Id. at p. 876, fn. 11, 397 P.3d at p. 223, fn. 11). But there is a simple explanation for this silence: Neither party has suggested that the value of the franchise should even be a consideration in determining whether the Recovery Portion is a tax or a fee. On the contrary, upon the court's inquiry at oral argument, the City expressly disclaimed this approach. It asserted that, as to fees voluntarily negotiated for the use of government property, courts should not be concerned about whether the fee is reasonably related to the benefits, and should not second-guess what a utility is willing to pay for its use of public property. Nor, the City argued, are courts well positioned to second-guess the economic decisions of other branches of government. The City also noted, like the majority, the inherent difficulties of making this kind of determination, asking rhetorically, \"what's the fair and rational rate of a parking meter,\" or \"to rent a duck boat on the lake at the county fairgrounds,\" or \"to rent a meeting room at the community center?\" Bringing the question back to the facts of this case, the City rightly asked, \"What are the limits of [a municipality's] ability to monetize its rights of way?\" Instead, the City urges us to follow \"well settled\" law by focusing on the \"legal incidence\" of the Recovery Portion, \"i.e., who has a legal duty to pay it.\" This test, the City asserts, is \"logical\"\nand \"predictable,\" is \"within the competence of courts to distinguish fees from taxes,\" and \"better serves the needs of courts and the society they serve.\"\nI agree with the City. Indeed, regarding the City's comment about monetizing its rights of way, we have explained, as noted above, that a municipality's power to permit utilities to use public property \"on such terms as are satisfactory to it\" includes the power to \" 'require the payment of such compensation as seems proper,' \" and that courts therefore do not \"question whether or not the amount charged is a reasonable charge.\" (Sunset , supra , 161 Cal. at p. 285, 118 P. 796.) It is for these reasons, among others, that I focus my analysis, as our precedent directs, on the legal incidence of the Recovery Portion, and do not endorse a vague, unprecedented, unworkable, and standardless test that requires courts to determine the extent to which a charge \"bear[s] a reasonable relationship to the value of the property interests transferred\" (maj. opn., ante, 219 Cal.Rptr.3d at p. 876, 397 P.3d at pp. 223-224 ), \"the value of the franchise conveyed\" (ibid .), or \"the value of the franchise rights\" (id . at p. 877, 397 P.3d at p. 225).\nThere are myriad other ways in which the majority's approach-determining whether the amount of the charge bears a reasonable relationship to the value of the franchise conveyed-is problematic. It essentially requires courts to determine the adequacy of consideration, in contravention of the well-established \" 'general contract principle that courts should not inquire into the adequacy of consideration.' \" (Foley v. Interactive Data Corp. (1988) 47 Cal.3d 654, 679, 254 Cal.Rptr. 211, 765 P.2d 373, italics added; see Whelan v. Swain (1901) 132 Cal. 389, 391, 64 P. 560 [\" 'The law does not weigh the quantum of the consideration' \"].) The majority's approach also essentially transfers responsibility for determining the reasonableness of a utility's rates from the PUC to the courts, thus usurping the PUC's constitutional power and duty to \"fix [utility] rates\" (Cal. Const. art. XII, \u00a7 6 ) and supplanting the PUC's far superior ability, relative to courts, to review the reasonableness of rates (Hansen v. City of San Buenaventura (1986) 42 Cal.3d 1172, 1183, 233 Cal.Rptr. 22, 729 P.2d 186 [\"judicial review of rates is not comparable to regulation by the P.U.C.\"]; County of Inyo v. Public Utilities Com. (1980) 26 Cal.3d 154, 159-160, 161 Cal.Rptr. 172, 604 P.2d 566 [\"PUC maintains an expert, independent staff to investigate rate requests\" and \"renders an independent decision on each record that it examines,\" whereas courts \"must limit ... review to the rates established by the involved utility and must depend upon the expert testimony presented by the parties\"]; Sale v. Railroad Commission (1940) 15 Cal.2d 612, 617-618, 104 P.2d 38 ).\nGiven these difficulties and the lack of authority for the majority's approach, I disagree with the majority's conclusion that the Recovery Portion is not a tax unless it exceeds the reasonable value of the franchise. Instead, based on long-standing precedent, the purpose of Proposition 218 to limit local government revenue and enhance taxpayer consent, and the command that we liberally construe article XIII C to effectuate this purpose, I conclude that the Recovery Portion is a tax that the City may not impose without voter approval. I therefore dissent.\nA franchise is a privilege granted by the government to a particular individual or entity rather than to all as a common right. A utility franchise is a privilege to use public streets or rights-of-way in connection with the utility's provision of services to residents within the governmental entity's jurisdiction. (Spring Valley W.W. v. Schottler (1882) 62 Cal. 69, 106-108 ; Santa Barbara County Taxpayer Assn. v. Board of Supervisors (1989) 209 Cal.App.3d 940, 949, 257 Cal.Rptr. 615 (Santa Barbara County Taxpayer Assn. ); 12 McQuillin, The Law of Municipal Corporations (3d ed. 2006) \u00a7 34.2, p. 15.)\n\"For its own government, a county or city may adopt a charter by majority vote of its electors voting on the question.\" (Cal. Const., art. XI, \u00a7 3, subd. (a).) County charters \"supersede ... all laws inconsistent therewith\" (ibid.), and city charters supersede all inconsistent laws \"with respect to municipal affairs.\" (Id., \u00a7 5, subd. (a); see Johnson v. Bradley (1992) 4 Cal.4th 389, 394-400, 14 Cal.Rptr.2d 470, 841 P.2d 990.)\nProposition 218 also imposed restrictions on the imposition of fees and charges for property-related services, such as sewer and water services, but provided that \"fees for the provision of electrical or gas service shall not be deemed charges or fees imposed as an incident of property ownership.\" (Cal. Const., art. XIII D, \u00a7 3, subd. (b); id., \u00a7 6; see Silicon Valley Taxpayers Assn., Inc. v. Santa Clara County Open Space Authority (2008) 44 Cal.4th 431, 443, 79 Cal.Rptr.3d 312, 187 P.3d 37.) Based on its conclusion that the charges imposed by the 1999 agreement are compensation for the franchise rights conveyed to SCE, the trial court further concluded the charges are for the provision of electrical service, and therefore are not imposed as an incident of property ownership. Plaintiffs do not contend on appeal that the surcharge is a property-related fee.\nPlaintiffs and the City both view Proposition 26 as confirming their view of the law before Proposition 26 was enacted, but no party contends that it applies to the charges in this case, which were imposed prior to the enactment of Proposition 26.\nProposition 26's description of valid charges based on regulatory costs does not mirror our discussion of such costs in Sinclair Paint, supra, 15 Cal.4th 866, 64 Cal.Rptr.2d 447, 937 P.2d 1350. (See Cal. Const., art. XIII C, \u00a7 1, subd. (e)(3).) We express no opinion on the breadth of the regulatory costs that Proposition 26 allows to be imposed without voter approval.\nWe are concerned only with the validity of the surcharge under Proposition 218. Proposition 26's exception from its definition of \"tax\" with respect to local government property is not before us. (See Cal. Const., art. XIII C, \u00a7 1, subd. (e)(4).)\nIn 1971, the Legislature amended the act to provide that \"municipality includes counties.\" (Pub. Util. Code, \u00a7 6201.5.) In addition, the Act has been extended to franchises for the transmission of oil and oil products, and the transmission of water. (Pub. Util. Code, \u00a7 6202.)\nThe 1937 Act includes a second alternative formula if the franchise is \"complementary to a franchise derived under\" the California Constitution. In that circumstance, the alternative payment is \"one-half of 1 percent of the applicant's gross annual receipts from the sale of electricity within the limits of the municipality under both the electric franchises.\" (Pub. Util. Code, \u00a7 6231, subd. (c).)\nThe trial court ruled that as a charter jurisdiction, the City is not subject to general laws concerning franchises. (See Southern Pacific Pipe Lines, Inc. v. City of Long Beach (1988) 204 Cal.App.3d 660, 667-670, 251 Cal.Rptr. 411 [except where the nature of the utility services reflects a matter of statewide concern, the granting of franchises is a municipal affair].) Plaintiffs do not challenge that conclusion.\nAs explained above, the division of the charge into two parts, with one included in the rates paid by customers and the other separately stated on the bill, was driven by the PUC's effort to ensure that a local government's higher-than-average charges are not unfairly imposed on ratepayers outside of the local government's jurisdiction; this division of the charges is unrelated to the character or validity of the charges.\nThe parties' briefs do not consider the means by which franchise rights might be valued. We leave this issue to be addressed by expert opinion and subsequent case law.\nCharter cities are not required to apply the Franchise Act of 1937 (the 1937 Act) (Pub. Util. Code, \u00a7 6201 et seq. ), but may voluntarily follow its provisions. (Pub. Util. Code, \u00a7 6205 ; all further unlabeled statutory references are to the Public Utilities Code.)\nA utility may, \"at its discretion,\" request permission from the PUC to set forth separate charges on certain of their customers' bills when a local governmental entity imposes upon the utility \"[f]ranchise, general business license, or special taxes and/or fees ... [that] in the aggregate significantly exceed the average aggregate of taxes or fees imposed by other local government entities within the public utility's service territory.\" (Re Guidelines for the Equitable Treatment of Revenue-Producing Mechanisms Imposed by Local Government Entities on Public Utilities (1989) 32 Cal.P.U.C.2d 60, 73.)\nAccording to the majority, by adding a definition of \"tax\" to article XIII C and excepting from that definition \" '[a] charge imposed for entrance to or use of local government property, or the purchase, rental, or lease of local government property,' \" Proposition 26, approved by voters at the November 2, 2010 General Election, \"confirmed\" that \"restrictions on taxation do not encompass amounts paid in exchange for property interests.\" (Maj. opn., ante, 219 Cal.Rptr.3d at p. 869, 397 P.3d at p. 218.) As the majority elsewhere acknowledges, Proposition 26 is not at issue here because \"no party contends that it applies to the charges in this case.\" (Maj. opn., ante, at p. 867, fn. 4, 397 P.3d at p. 217, fn. 4.) Moreover, nothing in Proposition 26 indicates that a charge imposed on one party for someone else's use of government property comes within the exception the majority quotes. To the extent the majority's analysis suggests otherwise, it is dictum. Nor does anything in Proposition 26 support the majority's rule that payments for the privilege to use public property are taxes to the extent they exceed \"the value of the franchise conveyed.\" (Maj. opn., ante, at p. 877, 397 P.3d at p. 225.)\nThe majority's analysis is likewise out of step with decisions from other jurisdictions holding that, to constitute a valid fee instead of a tax, a charge must be \"based on a special benefit conferred on the person paying the fee.\" (Home Builders Ass'n v. West Des Moines (Iowa 2002) 644 N.W.2d 339, 347, italics added; see American Council of Life Insurers v. DC Health (D.C.Cir.2016) 815 F.3d 17, 19 [whether charge is a fee or a tax depends on whether there is a \"match between the sum paid and the ... benefit provided, as seen from the payers' perspective \" (italics added) ].)\nSee Western States, supra, 19 Cal.3d at page 217, 137 Cal.Rptr. 183, 561 P.2d 273 (charge imposed on nonprofit corporation providing services to banks, that was \"recoup[ed]\" from banks \"by raising\" fees, was not a tax on the banks because local ordinance imposing the charge did not \"requir[e]\" that it \"be passed on\" to customers); Western L., supra, 11 Cal.2d at page 163, 78 P.2d 731 (state sales tax is not a tax on consumers even though retailers pass it on to consumers, because tax statute \"laid the tax solely on the retailer\"); Occidental Life, supra, 135 Cal.App.3d at page 849, 185 Cal.Rptr. 779 (sales tax on retailer is a tax on purchasers from whom retailer recoups the charge only if it \"must,\" \"by its terms,\" \"be passed on to the purchaser' \"); Rio Grande Oil Co. v. Los Angeles (1935) 6 Cal.App.2d 200, 201, 44 P.2d 451 (charge on sale of gasoline is a tax as to the seller, but not as to the consumer, even though statute allows sellers to add the charge to the sale process and \" 'in effect collect the tax from the consumer' \"); see also Bank of America, supra, 209 Cal.App.2d at pages 792-793, 26 Cal.Rptr. 348 (bank's statutory liability for use tax on checks it sold to customers, which by statute was imposed upon the purchaser rather than the seller, was not a tax on the bank).\nAccording to the majority, the Ordinance's treatment of the Recovery Portion \"was driven by the PUC's effort to ensure that a local government's higher-than-average charges are not unfairly imposed on ratepayers outside of the local government's jurisdiction.\" (Maj. opn., ante, 219 Cal.Rptr.3d at p. 875, fn. 10, 397 P.3d at p. 223, fn. 10.) As far as the record discloses, this is true only in the sense that the separate billing procedure the PUC permits, but does not require, utilities to employ enabled the City to use SCE to collect the additional 1%-which is a disguised tax-only from the City's taxpayers, and not from those who do not pay taxes to the City.",
+        "type": "majority",
+        "author": "Cantil-Sakauye, C.J."
+      }
+    ],
+    "attorneys": [
+      "Huskinson, Brown & Heidenreich, David W.T. Brown and Paul E. Heidenreich for Plaintiffs and Appellants.",
+      "Trevor A. Grimm, Los Angeles, Jonathan M. Coupal, Timothy A. Bittle, Sacramento, and J. Ryan Cogdill for Howard Jarvis Taxpayers Association and California Taxpayers Association as Amici Curiae on behalf of Plaintiffs and Appellants.",
+      "Ariel Pierre Calonne, City Attorney, Tom R. Shapiro, Assistant City Attorney; Colantuono, Highsmith & Whatley, Michael G. Colantuono, Ryan Thomas Dunn, Leonard P. Aslanian, Pasadena; Jarvis, Fay, Doporto & Gibson, Benjamin P. Fay, Rick W. Jarvis, Oakland, and Andrea Saltzman for Defendant and Respondent.",
+      "Hanson Bridgett, Adam W. Hofmann, San Francisco, and Caroline E. Lee for League of California Cities as Amicus Curiae on behalf of Defendant and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Rolland JACKS et al., Plaintiffs and Appellants,\nv.\nCITY OF SANTA BARBARA, Defendant and Respondent.\nS225589\nSupreme Court of California\nFiled June 29, 2017\nHuskinson, Brown & Heidenreich, David W.T. Brown and Paul E. Heidenreich for Plaintiffs and Appellants.\nTrevor A. Grimm, Los Angeles, Jonathan M. Coupal, Timothy A. Bittle, Sacramento, and J. Ryan Cogdill for Howard Jarvis Taxpayers Association and California Taxpayers Association as Amici Curiae on behalf of Plaintiffs and Appellants.\nAriel Pierre Calonne, City Attorney, Tom R. Shapiro, Assistant City Attorney; Colantuono, Highsmith & Whatley, Michael G. Colantuono, Ryan Thomas Dunn, Leonard P. Aslanian, Pasadena; Jarvis, Fay, Doporto & Gibson, Benjamin P. Fay, Rick W. Jarvis, Oakland, and Andrea Saltzman for Defendant and Respondent.\nHanson Bridgett, Adam W. Hofmann, San Francisco, and Caroline E. Lee for League of California Cities as Amicus Curiae on behalf of Defendant and Respondent."
+  },
+  "file_name": "0859-01",
+  "first_page_order": 859,
+  "last_page_order": 896
+}

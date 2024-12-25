@@ -1,0 +1,562 @@
+{
+  "id": 12513592,
+  "name": "IN RE ALBERT C., a Person Coming Under the Juvenile Court Law. The People, Plaintiff and Respondent, v. Albert C., Defendant and Appellant.",
+  "name_abbreviation": "People v. Albert C. (In re Albert C.)",
+  "decision_date": "2017-07-10",
+  "docket_number": "S231315",
+  "first_page": "897",
+  "last_page": "907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 897"
+    },
+    {
+      "type": "parallel",
+      "cite": "397 P.3d 240"
+    },
+    {
+      "type": "parallel",
+      "cite": "3 Cal. 5th 483"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "386 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168882
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0018-01"
+      ]
+    },
+    {
+      "cite": "41 Cal.Rptr.2d 449",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.App.4th 160",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4869892
+      ],
+      "pin_cites": [
+        {
+          "page": "170-172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/35/0160-01"
+      ]
+    },
+    {
+      "cite": "865 P.2d 56",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Cal.Rptr.2d 623",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Cal.4th 1212",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1995120
+      ],
+      "pin_cites": [
+        {
+          "page": "1231-1232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/6/1212-01"
+      ]
+    },
+    {
+      "cite": "535 P.2d 321",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Cal.Rptr. 457",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Cal.3d 433",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2279676
+      ],
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/14/0433-01"
+      ]
+    },
+    {
+      "cite": "140 P.2d 381",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Cal.2d 677",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2188211
+      ],
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/22/0677-01"
+      ]
+    },
+    {
+      "cite": "996 P.2d 32",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1943,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Cal.Rptr.2d 381",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1943,
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Cal.4th 750",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        157805
+      ],
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "766"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/22/0750-01"
+      ]
+    },
+    {
+      "cite": "143 Cal.Rptr. 398",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Cal.App.3d 169",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2011444
+      ],
+      "pin_cites": [
+        {
+          "page": "175-176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/77/0169-01"
+      ]
+    },
+    {
+      "cite": "163 P.3d 160",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Cal.Rptr.3d 483",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 Cal.4th 1337",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3819507
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "1351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/41/1337-01"
+      ]
+    },
+    {
+      "cite": "35 Cal.Rptr.3d 206",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Cal.App.4th 908",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3685417
+      ],
+      "pin_cites": [
+        {
+          "page": "916"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/133/0908-01"
+      ]
+    },
+    {
+      "cite": "102 Cal.Rptr.3d 551",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Cal.App.4th 1189",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4210289
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "1201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/179/1189-01"
+      ]
+    },
+    {
+      "cite": "134 Cal.Rptr. 886",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Cal.App.3d 57",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2358112
+      ],
+      "pin_cites": [
+        {
+          "page": "64-65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/65/0057-01"
+      ]
+    },
+    {
+      "cite": "105 Cal.Rptr.3d 859",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Cal.App.4th 635",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4216384
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "649-650"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/182/0635-01"
+      ]
+    },
+    {
+      "cite": "387 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11333627
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/387/0001-01"
+      ]
+    },
+    {
+      "cite": "221 Cal.Rptr. 364",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Cal.App.3d 38",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2182001
+      ],
+      "pin_cites": [
+        {
+          "page": "42-44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/176/0038-01"
+      ]
+    },
+    {
+      "cite": "505 P.2d 1018",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Cal.Rptr. 178",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cal.3d 798",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2321944
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/8/0798-01"
+      ]
+    },
+    {
+      "cite": "406 U.S. 715",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173472
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/406/0715-01"
+      ]
+    },
+    {
+      "cite": "58 Cal.Rptr.3d 746",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Cal.App.4th 847",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3676739
+      ],
+      "pin_cites": [
+        {
+          "page": "860-862"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/150/0847-01"
+      ]
+    },
+    {
+      "cite": "362 U.S. 402",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164747
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/362/0402-01"
+      ]
+    },
+    {
+      "cite": "349 P.3d 68",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Cal.Rptr.3d 882",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Cal.4th 181",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6054448
+      ],
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/61/0181-01"
+      ]
+    },
+    {
+      "cite": "159 Cal.Rptr.3d 594",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 10,
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Cal.App.4th 157",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6049608
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "174"
+        },
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/218/0157-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1205,
+    "char_count": 30093,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2586589025074435
+    },
+    "sha256": "dfb88d0503bab8c35634d8cb4f49bd4e77f992febda576641467436f2e7bc42f",
+    "simhash": "1:3ab3f622521dc4b1",
+    "word_count": 4737
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE ALBERT C., a Person Coming Under the Juvenile Court Law."
+    ],
+    "opinions": [
+      {
+        "text": "Liu, J.\nLike adults, juveniles have a due process right to be free from indefinite commitment if found incompetent to stand trial. In an effort to protect this right, the Presiding Judge of the Los Angeles County Superior Court, Juvenile Division, issued a protocol addressing the process by which minors are found incompetent and later found to have attained competency. The protocol limits the detention of incompetent minors to 120 days. We granted review to decide whether detention of a minor beyond the protocol's 120-day limit without evidence of progress toward attaining competency violates the right to due process and whether a violation of the protocol establishes a presumption of due process violation.\nDefendant Albert C. contends that detention beyond the protocol's 120-day limit presumptively violates due process, as In re Jesus G. (2013) 218 Cal.App.4th 157, 174, 159 Cal.Rptr.3d 594 (Jesus G. ) held. In this case, the Court of Appeal disagreed with Jesus G. and held that \"the 120-day limit on detention in the Protocol lacks the force of law and it therefore does not define due process.\" We hold that although trial courts are not barred from adopting such protocols as guidance or as local rules, the Court of Appeal below was correct that the protocol does not presumptively or otherwise define due process. Further, we decline to decide whether the length of detention in this case violated due process and instead hold that any violation was not prejudicial in light of the juvenile court's finding of malingering.\nI.\nIn June 2012, when Albert C. was 14 years old, the Los Angeles County District Attorney filed a petition to have him declared a ward of the juvenile court under Welfare and Institutions Code section 602. The petition alleged that Albert had threatened a public officer at his school in violation of Penal Code section 71. At a pretrial hearing, the court put the matter over and ordered that Albert remain in the custody of his mother. But Albert's relationship with his mother was turbulent-Albert had spent about half of his life in foster care due to neglect and abuse-and shortly after a second continuance, Albert ran away from home. Neither the probation department nor the department of children and family services knew where Albert was for the next six months.\nOn February 13, 2013, after Albert turned 15, he turned himself in to the Los Angeles County Sheriff's Department. The next day, the district attorney filed a second wardship petition against him. The petition alleged that Albert had committed assault by means of force likely to produce great bodily injury (Pen. Code, \u00a7 245, subd. (a)(4) ), battery with serious bodily injury (id. , \u00a7 243, subd. (d)), possession of a firearm by a minor (id. , \u00a7 29610), and criminal threats (id. , \u00a7 422, subd. (a)). The petition stemmed from an incident in December 2012 in which Albert allegedly strangled his girlfriend until she lost consciousness, threatened her with a gun, and several days later threatened to kill her.\nOn February 15, 2013, before Albert's arraignment on the second petition, his defense counsel declared a doubt as to his competency. The court, relying on \"behavior in court based on the defense report, and ... other issues that the court has seen Albert exhibit,\" declared a doubt as to Albert's competency, ordered the delinquency proceedings suspended, appointed an expert to evaluate Albert, and set a competency hearing. In the meantime, Albert was detained.\nThe expert, Dr. Praveen Kambam, submitted a written report to Albert's attorney dated March 17, 2013. In the report, he found \"with reasonable medical certainty\" that Albert was unable to consult with counsel, assist in preparing his defense, or demonstrate a rational and factual understanding of his delinquency proceedings. Dr. Kambam also found that Albert could attain competency within 12 months \"with the proper mental health services and education.\" Two days later, based on the contents of this report, the court found that Albert was not presently competent and continued the suspension of proceedings.\nBetween March 2013 and February 2014, while proceedings were suspended and as Albert received weekly competency attainment training, the court ordered Albert detained in juvenile hall on public safety grounds over his attorney's objections. The court acknowledged that the Presiding Judge of the Los Angeles County Superior Court, Juvenile Division, had issued a memorandum in January 2012 that said incompetent minors in Los Angeles County \"may not be held in a juvenile hall to participate in attainment services for more than one hundred and twenty days.\" (Nash, P.J., Amended Competency to Stand Trial Protocol (Jan. 9, 2012) p. 7 < http://www.courts.ca.gov/documents/LA-Competency-Protocol.pdf> [as of July 10, 2017] (Protocol).) But the court found \"good cause to deviate from protocol\" in Albert's case.\nIn May 2013, the court ordered the probation department to consider the least restrictive placement options for Albert during the suspension of his delinquency proceedings. In June, the probation department indicated that Albert might be placed at a secure group home under the care of the department of children and family services, since he was also under dependency jurisdiction, and the court ordered the probation department and the department of children and family services to pursue that placement. Despite regular prodding by the court, the departments never found Albert a place at a secure group home during the 354-day suspension of proceedings. Albert remained detained in juvenile hall.\nIn October 2013, the court expressed concern that there was no way to ensure that Albert was not malingering, and it appointed an expert to reevaluate Albert's competency. In mid-November, the court discovered that Albert's attorney had instructed the appointed expert not to evaluate Albert due to a conflict, and it appointed another expert. Upon receiving the expert's report in January 2014, the court questioned its conclusion that Albert remained incompetent, especially since Albert had not been diagnosed with any intellectual disabilities. The court set the case for an attainment of competency hearing.\nOn February 4, 2014, the court found \"overwhelming evidence to suggest that the minor ha[d] been exaggerating his responses\" and concluded that Albert had attained competence. On February 20, 2014, Albert admitted to threatening a public officer (Pen. Code, \u00a7 71 ) and assault by means of force likely to produce great bodily injury (id. , \u00a7 245, subd. (a)(4)) pursuant to an agreement with the prosecution to dismiss the remaining counts. At that time, Albert's habeas corpus petition, which he had filed in September 2013, was denied as moot. On March 15, 2014, the court declared Albert a ward under Welfare and Institutions Code section 602 and ordered him removed from juvenile hall and placed in a secure group home or a specific juvenile camp.\nAlbert filed a timely appeal challenging the length of his detention on due process grounds, among other claims. The Court of Appeal rejected each of Albert's claims and affirmed the judgment subject to one probation condition modification. In affirming the judgment, the court disagreed with Jesus G. , which held that a violation of the Protocol's 120-day limit on detention created a rebuttable presumption that the detention violated due process. (Jesus G. , supra , 218 Cal.App.4th at p. 174, 159 Cal.Rptr.3d 594.) We granted review.\nII.\n\"A minor who is the subject of a wardship petition under Welfare and Institutions Code section 601 or 602 has, like an adult facing criminal prosecution, a due process right not to be tried while mentally incompetent.\" (In re R.V. (2015) 61 Cal.4th 181, 185, 187 Cal.Rptr.3d 882, 349 P.3d 68, fn. omitted (R.V. ).) Juveniles, like adults, are incompetent if they do not rationally and factually understand the proceedings against them and do not have \" 'sufficient present ability to consult with [their] lawyer with a reasonable degree of rational understanding.' \" (Dusky v. United States (1960) 362 U.S. 402, 80 S.Ct. 788, 4 L.Ed.2d 824 (Dusky ).) Under Welfare and Institutions Code section 709, subdivision (b), a juvenile's incompetence may result from \"a mental disorder, developmental disability, developmental immaturity, or other condition.\" (See In re Timothy J. (2007) 150 Cal.App.4th 847, 860-862, 58 Cal.Rptr.3d 746.)\nIn Jackson v. Indiana (1972) 406 U.S. 715, 738, 92 S.Ct. 1845, 32 L.Ed.2d 435 (Jackson ), the high court found that indefinite detention of an incompetent individual violates due process. At the time of Jackson's commitment, \"nothing in the record ... even point[ed] to any possibility\" that he could regain competence. (Id. at p. 726, 92 S.Ct. 1845.) Yet \"Jackson was not afforded any 'formal commitment proceedings addressed to [his] ability to function in society,' or to society's interest in his restraint, or to the State's ability to aid him in attaining competency through custodial care or compulsory treatment, the ostensible purpose of the commitment. At the least, due process requires that the nature and duration of commitment bear some reasonable relation to the purpose for which the individual is committed.\" (Id . at p. 738, 92 S.Ct. 1845, fn.omitted.)\nJackson adopted two standards to guide courts in such circumstances. First, \"a person charged by a State with a criminal offense who is committed solely on account of ... incapacity to proceed to trial cannot be held more than the reasonable period of time necessary to determine whether there is a substantial probability ... [of] attain[ing] that capacity in the foreseeable future. If it is determined that this is not the case, then the State must either institute the customary civil commitment proceeding that would be required to commit indefinitely any other citizen, or release the defendant.\" (Jackson , supra , 406 U.S. at p. 738, 92 S.Ct. 1845, fn. omitted.) Second, \"even if it is determined that the defendant probably soon will be able to stand trial, [the defendant's] continued commitment must be justified by progress toward that goal.\" (Ibid . )\nIn In re Davis (1973) 8 Cal.3d 798, 106 Cal.Rptr. 178, 505 P.2d 1018 (Davis ), we \"adopt[ed] the rule of the Jackson case that no person charged with a criminal offense and committed to a state hospital solely on account of his incapacity to proceed to trial may be so confined more than a reasonable period of time necessary to determine whether there is a substantial likelihood that he will recover that capacity in the foreseeable future.\" (Id. at p. 801, 106 Cal.Rptr. 178, 505 P.2d 1018.) Davis involved the indefinite commitment of three incompetent adults during the suspension of their criminal proceedings. Because the petitioners had already \"been confined in state hospitals for several months,\" we asked the hospitals to \"report without undue delay regarding the current status of petitioners' progress toward competence.\" (Id. at p. 806, 106 Cal.Rptr. 178, 505 P.2d 1018.) If one of those reports was \"optimistic regarding the person's probable recovery, the court should continue his commitment and require the hospital authorities to furnish, within a reasonable time, additional periodic reports regarding the person's progress.\" (Id. at p. 807, 106 Cal.Rptr. 178, 505 P.2d 1018, fn.omitted.) Upon examining these additional reports, \"trial court[s] necessarily must exercise sound discretion in deciding whether, in a particular case, sufficient progress is being made to justify continued commitment pending trial.\" (Ibid. ) We encouraged trial courts to \"consider, among other things, the nature of the offense charged, the likely penalty or range of punishment for the offense, and the length of time the person has already been confined.\" (Ibid. [\"if a defendant is charged only with a minor misdemeanor a lengthy commitment to state hospital normally would be unjustified\"].) \"Although the matter must rest in the discretion of the trial court, in the ordinary case such additional reports should be furnished no less often than every six months.\" (Id . at p. 807, fn. 7, 106 Cal.Rptr. 178, 505 P.2d 1018.)\nWe have not had occasion to consider whether the rule of reasonableness articulated in Jackson and Davis applies to the detention of juveniles. But the Courts of Appeal have held or assumed that Jackson and Davis apply in such situations. (See Jesus G. , supra , 218 Cal.App.4th at p. 171, 159 Cal.Rptr.3d 594 [\"We conclude that the guidelines of the Protocol are in line with constitutional requirements of due process as set forth in Jackson and Davis inasmuch as they address the problem of an indefinite commitment and the necessity of making a prognosis as to the likelihood of attaining competence.\"]; In re Mary T. (1985) 176 Cal.App.3d 38, 42-44, 221 Cal.Rptr. 364 [citing Jackson and Davis , and noting that \"juveniles have all of the due process protections afforded to any person referred for possible involuntary civil commitment\"].) The Court of Appeal below likewise assumed the applicability of Jack son and Davis , and the Attorney General does not argue otherwise. Because minors in delinquency proceedings must receive the \" 'essentials of due process and fair treatment' \" (In re Gault (1967) 387 U.S. 1, 30, 87 S.Ct. 1428, 18 L.Ed.2d 527 ), and because Jackson 's and Davis 's protections against indefinite detention qualify as \" 'essentials of due process' \" (ibid. ), we find their holdings applicable to the detention of minors found incompetent to stand trial. The Legislature has adopted comprehensive procedures to ensure that the commitment of incompetent adults is reasonably related to their attainment of competency and justified by progress toward that competency, as understood in Jackson and Davis . Under Penal Code section 1370, if a criminal defendant is found incompetent, a court must order him or her committed to a state hospital, treatment facility, or outpatient program. (Pen. Code, \u00a7 1370, subd. (a)(1)(B)(i).) Within the first 90 days of commitment, the medical director of the facility must report to the court \"concerning the defendant's progress toward recovery of mental competence.\" (Id. , \u00a7 1370, subd. (b)(1) ; see In re Mille (2010) 182 Cal.App.4th 635, 649-650, 105 Cal.Rptr.3d 859 [this section requires timely transportation to a treatment facility to ensure that a defendant may be evaluated and begin treatment before the expiration of the first 90 days]; In re Newmann (1976) 65 Cal.App.3d 57, 64-65, 134 Cal.Rptr. 886 [90-day evaluation period applies with equal force for individuals with intellectual disabilities].) \"If the report indicates that there is no substantial likelihood that the defendant will regain mental competence in the foreseeable future, the committing court shall order the defendant be returned to the court ... no later than 10 days following receipt of the report\" for potential initiation of conservatorship proceedings. (Pen. Code, \u00a7 1370, subd. (b)(1)(A).) If \"the report discloses a substantial likelihood that the defendant will regain mental competence in the foreseeable future,\" the defendant is to remain in treatment, and the relevant medical director is to report the defendant's progress toward attaining competence \"at six-month intervals or until the defendant becomes mentally competent.\" (Id. , \u00a7 1370, subd. (b)(1).) A defendant making progress toward attaining competency may be committed under this provision for three years or the length of the maximum term of imprisonment for the most serious charged offense, whichever is shorter. (Id. , \u00a7 1370, subd. (c)(1).)\nThere is no analogous comprehensive statutory scheme implementing Jackson and Davis for incompetent minors. Welfare and Institutions Code section 709, subdivision (c), provides that wardship proceedings shall be suspended for incompetent minors \"for a period of time that is no longer than reasonably necessary to determine whether there is a substantial probability that the minor will attain competency in the foreseeable future, or the court no longer retains jurisdiction.\" During this period of time, \"the court may make orders that it deems appropriate for services ... that may assist the minor in attaining competency.\" (Welf. & Inst. Code, \u00a7 709, subd. (c).) But there is no clear statutory authority governing placement of an incompetent minor in an appropriate treatment facility, review of a minor's progress toward attaining competency, or maximum periods of commitment for a minor. The author of the bill enacting section 709 acknowledged as much. (See Assem. Com. on Public Safety, Analysis of Assem. Bill No. 2212 (2009-2010 Reg. Sess.) as amended Apr. 8, 2010, p. 10 [\"[T]his bill codifies the constitutional requirements for determining juvenile competency. However, it begs the question: assuming a juvenile is found not competent to stand trial, then what? If a juvenile offender is found not competent and the court stays the criminal proceeding, it is unclear what path the minor follows.\"].)\nIII.\nRelying on Jesus G. , Albert argues that the Protocol's 120-day limit on provision of competency attainment services for detained minors establishes a rebuttable presumption that an incompetent minor's detention violates due process under Jackson and Davis whenever it exceeds 120 days. (See Jesus G. , supra , 218 Cal.App.4th at pp. 170-171, 174, 159 Cal.Rptr.3d 594.) Although the parties dispute whether there was evidence of progress toward attaining competency during the first 120 days of Albert's detention, the Protocol simply limits detention to 120 days, and Albert contends that any detention beyond that limit presumptively violates due process.\nLike this case, Jesus G. involved a wardship petition filed in Los Angeles County Superior Court. The juvenile court found Jesus incompetent, and over the course of the proceedings, he was detained for more than a year. (Jesus G. , supra , 218 Cal.App.4th at pp. 164, 166-167, 159 Cal.Rptr.3d 594.) The Court of Appeal found that the juvenile court violated several provisions of the same Protocol relevant to Albert's case. (Id. at pp. 171-174, 159 Cal.Rptr.3d 594.) Jesus G. held that the Protocol implemented Welfare and Institutions Code section 709 as well as the requirements of Jackson and Davis , and found that \"a violation of the Protocol is presumptively a violation of constitutional rights\" that is \"rebuttable based on the facts of a given case.\" (Jesus G. , at p. 174, 159 Cal.Rptr.3d 594.) Because the case had been mooted by Jesus's release from detention, the court did not decide whether the presumption had been rebutted under the circumstances. (Id. at p. 175, 159 Cal.Rptr.3d 594.)\nThe Protocol may serve as useful guidance concerning the placement, detention, and treatment of minors found incompetent in delinquency proceedings. But it does not independently give rise to any claim for relief because it does not by itself have any binding force of law. The Protocol was not adopted as a local rule. (See Code Civ. Proc., \u00a7\u00a7 575.1, 575.2 ; Gov. Code, \u00a7 68070 ; In re Gray (2009) 179 Cal.App.4th 1189, 1201, 102 Cal.Rptr.3d 551 [\"In the absence of a valid local rule of court, we find no authority for a superior court to adopt ... a [filing] requirement merely by publishing it on a Web site\"]; Hall v. Superior Court (2005) 133 Cal.App.4th 908, 916, 35 Cal.Rptr.3d 206 [finding a supervising judge's memo to be an improperly adopted local rule].) Nor was it authorized by any state statute. (See, e.g., Welf. & Inst. Code, \u00a7 241.1.) And it was not adopted by the trial court in Albert's case as an exercise of its inherent authority to control the proceedings. (See Code Civ. Proc., \u00a7 128 ; Elkins v. Superior Court (2007) 41 Cal.4th 1337, 1351, 63 Cal.Rptr.3d 483, 163 P.3d 160 [establishing the boundaries of trial courts' inherent authority]; James H. v. Superior Court (1978) 77 Cal.App.3d 169, 175-176, 143 Cal.Rptr. 398 [juvenile courts have inherent power to create constitutionally adequate competency procedures in the absence of legislative guidance].) Because the Protocol was not adopted pursuant to any mechanism vesting it with legal authority, a violation of the Protocol does not, in and of itself, constitute grounds for relief. Nor does the Protocol by its own force establish a constitutional rule of decision, as Jesus G. seemed to suggest. We have welcomed legislative efforts to enact statutes that are \" 'supplementary to and a construction of' \" constitutional guarantees. (People v. Martinez (2000) 22 Cal.4th 750, 766, 94 Cal.Rptr.2d 381, 996 P.2d 32, citing People v. Godlewski (1943) 22 Cal.2d 677, 682, 140 P.2d 381 [addressing speedy trial rights].) And often \"judicial interpretations have resulted in aligning the meaning of the constitutional provision[s] with statutory provisions in those situations wherein the Legislature has made specific rules.\" (Crockett v. Superior Court (1975) 14 Cal.3d 433, 438, 121 Cal.Rptr. 457, 535 P.2d 321.) For example, we have relied on statutory rules to inform the breadth of constitutional rights in the context of juvenile pretrial detention (Alfredo A. v. Superior Court (1994) 6 Cal.4th 1212, 1231-1232, 26 Cal.Rptr.2d 623, 865 P.2d 56 ), detention of incompetent adults (Davis , supra , 8 Cal.3d at pp. 806, fn. 5, 807, fn. 7, 106 Cal.Rptr. 178, 505 P.2d 1018 ), and speedy trial guarantees (Crockett , supra , at pp. 438-440, 121 Cal.Rptr. 457, 535 P.2d 321 ). Moreover, in some situations, a governmental entity's disregard of its internal procedures may have implications for whether the entity complied with due process. (See, e.g., In re Johnson (1995) 35 Cal.App.4th 160, 170-172, 41 Cal.Rptr.2d 449.) But neither a statute nor a local protocol can supplant the duty and prerogative of courts to independently interpret constitutional principles. The court in Jesus G. reasoned: \"The Protocol complies with constitutional requirements. As a result , a violation of the Protocol is presumptively a violation of constitutional rights.\" (Jesus G. , supra , 218 Cal.App.4th at p. 174, 159 Cal.Rptr.3d 594, italics added.) We disapprove Jesus G. , supra , 218 Cal.App.4th 157, 174, 159 Cal.Rptr.3d 594, to the extent this reasoning treats the Protocol not merely as an effort to implement constitutional guarantees, but as a presumptive definition of the substantive scope of those guarantees. The Court of Appeal in this case was correct that \"the 120-day limit on detention in the Protocol lacks the force of law and it therefore does not define due process.\"\nAt the same time, we hold that the Court of Appeal erred in concluding that the Protocol's limit on detention \"conflicts with\" with the holding in Jackson and the language of Welfare and Institutions Code section 709, subdivision (c), which says that \"all proceedings shall remain suspended for a period of time that is no longer than reasonably necessary to determine whether there is a substantial probability that the minor will attain competency in the foreseeable future.\"\nJackson and Davis set constitutional limits defining when a detention becomes so lengthy or unjustified as to violate due process. But neither Jackson nor Davis requires any court to make the reasonableness determination strictly on a case-by-case basis, with no presumption, time limit, or general guidance. A protocol, local rule, or state statute may adopt a detention policy that is more protective of a juvenile's rights than Jackson and Davis ; neither case requires any jurisdiction to detain an incompetent minor at all.\nIndeed, neither Jackson nor Davis rejected statutory time limits, presumptions, or flexible guidance concerning detention as unconstitutional. Jackson did not adopt any constitutional time limits \"[i]n light of differing state facilities and procedures and a lack of evidence in [the] record\" ( Jackson , supra , 406 U.S. at p. 738, 92 S.Ct. 1845 ), and Davis suggested that progress reports \"should be furnished no less often than every six months\" and acknowledged that trial courts must exercise discretion (Davis , supra , 8 Cal.3d at p. 807, fn. 7, 106 Cal.Rptr. 178, 505 P.2d 1018 ). Just as these cases do not preclude the Legislature from establishing time limits for the commitment of incompetent adults (see Pen. Code, \u00a7 1370 ), they do not preclude trial courts from establishing time limits, presumptions, or guidance concerning the detention of incompetent minors, the violation of which may have whatever consequences attend the violation of a local protocol or rule (see Super. Ct. Fresno County, Local Rules, rule 6.9, par. F.7. [\"Under no circumstances shall a minor be held in a custodial setting in excess of one hundred fifty (150) days after the determination of incompetency has been made on the case which is the subject of the competency proceedings.\"]; Judicial Council of Cal., Delinquency: Local Court Activities and Documents (2016) < http://www.courts.ca.gov/cfcc-delinquency.htm> [as of July 10, 2017] ).\nNor does Welfare and Institutions Code section 709 foreclose the adoption of such a protocol or local rule. The statute may be amended in the future; the Judicial Council's Family and Juvenile Law Advisory Committee has recommended changes to the law (Assem. Com. on Appropriations, Analysis of Assem. Bill No. 2695 (2015-2016 Reg. Sess.) as amended Apr. 19, 2016, p. 2), and the parties have informed us of two bills introduced in the current legislative session that would amend it (Assem. Bill No. 689 (2017-2018 Reg. Sess.); Assem. Bill No. 935 (2017-2018 Reg. Sess.)). But, as currently written, section 709 requires suspension of proceedings \"[i]f the court finds substantial evidence raises a doubt as to the minor's competency\" (Welf. & Inst. Code, \u00a7 709, subd. (a) ) and authorizes the court to order appropriate services for the minor during the suspension of proceedings (id. , \u00a7 709, subd. (c) ). The statute sets forth only one time limitation: \"all proceedings shall remain suspended for a period of time that is no longer than reasonably necessary to determine whether there is a substantial probability that the minor will attain competency in the foreseeable future....\" (Ibid .) Section 709 does not authorize, restrict, set limits on, or even mention detention. A statute that requires suspension of proceedings for \"a period of time that is no longer than reasonably necessary\" (ibid. ) does not preempt a local rule or protocol that constrains detention to a period of time shorter than what is \"reasonably necessary\" within the meaning of that statute. Indeed, the statute sets forth no detention authorization, prohibition, or scheme with which a local rule or protocol could be inconsistent. (Cf. R.V. , supra , 61 Cal.4th at p. 195, 187 Cal.Rptr.3d 882, 349 P.3d 68.)\nIV.\nSeparate and apart from the significance of the Protocol, Albert and the Attorney General disagree on whether the record shows sufficient evidence of progress toward attaining competency and, in view of that evidence, whether the length of Albert's detention violated due process under Jackson and Davis . But we need not decide whether the length of Albert's detention violated due process because any violation would not warrant reversal of his wardship adjudication in light of the juvenile court's finding of malingering. This finding is not within the scope of our review, and we may assume the Court of Appeal correctly determined the juvenile court did not err in finding that Albert was competent on the evidence before it under Dusky , supra , 362 U.S. 402, 80 S.Ct. 788. The juvenile court suspended proceedings upon the expression of a doubt as to Albert's competence; reinstated proceedings upon a showing that Albert was malingering and that he could consult with counsel and understand the proceedings against him; and complied with Albert's right not to be adjudicated a ward while incompetent, even as Albert feigned incompetence. The court then accepted Albert's voluntary admission as to two counts of the petition pursuant to a plea agreement and adjudicated him a ward of the court. The due process violation Albert alleges could not have prejudiced his admission, adjudication, or disposition in these circumstances. (See Chapman v. California (1967) 386 U.S. 18, 24, 87 S.Ct. 824, 17 L.Ed.2d 705.) In light of this conclusion, we do not decide whether the nature of Albert's detention bore a sufficiently reasonable relation to the purpose of his detention. (Jackson, supra, 406 U.S. at p. 738, 92 S.Ct. 1845.) Nor do we address whether Albert's placement in juvenile hall was reasonably related to the purpose of helping him attain competency. We also do not address whether the competency training Albert received was closely related to the purpose of his attaining competency. CONCLUSION\nFor the reasons above, we affirm the judgment of the Court of Appeal.\nWe Concur:\nCantil-Sakauye, C.J.\nWerdegar, J.\nChin, J.\nCorrigan, J.\nCu\u00e9llar, J.\nKruger, J.",
+        "type": "majority",
+        "author": "Liu, J."
+      }
+    ],
+    "attorneys": [
+      "Laini Millar Melnick, under appointment by the Supreme Court, for Defendant and Appellant.",
+      "Susan L. Burrell ; L. Richard Braucher, Richmond; Rourke F. Stacy and Robert Lu, Deputy Public Defenders (Los Angeles) for Pacific Juvenile Defender Center, First District Appellate Project and Los Angeles County Public Defender as Amici Curiae on behalf of Defendant and Appellant.",
+      "Kamala D. Harris and Xavier Becerra, Attorneys General, Edward C. DuMont, State Solicitor General, Gerald A. Engler, Chief Assistant Attorney General, Lance E. Winters, Assistant Attorney General, Michael R. Johnsen, Deputy Attorney General, Michael J. Mongan, Deputy Solicitor General, Victoria B. Wilson, Scott A. Taryle and Theresa A. Patterson, Deputy Attorneys General, and Kathleen Vermazen Radez, Associate Deputy State Solicitor General, for Plaintiff and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE ALBERT C., a Person Coming Under the Juvenile Court Law.\nThe People, Plaintiff and Respondent,\nv.\nAlbert C., Defendant and Appellant.\nS231315\nSupreme Court of California\nFiled July 10, 2017\nLaini Millar Melnick, under appointment by the Supreme Court, for Defendant and Appellant.\nSusan L. Burrell ; L. Richard Braucher, Richmond; Rourke F. Stacy and Robert Lu, Deputy Public Defenders (Los Angeles) for Pacific Juvenile Defender Center, First District Appellate Project and Los Angeles County Public Defender as Amici Curiae on behalf of Defendant and Appellant.\nKamala D. Harris and Xavier Becerra, Attorneys General, Edward C. DuMont, State Solicitor General, Gerald A. Engler, Chief Assistant Attorney General, Lance E. Winters, Assistant Attorney General, Michael R. Johnsen, Deputy Attorney General, Michael J. Mongan, Deputy Solicitor General, Victoria B. Wilson, Scott A. Taryle and Theresa A. Patterson, Deputy Attorneys General, and Kathleen Vermazen Radez, Associate Deputy State Solicitor General, for Plaintiff and Respondent."
+  },
+  "file_name": "0897-01",
+  "first_page_order": 897,
+  "last_page_order": 907
+}

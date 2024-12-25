@@ -1,0 +1,605 @@
+{
+  "id": 12513535,
+  "name": "The PEOPLE, Plaintiff and Respondent, v. Nathan Louis CAMPBELL, Defendant and Appellant.",
+  "name_abbreviation": "People v. Campbell",
+  "decision_date": "2017-06-08",
+  "docket_number": "2d Crim. No. B267280",
+  "first_page": "164",
+  "last_page": "171",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 164"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 666"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "207 Cal.Rptr. 641",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Cal.App.3d 429",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2165586
+      ],
+      "pin_cites": [
+        {
+          "page": "437"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/161/0429-01"
+      ]
+    },
+    {
+      "cite": "59 Cal.Rptr.3d 405",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Cal.App.4th 1467",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3676357
+      ],
+      "pin_cites": [
+        {
+          "page": "1477"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/150/1467-01"
+      ]
+    },
+    {
+      "cite": "278 P.3d 809",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Cal.Rptr.3d 546",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 Cal.4th 331",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        5720915
+      ],
+      "pin_cites": [
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/54/0331-01"
+      ]
+    },
+    {
+      "cite": "221 Cal.Rptr. 387",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Cal.App.3d 139",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2182010
+      ],
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/176/0139-01"
+      ]
+    },
+    {
+      "cite": "66 Cal.Rptr.3d 422",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Cal.App.4th 1000",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3651274
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/155/1000-01"
+      ]
+    },
+    {
+      "cite": "147 Cal.Rptr.3d 673",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 Cal.App.4th 1200",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6054414
+      ],
+      "pin_cites": [
+        {
+          "page": "1209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/209/1200-01"
+      ]
+    },
+    {
+      "cite": "244 P.3d 1062",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Cal.Rptr.3d 415",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Cal.4th 47",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3915029
+      ],
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/51/0047-01"
+      ]
+    },
+    {
+      "cite": "2 Cal.5th 1093",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12513493
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1097"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-rptr-3d/218/0140-01"
+      ]
+    },
+    {
+      "cite": "217 Cal.Rptr.3d 493",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Cal.App.5th 123",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12454659
+      ],
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/11/0123-01"
+      ]
+    },
+    {
+      "cite": "696 P.2d 134",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 Cal.Rptr. 742",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Cal.3d 345",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1977099
+      ],
+      "pin_cites": [
+        {
+          "page": "349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/38/0345-01"
+      ]
+    },
+    {
+      "cite": "903 P.2d 1027",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.Rptr.2d 895",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Cal.4th 416",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1960672
+      ],
+      "pin_cites": [
+        {
+          "page": "419"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/11/0416-01"
+      ]
+    },
+    {
+      "cite": "15 Cal.Rptr.2d 268",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Cal.App.4th 1611",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2323494
+      ],
+      "pin_cites": [
+        {
+          "page": "1626"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/11/1611-01"
+      ]
+    },
+    {
+      "cite": "485 U.S. 25",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13683
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0025-01"
+      ]
+    },
+    {
+      "cite": "104 Cal.Rptr.3d 495",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Cal.App.4th 839",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4213539
+      ],
+      "pin_cites": [
+        {
+          "page": "853"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/181/0839-01"
+      ]
+    },
+    {
+      "cite": "1 P.3d 3",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Cal.Rptr.2d 682",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Cal.4th 225",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        277033
+      ],
+      "pin_cites": [
+        {
+          "page": "282"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/23/0225-01"
+      ]
+    },
+    {
+      "cite": "640 P.2d 776",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Cal.Rptr. 640",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Cal.3d 841",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2013833
+      ],
+      "pin_cites": [
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/30/0841-01"
+      ]
+    },
+    {
+      "cite": "15 P.3d 234",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Cal.Rptr.2d 13",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Cal.4th 856",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1180128
+      ],
+      "pin_cites": [
+        {
+          "page": "861"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/24/0856-01"
+      ]
+    },
+    {
+      "cite": "28 Cal.Rptr.2d 885",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Cal.App.4th 1596",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6042535
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1611-1612"
+        },
+        {
+          "page": "1611-1612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/23/1596-01"
+      ]
+    },
+    {
+      "cite": "96 P.3d 30",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal.Rptr.3d 710",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Cal.4th 1",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        633001
+      ],
+      "pin_cites": [
+        {
+          "page": "65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/34/0001-01"
+      ]
+    },
+    {
+      "cite": "37 Cal.Rptr.3d 122",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Cal.App.4th 1440",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3734189
+      ],
+      "pin_cites": [
+        {
+          "page": "1448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/134/1440-01"
+      ]
+    },
+    {
+      "cite": "426 U.S. 610",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6181032
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "611"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/426/0610-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1001,
+    "char_count": 19627,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2586540759712246
+    },
+    "sha256": "709361100f46a46b4e194d24645208831a9b76e029ccaafcf23f607b44fbf47e",
+    "simhash": "1:fca5d379b0350b27",
+    "word_count": 3218
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The PEOPLE, Plaintiff and Respondent,\nv.\nNathan Louis CAMPBELL, Defendant and Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "TANGEMAN, J.\nAngry about a failed drug deal, Nathan Louis Campbell drove his car onto the Venice Beach Boardwalk and plowed into 10 separate groups of people in close succession. A jury convicted him of one count of second degree murder (Pen. Code, \u00a7 187, subd. (a) ) ; 17 counts of assault with a deadly weapon (\u00a7 245, subd. (a)(1)); 3 felony counts of leaving the scene of an accident; and 7 misdemeanor counts of leaving the scene of an accident (Veh. Code, \u00a7 20001, subd. (a) ). The jury found true allegations that he used a deadly weapon in the murder and inflicted great bodily injury in three of the assaults. (\u00a7\u00a7 12022, subd. (b)(1), 12022.7, subd. (a).) The trial court sentenced Campbell to 15 years to life plus 27 years in state prison. It stayed the sentence for all but one of the counts of leaving the scene of an accident pursuant to section 654.\nWe conclude (1) the prosecutor's reference to Campbell's post-Miranda silence was a fair response to Campbell's trial testimony that he cooperated fully with police, and (2) Campbell was properly convicted of 10 counts of fleeing the scene of an accident because there were 10 distinct accidents after which he could have stopped and rendered aid but did not.\nBACKGROUND\nCampbell drove to the Venice Beach Boardwalk, where his friend tried to buy methamphetamine. The dealer was gone a long time with the friend's money, and the friend went looking for the dealer. Campbell became agitated. He said to a bystander, \"I'm going to hit them with my fucking car if [the] dude is not back,\" and \"point them out and I'll hit them with the car.\"\nAfter more time passed, Campbell got into his car and accelerated onto the boardwalk, guiding the car through a 10-foot gap between barriers. He drove into an ATM machine, pushing it into two people (count 19). He proceeded southwest and drove into a woman (count 20) and her boyfriend (count 21). He continued further into a group of vendor's stands on the west side of the boardwalk, hitting three more people (count 22). He turned back into the boardwalk and accelerated into two more people near the Titanic Boutique (count 23). He proceeded south and drove into two more people (count 24). He drove further south and steered into two people near the Venice Suites Hotel (count 25). He drove into concession stands near the hotel and then turned into two more people, killing one. He carried her body on his hood for some distance without stopping (count 18). He continued to the front of a Snapchat store where he ran into another person and dragged him 20 feet without stopping (count 26). After passing the Snapchat store, he hit his final victim (count 27). He then fled the boardwalk in his car.\nVideo surveillance captured most of the collisions. Witnesses testified that Campbell accelerated and changed directions in order to hit people. A witness who watched from a hotel balcony said the car was aimed \"where the people were, not where there was an open space.\" Witnesses said Campbell seemed to be in control of the car and his face looked focused. He did not honk or wave people out of his way.\nAfter Campbell hit his last victim someone on a bike tried to flag him down and people yelled for him to stop, but he drove away. A few hours later, Campbell turned himself into the Santa Monica Police Department and told officers \"I'm the one you are looking for,\" and \"I hit all those people.\" He asked them \"how many people were hurt and how many children?\"\nAt the police station, Campbell waived his Miranda rights and answered an officer's questions. He was drunk, and said he drank a half-pint of vodka after he hit people on the boardwalk. He said he drank no alcohol beforehand. At trial, he said he drank two gulps of vodka before he drove onto the boardwalk, but said he was \"okay\" to drive.\nCampbell told the officer at the police station that he thought the car was in reverse and he just panicked. He said he honked and waved his hands to warn people. He gave the same account at trial. Video evidence and witness statements contradict that claim.\nCampbell gave similar explanations to two officers who drove him to another station that evening, and to a sergeant who questioned him when he arrived. He told the officers where to find his car. Campbell testified at trial that the car was in good operating order; there were no problems with the brakes or the steering. A mechanical inspection confirmed this.\nWhen homicide detectives approached Campbell at about 2:00 a.m. after a blood draw, he refused to answer any more questions and invoked his right to silence.\nAt trial, Campbell said that he cooperated with law enforcement officers and answered their questions. He did not reveal that he refused to answer the homicide detectives' questions. He said that he volunteered to give a blood sample. During cross-examination of law enforcement witnesses, defense counsel emphasized Campbell's cooperation with the police after he turned himself in.\nOn cross-examination, the prosecutor asked Campbell if he really \"volunteer [ed]\" the blood sample. Campbell acknowledged the officers had a warrant. The prosecutor then asked, \"And you refused to talk to those police officers anymore?\" The court sustained a defense objection and then heard argument outside the jury's presence. It decided the question was a proper response to Campbell's emphasis on cooperation.\nBut the prosecutor continued to a different area. He asked Campbell if he ever told officers that he drank before he drove onto the boardwalk, as he told the jury. Campbell responded, \"After I asked for an attorney none of you ever asked to interview me again ever.\" The prosecutor asked, \"Well, you are saying after you asked for an attorney law enforcement officers did not ask you the right questions?\" Campbell answered, \"They never asked me any questions.\" The court overruled a defense objection, and the prosecutor continued, \"Well, how are they going to ask you questions if you have told them I want an attorney?\" Campbell answered, \"Well, I mean, I figured [they]\nwould come talk to me again after I sobered up, after I realized what happened.\" The prosecutor asked, \"But you are saying at some point you decided to tell the detectives you wanted an attorney and that is your right, and you could say that, right?\" Campbell answered, \"Yes.\" The prosecutor then asked, \"So you are saying they should have waited for you to sober up so they [could] talk to you about what happened that day?\" Campbell answered, \"No. That's not what I'm saying. What I'm saying is that once everything started coming together and I asked for-when I asked for an attorney, I had assumed that someone would actually come talk to me again.\"\nAfter further questioning along these lines, Campbell moved for a mistrial which the court denied. The court granted the prosecutor's request to give the jury a limiting instruction over a defense objection.\nDefense counsel argued in closing that Campbell's cooperation showed \"he did not have a complete disregard for what happened.\" He argued Campbell \"surrendered to the police,\" \"spoke to the police willingly on different occasions,\" \"spoke on four different occasions to officers,\" \"did not brag to police officers or detectives about what he had done,\" and \"[i]f [Campbell] was a sociopath, if he was all about himself, if he was selfish, he could have said nothing at all to the police.\"\nDISCUSSION\nMistrial Motion (Doyle )\nThe trial court reasonably concluded the prosecutor's questions about Campbell's post-Miranda silence were a fair response to his assertions that he cooperated with police. (Doyle v. Ohio (1976) 426 U.S. 610, 611, 96 S.Ct. 2240, 49 L.Ed.2d 91 (Doyle ); People v. Champion (2005) 134 Cal.App.4th 1440, 1448, 37 Cal.Rptr.3d 122 (Champion ).) Evidence of cooperation was a cornerstone of Campbell's defense; he used it to create the impression he had no consciousness of guilt when he was questioned and therefore must not have acted deliberately, maliciously, or with knowledge his act would result in the application of force to anyone. (\u00a7\u00a7 187, subd. (a), 189, 245, subd. (a)(1).)\nThe right to a fair trial guaranteed by federal due process is violated when a prosecutor impeaches a defendant's exculpatory testimony with evidence of his post-Miranda silence. (Doyle , supra , 426 U.S. at pp. 614, 619, 96 S.Ct. 2240 [convictions reversed where prosecutor impeached defendants' testimony that they were framed in a marijuana transaction by asking them why they did not give that explanation when they were arrested].) It is fundamentally unfair to use post-Miranda silence against a defendant \"in view of the implicit assurance contained in the Miranda warnings that exercise of the right of silence will not be penalized.\" (People v. Coffman and Marlow (2004) 34 Cal.4th 1, 65, 17 Cal.Rptr.3d 710, 96 P.3d 30.)\nBut due process is not violated when the prosecutor's reference to post-Miranda silence is \"a fair response to [a] defendant's claim or a fair comment on the evidence.\" (Champion , supra , 134 Cal.App.4th at p. 1448, 37 Cal.Rptr.3d 122.) The right to remain silent is a shield; it cannot be used as a sword to cut off the prosecution's fair response to defense evidence or argument. (People v. Austin (1994) 23 Cal.App.4th 1596, 1611-1612, 28 Cal.Rptr.2d 885 (Austin ), disapproved on other grounds in People v. Palmer (2001) 24 Cal.4th 856, 861, 103 Cal.Rptr.2d 13, 15 P.3d 234.)\nTo establish a violation of due process under Doyle , the defendant must show the prosecution inappropriately used his post-Miranda silence for impeachment purposes with the trial court's permission. (Champion , supra , 134 Cal.App.4th at p. 1448, 37 Cal.Rptr.3d 122.) The trial court should grant a mistrial if it is apprised of prejudice that it judges incurable by admonition or instruction. (People v. Haskett (1982) 30 Cal.3d 841, 854, 180 Cal.Rptr. 640, 640 P.2d 776.) It is \"vested with considerable discretion\" to determine whether the incident is incurably prejudicial. (Ibid . ) It should grant a mistrial only when a party's chance of receiving a fair trial has been irreparably damaged. (People v. Ayala (2000) 23 Cal.4th 225, 282, 96 Cal.Rptr.2d 682, 1 P.3d 3 (Ayala ).) We review an order denying a motion for mistrial for abuse of discretion. (Ibid . )\nThe use of Campbell's post-Miranda silence was a fair response to defense evidence or argument because Campbell portrayed himself as truly forthcoming with the police. When a defendant creates the impression at trial that he fully cooperated with police and answered any questions they asked, the prosecutor may fairly comment on his post-Miranda silence. (People v. Delgado (2010) 181 Cal.App.4th 839, 853, 104 Cal.Rptr.3d 495 (Delgado ).) In Delgado , for example, the defendant claimed \"full cooperation\" with police and testified that he \" '[a]nswered any questions [the police] wanted [him] to answer' and answered '[e]very question that [he] could answer. [He] wasn't holding anything back.' \" (Ibid . ) The court held the prosecutor fairly responded by asking whether \"there was a certain point where\" the defendant was \"no longer willing to answer [an officer's] questions.\" (Ibid . )\nSimilarly, in Austin , supra , 23 Cal.App.4th 1596, 1611-1612, 28 Cal.Rptr.2d 885, when defense counsel asked an officer whether he gave the defendant a chance to explain a spontaneous statement, the prosecutor could fairly ask whether the defendant refused the officer's post-Miranda request to make a statement.\nFair response is also allowed when a defendant gives the impression he did not have a fair chance to explain his innocence. (United States v. Robinson (1988) 485 U.S. 25, 32, 108 S.Ct. 864, 99 L.Ed.2d 23 ; Champion , supra , 134 Cal.App.4th at pp. 1450-1451, 37 Cal.Rptr.3d 122 [prosecutor fairly responded to defendant's testimony that \"no one gave him the opportunity to give his side of the story,\" by asking if he refused to give a statement].)\nCampbell concedes he \"testified he had been cooperative with the police and given them information.\" But he contends this case is unlike Champion and Austin because he did not testify he cooperated \"fully\" or answered all questions. He points out that the jury knew he had an opportunity to tell at least three officers his side of the story, and he admitted he was not fully forthcoming when he testified he did not previously tell officers he drank vodka before the incident.\nBut Campbell's testimony created the impression of full cooperation when he said he turned himself in, answered the questions of five officers, and \"to the best of [his] ability ... tried to explain\" what happened. And he suggested he did not have a fair chance to explain his side of the story when he said \"[n]one of you ever asked to interview me again ever.\"\nMultiple Counts of Leaving the Scene of an Accident\nCampbell contends that the evidence supports only one count of leaving the scene of an accident, because he never stopped his car between collisions. We disagree.\nVehicle Code section 20001, subdivision (a) requires a person involved in an injury causing accident to immediately stop the vehicle at the scene. He must identify himself and render reasonable assistance, among other things. (Veh. Code, \u00a7\u00a7 20001, 20003.) Violations are punishable as misdemeanors or (if the accident results in death or permanent, serious injury) as felonies. (Veh. Code, \u00a7 20001, subd. (b)(1) & (2).) Intentional collisions are \"accidents\" for purposes of Vehicle Code section 20001. (People v. Jiminez (1992) 11 Cal.App.4th 1611, 1626, 15 Cal.Rptr.2d 268 (Jiminez ), disapproved on other grounds in People v. Kobrin (1995) 11 Cal.4th 416, 419, 45 Cal.Rptr.2d 895, 903 P.2d 1027.)\nMultiple convictions for violating a statute are appropriate only where the actus reus prohibited by the statute (the gravamen of the offense) is committed more than once. (Wilkoff v. Superior Court (1985) 38 Cal.3d 345, 349, 211 Cal.Rptr. 742, 696 P.2d 134 (Wilkoff ), superseded by statute on other grounds as stated in People v. Elder (2017) 11 Cal.App.5th 123, 139, 217 Cal.Rptr.3d 493.) Thus, in Wilkoff , one drunken lane-change resulting in death to one person and injury to six others could support only one count of violating section 192 (manslaughter), one count of violating Vehicle Code section 23153, subdivision (a) (driving under the influence), and one count of violating Vehicle Code section 23153, subdivision (b) (driving with a blood alcohol of 0.08 percent or above). \"[T]he number of times the act is committed determines the number of times the statute is violated.\" (Wilkoff , at p. 349, 211 Cal.Rptr. 742, 696 P.2d 134.)\nThe actus reus of Vehicle Code section 20001 is fleeing from the scene of an injury accident. (People v. Martinez (2017) 2 Cal.5th 1093, 1097, 218 Cal.Rptr.3d 140, 394 P.3d 1066.) Although a violation of Vehicle Code section 20001 is commonly referred to as hit-and-run, the act made criminal under the statute is not the hitting but the running. (Ibid . )\nThe jury found Campbell failed to \"immediately stop [or render aid or provide information] at the scene of [an] accident\" 10 times. Its findings are supported by evidence that Campbell caused 10 collisions while driving, turning and aiming at separate groups of people on the boardwalk and that after each collision, he had the opportunity to stop and render aid, but he instead committed a new volitional act and deliberately struck another person or group. We will not reweigh the evidence. (People v. Albillar (2010) 51 Cal.4th 47, 60, 119 Cal.Rptr.3d 415, 244 P.3d 1062.)\nThis case is unlike People v. Calles (2012) 209 Cal.App.4th 1200, 1209, 147 Cal.Rptr.3d 673, in which there could be only one conviction for leaving the scene of a single collision with multiple victims. The parties agreed there was only one accident: the defendant hit a single group of pedestrians who were walking together on the sidewalk. (Ibid . )\nThis case is also unlike People v. Newton (2007) 155 Cal.App.4th 1000, 66 Cal.Rptr.3d 422, in which one act caused a chain reaction collision. There, the defendant collided with a car, pushing that car into a third car. (Id . at p. 1002, 66 Cal.Rptr.3d 422.) There could be only one conviction for leaving the scene, even though four people were injured. Again, there was no dispute that there was a single accident for purposes of Vehicle Code section 20001, subdivision (a). (Ibid . ) The issue was whether having multiple victims would support multiple counts.\nCampbell invokes the rule of lenity to urge that the series of collisions was a single accident for purposes of Vehicle Code section 20001, subdivision (a). But his construction is not reasonable or consistent with legislative intent. (Jim i nez , supra , 11 Cal.App.4th at p. 1626, 15 Cal.Rptr.2d 268 [a penal statute susceptible of more than one meaning must be construed in the defendant's favor unless the construction is unreasonable, absurd or contrary to legislative intent].) The purpose of Vehicle Code section 20001 is \"to prevent the driver of a vehicle involved in an injury-causing accident from leaving injured persons in distress and danger for want of medical care and from attempting to avoid possible civil or criminal liability for the accident by failing to identify oneself.\" (People v. Corners (1985) 176 Cal.App.3d 139, 148, 221 Cal.Rptr. 387.) Each time Campbell changed directions or proceeded to a new and separate target he left behind the untended injured, completing the act proscribed by Vehicle Code section 20001, subdivision (a).\nThe decision under section 654 to stay Campbell's sentence on nine counts does not undermine his multiple convictions. Section 654 protects against \"multiple punishment, not multiple convictions.\" (People v. Correa (2012) 54 Cal.4th 331, 336, 142 Cal.Rptr.3d 546, 278 P.3d 809.) The trial court's finding that the 10 counts of hit-and-run were part of \"an indivisible course of conduct with a single objective, which was to get out of there,\" precludes multiple punishment, but it does not preclude multiple convictions. Campbell is like the defendant in People v. Johnson (2007) 150 Cal.App.4th 1467, 1477, 59 Cal.Rptr.3d 405, who committed three acts of violence against his spouse in close succession during a single course of conduct; he could be convicted of three counts of corporal injury but punished only once.\nPeople v. Osuna (1984) 161 Cal.App.3d 429, 437, 207 Cal.Rptr. 641 (Osuna ), does not hold otherwise. Osuna holds that a single act cannot support convictions under separate statutes when one statutory violation is included in the other. (Id . at p. 436, 207 Cal.Rptr. 641.) But that issue is not presented here. Osuna distinguished its facts from cases like ours in which the defendant commits two or more distinct acts. (Ibid . )\nDISPOSITION\nThe judgment is affirmed.\nWe concur:\nYEGAN, Acting P.J.\nPERREN, J.\nAll statutory references are to the Penal Code unless otherwise stated.\nMiranda v. Arizona (1966) 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (Miranda ).",
+        "type": "majority",
+        "author": "TANGEMAN, J."
+      }
+    ],
+    "attorneys": [
+      "Matthew D. Alger, Clovis, under appointment by the Court of Appeal, for Defendant and Appellant.",
+      "Xavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Lance E. Winters, Senior Assistant Attorney General, Victoria B. Wilson, Supervising Deputy Attorney General, Theresa A. Patterson, Deputy Attorney General, for Plaintiff and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "The PEOPLE, Plaintiff and Respondent,\nv.\nNathan Louis CAMPBELL, Defendant and Appellant.\n2d Crim. No. B267280\nCourt of Appeal, Second District, Division 6, California.\nFiled June 8, 2017\nMatthew D. Alger, Clovis, under appointment by the Court of Appeal, for Defendant and Appellant.\nXavier Becerra, Attorney General, Gerald A. Engler, Chief Assistant Attorney General, Lance E. Winters, Senior Assistant Attorney General, Victoria B. Wilson, Supervising Deputy Attorney General, Theresa A. Patterson, Deputy Attorney General, for Plaintiff and Respondent."
+  },
+  "file_name": "0164-01",
+  "first_page_order": 164,
+  "last_page_order": 171
+}

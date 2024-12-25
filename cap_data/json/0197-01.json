@@ -1,0 +1,766 @@
+{
+  "id": 12513538,
+  "name": "Eugene G. PLANTIER, as Trustee, Etc., et al., Plaintiffs and Appellants, v. RAMONA MUNICIPAL WATER DISTRICT, Defendant and Respondent.",
+  "name_abbreviation": "Plantier v. Ramona Mun. Water Dist.",
+  "decision_date": "2017-06-13",
+  "docket_number": "D069798",
+  "first_page": "197",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 197"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 856"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "94 P.3d 1055",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Cal.Rptr.3d 849",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Cal.4th 917",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        493336
+      ],
+      "pin_cites": [
+        {
+          "page": "936"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/33/0917-01"
+      ]
+    },
+    {
+      "cite": "143 Cal.Rptr.3d 49",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "206 Cal.App.4th 1447",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4253764
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/206/1447-01"
+      ]
+    },
+    {
+      "cite": "109 Cal.Rptr.3d 647",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Cal.App.4th 1422",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4219494
+      ],
+      "pin_cites": [
+        {
+          "page": "1431-1432"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/184/1422-01"
+      ]
+    },
+    {
+      "cite": "186 Cal.Rptr.3d 362",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "235 Cal.App.4th 1493",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6055320
+      ],
+      "pin_cites": [
+        {
+          "page": "1515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/235/1493-01"
+      ]
+    },
+    {
+      "cite": "138 P.3d 220",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Cal.Rptr.3d 73",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Cal.4th 205",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3583080
+      ],
+      "pin_cites": [
+        {
+          "page": "214, fn. 4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/39/0205-01"
+      ]
+    },
+    {
+      "cite": "144 P.2d 857",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "62 Cal.App.2d 378",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        4691101
+      ],
+      "pin_cites": [
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/62/0378-01"
+      ]
+    },
+    {
+      "cite": "244 P.2d 467",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Cal.App.2d 218",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2234507
+      ],
+      "pin_cites": [
+        {
+          "page": "223-225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/111/0218-01"
+      ]
+    },
+    {
+      "cite": "6 Cal.Rptr. 661",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Cal.App.2d 82",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        4373235
+      ],
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/183/0082-01"
+      ]
+    },
+    {
+      "cite": "43 Cal.Rptr. 255",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 Cal.App.2d 51",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2149709
+      ],
+      "pin_cites": [
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/233/0051-01"
+      ]
+    },
+    {
+      "cite": "127 Cal.Rptr. 863",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Cal.App.3d 732",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6041924
+      ],
+      "pin_cites": [
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/55/0732-01"
+      ]
+    },
+    {
+      "cite": "421 P.2d 697",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Cal.Rptr. 505",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Cal.2d 559",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2326774
+      ],
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/65/0559-01"
+      ]
+    },
+    {
+      "cite": "147 Cal.Rptr. 225",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Cal.App.3d 1022",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2017137
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "1029"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/81/1022-01"
+      ]
+    },
+    {
+      "cite": "258 Cal.Rptr. 795",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Cal.App.3d 1277",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        6039049
+      ],
+      "pin_cites": [
+        {
+          "page": "1287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/210/1277-01"
+      ]
+    },
+    {
+      "cite": "30 Cal.Rptr.3d 230",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Cal.App.4th 729",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        2883881
+      ],
+      "pin_cites": [
+        {
+          "page": "741-742"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/130/0729-01"
+      ]
+    },
+    {
+      "cite": "540 P.2d 609",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Cal.Rptr. 513",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.3d 328",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2272273
+      ],
+      "pin_cites": [
+        {
+          "page": "343"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/15/0328-01"
+      ]
+    },
+    {
+      "cite": "193 Cal.Rptr.3d 811",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 Cal.App.4th 508",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6052582
+      ],
+      "pin_cites": [
+        {
+          "page": "512"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/241/0508-01"
+      ]
+    },
+    {
+      "cite": "39 Cal.Rptr.3d 701",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Cal.App.4th 1424",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3726636
+      ],
+      "pin_cites": [
+        {
+          "page": "1429-1430"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/136/1424-01"
+      ]
+    },
+    {
+      "cite": "169 Cal.Rptr.3d 51",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "224 Cal.App.4th 210",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6053068
+      ],
+      "pin_cites": [
+        {
+          "page": "236-237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/224/0210-01"
+      ]
+    },
+    {
+      "cite": "155 Cal.Rptr.3d 426",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Cal.App.4th 397",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4264327
+      ],
+      "pin_cites": [
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/215/0397-01"
+      ]
+    },
+    {
+      "cite": "192 Cal.Rptr.3d 790",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "240 Cal.App.4th 570",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6052665
+      ],
+      "pin_cites": [
+        {
+          "page": "580"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/240/0570-01"
+      ]
+    },
+    {
+      "cite": "194 Cal.Rptr.3d 425",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 Cal.App.4th 1327",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6052792
+      ],
+      "pin_cites": [
+        {
+          "page": "1337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/241/1327-01"
+      ]
+    },
+    {
+      "cite": "232 P.3d 701",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Cal.Rptr.3d 718",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.4th 597",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6050546
+      ],
+      "pin_cites": [
+        {
+          "page": "609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/49/0597-01"
+      ]
+    },
+    {
+      "cite": "173 Cal.Rptr.3d 544",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "227 Cal.App.4th 258",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5767551
+      ],
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/227/0258-01"
+      ]
+    },
+    {
+      "cite": "112 P.3d 623",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Cal.Rptr.3d 234",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.4th 1072",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        873194
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1080"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/35/1072-01"
+      ]
+    },
+    {
+      "cite": "104 Cal.Rptr.2d 875",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 9,
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Cal.App.4th 878",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        107000
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/87/0878-01"
+      ]
+    },
+    {
+      "cite": "119 Cal.Rptr.2d 91",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Cal.App.4th 637",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1066640
+      ],
+      "pin_cites": [
+        {
+          "page": "640"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/97/0637-01"
+      ]
+    },
+    {
+      "cite": "59 Cal.Rptr.3d 484",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Cal.App.4th 1364",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3676484
+      ],
+      "pin_cites": [
+        {
+          "page": "1378"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/150/1364-01"
+      ]
+    },
+    {
+      "cite": "102 Cal.Rptr.3d 270",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Cal.App.4th 1358",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4211317
+      ],
+      "pin_cites": [
+        {
+          "page": "1365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/179/1358-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1644,
+    "char_count": 50152,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25865465515557085
+    },
+    "sha256": "e935400539a1e5e3c53d9d6c64c007b054df400e2309277fefd7ba1935a3b4dd",
+    "simhash": "1:07ed6c92a3164bc0",
+    "word_count": 7876
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eugene G. PLANTIER, as Trustee, Etc., et al., Plaintiffs and Appellants,\nv.\nRAMONA MUNICIPAL WATER DISTRICT, Defendant and Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "BENKE, Acting P.J.\nPlaintiffs and appellants Eugene G. Plantier, as Trustee of the Plantier Family Trust (Plantier); Progressive Properties Incorporated (Progressive); and Premium Development LLC (Premium), on behalf of themselves and all others similarly situated (collectively plaintiffs), appeal the judgment in favor of defendant and respondent Ramona Municipal Water District (District or RMWD). In this class action, the trial court found plaintiffs failed to exhaust their administrative remedies under article XIII D of the California Constitution in connection with plaintiffs' substantive challenge to the method used by District to calculate wastewater service \"fees or charges\" between about 2012 and 2014.\nOn appeal, plaintiffs contend the trial court erred when it found there was a mandatory exhaustion requirement in section 6 of article XIII D (hereinafter section 6). Plaintiffs further contend they took the necessary steps to satisfy the general principle of exhaustion when they separately satisfied the administrative remedy in the Ramona Municipal Water District Legislative Code, as amended, which District adopted in 1996 (hereinafter RMWD legislative code); and that, in any event, the exhaustion doctrine in section 6 should not have been applied to them because the remedy therein was inadequate and because it was \"futile\" to purse any administrative remedy under this constitutional provision.\nAs we explain, we independently conclude that plaintiffs' class action is not barred by their failure to exhaust the administrative remedies set forth in section 6 because plaintiffs' substantive challenge involving the method used by District to calculate its wastewater service fees or charges is outside the scope of the administrative remedies, and because, under the facts of this case, those remedies are, in any event, inadequate. Reversed.\nBACKGROUND\nA. District\nDistrict is a municipal water district organized under the Municipal Water District Act. (Wat. Code, \u00a7 71000 et seq. ) District is governed by the RMWD legislative code. District provides, among others, water and, as relevant here, wastewater services to about 40,000 people living in Ramona, California, an unincorporated community within San Diego County. Ramona has two wastewater treatment plants, San Vicente and Santa Maria.\nDistrict uses an \"Equivalent Dwelling Unit\" (EDU) system to calculate wastewater service fees. \"Parcels are assigned EDUs and charged for sewer services on a per-EDU basis.\" Charges for such services are \"based on estimates of wastewater capacity needs, flow and strength for different customer types or classes.... The District levies fixed sewer rates based on the number of EDUs assigned to each connection. EDUs are assigned based on the type of development and associated wastewater flow and loadings.\"\nSewer rates for residential customers within District living in single-family homes and multi-family dwelling units with one or more bedrooms are assigned 1 EDU per dwelling unit. District has over 20 sewer rate classes for commercial customers; EDUs are assigned for commercial customers based on such factors as \"square footage, number of washing machines [and] number of students [per school].\"\nDistrict has authority to set and collect charges for sewer services. (Wat. Code, \u00a7 71670.) Revenues collected from service charges are used to pay operating and maintenance fees. (Id. , \u00a7 71671.) District is required to recover sufficient revenues to cover both the operating expenses of the sewer services it provides to customers and repairs to, and depreciation of, works it owns and/or operates in connection with such services. If the board of directors (board) of District determines the \"revenues ... will be inadequate ... to pay [its] operating expense[s] ..., to provide for repairs and depreciation of works owned or operated by it, and to meet all of its obligations[,] the board shall provide for the levy and collection of a tax ... sufficient to raise the amount of money determined by the board to be necessary for the purpose of paying [its] operating expenses ..., providing for repairs and depreciation of works owned or operated by it, and meeting all of its obligations.\" (Id. , \u00a7 72092.)\nB. Plaintiffs and Their Operative Complaint\nSince 1998, Plantier has owned a commercial property in Ramona. As such, he pays wastewater service fees to District.\nProgressive, a California corporation, owns a 25,000 square foot office building in Ramona. Like Plantier, Progressive pays for wastewater services provided by District.\nFinally, Premium, a California limited liability company, owns two properties located in Ramona. It too pays District for wastewater services.\nPlaintiffs' operative complaint asserted claims on behalf of themselves and all other District customers who paid a wastewater service fee on or after November 22, 2012. The complaint alleged causes of action against District for declaratory relief and for \"refund [of] unlawful sewer service charges.\" Plaintiffs sought a declaration that District's method of determining the costs of sewer service based on each parcel's assigned EDU violated the \"proportionally\" provision of subdivision (b)(3) of section 6. Plaintiffs also sought a refund from District of alleged overcharges for wastewater service fees paid by its customers.\nSpecifically, plaintiffs in their operative class action complaint alleged that District assigned EDU's arbitrarily and without regard to a property's actual wastewater use and to the proportional cost of providing that property's wastewater service; that District's EDU-based wastewater billing system was \"inconsistent with general practice among California water districts\"; that all District wastewater customers were required to pay an annual sewer service fee imposed on a per-EDU basis; that at all times relevant, District's board established the dollar amount of the sewer service fee on an \"ad-hoc basis, without reliance on a rate study or other technical document providing a rational basis for [the sewer service fees it] adopted\"; that the sewer service charge was a property-related fee subject to section 6, subdivision (b)(3); that the then-current sewer service fee for District customers in the San Vicente sewer service area was about $605 per EDU, and about $637 per EDU for the Santa Maria sewer service area; and that the lack of \"any rational relationship between the [sewer service fee] and actual wastewater use has resulted in the systematic overcharge of wastewater customers for whom the proportional cost of providing their property with wastewater service is less than their EDU-based\" sewer service fee.\nC. Proposition 218\nCalifornia voters in November 1996 passed Proposition 218, which added articles XIII C and XIII D to the California Constitution. (Paland v. Brooktrails Tp. Community Services Dist. Bd. of Directors (2009) 179 Cal.App.4th 1358, 1365, 102 Cal.Rptr.3d 270.) As noted ante , the instant case concerns article XIII D, which undertook to \"constrain the imposition by local governments of 'assessments, fees and charges.' (Art. XIII D, \u00a7 1.)\" (Pajaro Valley Water Management Agency v. Amrhein (2007) 150 Cal.App.4th 1364, 1378, 59 Cal.Rptr.3d 484.) \"Article XIII D sets forth procedures, requirements and voter approval mechanisms for local government assessments, fees and charges.\" (Howard Jarvis Taxpayers Assn. v. City of Roseville (2002) 97 Cal.App.4th 637, 640, 119 Cal.Rptr.2d 91.)\nAt issue in this case is section 6 (of article XIII D), which sets forth mandatory procedures an agency, such as District, must follow \"in imposing or increasing any fee or charge.\" Among other requirements, section 6 mandates that an agency provide \"written notice by mail of the proposed fee or charge to the record owner of each identified parcel upon which the fee or charge is proposed for imposition\" (\u00a7 6, subd. (a)(1)); the amount of the proposed fee or charge (ibid. ); the \"basis\" upon which the fee or charge was \"calculated\" and the \"reason\" for the fee or charge (ibid. ); \"together with the date, time, and location of a public hearing on the proposed fee or charge\" (ibid. ).\nAn agency is required to conduct a public hearing on the proposed fee or charge \"not less than 45 days after mailing the notice ... to the record owners of each identified parcel\" upon which the fee or charge is sought to be imposed. (\u00a7 6, subd. (a)(2).) At the public hearing, the agency shall \"consider all protests against the proposed fee or charge\" and if \"written protests against the fee or charge are presented by a majority of owners of the identified parcels, the agency shall not impose the fee or charge.\" (Ibid .)\nD. Exhaustion of Administrative Remedies\nOn District's motion, the court bifurcated the trial into two phases, as noted. In phase 1, the court considered the threshold issue of whether Proposition 218 imposed an exhaustion requirement and, if so, whether plaintiffs satisfied that requirement or were otherwise excused from doing so. After hearing witness testimony and the argument of counsel, the court granted District's motion. In so doing, the court in its statement of decision ruled in part as follows:\n\"The court finds there is an exhaustion requirement under Prop. 218. Plaintiffs argue there isn't one, yet in the next breath argue they complied with it. The court, acknowledging the dearth of direct authority, holds that the case closest in point is Wallich's Ranch v. Kern County Pest Control Dist. , 87 Cal.App.4th 878 [104 Cal.Rptr.2d 875] (2001) [ (Wallich's ) ]. Fairly read, and extended to the facts of this case, Wallich's imposes a requirement that plaintiffs participate in the annual Prop. 218 process, which is (according to the evidence in this case), inextricably intertwined with the annual budget process.\n\"Cal. Const. art. 13D, \u00a7 4 provides: [\u00b6] 'The agency shall conduct a public hearing upon the proposed assessment not less than 45 days after mailing the notice of the proposed assessment to record owners of each identified parcel. At the public hearing, the agency shall consider all protests against the proposed assessment and tabulate the ballots. The agency shall not impose an assessment if there is a majority protest. A majority protest exists if, upon the conclusion of the hearing, ballots submitted in opposition to the assessment exceed the ballots submitted in favor of the assessment. In tabulating the ballots, the ballots shall be weighted according to the propositional financial obligation of the affected property.'\n\"Participation in a 'public hearing' contemplated by the sentence in bold type immediately above is a centerpiece of the process set up by Prop. 218. The constitutional mandate is for the agency board to 'consider all protests,' not just those from a majority. Obviously, the RMWD Board could not have considered a protest that was never made. Plaintiffs' contention that [they] were free to ignore this part of the process would be tantamount to the court excising these provisions from the constitutional scheme. This the court is not free to do. [Citation.]\"\nAfter finding section 4 (but not section 6) included a mandatory exhaustion requirement, the court next turned to the issue of whether \"plaintiffs made the necessary effort to give the RMWD Board the opportunity to resolve the dispute short of litigation and without threatening the viability of the District by not allowing the District to take up a challenge to the EDU scheme in the context of the annual budget process. The court finds they did not.\n\"In order to be meaningful, the effort at exhaustion must set forth at least the outlines of the basis for the disagreement. Otherwise the exhaustion requirement is just a mechanical charade. And plaintiff[s'] purported efforts to exhaust their remedies never did this. The letters were long on summary pronouncements and bald assertions, but backup for these allegations was not provided. And the District reasonably offered to receive same.\"\nThe court next rejected plaintiffs' contention it was \"futile\" for them to appear and object at the 2012, 2013 and 2014 budgetary hearings because District previously had rejected their administrative claim raising the same issue that District alleged should have been raised in connection with those hearings. The court in its statement of decision on this issue stated it \"believed RMWD employees [who testified] to the effect that the District Board is genuinely interested in input from ratepayers, and that a legitimate, careful and legally/factually supported challenge to the District's EDU regime in the context of the annual Prop. 218/budget hearing would have received careful consideration.\"\nFinally, the court addressed plaintiffs' contention that they gave District \"every opportunity to act before they commenced litigation .\" The court found this contention missed the \"point of the exhaustion requirement as laid out in Wallich's : by stubbornly refusing to participate in the public hearing process, they failed to give the District the opportunity to act before it set its rates (and consequently its budget ) for the 2012-2013 and 2013-2014 fiscal years. The time to protest the EDU regime was in the context of the annual Prop. 218/budget process, when the District was considering rates and revenue requirements for the coming year. This is what plaintiffs failed to do substantively, procedurally and temporally. Allowing them to bypass the public hearing process set up by Prop. 218 and proceed immediately to litigation seeking (according to plaintiffs' trial brief ...) a refund of 'excessive fund balances' turns art. 13D, \u00a7 4 of the Constitution on its head and may very well threaten the viability of the RMWD.\n\"In light of the foregoing, the court finds the District carried its burden of proof on the special defense, and the special defense was proven by a preponderance of the evidence. The District acknowledges the plaintiffs may file another action.... For the present, the case as pled is clearly barred by the failure to exhaust administrative remedies. Plaintiffs' effort to reach back to November 21, 2012 is clearly untenable due to their failure to exhaust. RMWD is entitled to dismissal. There is no need for phase 2 of the trial, which was scheduled to start [the following day].\"\nDISCUSSION\nA. Guiding Principles\nWhen an applicable statute, ordinance, or regulation provides an adequate administrative remedy, a party must exhaust it before seeking judicial relief. (Coachella Valley Mosquito & Vector Control Dist. v. California Public Employment Relations Bd. (2005) 35 Cal.4th 1072, 1080, 29 Cal.Rptr.3d 234, 112 P.3d 623 ; see American Indian Model Schools v. Oakland Unified School Dist. (2014) 227 Cal.App.4th 258, 291, 173 Cal.Rptr.3d 544.) \"Exhaustion requires 'a full presentation to the administrative agency upon all issues of the case and at all prescribed stages of the administrative proceedings.' [Citation.] ' \"The exhaustion doctrine is principally grounded on concerns favoring administrative autonomy (i.e., courts should not interfere with an agency determination until the agency has reached a final decision) and judicial efficiency (i.e., overworked courts should decline to intervene in an administrative dispute unless absolutely necessary).\" ' \" (City of San Jose v. Operating Engineers Local Union No. 3 (2010) 49 Cal.4th 597, 609, 110 Cal.Rptr.3d 718, 232 P.3d 701 (City of San Jose ); see AIDS Healthcare Foundation v. State Dept. of Health Care Services (2015) 241 Cal.App.4th 1327, 1337, 194 Cal.Rptr.3d 425.)\nWe apply a de novo or independent standard of review in determining whether the doctrine of exhaustion of administrative remedies applies in a given case. (See Defend Our Waterfront v. State Lands Com. (2015) 240 Cal.App.4th 570, 580, 192 Cal.Rptr.3d 790 (Defend O ur Waterfront ); see also Coastside Fishing Club v. California Fish & Game Com. (2013) 215 Cal.App.4th 397, 414, 155 Cal.Rptr.3d 426 [noting \"[w]hether the doctrine of exhaustion of administrative remedies applies in a given case is a legal question that we review de novo\"].)\nThe exhaustion requirement is subject to exceptions, one of which is where the administrative remedy is inadequate. (City of San Jose , supra , 49 Cal.4th at p. 609, 110 Cal.Rptr.3d 718, 232 P.3d 701.) The statute, ordinance, regulation, or other written policy establishing an administrative remedy must provide clearly defined procedures for the submission, evaluation, and resolution of disputes. (City of Oakland v. Oakland Police & Fire Retirement System (2014) 224 Cal.App.4th 210, 236-237, 169 Cal.Rptr.3d 51 (C ity of Oakland ); Unfair Fire Tax Com. v. City of Oakland (2006) 136 Cal.App.4th 1424, 1429-1430, 39 Cal.Rptr.3d 701 (Unfair Fire Tax Com. ). A policy that only provides for the submission of disputes to a decision maker without stating whether the aggrieved party is entitled to an evidentiary hearing or the standard for reviewing the prior decision is generally deemed inadequate. (City of Oakland , at p. 237, 169 Cal.Rptr.3d 51 ; Unfair Fire Tax Com. , at p. 1430, 39 Cal.Rptr.3d 701.) An administrative remedy that fails to satisfy these and other requirements need not be exhausted. (City of Oakland , at pp. 236-237, 169 Cal.Rptr.3d 51 ; Unfair Fire Tax Com. , at p. 1430, 39 Cal.Rptr.3d 701.)\nB. Section 6\nTo determine whether plaintiffs were required to exhaust their administrative remedies in connection with their challenge to the method used by District to determine wastewater service fees for the years from about 2012 through 2014, we turn to the language of section 6 (and not section 4). (See Sheridan v. Touchstone Television Productions, LLC (2015) 241 Cal.App.4th 508, 512, 193 Cal.Rptr.3d 811 [noting a court \"begin[s] with the language of the statutes\" in determining whether a plaintiff was required to exhaust his or her administrative remedies before filing suit].)\nAs summarized ante , section 6 includes mandatory procedures an agency such as District must follow when it seeks to impose or increase any \"fee or charge.\" A \"fee or charge\" is defined in section 2, subdivision (e) to mean \"any levy other than an ad valorem tax, a special tax, or an assessment , imposed by an agency upon a parcel or upon a person as an incident of property ownership, including a user fee or charge for a property related service.\" (Italics added.)\nSubdivision (a)(1) of section 6 provides: \"The parcels upon which a fee or charge is proposed for imposition shall be identified. The amount of the fee or charge proposed to be imposed upon each parcel shall be calculated. The agency shall provide written notice by mail of the proposed fee or charge to the record owner of each identified parcel upon which the fee or charge is proposed for imposition, the amount of the fee or charge proposed to be imposed upon each, the basis upon which the amount of the proposed fee or charge was calculated, the reason for the fee or charge, together with the date, time, and location of a public hearing on the proposed fee or charge.\"\nAt the heart of the instant dispute is subdivision (a)(2) of section 6. It provides: \"The agency shall conduct a public hearing upon the proposed fee or charge not less than 45 days after mailing the notice of the proposed fee or charge to the record owners of each identified parcel upon which the fee or charge is proposed for imposition. At the public hearing, the agency shall consider all protests against the proposed fee or charge. If written protests against the proposed fee or charge are presented by a majority of owners of the identified parcels, the agency shall not impose the fee or charge .\" (Italics added.)\nC. Analysis\nHere, we independently conclude under the facts of this case that plaintiffs were not required to exhaust the administrative remedies in subdivision (a)(2) of section 6 before seeking judicial relief. (See Defend O ur Waterfront , supra , 240 Cal.App.4th at p. 580, 192 Cal.Rptr.3d 790.)\nFirst, it is not even clear that the present controversy falls within the purview of subdivision (a)(2) of section 6, inasmuch as the subject of the instant case involves whether District complied with one (or more) of the substantive requirements of section 6, which, as noted ante , are set forth in subdivision (b) of this section, in calculating wastewater usage based on its EDU system, as opposed to the imposition of, or increase in, any proposed \"fee or charge\" that is the subject of subdivision (a) of this section.\nIndeed, the language of subdivision (a)(2) of section 6 supports such an interpretation, inasmuch as the primary administrative remedy set forth therein-rejection of the proposed fee or charge-requires a \"majority of owners\" to submit \"written\" (as opposed to oral) \"protests\" to the proposed \"fee or charge .\" (Italics added.)\nDistrict's own notices of public hearing for the years 2012, 2013 and 2014 support this interpretation. The 2012 public hearing notice states: \"Any property owner or any tenant directly responsible for the payment of water or wastewater service fees may submit a written protest to the proposed increases to the rates and fees; provided, however, only one protest will be counted per identified parcel. Any written protest must ... state that the identified property owner or tenant is opposed to the proposed water rate and/or wastewater service fee increases \" among other requirements. (Italics added.)\nThe notice goes on to state that, when submitting a protest, an owner or tenant must identify on the envelope that the \"enclosed protest is for the Public Hearing on the Proposed Increases to Rates for Water and Wastewater Service Fees\" (italics added); that District at the hearing \"will hear and consider all written and oral protests to the proposed rate increases \"; and that, at the conclusion of the public hearing, the District board \"will consider adoption of the proposed rate and fee increases \" unless a majority of \"property owners or customers\" submitted written protests against such increases . (Italics added.) This language is also included in the public hearing notices for 2013 and 2014.\nThus, District's own public notices support the conclusion that the administrative remedy in subdivision (a)(2) of section 6 is limited to a protest over the imposition of, or increase in, rates for water and wastewater service fees, as opposed to protests over whether District complied with the substantive requirements of subdivision (b) of this section.\nSecond, assuming for the sake of argument a challenge to the substantive requirements of subdivision (b) of section 6 falls within the scope of the administrative remedies set forth in subdivision (a)(2) of that section, we nonetheless conclude under the facts of this case that these administrative remedies are inadequate. (See Glendale City Employees' Ass'n v. Glendale (1975) 15 Cal.3d 328, 343, 124 Cal.Rptr. 513, 540 P.2d 609 (Glendale ).)\nHere, the record shows that District provides wastewater services to about 40,000 people in Ramona, or to about 6,900 parcel owners. The record also shows that only four \"people\" (as opposed to \"parcel owners\") protested the sewer service fees or charges in 2012; eight people protested in 2013; and 12 people protested such fees or charges in 2014. The record further shows that, with the exception of two protests in 2014, none of these protests went to the proportionality requirement that is the subject of this lawsuit. (\u00a7 6, subd. (b)(3).)\nThe record therefore shows it would have been nearly impossible during these years for plaintiffs to obtain \"written protests\" from a \"majority\" of parcel owners in order to trigger the primary administrative remedy set forth in subdivision (a)(2) of section 6-rejection of the imposed or increased fee or charge.\nIn contrast to the majority requirement in section 6, subdivision (a)(2), section 4-which the trial court incorrectly relied on in its statement of decision when imposing a mandatory exhaustion requirement on plaintiffs-includes a balloting procedure for any \"assessment\" sought to be imposed by an agency. Subdivision (c) of section 4 provides that, in addition to notice of the date, time, and location of the public hearing concerning any proposed assessment, each notice \"shall also include, in a conspicuous place thereon, a summary of the procedures applicable to the completion, return, and tabulation of the ballots required pursuant to subdivision (d), including a disclosure statement that the existence of a majority protest, as defined in subdivision (e), will result in the assessment not being imposed.\" (Italics added.)\nSubdivision (d) of section 4 further provides that the notice sent to each identified parcel \"shall contain a ballot which includes the agency's address for receipt of the ballot once completed by any owner receiving the notice whereby the owner may indicate his or her name, reasonable identification of the parcel, and his or her support or opposition to the proposed assessment.\" (Italics added.) Subdivision (e) of this section provides in part that, at the public hearing, the \"agency shall consider all protests against the proposed assessment and tabulate the ballots . The agency shall not impose an assessment if there is a majority protest. A majority protest exists if, upon the conclusion of the hearing, ballots submitted in opposition to the assessment exceed the ballots submitted in favor of the assessment. In tabulating the ballots, the ballots shall be weighted according to the proportional financial obligation of the affected property.\" (Italics added.)\nClearly, section 4 has procedures-including a balloting requirement-that are nonexistent in subdivision (a)(2) of section 6. For this reason, we conclude the court erred in relying on section 4 when it imposed on plaintiffs a mandatory exhaustion requirement.\nWhat's more, the record shows that, at all times relevant, each of the named plaintiffs were \"commercial business owners\" in the Santa Maria sewer area. The record further shows that within this area, commercial properties account for only about 15 percent (or 257 of 1,750) of the parcels, with the remaining 85 percent primarily being residential properties (i.e., assigned an EDU of 1.5 or less).\nAs such, if commercial property owners \"successfully argued that they were overcharged for sewer service charges, the source of the funds for any potential refunds would be higher assessments on other property owners, who are predominately property owners.\" Because the relief plaintiffs are seeking in the instant case will potentially require other parcel owners to pay higher fees or charges for wastewater services-what District describes as a \"zero-sum game\" -it seems implausible plaintiffs would ever have been able to secure written opposition by a \"majority\" of parcel owners in order to trigger the primary administrative remedy in subdivision (a)(2) of section 6.\nWithout the administrative remedy that requires a \"majority\" of parcel owners to protest in writing to the proposed \"fee or charge,\" a parcel owner is left solely with the right to \"protest\" the proposed \"fee or charge.\" Although subdivision (a)(2) requires the agency to \"consider all protests\" at the public meeting, we conclude merely having an agency consider a protest-without more-is insufficient to create a mandatory exhaustion requirement. (See Glendale , supra , 15 Cal.3d at pp. 342-343, 124 Cal.Rptr. 513, 540 P.2d 609 [noting a \"procedure which provides merely for the submission of a grievance form, without the taking of testimony, the submission of legal briefs, or resolution by an impartial finder of fact is manifestly inadequate to handle disputes of the crucial and complex nature of the instant case\" involving a memorandum of understanding adopted under the Meyers-Milias-Brown Act (Stats. 1968, ch. 1390) ]; see also City of Oakland , supra , 224 Cal.App.4th at pp. 236-237, 169 Cal.Rptr.3d 51 [noting even if a city's charter language requiring a public hearing before a police and retirement board \" 'in all proceedings pertaining to retirement and to the granting of retirement allowances, pensions, and death benefits' \" was broadly construed to include disputes with the city, the court would still conclude that the process articulated in the charter was insufficient to create a mandatory exhaustion requirement because the \"public hearing requirement contained in [the c]harter [did] not require the [b]oard to do anything in response to the submissions or testimony received by it at the hearing\" and, thus, \"the procedure does not provide for the acceptance, evaluation and resolution of disputes\"]; Payne v. Anaheim Memorial Medical Center, Inc. (2005) 130 Cal.App.4th 729, 741-742, 30 Cal.Rptr.3d 230 [concluding the physician plaintiff's allegations \"against his coworkers present[ed] complex issues-a pattern of racist conduct intended to provide his minority patients with a lesser standard of care, and to interfere with his own ability to care of them,\" and, thus, further concluding that, unless the court presumed such allegations were unfounded, \"which [it was] not permitted to do,\" the court could not \"agree that the procedure outlined in [the hospital's bylaws], which, as in Glendale ..., 'provides merely for the submission of the grievance form, without the taking of testimony, the submission of legal briefs, or resolution by an impartial finder of fact' [was] adequate to resolve them\"]; City of Coachella v. Riverside County Airport Land Use Com. (1989) 210 Cal.App.3d 1277, 1287, 258 Cal.Rptr. 795 [concluding the public hearing process of the airport land use commission with respect to the adoption of the commission's land use plan did not constitute an adequate administrative remedy because the \"public hearings held by the [c]ommission with regard to the adoption of [that plan] did not require that the [c]ommission do anything in response to submissions or testimony received by it incident to those hearings\"]; Jacobs v. State Bd. of Optometry (1978) 81 Cal.App.3d 1022, 1029, 147 Cal.Rptr. 225, quoting Rosenfield v. Malco l m (1967) 65 Cal.2d 559, 566, 55 Cal.Rptr. 505, 421 P.2d 697 [noting the \"mere possession by some official body, such as the board, of a 'continuing supervisory or investigatory power' does not itself suffice to afford an administrative remedy\" and further noting \"[t]here must be 'clearly defined machinery' for the submission, evaluation and resolution of complaints by aggrieved parties\"]; Sunnyvale Public Safety Officers Assn. v. City of Sunnyvale (1976) 55 Cal.App.3d 732, 736, 127 Cal.Rptr. 863 [noting the administrative procedures enacted by the city for the settlement of employee grievances and disputes involving the city and public safety officers were inadequate as such procedures neither provided for a hearing before the city council nor the \"taking of testimony [n]or the submission of legal briefs\"]; Martino v. Concord Community Hosp. Dist . (1965) 233 Cal.App.2d 51, 57, 43 Cal.Rptr. 255 [rejecting hospital's contention that physician had no right to judicial relief after seeking appointment to the medical staff because he had failed to appeal to the executive committee of the hospital staff as authorized in the hospital's bylaws, after concluding the hospital's procedures were \"nebulous\" because they did \"not set forth any procedure for the hearing or determination of the appeal and state[ ] only that it shall be ' considered' \" under the bylaws]; and Henry George School of Social Science v. San Diego Unified School Dist. (1960) 183 Cal.App.2d 82, 85, 6 Cal.Rptr. 661 [rejecting a school board's claim that plaintiff had failed to exhaust its administrative remedies in connection with plaintiff's efforts to enjoin the board from enforcing rental charges in excess of those authorized by state law because \"no authority has been cited, and we have found none, that applies the doctrine of exhaustion of administrative remedy to any case where no specific remedy is provided, permitted or authorized by statute or by rule of the administrative agency involved\"].) Like the trial court in its statement of decision, District relies extensively on Wallich's to support its contention plaintiffs were required to exhaust their administrative remedies either by objecting beforehand in writing to the proposed increase in wastewater services fees or by appearing at the public hearing(s) when this issue was taken up by District in connection with its annual budget. In Wallich's , the court ruled the plaintiff failed to exhaust its administrative remedy when it challenged various assessments imposed under the Citrus Pest District Control Law (Food & Agr. Code, \u00a7 8401 et seq. ; hereinafter pest control law) by the Kern County Citrus Pest Control District in connection with its efforts to eradicate the citrus tristeza virus. (Wallich's , supra , 87 Cal.App.4th at p. 880, 104 Cal.Rptr.2d 875.)\nIn reaching its decision, the Wallich's court noted that the pest control law provided \"a specific mechanism for levying and assessing taxes for district purposes.\" (Wallich's , supra , 87 Cal.App.4th at p. 880, 104 Cal.Rptr.2d 875.) The court further noted that, \" '[g]iven the public health and safety issues inherent in the [p]est [c]ontrol [l]aw, in addition to the policy of resolving disputes expeditiously,' \" a \"general exhaustion rule\" was warranted (id. at p. 884, 104 Cal.Rptr.2d 875 ); and, therefore, that the appropriate procedure for challenging the assessments was for the plaintiff to first exhaust its remedy by challenging the budget before the district, which could only be adopted after a noticed hearing and which the plaintiff had failed to do. (Id. at pp. 884-885, 104 Cal.Rptr.2d 875.)\nWe conclude Wall i ch's is inapposite in the instant case. First, although the plaintiff in Wall i ch's contended the imposition of assessments violated Proposition 218 among other constitutional provisions, as noted the Wall i ch court found there was a \"general exhaustion\" requirement under the pest control law, and, thus, unlike the trial court in the instant case, the court in Wall i ch's did not impose an exhaustion requirement under Proposition 218. (See Wallich's , supra , 87 Cal.App.4th at p. 884, 104 Cal.Rptr.2d 875.) In fact, the trial court in Wallich's found the district in that case was exempt from article XIII D (as a result of section 5, subdivision (a), which subdivision is not at issue in the instant case). (Wallich's , at p. 882, 104 Cal.Rptr.2d 875.)\nSecond, in contrast to section 6, which generally applies to the imposition or increase in any \"fee or charge\" by any agency, the pest control law is a \"comprehensive legislative scheme\" (see City of Oakland , supra , 224 Cal.App.4th at p. 237, 169 Cal.Rptr.3d 51 ) providing for the formation (Food & Agr. Code, \u00a7 8451 et seq. ) and organization of districts (id. , \u00a7 8501 et seq.); setting forth the powers and duties of districts (id. , \u00a7 8551 et seq.), including the levying and assessing of taxes for district purposes (id. , \u00a7 8601 et seq.); and providing for the consolidation and, ultimately, dissolution of districts (id. , \u00a7\u00a7 8701 et seq. & 8751 et seq., respectively).\nFor this separate reason, we conclude Wallich's -and its requirement that a party challenging an assessment exhaust its administrative remedy under a \"comprehensive legislative scheme\" (i.e., the pest control law)-is distinguishable from the instant case. (See also Woodard v. Broadway Federal Sav. & Loan Asso. (1952) 111 Cal.App.2d 218, 223-225, 244 P.2d 467 [concluding a challenge to validity of an election must first be brought to what was then known as the \"Home Loan Bank Board\" (12 U.S.C. former \u00a7 1462), which promulgated under federal law \"comprehensive\" and \"explicit\" rules and regulations governing the operation of federal savings and loan associations from their inception to their dissolution].)\nThird, the pest control law requires a district board, after adopting a plan to control and eradicate citrus pests within the district (Food & Agr. Code, \u00a7 8557 ), to \"make or cause to be made an estimate of the cost of operating the plan for the next fiscal year beginning not sooner than 90 days thereafter\" (id. , \u00a7 8558, italics added). The pest control law expressly requires a district board to hold an annual \"budget hearing\" to institute that plan. (See id. , \u00a7\u00a7 8560 [budget hearing, time, and place]; 8561 [publication of notice]; 8562 [notice, duration of publication]; 8563 [contents of notice]; 8564 [protests against budget or items]; 8565 [hearing protests against budget or items]; & 8566 [adoption of the budget for the forthcoming fiscal year].)\nUnlike the pest control law, section 6 does not require an agency such as District to hold an annual meeting. As such, if an agency such as District decided not to impose a new or increased fee or charge year over year, parcel owners like plaintiffs herein challenging the method used by an agency to determine such fees or charges would have no remedy, adequate or otherwise, under section 6 during such period. For this separate reason, we conclude Wallich's is inapposite in the instant case.\nFourth, in contrast to the instant case in which plaintiffs' action presented a substantive challenge to the method used by District to determine its wastewater service fees via an EDU system, in Wallich's the plaintiff merely challenged the amount it was assessed on various parcels over a three-year period. The court in Wallich's noted that, after the budget was fixed by the agency in that case, the \" 'computation of the assessments [was] a simple matter of division and amount[ed] to no more than the performance of a ministerial act.' \" (Wallich's , supra , 87 Cal.App.4th at p. 885, 104 Cal.Rptr.2d 875, quoting Irvine v. Citrus Pest Dist. (1944) 62 Cal.App.2d 378, 383, 144 P.2d 857.) Thus, the nature of the challenge by the plaintiff in Wallich's further distinguishes it from the instant case.\nFinally, the trial court in its statement of decision found plaintiffs had in fact exhausted their administrative remedy under the RMWD legislative code as a result of plaintiffs' November 21, 2013 submission of a written administrative claim to District. Included with the administrative claim was a draft complaint, which the trial court noted was \"similar to the one [they] later filed with the [c]ourt.\" As such, the draft complaint included a detailed explanation of plaintiffs' challenge to the EDU system. District ultimately rejected that claim.\nThe trial court further noted in its statement of decision that District conceded both in its reply brief in support of its bifurcation motion and at the hearing that plaintiffs' administrative claim satisfied the general exhaustion requirement under the RMWD legislative code. For this separate reason, we conclude the facts in the instant case are distinguishable from those in Wallich's , where the plaintiff did not attempt whatsoever to exhaust its administrative remedy under the \"general exhaustion\" rule set forth in the pest control law. (See Wallich's , supra , 87 Cal.App.4th at p. 884, 104 Cal.Rptr.2d 875.)\nIn sum, we conclude under the facts of the instant case that plaintiffs were not required to exhaust the administrative remedies in subdivision (a)(2) of section 6 either by objecting in writing beforehand to the annual increase in wastewater service fees District sought to impose in 2012, 2013, and 2014 and/or by appearing at the hearings in those years to challenge publicly such increases.\nDISPOSITION\nThe judgment in favor of District is reversed and the matter is remanded to the trial court. On remand, the trial court is directed to vacate its order finding plaintiffs failed to exhaust their administrative remedies under section 6 of article XIII D and to enter a new order finding section 6 does not include a mandatory exhaustion requirement in this case. Plaintiffs to recover their costs of appeal.\nWE CONCUR:\nO'ROURKE, J.\nDATO, J.\n\"Because article XIII D provides a single definition that includes both 'fee' and 'charge,' those terms appear to be synonymous in both article XIII D and article XIII C. This is an exception to the normal rule of construction that each word in a constitutional or statutory provision is assumed to have independent significance.\" (See Bighorn-Desert View Water Agency v. Verjil (2006) 39 Cal.4th 205, 214, fn. 4, 46 Cal.Rptr.3d 73, 138 P.3d 220.) Like our high court in Verjil, we use the terms \"fee or charge\" interchangeably in connection with our discussion of article XIII D. (See ibid. )\nAlthough advancing this contention, plaintiffs assume-without discussing-that the trial court was interpreting section 6 in imposing a mandatory exhaustion requirement on them, when, in fact, the statement of decision shows the court substantially relied on section 4 of article XIII D (hereinafter section 4) to support its decision. As discussed post, section 4 governs \"assessments,\" as opposed to imposition of \"fees or charges\" that is the subject of section 6. In addition, the procedures an agency must follow to impose an assessment under section 4 are different from those set out in section 6, subdivision (a) with respect to fees or charges. The parties, however, agree that section 6 governs the instant appeal.\nWe received and considered in association with this appeal the amicus curiae briefs, and responses thereto, of the Howard Jarvis Taxpayers Association filed in support of plaintiffs; and of the California Association of Sanitation Agencies, California State Association of Counties & League of California Cities, joined by the California Special Districts Association, filed in support of District. We found the amicus brief of Howard Jarvis Taxpayers Association-the author and principal sponsor of Proposition 218-particularly useful in resolving this case.\nBecause judgment was based solely on plaintiffs' failure to exhaust their administrative remedies under section 6, we only briefly discuss the underlying lawsuit, as the court never reached \"phase 2,\" i.e., \"phase 1\" of the trial, concerning the merits of plaintiffs' claims. (Compare Capistrano Taxpayers Assn . , Inc. v. City of San Juan Capistrano (2015) 235 Cal.App.4th 1493, 1515, 186 Cal.Rptr.3d 362 [interpreting subdivision (b)(3) of section 6-the same provision at issue in the instant case-to find that new water rates imposed by the city violated the constitutional requirement that fees \" 'not exceed the proportional cost of the service attributable to the parcel' \" without discussing or analyzing whether the plaintiff exhausted its administrative remedy in subdivision (a) of section 6 by challenging the new water rates in writing beforehand and/or by appearing at the public hearing of the city].)\nEDU is defined in section 7.52.020 of the RMWD legislative code as \"a measure where one unit is equivalent to two hundred gallons/day of sewage, with suspended solids of two hundred milligrams per liter, and BOD of two hundred milligrams per liter.\" BOD is further defined therein as a \"unit of measurement of biochemical oxygen demand....\"\nThe court in February 2015 granted plaintiffs' motion for class certification. In so doing, the court ruled class certification applied to both causes of action in plaintiffs' operative complaint and designated Plantier, Progressive and Premium as class representatives.\nNone of the parties sufficiently briefed or considered the issue of whether the actions of the District \"in imposing or increasing any fee or charge\" under section 6 were \"legislative\" as opposed to \"administrative\" in nature. (See Howard v. County of San Diego (2010) 184 Cal.App.4th 1422, 1431-1432, 109 Cal.Rptr.3d 647 [noting \"[l]egislative actions are political in nature, 'declar[ing] a public purpose and mak[ing] provisions for the ways and means of its accomplishment,' \" in contrast to administrative actions that \"apply law that already exists to determine 'specific rights based upon specific facts ascertained from evidence adduced at a hearing,' \" and further noting that, because an amendment of a general plan is deemed a legislative action, plaintiffs were not required to seek an amendment to the general plan to adequately exhaust their administrative remedies].) Nor was counsel at oral argument able to respond meaningfully to this issue on questioning by the panel. In any event, because we conclude the administrative remedies in section 6 are inadequate, we need not decide whether the District's actions were legislative, as opposed to administrative, in nature.\nAn \"assessment,\" in contrast to a \"fee or charge,\" is defined to mean \"any levy or charge upon real property by an agency for a special benefit conferred upon the real property. 'Assessment' includes, but is not limited to, 'special assessment,' 'benefit assessment,' 'maintenance assessment' and 'special assessment tax.' \" (\u00a7 2, subd. (b).)\nSubdivision (b) of section 6 sets out various substantive requirements that an agency must follow when seeking to \"extend [ ],\" \"impose[ ]\" or \"increase[ ]\" a \"fee or charge.\" As noted, plaintiffs contend District failed to comply with subdivision (b)(3) of section 6, which provides: \"The amount of a fee or charge imposed upon any parcel or person as an incident of property ownership shall not exceed the proportional cost of the service attributable to the parcel.\" As also noted, the court never reached this issue, however, as it went to the merits or \"phase 2\" of the dispute that was rendered moot by the court's finding in \"phase 1\" that plaintiffs failed to exhaust their administrative remedies either by not objecting in writing before, or by appearing at, the annual budget hearings when District increased the wastewater system rates per EDU.\nDistrict in its respondent's brief claims there were actually six written protests in 2012 and nine in 2013. In reviewing the record, we counted five written protests in 2012 and eight in 2012. In any event, the point is there were very few written protests during the relevant time period.\nWe note subdivision (c) of section 6 requires approval \"by a majority vote\" before a \"property related fee or charge\" may be imposed when that fee or charge does not involve \"sewer, water, and refuse collection services.\" (Italics added.) Under subdivision (c) of section 6, the agency is required to \"adopt procedures similar to those for increases in assessments [in section 4 ] in the conduct of elections under this subdivision.\" Because the instant case involves \"sewer ... collection services,\" subdivision (c) of section 6 is inapplicable.\nMerriam-Webster defines the term \"zero-sum game\" to mean a \"situation in which one person or group can win something only by causing another person or group to lose it < Dividing up the budget is a zero-sum game. >\" (See Merriam-Webster's Online Dictionary (2017) < http://www.merriam-webster.com/dictionary/zero-sum game> [as of June 1, 2017].\nAlso in support of the general exhaustion requirement, plaintiffs contend they made numerous other attempts in addition to filing their administrative claim to apprise District of the nature of their claims short of objecting in writing before and/or appearing at the public meetings in 2012, 2013, and 2014. Such efforts included a letter sent by Plantier's then legal counsel to District in July 2012 in which his counsel alleged the EDU system was \"arbitrary and discriminatory\" as it pertained to Plantier's commercial property; an August 2012 letter sent directly by Plantier to District memorializing a meeting between him and District earlier that month; and a letter sent in December 2012 by a consumer advocacy group on behalf of Plantier stating the EDU-based wastewater rate structure was unconstitutional because of the alleged lack of a rational relationship between the EDU system and the actual wastewater used by a customer. However, in light of the concession by District that plaintiffs' administrative claim satisfied the general exhaustion requirement in the RMWD legislative code, we find it unnecessary to determine whether this additional evidence separately satisfied this requirement.\nIn light of our decision, we conclude it is unnecessary to decide whether it was \"futile\" for plaintiffs to have objected in writing before and/or at the budget hearings in 2012, 2013, and 2014 in order to challenge the method in which District calculated wastewater service fees it imposed under its EDU system. (See San Diego Municipal Employees Assn. v. Superior Court (2012) 206 Cal.App.4th 1447, 1459, 143 Cal.Rptr.3d 49, quoting Jonathan Neil & Assoc., Inc. v. Jones (2004) 33 Cal.4th 917, 936, 16 Cal.Rptr.3d 849, 94 P.3d 1055 [noting the \" '[f]ailure to exhaust administrative remedies is excused if it is clear that exhaustion would be futile' \" and further noting the \" 'futility exception requires that the party invoking the exception \"can positively state that the [agency] has declared what its ruling will be on a particular case\" ' \"].)",
+        "type": "majority",
+        "author": "BENKE, Acting P.J."
+      }
+    ],
+    "attorneys": [
+      "Patterson Law Group, James R. Patterson, Allison H. Goddard, Catherine S. Wicker; Carlson Lynch Sweet Kilpela & Carpenter and Todd D. Carpenter for Plaintiffs and Appellants.",
+      "Jonathan M. Coupal, Trevor A. Grimm and Timothy A. Bittle for Howard Jarvis Taxpayers Association as Amicus Curiae on behalf of Plaintiffs and Appellants.",
+      "Procopio, Cory, Hargreaves & Savitch, Kendra J. Hall, Gregory V. Moser, John D. Alessio and Adriana R. Ochoa for Defendant and Respondent.",
+      "Daniel S. Hentschke, Oceanside; Colantuono, Highsmith & Whatley, Grass Valley, Michael G. Colantuono, Pasadena, and Eduardo Jansen for California Association of Sanitation Agencies, California State Association of Counties and League of California Cities as Amicus Curiae on behalf of Defendant and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Eugene G. PLANTIER, as Trustee, Etc., et al., Plaintiffs and Appellants,\nv.\nRAMONA MUNICIPAL WATER DISTRICT, Defendant and Respondent.\nD069798\nCourt of Appeal, Fourth District, Division 1, California.\nFiled June 13, 2017\nPatterson Law Group, James R. Patterson, Allison H. Goddard, Catherine S. Wicker; Carlson Lynch Sweet Kilpela & Carpenter and Todd D. Carpenter for Plaintiffs and Appellants.\nJonathan M. Coupal, Trevor A. Grimm and Timothy A. Bittle for Howard Jarvis Taxpayers Association as Amicus Curiae on behalf of Plaintiffs and Appellants.\nProcopio, Cory, Hargreaves & Savitch, Kendra J. Hall, Gregory V. Moser, John D. Alessio and Adriana R. Ochoa for Defendant and Respondent.\nDaniel S. Hentschke, Oceanside; Colantuono, Highsmith & Whatley, Grass Valley, Michael G. Colantuono, Pasadena, and Eduardo Jansen for California Association of Sanitation Agencies, California State Association of Counties and League of California Cities as Amicus Curiae on behalf of Defendant and Respondent."
+  },
+  "file_name": "0197-01",
+  "first_page_order": 197,
+  "last_page_order": 211
+}

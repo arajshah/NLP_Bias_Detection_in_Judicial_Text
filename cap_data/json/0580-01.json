@@ -1,0 +1,642 @@
+{
+  "id": 12513565,
+  "name": "MING-HSIANG KAO, Plaintiff and Appellant, v. JOY HOLIDAY et al., Defendants and Appellants.",
+  "name_abbreviation": "Ming-Hsiang Kao v. Joy Holiday",
+  "decision_date": "2017-06-15",
+  "docket_number": "A147540",
+  "first_page": "580",
+  "last_page": "594",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 580"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 947"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "32 Cal.Rptr.3d 373",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Cal.App.4th 893",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5530318
+      ],
+      "pin_cites": [
+        {
+          "page": "902-903"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/131/0893-01"
+      ]
+    },
+    {
+      "cite": "29 C.F.R. \u00a7 778.113",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "273 P.3d 513",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Cal.Rptr.3d 315",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Cal.4th 1004",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        5719335
+      ],
+      "pin_cites": [
+        {
+          "page": "1029, fn. 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/53/1004-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7\u00a7 1101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 Cal.Rptr.2d 175",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Cal.App.4th 487",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        783207
+      ],
+      "pin_cites": [
+        {
+          "page": "494"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/68/0487-01"
+      ]
+    },
+    {
+      "cite": "177 Cal.Rptr. 803",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Cal.App.3d 1",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2076342
+      ],
+      "pin_cites": [
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/125/0001-01"
+      ]
+    },
+    {
+      "cite": "169 Cal.Rptr. 688",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Cal.App.3d Supp. 1",
+      "category": "reporters:state",
+      "reporter": "Cal. App. Supp. 3d",
+      "case_ids": [
+        6042479
+      ],
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/113/Supp. 1-01"
+      ]
+    },
+    {
+      "cite": "137 P.3d 218",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.Rptr.3d 394",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Cal.4th 77",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3583008
+      ],
+      "pin_cites": [
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/39/0077-01"
+      ]
+    },
+    {
+      "cite": "100 F.Supp.3d 1013",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        6839833
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/100/1013-01"
+      ]
+    },
+    {
+      "cite": "35 F.Supp.3d 1116",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4326777
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "p. 1131"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/35/1116-01"
+      ]
+    },
+    {
+      "cite": "210 Cal.Rptr.3d 215",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.App.5th 926",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12456804
+      ],
+      "pin_cites": [
+        {
+          "page": "958-959"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-5th/5/0926-01"
+      ]
+    },
+    {
+      "cite": "120 Cal.Rptr.3d 363",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Cal.App.4th 75",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4229864
+      ],
+      "pin_cites": [
+        {
+          "page": "80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/192/0075-01"
+      ]
+    },
+    {
+      "cite": "174 Cal.Rptr.3d 862",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "227 Cal.App.4th 1560",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5767284
+      ],
+      "pin_cites": [
+        {
+          "page": "1567-1568"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/227/1560-01"
+      ]
+    },
+    {
+      "cite": "29 C.F.R. \u00a7 541.606",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 C.F.R. \u00a7 541.600",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Cal.Rptr.3d 114",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Cal.App.4th 1363",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3720985
+      ],
+      "pin_cites": [
+        {
+          "page": "1371-1372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/151/1363-01"
+      ]
+    },
+    {
+      "cite": "29 C.F.R. \u00a7 541.200",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(a)(2)"
+        },
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 Cal.Rptr.3d 697",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Cal.App.4th 392",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6054808
+      ],
+      "pin_cites": [
+        {
+          "page": "396-397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/216/0392-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 213",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 207",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 U.S.C. \u00a7 206",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "a"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "616 F.3d 895",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3767848
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/616/0895-01"
+      ]
+    },
+    {
+      "cite": "231 P.3d 259",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Cal.Rptr.3d 514",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.4th 35",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3905026
+      ],
+      "pin_cites": [
+        {
+          "page": "66-67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/49/0035-01"
+      ]
+    },
+    {
+      "cite": "811 F.3d 528",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4082214
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "537"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/811/0528-01"
+      ]
+    },
+    {
+      "cite": "91 L.Ed. 809",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 S.Ct. 639",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "330 U.S. 148",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353764
+      ],
+      "pin_cites": [
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/330/0148-01"
+      ]
+    },
+    {
+      "cite": "94 L.Ed. 1017",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "339 U.S. 497",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        362618
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "516-517"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/339/0497-01"
+      ]
+    },
+    {
+      "cite": "846 F.2d 700",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1788334
+      ],
+      "weight": 2,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "pp. 702-704"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/846/0700-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 203",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(e)(1)"
+        },
+        {
+          "page": "(m)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "285 Cal.Rptr. 515",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "234 Cal.App.3d 21",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2337532
+      ],
+      "pin_cites": [
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/234/0021-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 201",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1417,
+    "char_count": 35997,
+    "pagerank": {
+      "raw": 6.252240135139605e-08,
+      "percentile": 0.38610532892072086
+    },
+    "sha256": "a83e133e30c95bdd756641430720e1b47327347651eb380f92ec0cedae2be015",
+    "simhash": "1:12c96a29b686062e",
+    "word_count": 5867
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MING-HSIANG KAO, Plaintiff and Appellant,\nv.\nJOY HOLIDAY et al., Defendants and Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "Pollak, J.\nPlaintiff Ming-Hsiang Kao was employed by defendant Joy Holiday, a travel tour company. He brought an action alleging, among other things, breach of contract and violation of federal and state statutes regulating wages and overtime pay. After a bench trial, the court ruled against Kao on his breach of contract and statutory claims but awarded damages for unpaid labor under the equitable doctrine of quantum meruit. Defendants appeal the quantum meruit finding and Kao cross-appeals the denial of his statutory claims. We conclude that Kao is entitled to compensation under the wage statutes, making an equitable remedy unnecessary. We shall reverse the judgment and remand for a calculation of statutory damages.\nStatement of Facts\nJoy Holiday is a tour company based in Millbrae, California that specializes in bus tours across the United States and China for Chinese-speaking travelers. Defendant Joy Express, Inc. is a related company and defendants Jessy Lin and Harry Chen are a married couple who own and operate the companies. Kao is a Taiwanese national who holds a bachelor's degree in management information systems from an English university. Kao was living in Taiwan in late 2008 when he met Lin through mutual friends and began assisting her as a Joy Holiday tour organizer in China.\nIn early 2009, Kao was invited to work for Joy Holiday in the United States and he accepted. Lin testified she told Kao that his initial job duties would be information technology with the potential to become a manager. According to Chen, Kao was promised that he would receive $2,500 monthly. Chen testified defendants intended from the beginning to sponsor Kao for an H-1B work visa, although no visa application was filed until October 2009.\nMeanwhile, in March 2009, Kao arrived in California on a tourist visa, moved into the home of Chen and Lin, and began work for Joy Holiday at its Millbrae office. Joy Holiday employed about 11 individuals at the time, all but one on a salary basis. Kao usually worked at the office weekdays from 9:00 a.m. to 6:00 p.m. and most Saturdays from 9:00 a.m. to 2:00 p.m. Initially, Kao worked on website management but his duties soon expanded to fielding sales calls and distributing travel brochures.\nKao received $1,700 monthly, representing a gross amount of $2,500 less an $800 rent deduction. Chen characterized the payment as an \"allowance\" or \"stipend\" while Kao awaited his H-1B visa. When asked at trial if he was concerned that Kao had no work permit, Chen replied that he thought of Kao as a \"student\" eager to learn. Chen testified: \"So I felt ... while you are learning, we will just give you what we intend to give you.\" Chen's testimony differed from that of Sylvia Sun, Joy Holiday's chief financial officer and accountant, who said the payments to Kao were \"salary.\" Kao was not on Joy Holiday's company payroll at this time but the payments to Kao were recorded in a handwritten \"salary record\" maintained by Sun. Payments were often made in cash but some payments were made by check. Several of those checks contain the notation \"salary\" on the memo line. Kao received no itemized statement of wages or hours worked in connection with these payments.\nIn February 2010, following receipt of an H-1B visa, Kao was put on the company payroll and signed a one-paragraph \"work agreement\" saying he was \"officially hired as the office manager of Joy Holiday.\" Kao assumed the duties of a recently departed office manager, which included booking hotels and coordinating bus tours. The written work agreement states: \"The salary is $2,500 per month. You are obligated to work 20 hours a week. If you stay in the office beyond 20 hours a week, it will be your personal choice.\" Kao testified that as office manager he normally worked a minimum of 10 to 12 hours daily. The trial court found that Kao \"worked roughly fifty (50) hours per week.\"\nKao continued to receive $1,700 monthly but in May 2010 the rent deduction was reduced to $600, so that the monetary portion of his monthly compensation became $1,900. In January 2011, Kao was demoted to \"non-manager status,\" as Chen phrased it, and his gross monthly salary was reduced to $2,000. It is unclear whether a rent deduction continued to be applied to this lesser amount. Kao moved into his own apartment sometime in 2011. Sun testified she was instructed not to deduct rent after Kao moved but she did not recall when he moved, and there are payroll statements in the record through April 2011 listing a $600 deduction. Kao's employment was terminated on or about May 25, 2011.\nTrial Court Proceedings\nKao filed suit alleging multiple causes of action, only a few of which are at issue on appeal. Kao alleged breach of contract on the theory he was a third party beneficiary of the H-1B visa application and entitled to the hourly rate stated in the application. Kao also alleged violations of federal and state statutes regulating minimum wage and overtime pay, asserting that his monthly salary of $2,000 to $2,500 was below statutory standards for work in excess of 40 hours a week. (29 U.S.C. \u00a7 201 et seq. ; Lab. Code, \u00a7\u00a7 1194, 1194.2.) Kao further alleged defendants failed to provide adequate wage and hour statements (Lab. Code, \u00a7 226 ) and timely payment of wages upon his termination (Lab. Code, \u00a7 203 ).\nDefendants maintained that defendant was not an employee while awaiting his H-1B visa and, thereafter, an administrative employee receiving a sufficient salary to be exempt from minimum wage and overtime compensation requirements. At trial, defendants presented a forensic accountant who valued Kao's \"total compensation package\" at $34,304 annually or $2,858.67 monthly. This compensation package included $2,500 gross salary (monetary payment and rent value) and the calculated value of a company car, cell phone and employer-provided meals.\nIn its statement of decision, the trial court rejected all of Kao's statutory wage claims. It concluded Kao was a non-employee \"guest\" entitled to no compensation for the 11 months he worked at Joy Holiday before receiving his H-1B visa. It further found, in reliance on the testimony of defendants' accountant, that the value of plaintiff's total compensation package after receiving the H1-B visa \"placed plaintiff over the minimum salary for an exempt employee.\" The court found no failure to provide adequate wage and hour statements given Kao's status as a non-employee then as an exempt employee and ruled permissible Joy Holiday's delay in paying final compensation.\nOn the breach of contract cause of action, the court found the visa application to be a petition submitted by the employer to the government that \"cannot be relied upon as an employment contract by the employee\" or to provide third party beneficiary rights of enforcement. The court found, however, that the complaint's concluding prayer for \"any other relief that is just and proper\" supported an award for unpaid labor under the theory of quantum meruit. The court found that Kao worked 50 hours a week, not 20 as stated in the work agreement, and \"defendants directly benefitted from plaintiff's additional work.\" The court awarded $58,284 in damages based on a valuation of that work. The court entered judgement for Kao in that amount and, finding no prevailing party, denied competing claims for attorney fees and costs.\nDiscussion\nDefendants appeal, contending that the equitable quantum meruit award is improper because it conflicts with the parties' express agreement establishing Kao's work requirements and compensation. Kao cross-appeals from the denial of his statutory wage claims and defends the quantum meruit award only to the extent his wage claims fail. Kao also challenges the trial court's findings that he was not entitled to itemized wage statements and that the delay in paying his final compensation was excusable.\n1. Wage Claims\n\"A complex scheme of overlapping statutes, regulations, interpretations and precedent governs the compensation of employees in California.\"\n(Chin et al., Cal. Practice Guide: Employment Litigation (The Rutter Group 2016) Compensation, \u00b6 11.2, p. 11-1.) Governing statutes include the federal Fair Labor Standards Act (29 U.S.C. \u00a7\u00a7 201 -219, hereafter FLSA) and various California Labor Code provisions. \"Although state law standards are generally more protective of employees than federal standards, California employers must comply with whichever standard provides greater protection to employees.\" (Chin et al., Cal. Practice Guide: Employment Litigation, supra , Compensation, \u00b6 11.2, p. 11-1; see Aguilar v. Association for Retarded Citizens (1991) 234 Cal.App.3d 21, 34, 285 Cal.Rptr. 515 [\"federal law does not control unless it is more beneficial to employees than the state law\"].)\nThe trial court rejected Kao's statutory wage claims based on its findings that Kao was not an employee from March 2009 to January 2010 and was an exempt salaried administrative employee from February 2010 to May 2011. Neither finding is supported by the record.\n\"Employee\" is defined under the FLSA as \"any individual employed by an employer\" (29 U.S.C. \u00a7 203(e)(1) ) and is broadly construed to encompass virtually \"all workers not specifically excepted.\" (Patel v. Quality Inn South (11th Cir. 1988) 846 F.2d 700, 702 ; see Powell v. U.S. Cartridge Co. (1950) 339 U.S. 497, 516-517, 70 S.Ct. 755, 94 L.Ed. 1017 [noting FLSA's \"[b] readth of coverage\" and \"narrow\" exceptions].) The FLSA protects undocumented aliens, making Kao's initial lack of a work permit irrelevant. (Patel, supra, at pp. 702-704.)\nThe trial court appears to have deemed Kao a trainee in the months before his work visa application was approved. The court stated, \"For the brief time before the [February 2010] work agreement was in place plaintiff was only in the United States as a guest of Harry Chen and Jessy Lin. He was at Joy Holiday to determine if this was the type of job that he wanted to pursue. During this time, Harry Chen and Jessy Lin provided plaintiff with money to live on while waiting for results on his visa petition.\"\nThe \"brief time\" referenced by the court was 11 months, seven of which elapsed before the visa application was submitted. The supposed gift of \"money to live on\" was the substantial amount of $1,700 monthly, totaling $18,700. Only a person receiving training but no salary, and whose work serves only his or her own interest, is a non-employee trainee under the FLSA. (Walling v. Portland Terminal Co. (1947) 330 U.S. 148, 150, 67 S.Ct. 639, 91 L.Ed. 809.)\nThe substantial sum paid to Kao was not a gift but a salary. Chen, Joy Holiday's general manager, conceded that he invited Kao to the United States with the promise of $2,500 monthly and Kao received that same amount both before and after receiving a work visa. Sun, Joy Holiday's chief financial officer, testified that the payments to Kao were \"salary\"; the payments to Kao were recorded in a handwritten \"salary record\" maintained by Sun; and several of the checks by which the payments were made contain the notation \"salary.\"\nThere is also insufficient evidence that Kao's work at Joy Holiday served only his interest. The tasks Kao performed at Joy Holiday were not \"similar to that which would be given in an educational environment\" but were commercial tasks benefitting the company. (Glatt v. Fox Searchlight Pictures, Inc. (2d Cir. 2015) 811 F.3d 528, 537.) Kao worked the same hours as hired office personnel and performed a variety of tasks that employees normally would perform, including website management, sales calls and distribution of travel brochures. (See ibid. [stating factors distinguishing employee from trainee] ) The trial court itself observed that Joy Holiday initially \"hired\" Kao to be a systems administrator and he unsuccessfully \"attempted to fulfill the tasks required by his position\" until offered a management position in February 2010. Joy Holiday was \"the primary beneficiary\" of Kao's almost year-long work. (Ibid. ) Kao was not a trainee but an employee.\nCalifornia law is in agreement on this point, applying an even broader definition of employee than does the FLSA. (Martinez v. Combs (2010) 49 Cal.4th 35, 66-67, 109 Cal.Rptr.3d 514, 231 P.3d 259.) An employee is \"any person employed by an employer,\" an employer is one who \"employs or exercises control over the wages, hours, or working conditions of any person\" and \"employ\" means \"to engage, suffer, or permit to work.\" (Cal. Code Regs., tit. 8, \u00a7 11040(2)(E), (2)(F), (2)(H).) \"To employ, then, ... has three alternative definitions. It means: (a) to exercise control over the wages, hours or working conditions, or (b) to suffer or permit to work, or (c) to engage, thereby creating a common law employment relationship.\" (Martinez, supra , at p. 64, 109 Cal.Rptr.3d 514, 231 P.3d 259.) The definitions are sufficiently broad to encompass a proprietor who employs a worker by contract, permits work by acquiescence, or suffers work to be performed by a failure to hinder. (Id. at p. 69, 109 Cal.Rptr.3d 514, 231 P.3d 259.) \"A proprietor who knows that persons are working in his or her business without having been formally hired, or while being paid less than the minimum wage, clearly suffers or permits that work by failing to prevent it, while having the power to do so.\" (Ibid. )\n\"[U]nder California law, once a plaintiff comes forward with evidence that he provided services for an employer, the employee has established a prima facie case that the relationship was one of employer/employee. [Citation.] As the Supreme Court of California has held, '[t]he rule ... is that the fact that one is performing work and labor for another is prima facie evidence of employment and such person is presumed to be a servant in the absence of evidence to the contrary.' [Citations.] Once the employee establishes a prima facie case, the burden shifts to the employer, which may prove, if it can, that the presumed employee was an independent contractor\" (Narayan v. EGL, Inc. (9th Cir. 2010) 616 F.3d 895, 900 ) or, in this case, a non-employee trainee. No such proof exists here; all evidence points to an employer-employee relationship.\nThe record also fails to support the trial court's finding that Kao was an exempt employee from February 2010 to May 2011. Most employees must be paid a specified minimum wage (26 U.S.C. \u00a7 206 (a)(1); Lab. Code, \u00a7 1182.12, subd. (a) ) and overtime of one and one-half times the regular pay rate if they work beyond a set number of hours (generally more than 40 hours per week or over eight hours per day under California law). (29 U.S.C. \u00a7 207(a)(1) ; Lab. Code, \u00a7 510, subd. (a).) Several exemptions exist under both federal and state law that relieve an employer from having to meet minimum wage and maximum hour requirements. One of these exemption is for salaried administrative employees. (29 U.S.C. \u00a7 213(a)(1) ; Lab. Code, \u00a7 515, subd. (a) ; 8 Cal. Code Regs., tit. 8, \u00a7 11040, subd. (1)(A)(2).) Such employees are exempt if they perform certain types of work, are paid on a salary basis, and receive a minimum salary rate. (Ibid. ) \"Such exemptions are narrowly construed. [Citation.] '[T]he assertion of an exemption from the overtime laws is considered to be an affirmative defense, and therefore the employer bears the burden of proving the employee's exemption.' \" (Negri v. Koning & Associates (2013) 216 Cal.App.4th 392, 396-397, 156 Cal.Rptr.3d 697.)\nThe exemption is clearly inapplicable to Kao's employment from January to May 2011 following his demotion to \"non-manager status.\" Under the FLSA, exempt administrative employees include only those employees \"[w]hose primary duty is the performance of office or non-manual work directly related to the management or general business operations of the employer or the employer's customers\" and \"[w]hose primary duty includes the exercise of discretion and independent judgment with respect to matters of significance.\" (29 C.F.R. \u00a7 541.200(a)(2), (a)(3) (2017).) California law similarly limits exempt status to management level administrative employees. (Lab. Code, \u00a7 515, subd. (a) ; 8 Cal. Code Regs., tit. 8, \u00a7 11040, subd. (1)(A)(2) ; Eicher v. Advanced Business Integrators, Inc. (2007) 151 Cal.App.4th 1363, 1371-1372, 61 Cal.Rptr.3d 114.)\nThe exemption is also inapplicable to Kao's employment as office manager from February to December 2010 because he did not receive the minimum salary required for exempt status. The parties are agreed that, at the time relevant here, to come within the exemption the FLSA required compensation \"on a salary basis at a rate of not less than $455 per week.\" (29 C.F.R. \u00a7 541.200(a) (2017).) The comparable monthly rate is $1,971.66. (29 C.F.R. \u00a7 541.600(b).) California law requires \"a monthly salary equivalent to no less than two times the state minimum wage for full-time employment\" of 40 hours per week. (Lab. Code, \u00a7 515, subds. (a), (c).) The state minimum wage during the time of Kao's employ was $8.00 an hour. (Cal. Dept. of Industrial Relations, History of California Minimum Wage < https://www.dir.ca.gov/iwc/MinimumWageHistory.htm> [as of June 15, 2017].) Thus, the state minimum monthly salary for an exempt administrative employee was $2,773.33: $8 (minimum hourly wage) x 2 x 40 (hours per week) x 52 (weeks per year) \u00f7 12 (months).\nThe highest monetary amount Kao received as an office manager was $1,900 monthly, which is below both federal and state standards. The trial court erroneously disregarded the monetary amount in favor of an accountant's calculation of the total value of Kao's \"compensation package,\" including rent, use of a vehicle, a cell phone and meals. The accountant testified that the monthly value of this compensation package was not less than $2,858.67.\nThe trial court erred by including these nonmonetary benefits in its calculation of Kao's salary. Under the FLSA, an exempt employee's salary rate is determined \"exclusive of board, lodging or other facilities.\" (29 C.F.R. \u00a7 541.200(a)(1) (2017).) Defendants argue to the contrary, in mistaken reliance on cases concerning the distinct issue of compliance with minimum wage standards. The provision of board, lodging or other facilities may sometimes be considered in determining whether an employer has met minimum wage requirements for non-exempt employees. (Chin et al., Cal. Practice Guide: Employment Litigation, supra , \u00b6 11.650, p. 11-113.) As defendants note, \"wage\" is defined to include the reasonable cost to the employer of furnishing an employee with \"board, lodging, or other facilities,\" subject to various conditions. (29 U.S.C. \u00a7 203(m).) But an exempt employee must receive a minimum monetary salary rate \"exclusive of board, lodging or other facilities.\" (29 U.S.C. \u00a7 213(a)(1) ; 29 C.F.R. \u00a7 541.200 (2017) ) \"The phrase 'exclusive of board, lodging or other facilities' means 'free and clear' or independent of any claimed credit for non-cash items of value that an employer may provide to an employee. Thus, the costs incurred by an employer to provide an employee with board, lodging or other facilities may not count towards the minimum salary amount required for exemption.... Such separate transactions are not prohibited between employers and their exempt employees, but the costs to employers associated with such transactions may not be considered when determining if an employee has received the full required minimum salary payment.\" (29 C.F.R. \u00a7 541.606(a) (2017).)\nAlthough no California case has expressly held that nonmonetary benefits are not to be included in determining exempt status, the law in this state is in accord with the federal authority. For exempt status under state law, an employee must receive \"a monthly salary equivalent to no less than two times the state minimum wage for full-time employment\" of 40 hours per week. (Lab. Code, \u00a7 515, subds. (a), (c).) \"Salary\" is not defined but \"is generally understood to be a fixed rate of pay\" and distinct from \"a more generic term, such as 'compensation' or 'pay.' \" (Negri v. Koning & Associates, supra, 216 Cal.App.4th at p. 397, 156 Cal.Rptr.3d 697.) California's salary requirement, like the federal statute, is stated as a monetary amount, which supports the conclusion that monetary payments alone determine whether the mandated minimum salary rate has been met under state law.\nMoreover, \"because California law was patterned to some extent on federal law, the general approach in interpreting California law has been to use the federal salary basis test unless some other provision of California law calls for a more protective standard.\" (Rhea v. General Atomics (2014) 227 Cal.App.4th 1560, 1567-1568, 174 Cal.Rptr.3d 862.) The agency charged with enforcing California's labor laws, the Division of Labor Standards Enforcement (DLSE), has consistently adopted this approach. (E.g., Dept. Industrial Relations, DLSE Opn. Letter No. 2009.08.19 (Aug. 19, 2009) p. 2.) \"While there are several differences between the federal and state salary requirements (e.g. minimum dollar amounts), DLSE follows the general federal interpretations under the ... [FLSA] salary basis test ... to the extent there is no inconsistency with specific provisions\" of California law. (Ibid. ) Specifically, the DLSE follows the federal \"free and clear\" rule in determining whether the salary rate for exempt employees is satisfied: \"The value of any payments in kind, or other forms of remuneration (such as employer provided meals or lodging) cannot be used as a credit against [the] required minimum salary.\" (Chief Counsel Memo., \"Understanding AB 60: An In Depth Look at the Provisions of the 'Eight hour Day Restoration and Workplace Flexibility Act of 1999' \" (DLSE, Dec. 23, 1999), p. 8.) The trial court erred in including nonmonetary benefits in determining whether Kao's salary met federal and state standards for exempt status. The proper benchmark is Kao's monetary salary, which was below both federal and state salary requirements for exempt status. Kao is entitled to wages and overtime pay for employment from March 2009 to May 2011. (29 U.S.C. \u00a7 207 ; Lab. Code, \u00a7\u00a7 510, subd. (a), 1194, subd. (a).) This determination negates the basis for the court's award of quantum meruit, and that award therefore must be vacated. Kao's regular hourly rate of pay was $28.85, as memorialized in the February 2010 work agreement setting a monthly salary of $2,500 for 80 hours work. The same hourly wage applies to Kao's employment prior to February 2010, given that he received the same monthly salary amount during that period. The court found that Kao worked 50 hours per week from February 2010 through May 2011, thus entitling Kao to both regular and overtime pay. The court made no express finding as to Kao's work hours between March 2009 and January 2010 so that on remand the court will be required to determine the number of hours worked during that period, for which Kao is entitled to compensation at the regular or overtime hourly rate, as appropriate. We leave these calculations to the trial court on remand, as part of the calculation of wage and overtime payments due Kao for the entirety of his employment.\n2. Itemized wage statements\nKao alleges defendants failed to furnish any wage and hour statements from the start of his employment in March 2009 through February 2010, when he was granted a work visa and, thereafter, furnished inadequate statements that failed to accurately itemize his gross wages earned and total hours worked. As indicated above, the trial court found that Kao was not entitled to wage statements before receiving his work visa because he was a non-employee \"guest\" who received no wages, only a \"living allowance.\" The court further found that Kao was as an exempt employee following receipt of a work visa and, as such, provided sufficiently itemized statements. These findings are undermined by our determination that Kao was, in fact, a non-exempt employee throughout his time at Joy Holiday.\nEmployers must provide itemized wage statements to employees containing specified information, including wages earned and hours worked. (Lab. Code, \u00a7 226, subd. (a).) \"The requirement is mandatory. [Citation.] An employer's failure to comply constitutes a statutory violation.\" (Heritage Residential Care, Inc. v. Division of Labor Standards Enforcement (2011) 192 Cal.App.4th 75, 80, 120 Cal.Rptr.3d 363.) \"An employee suffering injury as a result of a knowing and intentional failure by an employer to comply\" with wage statement requirements is entitled to specified damages, an award of costs and reasonable attorney fees. (Lab. Code, \u00a7 226, subd. (e).)\n\"An employee is deemed to suffer injury\" when the employer fails to provide a wage statement or provides an incomplete wage statement from which \"the employee cannot promptly and easily determine\" the required information. (Lab. Code, \u00a7 226, subd. (e)(2) ; Lubin v. Wackenhut Corp. (2016) 5 Cal.App.5th 926, 958-959, 210 Cal.Rptr.3d 215.) Kao suffered injury from Joy Holiday's failure to provide any wage statement from March 2009 through January 2010. Payments made during this time period were not an \"allowance\" to a \"guest,\" as the trial court found, but wages paid to an employee and, as such, were required to be accompanied by an itemized wage statement. Kao also suffered injury from Joy Holiday's failure to provide complete statements listing hourly pay rates and the number of hours worked from February 2010 to Kao's termination in May 2011. This information cannot be ascertained from the wage statements and was required because Kao was not an exempt employee.\nThe record also establishes that Joy Holiday's failure to comply with wage statement requirements was \"knowing and intentional.\" (Lab. Code, \u00a7 226, subd. (e).) A violation exists if the employer \"knew that facts existed that brought its actions or omissions within the provisions of [the statute]\" (Willner v. Manpower, Inc. (N.D. Cal. 2014) 35 F.Supp.3d 1116, 1131 ) or, in other words, \"was aware of the factual predicate underlying the violation\"\n(Novoa v. Charter Communications, LLC (E.D. Cal. 2015) 100 F.Supp.3d 1013, 1028 ). Thus, an employer's knowledge that its wage statements did not contain the pay period's inclusive dates was held to be a knowing and intentional failure to comply with the statute. (Willner, supra, at p. 1131.) Joy Holiday knew it initially provided no wage statements to Kao and later provided statements that did not contain the hours worked and rate of pay. Its failure to comply with wage statement requirements was, therefore, knowing and intentional. Joy Holiday's acts were not accidental omissions, such as \"an isolated and unintentional payroll error due to a clerical or inadvertent mistake.\" (Lab. Code, \u00a7 226, subd. (e)(3).) Liability is established even if Joy Holiday's operators believed, in good faith, that Kao was a non-employee trainee outside wage statement requirements or an exempt employee with lesser wage statement requirements. Such a belief amounts to a mistake of law that is not excused under the statute mandating itemized wage statements. (Novoa, supra, at pp. 1028-1029.)\nKao \"is entitled to recover the greater of all actual damages or fifty dollars ($50) for the initial pay period in which a violation occurs and one hundred dollars ($100) ... for each violation in a subsequent pay period, not to exceed an aggregate penalty of four thousand dollars ($4,000), and is entitled to an award of costs and reasonable attorney's fees.\" (Lab. Code, \u00a7 226, subd. (e)(1).) The trial court shall assess damages on remand.\n3. Payment of wages upon termination\nKao alleges he is owed waiting time penalties for defendants' willful failure to pay all wages due upon discharge. (Lab. Code, \u00a7 203 ). Kao did not receive his final paycheck upon his termination but five days later, when it was issued along with other employees' paychecks \"on the regular pay schedule.\" The trial court found the delay for \"this short time period\" permissible. The trial court erred.\n\"If an employer discharges an employee, the wages earned and unpaid at the time of discharge are due and payable immediately.\" (Lab. Code, \u00a7 201, subd. (a).) \"If an employer willfully fails to pay ... any wages of an employee who is discharged ..., the wages of the employee shall continue as a penalty from the due date thereof at the same rate until paid or until an action therefor is commenced; but the wages shall not continue for more than 30 days.\" (Lab. Code, \u00a7 203, subd. (a).) \"The plain purpose of [Labor Code] sections 201 and 203 is to compel the immediate payment of earned wages upon a discharge.\" (Smith v. Superior Court (2006) 39 Cal.4th 77, 92, 45 Cal.Rptr.3d 394, 137 P.3d 218.) The prompt payment of an employee's earned wages is a fundamental public policy of this state. (Id. at p. 82, 45 Cal.Rptr.3d 394, 137 P.3d 218.)\nContrary to the trial court's ruling, an employer may not delay payment for several days until the next regular pay period. Unpaid wages are due immediately upon discharge. (Lab. Code, \u00a7 201, subd. (a).) This requirement is strictly applied and may not be \"undercut\" by company payroll practices or \"any industry habit or custom to the contrary.\" (Zaremba v. Miller (1980) 113 Cal.App.3d Supp. 1, 6, 169 Cal.Rptr. 688.)\nJoy Holiday willfully failed to pay Kao wages due on the day of his termination. \"[T]he employer's refusal to pay need not be based on a deliberate evil purpose to defraud workmen of wages which the employer knows to be due.\" (Barnhill v. Robert Saunders & Co. (1981) 125 Cal.App.3d 1, 7, 177 Cal.Rptr. 803.) \" '[W]illful' merely means that the employer intentionally failed or refused to perform an act which was required to be done .\" (Ibid. ; accord Cal. Code Regs., tit. 8, \u00a7 13520.) \"[A] good faith dispute that any wages are due will preclude imposition of waiting time penalties under [Labor Code] Section 203.\" (Cal. Code Regs., tit. 8, \u00a7 13520.) There was no dispute here; the employer simply delayed payment until its regular payday. Kao is entitled to waiting time penalties. \"[A]n employee's rate of pay must be calculated as a daily figure, which can then be multiplied by the number of days of nonpayment.\" (Mamika v. Barca (1998) 68 Cal.App.4th 487, 494, 80 Cal.Rptr.2d 175.) Here, Kao's daily rate of pay is his hourly rate of $28.85 multiplied by eight hours of work for a sum of $230.80. That figure multiplied by five days of nonpayment totals $1,154.\nKao suggests that additional waiting time penalties should be assessed because Joy Holiday mischaracterized him as an exempt employee and, in doing so, failed to pay earned overtime wages. However, a good faith dispute as to those wages precludes an award of waiting time penalties. \"A 'good faith dispute' that any wages are due occurs when an employer presents a defense, based in law or fact which, if successful, would preclude any recovery on the part of the employee. The fact that a defense is ultimately unsuccessful will not preclude a finding that a good faith dispute did exist.\" (Cal. Code Regs., tit. 8, \u00a7 13520, subd. (a).) Waiting time penalties are properly limited to the uncontested wages due at the time of Kao's termination.\nDisposition\nThe judgment is reversed. The matter is remanded to the trial court for entry of judgment in favor of Kao on his statutory wage claims, consistent with the views expressed in this opinion. On remand, the court shall assess unpaid wages and overtime pay, damages for failing to provide itemized wage statements, waiting time penalties, prejudgment interest, costs of suit and reasonable attorney fees. (Lab. Code, \u00a7\u00a7 203, subd. (a), 226, subd. (e), 1194, subd. (a).) Appellant Kao shall recover costs incurred on appeal upon timely application in the trial court. (Cal. Rules of Court, rule 8.278.)\nWe concur:\nMcGuiness, P.J.\nJenkins, J.\nAn H1-B visa allows employers to temporarily employ foreign workers in specialty occupations requiring \"theoretical and practical application of a body of highly specialized knowledge\" provided the workers receive at least the prevailing wage for their occupation. (8 U.S.C. \u00a7\u00a7 1101, subd. (a)(15)(H)(i)(b), 1184, subd. (i)(3)(A) ; Fragomen et al., H1-B Handbook (2017 ed.) \u00a7\u00a7 1.20, 1.21, 2.28.) Joy Holiday's H-1B application said it wished to employ Kao as a computer systems administrator working \"at least 20 hours per week with an hourly salary of $29.30.\"\nKao also assisted with child care, sometimes driving the son of Chen and Lin to and from school, cooking meals, or babysitting. The trial court did not award compensation for these tasks and Kao does not challenge that ruling on appeal.\nThe court explained its calculations as follows: \"Plaintiff's monthly pay of $2,500 comes to $31.25 per hour when divided by eighty (80) hours worked per month. Plaintiff worked for fifteen months [from February 2010 to May 2011] at Joy Holiday and was paid $35,466. At a work schedule of fifty (50) hours per week plaintiff's monthly pay would instead total $6,250. This totals $93,750 over the fifteen (15) months that plaintiff worked at Joy Holiday. Subtracting the $35,466 that plaintiff was paid, this court finds that plaintiff is entitled to $58,284 based upon the theory of quantum meruit.\" (Fn. omitted.)\nWe grant Kao's request for judicial notice of DLSE opinion letters and related materials. (Evid. Code, \u00a7 452, subd. (c).) \"The DLSE's opinion letters, ' \" ' \"while not controlling upon the courts, by reason of their authority do constitute a body of experience and informed judgment to which courts and litigants may properly resort for guidance.\" ' \" ' \" (Brinker Restaurant Corp. v. Superior Court (2012) 53 Cal.4th 1004, 1029, fn. 11, 139 Cal.Rptr.3d 315, 273 P.3d 513.)\nThe trial court calculated Kao's hourly wage as $31.25 by dividing the $2,500 monthly salary by 80 hours worked per month. The correct formula converts the monthly amount to its workweek equivalent and then divides that sum by the number of hours the salary is intended to cover. (29 C.F.R. \u00a7 778.113 ; see Huntington Memorial Hospital v. Superior Court (2005) 131 Cal.App.4th 893, 902-903, 32 Cal.Rptr.3d 373 [California adheres to federal standards for calculating the regular rate of pay to the extent those standards are consistent with state law].) The calculation here is: $2,500 (monthly salary) x 12 (months) = $30,000 (annual salary) \u00f7 52 (weeks) = $576.92 (weekly salary) \u00f7 20 (paid work hours) = $28.85.\nLabor Code section 226, subdivision (a) provides, in relevant part: \"An employer, semimonthly or at the time of each payment of wages, shall furnish to his or her employee, either as a detachable part of the check, draft, or voucher paying the employee's wages, or separately if wages are paid by personal check or cash, an accurate itemized statement in writing showing (1) gross wages earned, (2) total hours worked by the employee, except [for exempt employees], (3) ... (4) all deductions, provided that all deductions made on written orders of the employee may be aggregated and shown as one item, (5) net wages earned, (6) the inclusive dates of the period for which the employee is paid, (7) the name of the employee and only the last four digits of his or her social security number or an employee identification number other than a social security number, (8) the name and address of the legal entity that is the employer ..., and (9) all applicable hourly rates in effect during the pay period and the corresponding number of hours worked at each hourly rate by the employee.\"",
+        "type": "majority",
+        "author": "Pollak, J."
+      }
+    ],
+    "attorneys": [
+      "LOHR RIPAMONTI & SEGARICH LLP, Roberto Ripamonti, Alec Segarich, San Francisco, for plaintiff and appellant.",
+      "LAW OFFICE OF BRIAN E. SORIANO, Brian E. Soriano, San Francisco, for defendants and appellants."
+    ],
+    "corrections": "",
+    "head_matter": "MING-HSIANG KAO, Plaintiff and Appellant,\nv.\nJOY HOLIDAY et al., Defendants and Appellants.\nA147540\nCourt of Appeal, First District, Division 3, California.\nFiled June 15, 2017\nLOHR RIPAMONTI & SEGARICH LLP, Roberto Ripamonti, Alec Segarich, San Francisco, for plaintiff and appellant.\nLAW OFFICE OF BRIAN E. SORIANO, Brian E. Soriano, San Francisco, for defendants and appellants."
+  },
+  "file_name": "0580-01",
+  "first_page_order": 580,
+  "last_page_order": 594
+}

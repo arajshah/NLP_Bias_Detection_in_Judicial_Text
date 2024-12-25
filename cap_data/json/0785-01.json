@@ -1,0 +1,253 @@
+{
+  "id": 12513584,
+  "name": "William WEBB, Petitioner and Appellant, v. Deborah WEBB, Respondent and Appellant; Trope & DeCarolis et al., Real Parties in Interest and Respondents.",
+  "name_abbreviation": "Webb v. Webb",
+  "decision_date": "2017-06-13",
+  "docket_number": "B269311",
+  "first_page": "785",
+  "last_page": "793",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 785"
+    },
+    {
+      "type": "parallel",
+      "cite": "12 Cal. App. 5th 876"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "11 U.S.C. \u00a7 362",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(2)(iv)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Cal.Rptr.2d 740",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.App.4th 575",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4681933
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/49/0575-01"
+      ]
+    },
+    {
+      "cite": "231 Cal.Rptr. 757",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Cal.App.3d 36",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2200878
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/187/0036-01"
+      ]
+    },
+    {
+      "cite": "71 Cal.Rptr.2d 499",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Cal.App.4th 295",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1240510
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/61/0295-01"
+      ]
+    },
+    {
+      "cite": "195 Cal.Rptr.3d 162",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "242 Cal.App.4th 529",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6053675
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/242/0529-01"
+      ]
+    },
+    {
+      "cite": "266 Cal.Rptr. 548",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Cal.App.3d 1277",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4421857
+      ],
+      "pin_cites": [
+        {
+          "page": "1287"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/217/1277-01"
+      ]
+    },
+    {
+      "cite": "47 P.3d 1069",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Cal.Rptr.2d 203",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Cal.4th 262",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        947666
+      ],
+      "pin_cites": [
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/28/0262-01"
+      ]
+    },
+    {
+      "cite": "23 Cal.Rptr.2d 865",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Cal.App.4th 1102",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4525619
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/19/1102-01"
+      ]
+    },
+    {
+      "cite": "92 Cal.Rptr.3d 178",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Cal.App.4th 1443",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3963509
+      ],
+      "pin_cites": [
+        {
+          "page": "1455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/172/1443-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 892,
+    "char_count": 23079,
+    "pagerank": {
+      "raw": 5.298132930532853e-08,
+      "percentile": 0.3348033032041636
+    },
+    "sha256": "d1f74f5b16f42eb1c37880e46632fe980b17edb299c3bae19f94cd5e762929a4",
+    "simhash": "1:2e2af83da449c46f",
+    "word_count": 3777
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William WEBB, Petitioner and Appellant,\nv.\nDeborah WEBB, Respondent and Appellant;"
+    ],
+    "opinions": [
+      {
+        "text": "RUBIN, J.\nIn this appeal, we are tasked with interpreting Family Code section 271 which authorizes the trial court to award attorney's fees as a sanction. The precise question for us is whether the statute permits an award of sanctions to non-parties to the litigation. The trial court concluded that it did, awarding approximately $88,000 to a party's former counsel. We decide that section 271 does not authorize the court to award sanctions to non-parties, but rather is intended to promote settlement of family law litigation through shifting fees between the parties to the litigation. For this reason, we reverse.\nFACTUAL AND PROCEDURAL BACKGROUND\n1. The 2009 Petition\nWilliam Webb and Deborah Webb were married in 1997. On March 4, 2009, William filed for divorce. Deborah was represented by Sandra Polin and the Law Offices of Sandra Segal Polin in the proceedings. The parties agreed to dismiss the action on April 22, 2010.\n2. The 2012 Petition\nOn February 29, 2012, William filed for divorce again. In March 2012, Deborah retained Patrick DeCarolis and his firm Trope & DeCarolis, as well as Polin, to represent her in this second action.\n3. William Opposes DeCarolis's Notice of Intention to Record Lien\nApproximately two months after Deborah retained DeCarolis, Deborah filed a notice of intention to record a family law attorney real property lien (\"FLARPL\") in favor of Trope & DeCarolis in the amount of $150,000 on the parties' residence (the Property). On June 14, 2012, William filed an ex parte application seeking to stay the recording of the lien pending an evidentiary hearing on the matter or, in the alternative, to limit the lien to $50,000. He argued the lien amount was excessive given the parties had no children, their assets were not complicated, and the parties had already engaged in extensive discovery in the 2009 marital dissolution proceeding. He further argued that Deborah needed protection from her attorneys who were charging excessive fees. The court denied William's application. On July 24, 2012, Deborah recorded the $150,000 lien in favor of Trope & DeCarolis. She also recorded a $250,000 lien in favor of the Law Offices of Sandra Polin based on a 2009 deed of trust signed by Deborah in the prior dissolution action.\nOn September 6, 2012, Deborah substituted Trope & DeCarolis out of the case. Polin was not an attorney of record in the second action, and the parties appear to acknowledge that Polin stopped representing Deborah at this time as well.\n4. William's and Deborah's 2012 Requests to Expunge the Liens\nOn December 13, 2012, William filed an ex parte application asking the court to expunge the liens recorded on the Property. He stated that he received no legal notice that Deborah intended to record the $250,000 lien as required by statute. He also argued that the liens exceeded Deborah's community interest in the sale proceeds. He noted that the Property was going to be sold and asked the court to order the proceeds from the sale to remain in escrow.\nPolin and DeCarolis filed an opposition arguing that Trope & DeCarolis had properly served William with notice of DeCarolis's prospective lien; they did not dispute that William had not been served with notice of Polin's lien. Polin also filed a supporting declaration stating that she had recorded the FLARPL \"to secure my past and present fees.\" The court denied the application pursuant to California Rules of Court, rule 3.1202(c).\nOn December 31, 2012, Deborah filed an application seeking the same relief. The court denied that application.\n5. William's 2013 Request to Expunge the Liens\nOn February 13, 2013, William again asked the court to expunge the liens on the grounds they exceeded Deborah's community interest in the property.\nThe court granted the request in part: it ordered that \"the proceeds to be paid on [Polin's] lien, upon the sale of the residence, [ ] be held in escrow pending further order of [the] court.\"\n6. William Asks the Court to Expunge the Liens Based on the Escrow Company's Instructions\nOn June 24, 2013, William filed an ex parte application stating that the escrow company could not comply with the court's order to hold the Polin lien funds in escrow unless the lien was expunged. He also argued that several events had reduced Deborah's community interest in the property. On these grounds, he asked the court to expunge the liens and order the lien funds be held in escrow. The court concluded there was \"no material change of circumstances\" and denied the request.\n7. Judgment\nOn October 3, 2014, a judgment of dissolution was entered. The court found the parties' residence to be community property and ordered that the property be \"promptly listed for sale.\" The court \"retain[ed] jurisdiction to resolve any disputes which may arise between the parties regarding any aspect of the listing, sale or escrow of the subject property, and specifically reserve[d] the power to make ex parte orders on the application of either party in the event of a dispute.\" The court further ordered that FLARPLs \"placed upon the property by [Deborah], if any, shall be paid solely from [Deborah's] share.\"\n8. Probate\nOn June 12, 2015, William filed a petition for conservatorship over Deborah. He informed the court that he and Deborah had divorced and their house was about to be sold. He expressed concern that Deborah had a \"cognitive disorder,\" was taking methamphetamines, and, in light of her history of \"squandering money,\" would not be able to manage her portion of the proceeds from the sale. He suggested the proceeds from the property sale be placed in a blocked account with monthly distributions to Deborah for her living expenses. The court ordered that the funds from the sale of the Property be held in escrow.\n9. William Asks the Family Court to Order the Clerk to Sign Escrow Documents\nOn June 26, 2015, William filed an ex parte application in this action stating that, despite the court's order that the Property be sold, Deborah refused to sign documents required for the sale. He asked that the court clerk sign \"escrow documents\" on behalf of Deborah. He further stated that the probate court had ordered that Deborah's share of the sale proceeds be held in escrow. The court took the matter off calendar due to reservations about interfering with the probate action. William subsequently withdrew the probate petition and that case was dismissed.\n10. William Seeks to Confirm Order Holding Sale Proceeds in Escrow\nOn July 20, 2015, William filed an ex parte application asking the court to confirm its 2013 order that the funds for Polin's lien remain in escrow. William stated that Polin was attempting to have her lien \"paid on sale\" based on the argument that the judgment of dissolution superseded the court's 2013 order that those funds remain in escrow. William also asked the court to order Polin to release the lien so that escrow could close.\nAt the hearing, both DeCarolis and Polin represented to the court that Polin's lien was \"from another case\" and did not \"aris[e] out of this family law case.\" In addition, when the court inquired how Polin's lien \"g[ot] into this case,\" DeCarolis and Polin conceded that the Polin lien \"shouldn't have.\" However, Polin argued that because \"the court made an order in the judgment with regard to liens,\" the validity of the liens had been litigated. She further argued that William could no longer challenge the liens because the judgment was final. The court expressed concern as to whether it had jurisdiction to rule on a lien that arose out of another case.\nThe court ultimately denied the application, referring to it as an \"attempt to expunge his lien.\" William responded that the application was, in fact, \"purely about whether the money is held in escrow.\" The court then stated \"I think the judgment trumps the interim orders that I made,\"\nappearing to indicate that the 2013 order that Polin's funds be held in escrow was no longer in effect.\n11. DeCarolis and Polin Move for Sanctions\nOn July 23, 2015, DeCarolis and Polin moved for sanctions against William under Family Code section 271, Code of Civil Procedure section 128, subdivision (a), and California Rules of Court, rule 5.14. They argued that William had brought repetitive challenges to the FLARPLs and all of his \"requested relief\" had been denied. They further argued that William had acted in bad faith in filing for conservatorship and had \"misled\" the probate court into believing he was still married to Deborah.\nDeCarolis and Polin asked for sanctions in the amount of $65,654.59 based on their time spent responding to William's challenges to the FLARPLs. They valued their time according to their \"hourly rate[s] in this matter.\" In their reply, they asked for $86,565.43 based on \"additional fees.\"\nJudge Richard Montes, a temporary judge, presided over the hearing. William asked for an evidentiary hearing and a continuance so that he could obtain counsel. The judge denied the request on the grounds \"you don't need a continuance and you don't need to get legal advice.\"\nThe court granted sanctions in the amount of $88,790.18 finding that \"Petitioner has no standing to dispute the ... FLARPLs[ ] recorded against the property.... The Court finds that the issue of the validity of the FLARPLs has already been litigated and decided. The Court finds that Judgment of Dissolution entered on October 3, 2014 is res judicata on the issues of the FLARPLs recorded against the Residence.... The Court finds that Petitioner has attempted to litigate the issue of the validity or enforceability of the FLARPLs multiple times, including in family court and probate court. [ ] The Court therefore finds that Petitioner's litigation conduct toward the Real Parties in Interest has frustrated the policy of the law to promote settlement of litigation and, where possible, to reduce the cost of litigation by encouraging cooperation between the parties and attorneys, in violation of [section] 271.\"\nWilliam and Deborah timely appealed.\nDISCUSSION\nWilliam contends the court was without authority to award sanctions to DeCarolis and Polin because they were not parties to this action. We agree.\n\"[O]ur trial courts have no inherent power to impose monetary sanctions. [Citations.]\" (Vidrio v. Hernandez (2009) 172 Cal.App.4th 1443, 1455, 92 Cal.Rptr.3d 178.) Here, the court awarded sanctions expressly under section 271. Section 271 provides that \"the court may base an award of attorney's fees and costs on the extent to which the conduct of each party or attorney furthers or frustrates the policy of the law to promote settlement of litigation and, where possible, to reduce the cost of litigation by encouraging cooperation between the parties and attorneys. An award of attorney's fees and costs pursuant to this section is in the nature of a sanction. In making an award pursuant to this section, the court shall take into consideration all evidence concerning the parties' incomes, assets, and liabilities. The court shall not impose a sanction pursuant to this section that imposes an unreasonable financial burden on the party against whom the sanction is imposed. In order to obtain an award under this section, the party requesting an award of attorney's fees and costs is not required to demonstrate any financial need for the award.\" (\u00a7 271, subd. (a).)\nThe predecessor of section 271 was former Civil Code section 4370.6 which contained the same language quoted above. The purpose and effect of section 4370.6 was discussed in In re Marriage of Daniels (1993) 19 Cal.App.4th 1102, 23 Cal.Rptr.2d 865 (Daniels ): \"This section remains a fee-shifting device.... [T]he Legislature never deviated from its requirement that this fee shifting should occur as between the parties to the litigation.... [\u00b6] In short, [Civil Code] section 4370.6 simply vested family law courts with an additional goad with which to enforce this state's public policy of promoting settlement of family law litigation, while reducing its costs through mutual cooperation of clients and their counsel. Thus, a party who individually, or by counsel, engages in conduct frustrating or obstructing the public policy is thereby exposed to liability for the adverse party's costs and attorney fees such conduct generates.\" (Id. at p. 1110, 23 Cal.Rptr.2d 865, italics added.)\nIn Daniels , the trial court awarded sanctions against a party based on that party's counsel's \"obstreperous\" conduct which frustrated settlement efforts and increased the costs of litigation. (Daniels , supra , 19 Cal.App.4th at p. 1106, 23 Cal.Rptr.2d 865.) In affirming, the Court of Appeal stated that sanctions could not be awarded against a party's attorney under section 271 because the statute \"shift[s] the legal costs of a dissolution from one party to another.\" (Id. at p. 1107, 23 Cal.Rptr.2d 865.) Civil Code section 4370.6\"does not allow or contemplate an award against an attorney.\" (Id. at p. 1110, 23 Cal.Rptr.2d 865.) We conclude, based on the same reasoning, that sanctions may not be awarded under Family Code section 271 to a party's attorney when it is that attorney who is requesting the sanctions for the sole benefit of the attorney.\nThe plain language of section 271 supports this conclusion. The statute provides in part that \"[i]n order to obtain an award under this section, the party requesting an award of attorney's fees and costs is not required to demonstrate any financial need for the award.\" (\u00a7 271, subd. (a), italics added.) Accordingly, the statute facially contemplates that only a party may move for an award of sanctions under that section.\nWhen language of a statute is clear, we need not delve into legislative history. (Esberg v. Union Oil Co. (2002) 28 Cal.4th 262, 269, 121 Cal.Rptr.2d 203, 47 P.3d 1069.) Nevertheless, the legislative history here supports our reading. Family Code section 271 continued Civil Code section 4370.6 with only one substantive change: the statute was broadened to apply to all proceedings under the Family Code. (23 Cal. Law Revision Com. Rep. (1993) pp. 109-110.) Civil Code section 4370.6, in turn, arose from former Civil Code section 4370 which provided for fee-shifting between parties to the litigation. (Daniels , supra , 19 Cal.App.4th at p. 1110, 23 Cal.Rptr.2d 865 ; In re Marriage of Joseph (1990) 217 Cal.App.3d 1277, 1287, 266 Cal.Rptr. 548 [\"Pursuant to section 4370, subdivision (a), a trial court is authorized to award attorney's fees in family law cases 'as may be reasonably necessary for the cost of maintaining or defending the proceeding....' 'The purpose of the award is to provide one of the parties, if necessary, with an amount adequate to properly litigate the controversy.... [Citation.]\"].)\nCivil Code section 4370.6 was enacted to clarify whether fee-shifting between the parties to the litigation may occur regardless of a showing of need. (Daniels , supra , 19 Cal.App.4th at p. 1109, 23 Cal.Rptr.2d 865 ; see also Legis. Counsel's Dig., Assem. Bill No. 2686 (1989-1990 Reg. Sess.) at pp. 1-2 [\"Under existing provision of the Family Law Act, the court may award attorneys' fees and costs where just and reasonable under the circumstances of the parties.... [T]his bill would specify that the ability of the party requesting an award of attorneys' fees and costs to pay his or her own attorneys' fees and costs is not itself a bar to an order that the other party pay part, or all, of the fees and costs requests. In order to obtain an award of attorneys' fees and costs in the nature of a sanction, the requesting party would not be required to demonstrate any financial need for the award.\"].)\nSection 271 thus is one of a series of statutes that provided for fee-shifting between parties to family law litigation. The legislative history is consistent with the plain language of section 271 which provides for sanctions when a party moves for fees. We hold the statute does not support an order awarding sanctions to individuals who are not parties to the action such as respondents.\nDeCarolis and Polin cite to In re Marriage of Smith (2015) 242 Cal.App.4th 529, 195 Cal.Rptr.3d 162 (Smith ) in support of their assertion that \"[section] 271 sanctions have been awarded (and upheld on appeal) to the spouse of a party.\" They have either misrepresented the holding of that case or have parsed their words in a misleading fashion. In Smith , the trial court awarded attorney's fees and costs to the former husband and his current wife under both sections 2030 and 271. (Id. at pp. 531-533, 195 Cal.Rptr.3d 162.) The Court of Appeal affirmed the award under only section 2030 and expressly declined to reach whether the award was proper under section 271. (Id. at p. 536, 195 Cal.Rptr.3d 162.) As the Court of Appeal did not, in fact, affirm the fee award under section 271, we do not address that opinion further.\nRespondents also cite to In re Marriage of Perry (1998) 61 Cal.App.4th 295, 71 Cal.Rptr.2d 499, In re Marriage of Siller (1986) 187 Cal.App.3d 36, 231 Cal.Rptr. 757, and In re Marriage of Jovel (1996) 49 Cal.App.4th 575, 56 Cal.Rptr.2d 740 as support for the argument that courts \"routinely award [ ] analogous [section] 2030 attorney fees to or from persons not named in the underlying petition for dissolution.\" Each of those cases upholds an award of attorney's fees made to parties to the litigation under section 2030 or its predecessor. They are not precedent for an award under section 271, nor do DeCarolis and Polin claim fees under section 2030. Even if we were to find that the reasoning employed in those cases applies to section 271, those cases are distinguishable on the ground that the present case involves an award made to non -parties.\nWe also find support for our interpretation in the stated purpose of section 271, \"to promote settlement of litigation.\" Here, judgment had already been entered when DeCarolis and Polin moved for sanctions under section 271. There was no showing that William's attempts to challenge the validity of the FLARPLs made primarily after DeCarolis and Polin had stopped representing Deborah hindered the parties' attempts to settle the litigation. Rather, the record established that William's challenges to the liens only were efforts designed to hinder DeCarolis's and Polin's attempts to collect the fees they had charged, a large percentage of which arose in a separate action. Accordingly, the award of sanctions was unrelated to section 271's purpose of promoting settlement.\nBecause we conclude there was no authority for the court's order, we need not reach Deborah's argument on appeal that the court's order included an erroneous finding that the liens had been litigated at trial.\nDISPOSITION\nThe order for sanctions is reversed. Appellants to recover their costs on appeal.\nWE CONCUR:\nBIGELOW, P.J.\nGRIMES, J.\nAll further statutory references are to the Family Code, unless otherwise indicated.\nWe provide in some detail the procedural background that led to the award of sanctions, but as we observed at the outset, the appeal ultimately turns on a matter of statutory interpretation.\nSection 2033 provides that \"[e]ither party may encumber his or her interest in community real property to pay reasonable attorney's fees in order to retain or maintain legal counsel in a proceeding for dissolution of marriage....\" (\u00a7 2033, subd. (a).) \"Notice of a family law attorney's real property lien shall be served either personally or on the other party's attorney of record at least 15 days before the encumbrance is recorded.\" (\u00a7 2033, subd. (b)(3).)\n\"The nonencumbering party may file an ex parte objection to the family law attorney's real property lien.... The objection shall [ ] include ... [a] declaration specifically stating why recordation of the encumbrance at this time would likely result in an unequal division of property or would otherwise be unjust under the circumstances of the case.\" (\u00a7 2033, subd. (c).)\nSection 2034 provides that \"[o]n application of either party, the court may deny the family law attorney's real property lien described in Section 2033 based on a finding that the encumbrance would likely result in an unequal division of property because it would impair the encumbering party's ability to meet his or her fair share of the community obligations or would otherwise be unjust under the circumstances of the case. The court may also for good cause limit the amount of the family attorney's real property lien.\" (\u00a7 2034, subd. (a).)\nRule 3.1202(c) provides that an applicant for ex parte relief \"must make an affirmative factual showing in a declaration containing competent testimony based on personal knowledge of irreparable harm, immediate danger, or any other statutory basis for granting relief ex parte.\"\nThis was contrary to Polin's past representations to the court that she had recorded the FLARPL \"to secure past and present fees.\" (Italics added.)\nDeCarolis's calculation of his \"fees\" also included the time he spent responding to Deborah's 2013 ex parte application challenging the FLARPLs.\nWe take judicial notice of Deborah's recent filing for bankruptcy under Chapter 13 of the Bankruptcy Code. Section 362 of the Bankruptcy Code provides that a petition filed under Chapter 13 only operates as a stay of a proceeding for the dissolution of marriage \"to the extent that such proceeding seeks to determine the division of property that is property of the estate.\" (11 U.S.C. \u00a7 362(b)(2)(iv).) Here, the sanctions order at issue does not \"determine the division of property\" belonging to the estate. Therefore, no stay applies.\nRespondents also moved for sanctions under Code of Civil Procedure section 128 and California Rules of Court, rule 5.14. Section 128 does not provide for sanctions but rather generally addresses the powers of courts. Rule 5.14 provides for sanctions for \"failure without good cause to comply with the applicable rules.\" Here, respondents did not identify what rule of court William failed to comply with and, therefore, section 5.14 does not provide an alternate ground for awarding sanctions here. (See Cal. Rules of Court, rule 5.14(d)(1) [\"A party's request for sanctions must [ ] [s]tate the applicable rule of court that has been violated....\"].) To the extent DeCarolis and Polin intended to reference Code of Civil Procedure section 128.7, no argument was made on this point, therefore, we do not address it.\nRespondents' and Deborah's requests for judicial notice are denied.",
+        "type": "majority",
+        "author": "RUBIN, J."
+      }
+    ],
+    "attorneys": [
+      "Law Office of John Derrick, Santa Barbara, and John Gregory Derrick for Petitioner and Appellant William Webb.",
+      "Deborah Webb, in pro. per., for Respondent and Appellant.",
+      "Trope & DeCarolis, Los Angeles, and Patrick DeCarolis ; Law Offices of Sandra Segal Polin and Sandra Segal Polin, Los Angeles, for Real Parties in Interest and Respondents."
+    ],
+    "corrections": "",
+    "head_matter": "William WEBB, Petitioner and Appellant,\nv.\nDeborah WEBB, Respondent and Appellant;\nTrope & DeCarolis et al., Real Parties in Interest and Respondents.\nB269311\nCourt of Appeal, Second District, Division 8, California.\nFiled June 13, 2017\nLaw Office of John Derrick, Santa Barbara, and John Gregory Derrick for Petitioner and Appellant William Webb.\nDeborah Webb, in pro. per., for Respondent and Appellant.\nTrope & DeCarolis, Los Angeles, and Patrick DeCarolis ; Law Offices of Sandra Segal Polin and Sandra Segal Polin, Los Angeles, for Real Parties in Interest and Respondents."
+  },
+  "file_name": "0785-01",
+  "first_page_order": 785,
+  "last_page_order": 793
+}

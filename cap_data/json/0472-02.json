@@ -1,0 +1,82 @@
+{
+  "id": 12513558,
+  "name": "PEOPLE v. ROOT",
+  "name_abbreviation": "People v. Root",
+  "decision_date": "2017-06-28",
+  "docket_number": "S233546",
+  "first_page": "472",
+  "last_page": "472",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 472"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 598"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Cal.5th 858",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12513451
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-rptr-3d/216/0285-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 388,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2586567788315072
+    },
+    "sha256": "777c6b873a546a8c9ffdaa9d5dbfe8f29eb79d01f6dbef801daa950eb72d24bf",
+    "simhash": "1:1b336c6c20f2ba40",
+    "word_count": 62
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE\nv.\nROOT"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dismissed and remanded to CA 4/1. Review in the above-captioned matter, which was granted and held for People v. Gonzales (2017) 2 Cal.5th 858, 216 Cal.Rptr.3d 285, 392 P.3d 437, is hereby dismissed. (Cal. Rules of Court, rule 8.528(b).)"
+    ],
+    "corrections": "",
+    "head_matter": "PEOPLE\nv.\nROOT\nS233546\nSupreme Court of California\nJune 28, 2017\nDismissed and remanded to CA 4/1. Review in the above-captioned matter, which was granted and held for People v. Gonzales (2017) 2 Cal.5th 858, 216 Cal.Rptr.3d 285, 392 P.3d 437, is hereby dismissed. (Cal. Rules of Court, rule 8.528(b).)\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0472-02",
+  "first_page_order": 472,
+  "last_page_order": 472
+}

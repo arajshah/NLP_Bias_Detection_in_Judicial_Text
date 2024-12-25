@@ -1,0 +1,257 @@
+{
+  "id": 12513590,
+  "name": "Michael SHAMES, Plaintiff and Appellant, v. UTILITY CONSUMERS' ACTION NETWORK, Defendant and Respondent.",
+  "name_abbreviation": "Shames v. Util. Consumers' Action Network",
+  "decision_date": "2017-06-29",
+  "docket_number": "D070141",
+  "first_page": "846",
+  "last_page": "858",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 846"
+    },
+    {
+      "type": "parallel",
+      "cite": "13 Cal. App. 5th 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "146 Cal.Rptr.3d 849",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 Cal.App.4th 556",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6054336
+      ],
+      "pin_cites": [
+        {
+          "page": "584"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/209/0556-01"
+      ]
+    },
+    {
+      "cite": "195 P.3d 1049",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Cal.Rptr.3d 466",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Cal.4th 243",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3892888
+      ],
+      "pin_cites": [
+        {
+          "page": "253"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/45/0243-01"
+      ]
+    },
+    {
+      "cite": "187 Cal.Rptr.3d 201",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "236 Cal.App.4th 1160",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6844369
+      ],
+      "pin_cites": [
+        {
+          "page": "1169"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/236/1160-01"
+      ]
+    },
+    {
+      "cite": "693 P.2d 796",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Cal.Rptr. 211",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Cal.3d 813",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1949111
+      ],
+      "pin_cites": [
+        {
+          "page": "817"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/37/0813-01"
+      ]
+    },
+    {
+      "cite": "274 P.3d 1160",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Cal.Rptr.3d 173",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Cal.4th 1244",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6051085
+      ],
+      "pin_cites": [
+        {
+          "page": "1248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/53/1244-01"
+      ]
+    },
+    {
+      "cite": "90 P.3d 1168",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Cal.Rptr.3d 1",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Cal.4th 1266",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        801088
+      ],
+      "pin_cites": [
+        {
+          "page": "1276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/32/1266-01"
+      ]
+    },
+    {
+      "cite": "23 Cal.Rptr.3d 622",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Cal.App.4th 1372",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1237779
+      ],
+      "pin_cites": [
+        {
+          "page": "1397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/125/1372-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1091,
+    "char_count": 38509,
+    "pagerank": {
+      "raw": 5.7738366328965145e-08,
+      "percentile": 0.3606355042321
+    },
+    "sha256": "23a7c17e77bc4404dc552a7ee04b32ce3b67c6bc94337c21d708b42b1e344575",
+    "simhash": "1:2ebfe224c43f8246",
+    "word_count": 6317
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael SHAMES, Plaintiff and Appellant,\nv.\nUTILITY CONSUMERS' ACTION NETWORK, Defendant and Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "AARON, J.\nI.\nINTRODUCTION\nPlaintiff Michael Shames appeals from a postjudgment order regarding attorney fees. Shames filed this lawsuit against Defendant Utility Consumers' Action Network (UCAN) and two individual plaintiffs, alleging multiple causes of action, after UCAN terminated his employment. The case proceeded to trial, and Shames prevailed on three causes of action, including one in which he sought unpaid wages in the form of bonus payments that were due to him pursuant to an incentive program. After judgment was entered, Shames sought to recover the attorney fees that he incurred in litigating his claims. Shames relied on two statutes for his request for attorney fees, but only one of those statutes is at issue in this appeal. Specifically, Shames sought attorney fees pursuant to Labor Code section 218.5, which provides in full:\n\"(a) In any action brought for the nonpayment of wages, fringe benefits, or health and welfare or pension fund contributions, the court shall award reasonable attorney's fees and costs to the prevailing party if any party to the action requests attorney's fees and costs upon the initiation of the action . However, if the prevailing party in the court action is not an employee, attorney's fees and costs shall be awarded pursuant to this section only if the court finds that the employee brought the court action in bad faith. This section shall not apply to an action brought by the Labor Commissioner. This section shall not apply to a surety issuing a bond pursuant to Chapter 9 (commencing with Section 7000 ) of Division 3 of the Business and Professions Code or to an action to enforce a mechanics lien brought under Chapter 4 (commencing with Section 8400 ) of Title 2 of Part 6 of Division 4 of the Civil Code.\n\"(b) This section does not apply to any cause of action for which attorney's fees are recoverable under Section 1194.\" (Italics added.)\nThe trial court denied Shames's request for attorney fees under section 218.5, concluding that he had failed to request attorney fees \"upon the initiation of the action\" because he did not request attorney fees in his initial complaint. The court also concluded, in the alternative, that Shames's request for attorney fees in his amended complaint was not sufficient to permit him to recover attorney fees as costs pursuant to section 218.5.\nOn appeal, Shames challenges both of the trial court's conclusions regarding his failure to meet the requirements of section 218.5. We conclude that we need not decide whether the trial court correctly determined that a request for attorney fees under section 218.5 must be included in the initial pleading, as opposed to an amended pleading, because even if it would be sufficient under the statute to include a request for attorney fees under section 218.5 in an amended pleading, Shames's amended pleading did not request attorney fees generally, nor did it request attorney fees under section 218.5 with respect to the cause of action in which Shames alleged that UCAN had failed to pay him his full wages. Rather, the amended pleading included a reference to section 218.5 only as to a cause of action that was not brought on account of the nonpayment of wages, and one on which UCAN, not Shames, prevailed. We therefore affirm the order of the trial court.\nII.\nFACTUAL AND PROCEDURAL BACKGROUND\nA. Factual background\nShames founded UCAN, a nonprofit organization, in 1981 for the purpose of \"educating San Diego consumers concerning regulated utility matters and representing their viewpoints before regulatory bodies and proceedings.\" Shames served as the executive director of UCAN for 27 years. A board of directors, which included attorneys and public agency administrators, oversaw Shames's activities and directed the policies of the organization.\nIn May 2012, Shames left his role as executive director, and the UCAN board hired a new executive director. Shames offered to remain on at UCAN as a part-time employee in order to assist with ongoing legal actions until they were completed. According to Shames, UCAN accepted his offer of part-time employment. However, there was apparently a conflict between Shames and the new executive director with respect to how to litigate the cases, and, as Shames alleged in his original and amended complaints, UCAN terminated his employment as of June 20, 2012.\nB. Procedural background\n1. The pleadings and pretrial motions\nShames filed an action against UCAN on February 28, 2013. The original complaint alleged 10 causes of action, including (1) libel, (2) libel per se, (3) malicious prosecution, (4) intentional interference with prospective business relations, (5) blacklisting, (6) unauthorized computer use and access, (7) publication of private facts, (8) wrongful termination, (9) failure to indemnify costs, and (10) breach of contract and declaratory relief. Shames did not include a request for attorney fees in this complaint.\nUCAN filed an anti-SLAPP motion with respect to portions of the complaint. The court granted the anti-SLAPP motion with respect to the causes of action for libel, intentional interference with prospective economic damage, blacklisting, and publication of private facts. UCAN also demurred to the complaint, and the trial court sustained the demurrer, with leave to amend, with respect to the causes of action for wrongful termination and breach of contract.\nIn the meantime, UCAN also cross-complained against Shames, alleging breach of fiduciary duty with respect to incentive bonuses that Shames had taken during his tenure at UCAN. UCAN alleged that the bonuses had not been approved by the Board. Shames answered the cross-complaint, denying UCAN's allegations and asserting a number of affirmative defenses. In the concluding paragraph of Shames's answer, he requested that judgment be entered in his favor on the cross-complaint, and that he recover \"costs of suit and reasonable attorneys [sic ] fees herein incurred, and any such other relief as the court may deem just and proper.\"\nShames filed a first amended complaint in October 2013. In the first amended complaint, Shames alleged seven causes of action, including the following: (1) unauthorized computer use and access as to UCAN, (2) unauthorized computer use and access as to individual defendants Aguirre and Peffer, (3) illegal eavesdropping, (4) \"waiting time penalties in violation of Labor Code section 203\" (formatting omitted), (5) \"knowing and intentional failure to comply with itemized employee wage statement provision, as per Labor Code section 226(a)\" (formatting omitted), (6) failure to indemnify costs, and (7) breach of contract/declaratory relief.\nThere are three references to a request for attorney fees in the first amended complaint. The first reference, in paragraph 46 of the pleading, alleged as part of the third count for illegal eavesdropping, provides: \"46. Plaintiff is entitled to statutory damages of $5,000 as per Penal Code Section 637.2(a)(1) and attorneys' fees pursuant to Civil Procedure Section 1021.5.\"\nThe second reference, found in paragraph 52, alleged as part of the fourth count for \"violation of Labor Code section 203\" (formatting omitted), provides: \"52. Plaintiff was forced to retain counsel to negotiate full and proper payment of wages and other reimbursables. In so doing, Plaintiff incurred legal costs of $3,000. Pursuant to Labor Code Section 218.5, the court may award reasonable attorney's fees and costs.\"\nThe third reference, in paragraph 59, alleged as part of the fifth count for \"knowing and intentional failure to comply with itemized employee wage statement provision\" (formatting omitted) in violation of section 226, provides: \"59. Plaintiff is entitled to penalties as follows: [\u00b6] a. Fifty dollars ($50.00) for the initial pay period in which a violation occurred; and [\u00b6] b. An award of costs and reasonable attorneys' fees.\"\nThe first amended complaint does not include any reference to attorney fees in the paragraphs supporting count 7, in which Shames alleges the breach of contract/declaratory relief cause of action for failure to pay him multiple bonus payments, totaling more than $150,000, that he alleges were due pursuant to UCAN's incentive plan. Nor does the first amended complaint include a request for attorney fees in the general prayer for relief.\nUCAN filed an answer to the first amended complaint in November 2013. It did not request or otherwise mention attorney fees.\n2. The trial\nJust prior to the start of trial, Shames filed a \"Plaintiff's Trial Brief.\" (Formatting omitted.) In that brief, Shames discussed all of the claims alleged in the first amended complaint. With respect to count 7, for breach of contract with respect to the incentive payments, Shames included the following contention, which contains a reference to section 218.5 :\n\"Mr. Shames performed all, or substantially all, of the significant work that the incentive contract required him to do, resulting in a large award of attorney's fees to UCAN by the Public Utilities Commission. Mr. Shames' performance of these contractually obligated duties was predicated upon the receipt of the incentives. Mr. Shames therefore seeks all payments due as of time of judgment and a declaration that he has a right to future payments as they become due. Pursuant to Labor Code Section 218.5, the court may also award reasonable attorney's fees and costs. \" (Italics added.)\nThe case proceeded to trial in August 2015. A jury returned special verdicts on the causes of action on August 27, 2015. The jury found the following with respect to the counts Shames alleged against UCAN:\n(1) With respect to count 1, for unauthorized use and access as to UCAN, the jury found that UCAN had accessed Shames's GoDaddy account without permission, but that Shames had not been harmed by the unauthorized access;\n(2) With respect to count 4, for a waiting time penalty for failure to pay final wages in violation of section 203, the jury found in favor of UCAN, determining that UCAN had not willfully failed to pay Shames the \"full amount of wages\" Shames had earned, on his last day of employment;\n(3) With respect to count 5, for failure to provide an itemized wage statement, the jury found that UCAN failed to provide Shames with an accurate itemized wage statement and awarded Shames $50 in penalties for that failure;\n(4) With respect to count 6, for failure to indemnify legal costs, the jury found that UCAN failed to indemnify Shames for legal fees and that Shames had been damaged in the amount of $2,240 ; and\n(5) With respect to count 7, for breach of contract for failure to pay incentive payments, the jury found that UCAN had breached its contract with Shames to pay incentive payments, and that Shames had been damaged in the amount of $141,544 as a result of UCAN's breach.\nOn UCAN's cross-complaint against Shames for breach of fiduciary duty, the jury found in favor of Shames and determined that he had not breached any fiduciary duties that he owed to UCAN.\nThe court entered the following judgment in September 2015:\n\"Judgment is hereby ordered to be entered on the complaint in favor of plaintiff, Michael Shames, and against defendant, UCAN, and that Michael Shames is awarded damages in the sum of $141,544, and indemnification for legal fees from Steven Feldman in the sum of $2,240.00, and statutory penalties in the sum of $50.00. Judgment is entered in favor of Michael Shames and against UCAN on UCAN's cross-complaint.\"\n3. Posttrial attorney fees motion\nSubsequent to the court's entry of judgment in Shames's favor, Shames filed a motion for attorney fees, relying on both sections 218.5 and 226, subdivision (e) of the Labor Code. Shames argued that under section 218.5, he was entitled to receive his attorney fees for the entire litigation because he had brought an action for nonpayment of wages, he was ultimately the prevailing party, and that under section 226, he was entitled to receive his attorney fees for the entire litigation because he had been awarded $50 in penalties by the jury with respect to UCAN's failure to provide him with an accurate itemized wage statement. Shames sought a total of $136,721.25 in attorney fees, including fees for the filing of the attorney fees motion itself. UCAN opposed Shames's attorney fees motion.\nThe trial court ultimately awarded Shames $2,000 in attorney fees, pursuant to section 226, and also awarded him $6,151.23 in costs. The court determined that Shames was not entitled to recover attorney fees pursuant to section 218.5 because Shames's initial complaint did not include \"any allegation or prayer for attorneys' fees as to the breach of contract/declaratory relief cause of action.\" According to the trial court, the statute requires that a party request section 218.5 attorney fees upon the \"initiation of the action,\" which, the court determined, \"is the party's first appearance in the matter.\" The trial court further noted that Shames's first amended complaint also did not include a request for attorney fees with respect to the breach of contract/declaratory relief cause of action that formed the basis of his contention that he was entitled to section 218.5 attorney fees. Rather, the first amended complaint requests attorney fees under Code of Civil Procedure section 1021.5 in the third cause of action, related to illegal eavesdropping, and mentions attorney fees pursuant to section 218.5 only in the fourth cause of action, related to waiting time penalties-both of which are causes of action on which Shames did not prevail.\nShames filed a notice of appeal from the trial court's postjudgment order granting in part and denying in part Shames's motion for attorney fees and costs.\nIII.\nDISCUSSION\nShames contends that the trial court erred in denying his request for attorney fees under section 218.5. First, Shames asserts that the trial court erred in interpreting section 218.5 to require that he have requested attorney fees under that statute in the very first pleading that he filed in the action, as opposed to in an amended pleading. Shames next asserts that the trial court erred in concluding, in the alternative, that even if it were sufficient for purposes of section 218.5 to include a request for attorney fees in an amended pleading and not in the initial pleading, Shames nevertheless also failed to sufficiently request attorney fees under section 218.5 in his first amended complaint. Both of Shames's contentions raise questions of law that we review de novo, in that they require our consideration as to whether he has met the statutory requirements for entitlement to attorney fees. (See MHC Financing Limited Partnership Two v. City of Santee (2005) 125 Cal.App.4th 1372, 1397, 23 Cal.Rptr.3d 622.) To the extent that we must interpret the statutory language in determining whether Shames has met the statutory requirement for entitlement to attorney fees, we give \"the words their usual, ordinary meaning.\" (People v. Canty (2004) 32 Cal.4th 1266, 1276, 14 Cal.Rptr.3d 1, 90 P.3d 1168.)\nWe conclude that we need not reach the issue of whether a party must, in every instance, request section 218.5 attorney fees in its initial, rather than an amended, pleading in an action because even if we assume that Shames is correct that one may request attorney fees under section 218.5 in an amended pleading, the operative amended pleading in this case did not include a sufficient request for attorney fees pursuant to section 218.5.\n\"In general, a prevailing party may recover attorney's fees only when a statute or an agreement of the parties provides for fee shifting. [Citation.] Labor Code section 218.5 requires the awarding of attorney's fees to the prevailing party '[i]n any action brought for the nonpayment of wages, fringe benefits, or health and welfare or pension fund contributions.' This provision awards fees to the prevailing party whether it is the employee or the employer; it is a two-way fee-shifting provision.\" (Kirby v. Immoos Fire Protection, Inc. (2012) 53 Cal.4th 1244, 1248, 140 Cal.Rptr.3d 173, 274 P.3d 1160 (Kirby ).)\nShames contends that he is entitled to recover his attorney fees, as a prevailing party on his claim in count 7 in the first amended complaint, for UCAN's failure to pay him bonuses to which he was entitled under UCAN's incentive plan. According to Shames, the legislative history of section 218.5 demonstrates that the purpose of section 218.5\"is to protect an employee from an employer who refuses to pay the employee wages to which he was entitled.\" He further argues that he \"is the exact type of employee the Legislature had in mind when it enacted section 218.5,\" because, according to Shames, he \"filed an action for nonpayment of wages and prevailed.\"\nGenerally, a party need not request \"attorney's fees qua attorney's fees,\" i.e., \"those attributable to the bringing of [an] action itself\" (Brandt v. Superior Court (1985) 37 Cal.3d 813, 817, 210 Cal.Rptr. 211, 693 P.2d 796 ) as opposed to those sought as damages, in a complaint or answer. (See Faton v. Ahmedo (2015) 236 Cal.App.4th 1160, 1169, 187 Cal.Rptr.3d 201 [statutory attorney fees need not be pled and proven, and instead may properly be requested and awarded after entry of judgment; however, attorney fees sought as damages must be pled and proven just as any other issue of damages must be pled and proven].) However, despite this general rule, in order for a party to be entitled to an award of attorney fees pursuant to section 218.5, that party must do more than simply \"file[ ] an action for nonpayment of wages\" and be the prevailing party to that particular claim or claims, as Shames suggests. Rather, section 218.5 clearly imposes a requirement that at least one party to the action \"request\" attorney fees upon the \"initiation of the action\" (\u00a7 218.5, subd. (a) ) in order for either party to recover fees pursuant to the statute. It would appear plain that this requirement exists so as to place the parties on notice that the true cost of the litigation might be greater than the amount sought as statutory damages. Both parties to this appeal appear to agree that this requirement imposes a duty on a party to plead an entitlement to 218.5 attorney fees in either an initial or amended pleading .\nThe record discloses that UCAN did not request attorney fees in its pleadings. Shames, however, contends that he \"specifically requested attorney's fees pursuant to section 218.5\" in the operative complaint (i.e., the first amended complaint). Shames concedes that the paragraph in the first amended complaint in which he refers to section 218.5\"fell under the waiting time penalties cause of action,\" a cause of action on which he did not prevail, but contends that \"reading the complaint as a whole, UCAN was nevertheless put on notice that Mr. Shames was seeking attorney's fees pursuant to section 218.5.\" We disagree with Shames's overly generous reading of the operative complaint, and we are unconvinced that Shames \"requested\" attorney fees in a sufficient manner so as to place UCAN on notice that he would be seeking an award of attorney fees, pursuant to section 218.5 , for the attorney fees that he incurred in litigating his claim for the nonpayment of wages in this matter.\nAgain, although we do not decide the issue here, we assume that Shames is correct in asserting that if a plaintiff requests fees under section 218.5 in an amended pleading, which is the operative pleading in the case, that such a request may be considered to be a request for attorney fees \"upon the initiation of the action\" (\u00a7 218.5, subd. (a) ). In looking at the operative first amended complaint, we note that the prayer for relief does not include any request for attorney fees. Given that Shames did not generally pray for attorney fees, as costs , in this litigation, there is no general, overarching request for attorney fees that could be considered to be a \"request\" for attorney fees with respect to the cause of action for nonpayment of wages, pursuant to section 218.5.\nThere are, however, three separate references to attorney fees located elsewhere within the first amended complaint. Each of these three references is located within a paragraph that falls within a separately-titled count setting forth a particular cause of action. Shames relies on only one of these references to attorney fees-the reference in paragraph 52, which is part of the fourth count for \"Waiting Time Penalties in Violation of Labor Code Section 203.\" (Boldface omitted.) In that count, Shames alleged the following relevant factual allegations:\n\"47. Plaintiff's employment ended on June 20, 2012 through termination initiated by Defendant UCAN. Pursuant to Labor Code Section 201, Plaintiff was owed all final wages on June 20th. He did not receive full payment on that day.\n\"48. Plaintiff was offered final pay of $416.63 at the time of his termination. This payment was inaccurately computed by Defendant. Also, Defendant withheld $3,543.75 in accrued vacation pay. Pursuant to Labor Code Section 227.3, unused vacation pay falls within the Section 203 statutory requirement.\n\"49. Defendant's nonpayment was willful....\n\"[\u00b6] ... [\u00b6]\n\"51. The hourly rate owed to Plaintiff was $32.81 or $262.50 per day. Partial payment of the full amount owing was tendered by Defendant on August 21, 2012, a full 61 days after Plaintiff's termination and 31 days in excess of the Labor Code Section 203 statutory requirement.\"\nWith respect to this claim, Shames requested the following relief:\n\"52. Plaintiff was forced to retain counsel to negotiate full and proper payment of wages and other reimbursables. In so doing, Plaintiff incurred legal costs of $3,000. Pursuant to Labor Code Section 218.5, the court may award reasonable attorney's fees and costs.\n\"53. Plaintiff is also owed statutory damages based the equivalent to the employee's daily wages for up to a total of 30 days in the amount of $7,875 (based upon a daily wage of $262.50).\n\"54. The policies, acts and practices heretofore described were and are unlawful business acts or practices in violation of applicable Labor Code sections and give rise to statutory penalties as a result of such conduct, including but not limited to penalties are provided by the Labor Code Private Attorney General Act of 2004. Plaintiff, an aggrieved employee, hereby seeks recovery of civil penalties as prescribed by the Act on behalf of himself....\" (Italics added.)\nOf significance is the fact that the sole claim \"brought\" by Shames \"for the nonpayment of wages\" (\u00a7 218.5, subd. (a) ), is his claim for \"Breach of Contract and Declaratory Relief Against Defendant UCAN\" (boldface omitted) set forth as the seventh count in the first amended complaint. There is no request for attorney fees included within the paragraphs that set forth this claim.\nShames, therefore, relies on a request for attorney fees under section 218.5 that is located in an entirely separate cause of action from the cause of action in which he asserts his claim for the nonpayment of wages. The question that we must address is whether Shames's request for attorney fees based on section 218.5, as pled solely in count 4 , adequately placed UCAN on notice that it might potentially be liable for attorney fees that Shames incurred in litigating the claim for nonpayment of wages, as pled in count 7 . We conclude that it did not.\nWhat Shames appears to have been requesting in paragraph 52 is the recovery of attorney fees that he had already incurred at the time the first amended complaint was filed, as damages in this action. Again, Shames alleged, in paragraph 52, that he had \"incurred legal costs of $3,000\" when he was \"forced to retain counsel to negotiate full and proper payment of wages and other reimbursables,\" and in support of this request for $3,000 in attorney fees as damages, Shames cited section 218.5 as the statutory basis for his entitlement to these attorney fees as damages . In other words, the reference to section 218.5 in paragraph 52 refers to Shames's request for damages of $3,000 in attorney fees as part of the recovery requested pursuant to his claim that UCAN was liable for waiting time penalties for not providing him his final wages within the time limitation set forth in section 203. The additional request for \"statutory damages based [on] the equivalent to the employee's daily wages for up to a total of 30 days in the amount of $7,875 (based upon a daily wage of $262.50)\" present in the paragraph immediately following paragraph 52 is further evidence that paragraph 52 set forth one portion of the relief being requested pursuant to the legal claim set forth in count four, as opposed to being a request for attorney fees that would be incurred in litigating that legal claim, or any other legal claim set forth in the operative pleading. As a result, the reference to attorney fees and to section 281.5 in paragraph 52, as pled in count four of the operative complaint, cannot reasonably be interpreted to be a \"request\" for attorney fees incurred in the litigation of this action, as is required by section 218.5. No reasonable reading of the first amended complaint would permit one to conclude that Shames's request in paragraph 52 for $3,000 in attorney fees that he had already incurred at the time he filed this action would also place UCAN at risk for an additional $136,721.25 in attorney fees that Shames ultimately incurred in litigating this action.\nShames also briefly suggests on appeal that his request for attorney fees \"in his answer to UCAN's cross-complaint\" was a sufficient \"request\" for attorney fees under section 218.5 to support an award of attorney fees to him. He contends that \"[t]he cross-complaint and answer to such were filed in this action\" and that \"[t]he cross-complaint also focused on the incentive plan and Mr. Shames' entitlement to bonuses under UCAN's incentive plan.\" We reject this contention. UCAN's cross-complaint against Shames was for breach of fiduciary duty; as such, the cross-complaint did not include any claim that was brought \"on account of nonpayment of wages\" (Kirby , supra , 53 Cal.4th at p. 1256, 140 Cal.Rptr.3d 173, 274 P.3d 1160 ). The cross-complaint cannot be considered to be an \"action brought for the nonpayment of wages.\" Thus, a request for attorney fees included in Shames's answer to the cross-complaint cannot be considered to be a request for attorney fees in an \"action brought for the nonpayment of wages.\"\nIt is apparent that the purpose of section 218.5 is to ensure that prevailing plaintiffs who bring actions against employers on account of the employer's failure to pay that plaintiff the wages or certain other benefits to which he or she is entitled are awarded their attorney fees. Indeed, one of the arguments offered in support of passage of the original iteration of the statute was that \"actions for nonpayment of wages usually involve relatively small amounts of money, since such suits arise from a situation in which the employee is terminated or quits because of lack of payment. Due to the fact recoveries are often small, the expense of hiring an attorney to file and pursue a lawsuit often exceeds the value of the claim, with the employee forced to make the economical decision not to enforce his or her rights.\" (Sen. Rules Com., Off. of Sen. Floor Analysis, Rep. on Sen. Bill No. 2570 (1985-1986 reg. sess.) as amended May 14, 1986, p. 2.) We recognize that, given the purpose of the statute, the result we reach here might seem harsh, since Shames is a former employee of UCAN who brought and prevailed on a cause of action for UCAN's failure to pay him wages to which he was entitled. However, section 218.5 also clearly places a very specific requirement on a party who seeks an award of attorney fees in such an action-i.e., to demonstrate that one of the parties to the action requested those fees \"upon the initiation of the action.\" In order for Shames to prevail in this appeal, we would have to read this requirement out of section 218.5, and we may not do so. (See, e.g., Vasquez v. State of California (2008) 45 Cal.4th 243, 253, 85 Cal.Rptr.3d 466, 195 P.3d 1049 [court's role in construing a statute is to ascertain and declare what statute contains, and not to \"change its scope by reading into it language it does not contain or by reading out of it language it does \" (italics added) ].)\nIV.\nDISPOSITION\nThe trial court's order regarding attorney fees is affirmed.\nWE CONCUR:\nHALLER, Acting P.J.\nDATO, J.\nFurther statutory references are to the Labor Code unless otherwise indicated.\nIn count 10 of the complaint, which Shames identified as a breach of contract claim and in which he sought declaratory relief, Shames alleged that, following his termination in June 2012, UCAN failed to pay him a bonus of $5,023.96 that was due to him under an incentive plan.\nFor further context, the paragraphs immediately surrounding this paragraph state the following:\n\"51. The hourly rate owed to Plaintiff was $32.81 or $262.50 per day. Partial payment of the full amount owing was tendered by Defendant on August 21, 2012, a full 61 days after Plaintiff's termination and 31 days in excess of the Labor Code Section 203 statutory requirement.\n\"[\u00b6] ... [\u00b6]\n\"53. Plaintiff is also owed statutory damages based the equivalent to the employee's daily wages for up to a total of 30 days in the amount of $7,875 (based upon a daily wage of $262.50).\"\nThe prayer for relief includes the following language:\n\"WHEREFORE, Plaintiff demands judgment against Defendants, and each of them, for:\n1. Compensatory damages according to proof;\n2. For general damages, according to proof;\n3. For special damages, according to proof;\n4. For exemplary and/ or punitive damages;\n5. For plaintiff's cost of suit;\n6. Such other and further relief as this court may deem just and proper.\"\nWhen asked, \"What are Michael Shames' damages?\" with respect to the failure to indemnify count, the jury specified: \"$2,240-legal fees from Steven Feldman.\"\nThe Clerk's Transcript does not include verdict forms with respect to counts 2 (unauthorized use and access as to individual defendants) and 3 (illegal eavesdropping). Both parties' trial briefs discuss count 3 as still being at issue at the time of trial, but neither brief discusses count 2.\nSection 226, subdivision (e) provides:\n\"(e)(1) An employee suffering injury as a result of a knowing and intentional failure by an employer to comply with subdivision (a) [i.e., the failure to provide an itemized wage statement] is entitled to recover the greater of all actual damages or fifty dollars ($50) for the initial pay period in which a violation occurs and one hundred dollars ($100) per employee for each violation in a subsequent pay period, not to exceed an aggregate penalty of four thousand dollars ($4,000), and is entitled to an award of costs and reasonable attorney's fees.\"\nDuring the pendency of this appeal, Shames filed an unopposed request for judicial notice, seeking to have this court take judicial notice of a variety of documents related to the legislative history of section 218.5. Shames relies on California Rules of Court, rule 8.252 and Evidence Code section 452, subdivisions (b), (c), and (h), in support of his motion. We agree that the documents are of the type for which judicial notice is appropriate, and therefore grant Shames's request and take judicial notice of the documents.\nSection 218.5's two-way fee shifting provision is in contrast to the one-way fee shifting provision of section 1194. \"[S]ection 1194 provides that employees who prevail in an action for any unpaid 'legal minimum wage or ... legal overtime compensation' are entitled to recover attorney's fees.\" (Kirby, supra, 53 Cal.4th at p. 1248, 140 Cal.Rptr.3d 173, 274 P.3d 1160.) Subdivision (b) of section 218.5 states that section 218.5\"does not apply to any cause of action for which attorney's fees are recoverable under Section 1194.\" Thus, \"[p]revailing employers cannot obtain attorney's fees under section 218.5... if the employees could have obtained such fees under section 1194 had they prevailed.\" (Kirby, supra, at p. 1251, 140 Cal.Rptr.3d 173, 274 P.3d 1160.)\nThe parties apparently do not dispute that this claim is one that was \"brought for the nonpayment of wages\" (\u00a7 218.5, subd. (a) ), and thus, is the type of claim for which section 218.5 would authorize an attorney fee award if \"any party to the action request[ed] attorney's fees and costs upon the initiation of the action.\" (Id., subd. (a).) In this vein, the Supreme Court has recently clarified section 218.5's reference to the phrase an \"action brought for\" by explaining that \"section 218.5 uses the phrase 'action brought for' to mean something different from what the phrase means when it is coupled with a particular remedy (e.g., 'action brought for damages' or 'action brought for injunctive relief'). An 'action brought for damages' is an action brought to obtain damages. But an 'action brought for the nonpayment of wages' is not (absurdly) an action to obtain nonpayment of wages. Instead, it is an action brought on account of nonpayment of wages. The words 'nonpayment of wages' in section 218.5 refer to an alleged legal violation, not a desired remedy.\" (Kirby, supra, 53 Cal.4th at p. 1256, 140 Cal.Rptr.3d 173, 274 P.3d 1160.) Thus, an action \"brought for nonpayment of wages\" is one \"brought on account of nonpayment of wages.\" (Ibid. )\nAt the hearing on the attorney fees motion, counsel for Shames acknowledged that the \"initiation of the action\" requirement of section 218.5 is focused on ensuring that a party is put on notice, early in the action, that the other party is seeking to recover attorney fees as costs in the pending action: \"[A]nd my position is, this is a notice [ ] requirement so that the other side is apprised that my client is seeking attorney's fees, and they're amply put on notice with the only operative pleading that my client has before the Court, which is the first amended complaint. And all the fees that are being asked for are all following the first amended complaint.... I wasn't retained until, I want to say, March or April of 2015. The first amended complaint was filed in 2013. All the fees-the 136,000 in fees we're asking for all flow out of my representation, therefore, the notice[ ] requirement that I think the Court's concerned about is readily addressed, a year in the making, and they were clearly put on notice in paragraph 52 of the first amended complaint that Mr. Shames was seeking. And he quotes Labor Code 218.5 fees, so there's no prejudice to the other side.\" (Italics added.)\nAlthough the parties disagree as to whether the request must be in the initial pleading, or, rather, may be in an amended pleading, they appear to agree that the request must be present in a pleading-i.e., in a document constituting the \"formal allegations by the parties of their respective claims and defenses\" (Code Civ. Proc., \u00a7 420 )-as opposed to in some other type of document, such as a motion.\nThe \"action\" referred to in section 218.5 has been interpreted to refer to a \"cause of action,\" as opposed to a \"civil action\" generally. (Aleman v. AirTouch Cellular (2012) 209 Cal.App.4th 556, 584, 146 Cal.Rptr.3d 849 [in accordance with the rule of statutory construction that permits a reasonable inference that where statutory language is ambiguous, legislators intended a construction that produces practical and workable results rather than mischief or absurdity, the court concluded that \" 'any action' in section 218.5 refers to any 'cause of action' \"].)\nThe other two references to attorney fees in the first amended complaint clearly do not relate to a claim or claims brought on account of the nonpayment of wages and are based on statutory authority distinct from section 281.5, and Shames does not argue otherwise. For example, one reference is located in paragraph 46 of the first amended complaint, which is alleged as part of count 3, identified as \"Illegal and Unauthorized Eavesdropping in Violation of California Penal Code Sections 630 et. seq. by Defendants UCAN, Peffer and Aguirre.\" (Boldface omitted.) This reference provides: \"46. Plaintiff is entitled to statutory damages of $5,000 as per Penal Code Section 637.2(a)(1) and attorneys' fees pursuant to Civil Procedure Section 1021.5.\" The other reference to attorney fees is located in paragraph 59, which is located in the fifth count identified as \"Knowing and Intentional Failure to Comply with Itemized Employee Wage Statement Provision, as per Labor Code Section 226(a).\" (Boldface omitted.) This request for attorney fees was included as part of the relief to which Shames asserted he was entitled, as follows: \"59. Plaintiff is entitled to penalties as follows: [\u00b6] a. Fifty dollars ($50.00) for the initial pay period in which a violation occurred; and [\u00b6] b. An award of costs and reasonable attorneys' fees.\" Although not cited in the first amended complaint, section 226, subdivision (h) authorizes an award of \"costs and reasonable attorney's fees\" to an employee who brings a claim for failure to provide an itemized wage statement pursuant to section 226.\nIt is not at all clear that Shames is correct in asserting that section 218.5 provides the statutory basis for an entitlement to attorney fees that were incurred with respect to the \"negotiate[ion]\" of \"full and proper payment of wages and other reimbursables\" since section 218.5 authorizes an award of attorney fees in an \"action brought for the nonpayment of wages\" (italics added).\nThe argument made to support the two-way fee shifting nature of the provision was the following: \"Conversely, employers will be protected from frivolous lawsuits for nonpayment of wages since the employee will be required to pay the employer's legal fees when the employer is the prevailing party.\" (Sen. Rules Com., Off. of Sen. Floor Analysis, Rep. on Sen. Bill No. 2570 (1985-1986 reg. sess.) as amended May 14, 1986, p. 2.)",
+        "type": "majority",
+        "author": "AARON, J."
+      }
+    ],
+    "attorneys": [
+      "McDougal, Love, Eckis, Boehmer & Foley, McDougal, Love, Boehmer, Foley, Lyon & Canlas, Steven E. Boehmer, La Mesa, and M. Anne Gregory for Plaintiff and Appellant.",
+      "James D. Crosby, San Diego, for Defendant and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Michael SHAMES, Plaintiff and Appellant,\nv.\nUTILITY CONSUMERS' ACTION NETWORK, Defendant and Respondent.\nD070141\nCourt of Appeal, Fourth District, Division 1, California.\nFiled June 29, 2017\nMcDougal, Love, Eckis, Boehmer & Foley, McDougal, Love, Boehmer, Foley, Lyon & Canlas, Steven E. Boehmer, La Mesa, and M. Anne Gregory for Plaintiff and Appellant.\nJames D. Crosby, San Diego, for Defendant and Respondent."
+  },
+  "file_name": "0846-01",
+  "first_page_order": 846,
+  "last_page_order": 858
+}

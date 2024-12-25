@@ -1,0 +1,971 @@
+{
+  "id": 12513547,
+  "name": "Joe HARDESTY et al., Plaintiffs and Appellants, v. STATE MINING AND GEOLOGY BOARD, Defendant and Respondent.",
+  "name_abbreviation": "Hardesty v. State Mining & Geology Bd.",
+  "decision_date": "2017-04-17",
+  "docket_number": "C079617",
+  "first_page": "28",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 28"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal. App. Ct.",
+    "id": 25422,
+    "name": "Court of Appeal, Fifth District, California"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "64 P. 894",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Cal. 502",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2004874
+      ],
+      "pin_cites": [
+        {
+          "page": "505-506"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/132/0502-01"
+      ]
+    },
+    {
+      "cite": "542 P.2d 645",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Cal.Rptr. 485",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.3d 577",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2272279
+      ],
+      "pin_cites": [
+        {
+          "page": "582-584"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/15/0577-01"
+      ]
+    },
+    {
+      "cite": "553 P.2d 546",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Cal.Rptr. 386",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal.3d 785",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2292816
+      ],
+      "pin_cites": [
+        {
+          "page": "791"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/17/0785-01"
+      ]
+    },
+    {
+      "cite": "191 Cal.Rptr. 490",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Cal.App.3d 1002",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2107880
+      ],
+      "pin_cites": [
+        {
+          "page": "1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/142/1002-01"
+      ]
+    },
+    {
+      "cite": "442 P.2d 692",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Cal.Rptr. 612",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Cal.2d 864",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2306192
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/68/0864-01"
+      ]
+    },
+    {
+      "cite": "875 P.2d 1293",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10363061
+      ],
+      "pin_cites": [
+        {
+          "page": "1296"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/875/1293-01"
+      ]
+    },
+    {
+      "cite": "157 Cal.Rptr. 184",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Cal.App.3d 471",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2004933
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "475, 481-482"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/95/0471-01"
+      ]
+    },
+    {
+      "cite": "263 P.2d 321",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Cal.App.2d 442",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2210165
+      ],
+      "pin_cites": [
+        {
+          "page": "446-447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/121/0442-01"
+      ]
+    },
+    {
+      "cite": "255 P.2d 772",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Cal.2d 642",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2346890
+      ],
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "651"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/40/0642-01"
+      ]
+    },
+    {
+      "cite": "234 P.2d 972",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Cal.2d 683",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4407342
+      ],
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "688"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/37/0683-01"
+      ]
+    },
+    {
+      "cite": "161 Cal.Rptr. 411",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Cal.App.3d 1018",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2007146
+      ],
+      "pin_cites": [
+        {
+          "page": "1024"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/100/1018-01"
+      ]
+    },
+    {
+      "cite": "61 Cal.Rptr.2d 181",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 6,
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Cal.App.4th 1348",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        452934
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/52/1348-01"
+      ]
+    },
+    {
+      "cite": "61 Cal.Rptr. 29",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "252 Cal.App.2d 794",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2174547
+      ],
+      "pin_cites": [
+        {
+          "page": "804"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/252/0794-01"
+      ]
+    },
+    {
+      "cite": "51 Cal.Rptr.3d 797",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Cal.App.4th 613",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        5504979
+      ],
+      "pin_cites": [
+        {
+          "page": "629"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/145/0613-01"
+      ]
+    },
+    {
+      "cite": "329 P.2d 522",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Cal.App.2d 339",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        4396974
+      ],
+      "pin_cites": [
+        {
+          "page": "346"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/163/0339-01"
+      ]
+    },
+    {
+      "cite": "226 P.3d 985",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Cal.Rptr.3d 502",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal. 4th 310",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6050514
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "323, fn. 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/48/0310-01"
+      ]
+    },
+    {
+      "cite": "907 P.2d 1324",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 8,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.Rptr.2d 778",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 8,
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Cal.4th 533",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1957540
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/12/0533-01"
+      ]
+    },
+    {
+      "cite": "652 P.2d 1050",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10436546
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/652/1050-01"
+      ]
+    },
+    {
+      "cite": "369 P.2d 937",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Cal.Rptr. 321",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Cal.2d 450",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4375244
+      ],
+      "pin_cites": [
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/57/0450-01"
+      ]
+    },
+    {
+      "cite": "30 U.S.C. \u00a7 26",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 F.3d 1005",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11706038
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/155/1005-01"
+      ]
+    },
+    {
+      "cite": "304 P.2d 93",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Cal.App.2d 650",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2179021
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/146/0650-01"
+      ]
+    },
+    {
+      "cite": "9 P.2d 326",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1956,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Cal.App. 494",
+      "category": "reporters:state",
+      "reporter": "Cal. App.",
+      "case_ids": [
+        2214651
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "503-504"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app/121/0494-01"
+      ]
+    },
+    {
+      "cite": "276 P. 1083",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1932,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Cal.App. 284",
+      "category": "reporters:state",
+      "reporter": "Cal. App.",
+      "case_ids": [
+        2125849
+      ],
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "287-289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app/98/0284-01"
+      ]
+    },
+    {
+      "cite": "110 P.2d 13",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1929,
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal.2d 213",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2205592
+      ],
+      "year": 1929,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/17/0213-01"
+      ]
+    },
+    {
+      "cite": "176 P. 870",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1941,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Cal. 379",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1998079
+      ],
+      "year": 1941,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/179/0379-01"
+      ]
+    },
+    {
+      "cite": "136 Cal.Rptr.3d 132",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "202 Cal.App.4th 404",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4245163
+      ],
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/202/0404-01"
+      ]
+    },
+    {
+      "cite": "97 Idaho 791",
+      "category": "reporters:state",
+      "reporter": "Idaho",
+      "case_ids": [
+        4422571
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "798-799"
+        },
+        {
+          "page": "976-977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/idaho/97/0791-01"
+      ]
+    },
+    {
+      "cite": "811 F.2d 1288",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1164924
+      ],
+      "pin_cites": [
+        {
+          "page": "1291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/811/1288-01"
+      ]
+    },
+    {
+      "cite": "480 U.S. 572",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131282
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "575-576"
+        },
+        {
+          "page": "1422"
+        },
+        {
+          "page": "588"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0572-01"
+      ]
+    },
+    {
+      "cite": "357 U.S. 155",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6161602
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "157-161, 166-169"
+        },
+        {
+          "page": "1098-1101, 1103-1105"
+        },
+        {
+          "page": "1230-1232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/357/0155-01"
+      ]
+    },
+    {
+      "cite": "38 Cal.Rptr.2d 908",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Cal.App.4th 73",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6045639
+      ],
+      "pin_cites": [
+        {
+          "page": "77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/33/0073-01"
+      ]
+    },
+    {
+      "cite": "17 Cal.Rptr.3d 80",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Cal.App.4th 389",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        1204717
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/121/0389-01"
+      ]
+    },
+    {
+      "cite": "2006 WL 225528",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Cal.Rptr.2d 436",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Cal.App.4th 278",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        981941
+      ],
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/101/0278-01"
+      ]
+    },
+    {
+      "cite": "479 P.2d 362",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Cal.Rptr. 162",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.3d 875",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2313224
+      ],
+      "pin_cites": [
+        {
+          "page": "890"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/3/0875-01"
+      ]
+    },
+    {
+      "cite": "134 P.2d 788",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Cal.2d 654",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2229006
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "659-660"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/21/0654-01"
+      ]
+    },
+    {
+      "cite": "39 Cal.Rptr.3d 170",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Cal.App.4th 880",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3726846
+      ],
+      "pin_cites": [
+        {
+          "page": "889"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/136/0880-01"
+      ]
+    },
+    {
+      "cite": "977 P.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Cal.Rptr.2d 696",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Cal.4th 805",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        829702
+      ],
+      "pin_cites": [
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/20/0805-01"
+      ]
+    },
+    {
+      "cite": "377 P.3d 818",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "206 Cal.Rptr.3d 571",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 7,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cal.5th 652",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12446751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-5th/1/0652-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2209,
+    "char_count": 59434,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2586554274013659
+    },
+    "sha256": "f5f553fbcc257c9ecff9c3d14ac5fde1d211ea94440cd7a242957dbec6bec667",
+    "simhash": "1:4bfeb42e9502dfc2",
+    "word_count": 9496
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joe HARDESTY et al., Plaintiffs and Appellants,\nv.\nSTATE MINING AND GEOLOGY BOARD, Defendant and Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Duarte, J.\nIn this suit under the Surface Mining and Reclamation Act of 1975 (SMARA) (Pub. Resources Code \u00a7 2710 et. seq. ), plaintiffs Joe and Yvette Hardesty (collectively, Hardesty), attack findings by the State Mining and Geology Board (Board). The Board's disputed findings conclude there are no vested rights to surface mine at the Big Cut Mine in El Dorado County (County, not a party herein). The findings in effect deny Hardesty a \"grandfather\" exemption from the need to obtain a County mining permit. (See \u00a7 2776, subd. (a).) The trial court denied Hardesty's mandamus petition, and Hardesty timely appealed from the ensuing judgment.\nOn appeal, Hardesty raises both substantive and procedural claims.\nSubstantively, in three somewhat interconnected claims, Hardesty contends the Board and the trial court misunderstood the legal force of his 19th century federal mining patents. He asserts they establish a vested right to surface mine after the passage of SMARA without the need to prove he was surface mining on SMARA's operative date of January 1, 1976. He argues that the Board and trial court misapplied the law of nonconforming uses in finding Hardesty had no vested right and separately misapplied the law in finding that his predecessors abandoned any right to mine. These contentions turn on legal disputes about the SMARA grandfather clause and the force of federal mining patents.\nAs we will explain, the facts , viewed in favor of the Board's and trial court's decision, undermine Hardesty's claims. A federal mining patent-a deed perfected after working a mining claim-has no effect on the application of state regulation of mining. This point was made emphatically in a recent California Supreme Court case, People v. Rinehart (2016) 1 Cal.5th 652, 206 Cal.Rptr.3d 571, 377 P.3d 818 (Rinehart ), about which we solicited supplemental briefing. Simply put, the fact that mines were worked on the property years ago does not necessarily mean any surface or other mining existed when SMARA took effect, such that any right to surface mine was grandfathered.\nProcedurally, Hardesty alleges the Board's findings do not \"bridge the gap\" between the raw evidence and the administrative findings. Hardesty also challenges the fairness of the administrative process itself, alleging that purported ex parte communications by the Board's executive director, Stephen Testa, tainted the proceedings. However, we agree with the trial court's conclusions that, on this record, neither of these procedural claims proves persuasive.\nAccordingly, we shall affirm the judgment denying the mandamus petition.\nBACKGROUND\nPreliminary Observations\nWe first note that Hardesty's briefing consistently draws evidentiary inferences in the light most favorable to himself, contrary to the appropriate standard of review, which requires us to draw inferences in favor of the judgment. (See Fukuda v. City of Angels (1999) 20 Cal.4th 805, 824, 85 Cal.Rptr.2d 696, 977 P.2d 693 [\"Even when...the trial court is required to review an administrative decision under the independent judgment standard of review, the standard of review on appeal...is the substantial evidence test\"].) \"The reviewing court, like the trial court, may not reweigh the evidence, and is 'bound to consider the facts in the light most favorable to the Board, giving it every reasonable inference and resolving all conflicts in its favor.' \" ( Jaramillo v. State Bd. for Geologists & Geophysicists (2006) 136 Cal.App.4th 880, 889, 39 Cal.Rptr.3d 170.) Hardesty also presumes that any evidence that was not directly contradicted-including expert evidence-must be accepted as true, contrary to applicable standards. (See Hicks v. Reis (1943) 21 Cal.2d 654, 659-660, 134 P.2d 788 [\"Provided the trier of the facts does not act arbitrarily, he may reject in toto the testimony of a witness, even though the witness is uncontradicted\"]; Foreman & Clark Corp. v. Fallon (1971) 3 Cal.3d 875, 890, 92 Cal.Rptr. 162, 479 P.2d 362 [rule applies to expert witnesses] (Foreman & Clark ).)\nHardesty's contentions are unnecessarily muddled by his persistent refusal to acknowledge the facts supporting the Board's and the trial court's conclusions. \"[Hardesty] has not waived the legal issues [he] raises. But in addressing [his] issues we will not be drawn onto inaccurate factual ground.\" (Western Aggregates, Inc. v. County of Yuba (2002) 101 Cal.App.4th 278, 291, 130 Cal.Rptr.2d 436 (Western Aggregates ).) Because Hardesty does not portray the evidence fairly, any intended factual disputes are forfeited. See Foreman & Clark, supra, 3 Cal.3d at p. 881, 92 Cal.Rptr. 162, 479 P.2d 362; Western Aggregates, supra, 101 Cal.App.4th at pp. 290-291, 130 Cal.Rptr.2d 436\nIn 2009, Hardesty filed a Request for Determination (RFD) of his vested rights-later augmented by a 2010 supplement-outlining his legal and factual positions. The RFD includes a declaration of counsel that purports to affirm the truth of the facts contained in hundreds of pages of attachments. The attachments include an unpublished decision of this court in a tangentially related case, Tankersley v. State Mining & Geology Bd . (Jan. 31, 2006, C049372) 2006 WL 225528, 2006 Cal.App.Unpub.Lexis 835 (nonpub. opn.) (Tankersley ), and extracts of private and apparently unsworn interviews of witnesses by Hardesty's counsel. Hardesty also presented extracts of depositions taken in separate litigation between a non-party herein and his predecessors (Legacy Land Co. v. Donovan , El Dorado Super. Ct. No. PC20020116(Legacy Land )), with no indication that the opposing side in that case had the same motivation to cross-examine as would an opponent of Hardesty's RFD. Some of these weaknesses in Hardesty's evidentiary submissions were pointed out at the Board hearing.\nAt the hearing itself, Hardesty bore the burden of proof. (Cal. Code Regs., tit. 14, \u00a7 3950.) A Board regulation provides that \"[r]elevant evidence in a proceeding for determination of a claim of vested rights shall be written or oral evidentiary statements or material demonstrating or delimiting the existence, nature and scope of the claimed vested right[s].\" (Regs., \u00a7 3963, italics added.) The Board evidently interprets this regulation to mean that \"[t]estimony and comments presented at hearings need not conform to the technical rules of evidence provided that the testimony and comments are reasonably relevant to the issues before the [Board].\" But the fact the Board may accept as true \"material\" which would not qualify as evidence in a court of law does not mean it was compelled to accept as true all material contained in Hardesty's documents. Instead, the flaws we have noted above, and others, gave the Board ample, rational grounds to reject much of Hardesty's evidence. (SeeHicks v. Reis , supra , 21 Cal.2d at pp. 659-660, 134 P.2d 788.) Further, the Board also considered contrary evidence, principally contained in detailed written proposed findings drafted by Testa. These findings were based on Testa's investigation, as well as statements by members of the public at the hearing-statements not mentioned in Hardesty's briefs. Thus to the (great) extent that Hardesty's briefing is based on the implicit view that the Board and trial court were somehow compelled to accept his evidentiary submissions as true, the foundation of his briefing is undermined.\nOn the other hand, facts asserted by Hardesty in the trial court or on appeal may be deemed as admissions, and we may also accept as true facts agreed by the parties in their briefing on appeal. (SeeFremont Comp. Ins. Co. v. Sierra Pine (2004) 121 Cal.App.4th 389, 394, 17 Cal.Rptr.3d 80 ;County of El Dorado v. Misura (1995) 33 Cal.App.4th 73, 77, 38 Cal.Rptr.2d 908.)\nWe make these observations at the outset, to explain our upcoming rejection of Hardesty's many factual assertions that are supported only by references to material that the Board and trial court were free to find was either inaccurate or simply unpersuasive as to the particular subject addressed.\nThe Basic Facts and Findings\nHardesty owns about 150 acres near Placerville, now known as the Big Cut Mine, but once known-if perhaps only in part-as the Landecker mine. For purposes of appeal, we accept that his property was formed from 19th century federal mining patents.\nThe land was mined for gold until the 1940's. During World War II, gold mining was restricted by the federal government to shift mining resources to minerals necessary for military purposes. (SeeUnited States v. Central Eureka Mining Co. (1958) 357 U.S. 155, 157-161, 166-169, 78 S.Ct. 1097, 1098-1101, 1103-1105, 2 L.Ed.2d 1228, 1230-1232.) A property history contained in Hardesty's RFD supplement concedes \"There are no records presently available...to show what kind of mining business [Stanley Triplett, the owner from 1921 to 1988] conducted on the property after the war.\" The trial court found that through the 1970's, the property \"was essentially 'dormant.' At most, there was sporadic, limited mining involving only a very small portion of the property during this period, and there is virtually no evidence that those mining activities 'continued' to exist at the time SMARA was enacted [effective January 1, 1976].\" However, Hardesty's RFD sought to establish a vested right to mine the property for gold, sand, and gravel (as well as diamonds and platinum).\nAlthough the wartime mining order was lifted in 1945, Hardesty contends that the purported loss of mining equipment during the war \"and low gold prices, made it largely infeasible to resume mining\"-a point we address in more detail, post, in our Discussion. The record contains a document showing the ounce price for gold was about $36 in 1970, rose to about $160 by 1975, shot up in 1980, and then fell significantly.\nClinton and Kathleen Donovan (Donovan) bought the land in 1988 from Stanley Triplett, who we accept had owned it since 1921. Donovan contracted to sell to Legacy Land, but the deal did not go through-leading to litigation-and he sold the property to Hardesty in 2006.\nThe part of Hardesty's RFD outlining the history of the property consolidates the broad Triplett period of ownership, 1921-1988, but fails to describe what, if anything was happening on the property on or immediately before January 1, 1976.\nThe trial court found that in the 1990's, unpermitted surface (open-pit) aggregate and gold mining began, different in nature from the \"hydraulic, drift, and tunnel\" mining that historically had been conducted on the land. The RFD alleged the new proposed open-pit mining was safer and better for the environment. Donovan had allowed Barney's Sand and Gravel (Barney's) to mine on the property beginning about 1992, Legacy Land bought out Barney's around 1994, and also attempted to buy the property itself from Donovan, but, as indicated, that deal was not consummated and instead led to litigation.\nOur Tankersley decision involved what was described as the Donovan Ranch Property, but which the RFD treats as the same property at issue herein. According to Tankersley , \"In 1998, [the County], the SMARA lead agency at the time, declared the mining site closed and reclaimed . [\u00b6] By 2002, the Board had assumed authority over surface mining operations at the Property. On November 12, 2002, the State Office of Mining and Reclamation (OMR) and the County inspected the Property and determined that 20 to 25 acres had been disturbed by surface mining operations. The Board notified the Donovans of the results of the inspection and instructed them to cease all mining operations until they obtain a reclamation plan, financial assurances, and any necessary County permit.\" (Italics added.) During those proceedings, the Hardestys and Churches declared that they accepted full financial responsibility for reclamation of the land; Tankersley also claimed to be a partner in the mining operations, and all those parties (the Hardestys, the Churches, and Tankersley) were appellants.\nAs an alternative to the finding of no vested right, based on the lack of mining as of the date SMARA took effect, which we discuss in more detail, post , the Board and the trial court found that any right to mine had been abandoned. On a required state reporting form in 1998, Donovan checked a box to indicate the mine was \"Closed with no intent to resume.\" This document stated reclamation was in progress. On the 1999 reporting form, Donovan checked a box to indicate the mine was \"Closed-reclamation certified complete by Lead Agency.\" But in prior years, Donovan had checked a box stating the mine was \"Active.\" This change in reporting shows Donovan knew the difference between an \"Active\" mine, a \"Closed\" mine, and a mine that was both closed and for which reclamation had been completed.\nA letter submitted by the County to Testa in 2010 explained that Donovan \"always asserted that he was not mining, but was only searching for gold as a hobby and used the gravel for on-site road work\" and Donovan had not provided any records showing \"continuous mining having occurred since the 1940s to the present time.\"\nThe trial court upheld the Board's finding that any right to mine had been abandoned, finding \"a clear manifestation of intent to discontinue mine operations during the period from the 1940s until the early 1990s, and again when Mr. Donovan intentionally 'closed' the mine to facilitate a sale of the property.\"\nThere is no evidence that Triplett regularly mined the property after World War II, only vague and disconnected items showing sporadic activity. For example, some 1960's batteries and various dated tunnel markers were found, but there was no direct evidence why they were there or who put them there. In May 1971, Triplett wrote to a potential buyer, describing the property as not in a saleable condition, and describing some of its history. This included his belief in the possible location thereon of part of the \"deep blue lead\" that had proven rich in other places. Although he stated whether \"the deep channel can be worked profitably or not, is speculation,\" he believed it had possibilities, and his intent would be to find a rich investor so that \"if expectations failed, losses could be written off.\" Nothing in the letter hints at any active mining, and as the Board contends, it at best expresses Triplett's hope that mining-but not necessarily surface mining-would resume. Triplett's nephew, a geological engineer named Jim Brune, declared Triplett spoke with him about his belief in the deep blue lead, as well as where on the property Triplett \"speculated the vein ran\" and Triplett's purported intent to mine the property. Aerial photographs beginning in 1952 show some roads that were later expanded, but there was no hard evidence of what they were used for before 1976, and by Hardesty's own interpretation, they covered but a fraction of the property.\nSignificantly, at the Board hearing, Hardesty's counsel conceded the mine was dormant until at least the late 1980's , although counsel attributed this to market forces. Hardesty submitted other evidence, but the Board and the trial court could rationally reject it. There was no hard evidence, such as production records, employment records, equipment records, and so forth, showing any significant mining after World War II.\nSMARA and Hardesty's Legal Attacks\nAs indicated, the key date for SMARA purposes is January 1, 1976, when the law became operative. SMARA requires that all surface mining operations have an approved reclamation plan and approved financial assurances to implement the plan. (\u00a7 2770, subd. (a).) At the time of the hearing, the Board served as the lead agency for SMARA purposes in the County, although the County retained permitting authority. (See \u00a7 2774.4, subd. (a).) Persons with existing surface mining operations were required to submit reclamation plans by March 31, 1988. (\u00a7 2770, subd. (b).) Absent an approved reclamation plan and proper financial assurances (with exceptions not applicable herein) surface mining is prohibited. (\u00a7 2770, subd. (d).)\nSMARA was enacted with the knowledge that many miners had extant private property rights, and the Legislature wanted to avoid paying compensation therefor. (See \u00a7 2713; Surface Mining Operations-Vested Rights-Permit, Reclamation Requirements, 59 Ops.Cal.Atty.Gen. 641, 644-645 (1976)(Surface Mining ).) Accordingly, SMARA included the following grandfather provision, to avoid any property \"takings\" claims:\n\"No person who has obtained a vested right to conduct surface mining operations prior to January 1, 1976 , shall be required to secure a permit pursuant to the provisions of this chapter as long as such vested right continues; provided, however, that no substantial changes may be made in any such operation except in accordance with the provisions of this chapter . A person shall be deemed to have such vested rights if, prior to January 1, 1976, he has, in good faith and in reliance upon a permit or other authorization, if such permit or other authorization was required, diligently commenced surface mining operations and incurred substantial liabilities for work and materials necessary therefor....\n\"A person who has obtained a vested right to conduct surface mining operations prior to January 1, 1976 , shall submit to the lead agency and receive, within a reasonable period of time, approval of a reclamation plan for operations to be conducted after January 1, 1976, unless a reclamation plan was approved by the lead agency prior to January 1, 1976....\n\"Nothing in this chapter shall be construed as requiring the filing of a reclamation plan for, or the reclamation of, mined lands on which surface mining operations were conducted prior to January 1, 1976 .\" (Former \u00a7 2776, Stats. 1975, ch. 1131, \u00a7 11, italics added.)\nThe first paragraph of section 2776 forms the core of Hardesty's legal attacks on the Board's decision, because he is of the view that he established a vested right to mine through his 19th century mining patents and uncontested pre-World War II mining activity, in addition to his contested claims-impliedly rejected by the Board and trial court-of post-World War II mining activity. However, the italicized portion of the statute speaks of vested rights to surface mining, not any mining. \"Surface mining involves stripping off the top of an area to reach minerals, in contrast to boring down through tunnels or shafts to extract them.\" (Rinehart , supra , 1 Cal.5th at p. 671, fn. 10, 206 Cal.Rptr.3d 571, 377 P.3d 818.)\nHardesty's mandamus petition alleged his predecessors-in-interest acquired vested rights to mine via federal mining patents, and he alleged \"completion of a valid mining 'location' vests equitable title in the locator, authorizes the locator to hold and mine the claim indefinitely , and creates a transferrable property interest.\" (Italics added.) His position is that this \"vesting\" under federal law equates to a \"vested\" right under SMARA, regardless of whether mining was still being conducted when SMARA took effect, or of the nature or scope of such mining.\nAfter a public hearing, the Board adopted proposed findings prepared by Testa, and found the evidence did not support Hardesty's claim. On June 10, 2010, after receipt of objections from Hardesty's counsel as to several findings, the Board formally denied Hardesty's claim.\nOn July 9, 2010, Hardesty filed a mandamus petition to set aside the Board's action, and on January 6, 2015, filed the instant amended petition.\nThe trial court denied the petition after a hearing on March 27, 2015, and Hardesty timely appealed from the ensuing judgment.\nThe Board's Findings in Detail\nAs stated, the Board adopted proposed findings prepared by Testa, some of which reference documents submitted within Hardesty's RFD. These findings included the following. The property is located in an area within the County now zoned so as to generally prohibit surface mining within 10,000 feet of any residence absent a finding that the project would not have any adverse impact on the environment and would not discourage residential use. No evidence of post-World War II mining \"other than recreational, was presented.\" No production records (such as drill logs, evidence of amount of material extracted, or \"historic or current sales records\") were produced by Hardesty. \"A 1966 date appears written on a tunnel wall; however, there is no evidence correlating the existence of that mark with any mining activity.\" \"Access roads are evident in various aerial photographs; however, there is no adequate evidence to demonstrate that such roads were haul roads used for mining purposes.\" Unpermitted surface mining by Barney's beginning around 1991 was halted by the County and the Board, and \"[r]eclamation was completed to the County's satisfaction in 1998.\" Further unpermitted mining occurred in 2002-2003, until halted by the County. The County never made a finding of vested rights. No reclamation plan had been submitted by the SMARA deadline of March 31, 1988. Donovan \"did not demonstrate an objective manifestation of intent to mine all\" the property and \"No documents or evidence were presented to support the overall scale of historic production conducted by\" Donovan.\nThe Board made several \"Conclusions of Law,\" in part as follows: Hardesty had the burden of proof by a preponderance of the evidence to show vested rights to surface mine. For planned expansion, Hardesty had to produce evidence of clear intent to expand \" 'measured by objective manifestations, and not subjective intent at the time of passage of the law, or laws, affecting [his] right to continue surface mining operations without a permit.' \" (Partly quoting Regs., \u00a7 3963, italics omitted.) \"No evidence demonstrating authorization to mine was granted from the mid-1940s to January 1, 1976, or to the present date as well.\" \"The cessation of mining activities subsequent to World War II, lasting through the 1990s and, even then, commencing for a brief period without authorization from [the] County and without submission and approval of reclamation plans and financial assurances as required by SMARA, coupled with a succession of land owners who did not conduct commercial mining operations during that period, precludes reliance on the pre-World War II historic gold mining operations as a basis for establishing a current vested right to mine\" the property. \"The historical record regarding gold mining prior to World War II, and the subsequent conduct of owners of the subject property demonstrates clear and knowing intent...to waive, abandon, or otherwise forego any vested right that may have pertained to those pre-World War II mining efforts.\"\nA formal resolution recites the Board accepted Testa's findings \"and determined that a preponderance of evidence did not exist that demonstrated Big Cut Mine has vested rights\" and the \"Board denies the claim of vested right of Big Cut Mine's proposed surface mining operation located in the County.\"\nThe Trial Court's Ruling in Detail\nThe trial court found the Board's decision adequately linked the evidence with the findings. The trial court agreed with Hardesty that the party asserting abandonment had the burden of proof, but rejected Hardesty's claim that the Board shifted the burden of proof on this issue to Hardesty, as nothing in the Board's findings addressed the point one way or another, and \"it is presumed that the Board acted properly.\" The trial court granted a motion to augment the record with declarations from Testa, Will Arcand, and Richard Thalhammer, described, post , and found no improper ex parte communications occurred.\nThe trial court also rejected Hardesty's view that the federal patents vest in him a right to mine the property regardless of what was happening on the effective date of SMARA, finding a lawful nonconforming use must be extant on such date.\nSeparately, the trial court found that even if Hardesty's legal view were correct, \"the evidence shows there were substantial changes in the use of the property\" in that \"there is virtually no evidence of mining activities during the period from the 1940s through the 1980s\" and even if there were, \"aerial photos suggest any mining was limited to at most about six-tenths of an acre. For the vested right to include the remainder of the...property, [Hardesty] would have to produce objective evidence demonstrating that the owners clearly intended, on the effective date of [SMARA], to expand mining in to the remainder of the property. There is no such evidence in the record.\" Further, the nature of the mining had shifted from hydraulic, drift, and tunnel mining, to open-pit (that is, surface ) mining, reflecting a substantial change in use.\nFinally, the trial court found any vested right that may have existed had been abandoned: \"There is a clear manifestation of intent to discontinue mine operations during the period from the 1940s to until the early 1990s, and again when Mr. Donovan intentionally 'closed' the mine to facilitate a sale of the property.\"\nAccordingly, the trial court denied Hardesty's administrative mandamus petition.\nDISCUSSION\nI\nVested Rights Claims\nHardesty contends that the existence of federal mining patents confers vested mining rights forever, and that the Board and trial court erred by adding additional requirements, namely, continued mining operations, to find a vested right under SMARA. He further contends the trial court misapplied the \"nonconforming use\" zoning doctrine and thereby reached an erroneous conclusion. He adds that the Board and trial court misapplied the doctrine of abandonment. Because these three contentions of legal error overlap, we address them together.\nHardesty principally relies on the first paragraph of section 2776, arguing that he has a vested right to mine the property at issue. In his view, his federal mining patents, which would have been issued only upon proof of actual mining operations-though not necessarily surface mining operations-not only conveyed title to the property, they conveyed a vested right to mine. He contends that because those patents predate 1976, he is covered by section 2776's grandfather provision.\nAs we will explain, we agree the patents conferred on Hardesty vested rights as a property owner , but that is not the same as a vested right to mine the property absent compliance with state environmental laws. The Board and the trial court correctly concluded Hardesty had to show active surface mining was occurring on the effective date of SMARA, or at the very least show objective evidence that the then-owner contemplated resumption of such activities. Under the facts, viewed in the appropriate light, Hardesty did not carry his burden to show that any mining was occurring or any intent to mine existed on the relevant date. Further, the Board and trial court correctly applied the \"nonconforming use\" and abandonment doctrines to the facts herein.\nA. Legal Effect of a Federal Mining Patent\nEarly federal policy had been to reserve federal lands, but this shifted after the Civil War due to the need to pay off the ensuing national debt, and the West-then almost entirely owned by the federal government-was opened to mineral exploration. (See Western Aggregates, supra, 101 Cal.App.4th at pp. 293-294, 130 Cal.Rptr.2d 436.) Since that time, after locating a claim and performing certain work and other requirements, the \"holder of a perfected mining claim may secure a patent to the land by complying with the requirements of the Mining Act and regulations promulgated thereunder...and, upon issuance of the patent, legal title to the land passes to the patentholder.\" (California Coastal Comm'n v. Granite Rock (1987) 480 U.S. 572, 575-576, 107 S.Ct. 1419, 1422, 94 L.Ed.2d 577, 588 (Granite Rock ); see Pathfinder Mines Corporation v. Hodel (9th Cir. 1987) 811 F.2d 1288, 1291.)\nBut \" 'the State is free to enforce its criminal and civil laws' on federal land so long as those laws do not conflict with federal law. [Citation.] The Property Clause itself does not automatically conflict with all state regulation of federal land. Rather,...'[a]bsent consent or cession a State undoubtedly retains jurisdiction over federal lands within its territory, but Congress equally surely retains the power to enact legislation respecting those lands pursuant to the Property Clause. And when Congress so acts , the federal legislation necessarily overrides conflicting state laws under the Supremacy Clause.' \" (Granite Rock , supra , 480 U.S. at pp. 580-581, 107 S.Ct. at p. 1425, 94 L.Ed.2d at p. 591, italics added; see State Regulation of Mining in Death Valley National Monument, 60 Ops.Cal.Atty.Gen. 162, 163 (1977) [\"California can regulate all mining within the Death Valley National Monument...regardless of land ownership status, pursuant to [SMARA], subject to preemption in particular instances of conflict with federal law\"].) It is well settled that environmental concerns about mining and its after-effects are legitimate matters for state regulation. (See Death Valley ,supra , 60 Ops.Cal.Atty.Gen. 162 ;State ex rel. Andrus v. Click (1976) 97 Idaho 791, 798-799, 554 P.2d 969, 976-977 (Andrus ).)\nIndeed, in a case involving a different open-pit mine also operated by Hardesty, we rejected his view that a \"vested right\" to mine under SMARA obviates the need to comply with state environmental laws: \"Hardesty has cited no authority standing for the proposition that the holder of a vested mining right is exempt from complying with California's air pollution laws.\" (Hardesty v. Sacramento Metropolitan Air Quality Management Dist. (2011) 202 Cal.App.4th 404, 427, 136 Cal.Rptr.3d 132.)\nThe United States Supreme Court has acknowledged that some state laws, although purportedly passed to regulate mining, could have the effect of halting all productive use of federally patented mining areas. \"The line between environmental regulation and land use planning will not always be bright; for example, one may hypothesize a state environmental regulation so severe that a particular land use would become commercially impracticable.\" (Granite Rock , supra , 480 U.S. at p. 587, 107 S.Ct. at p. 1428, 94 L.Ed.2d at p. 595.) But the high court went on to hold that this result was generally permissible , and only precluded where a direct conflict between a state and a federal law was presented. (Id . at pp. 587-588, 107 S.Ct. at pp. 1428-1429, 94 L.Ed.2d at pp. 595-596.)\nIn a recent case involving a state prohibition (a moratorium) on dredge mining, our Supreme Court rejected the view that state laws that impact or even halt mining necessarily conflict with federal mining laws. Instead, the general purpose of federal mining laws is to delineate \"the real property interests of miners vis-\u00e0 -vis each other and the federal government.\" (Rinehart , supra , 1 Cal.5th at p. 663, 206 Cal.Rptr.3d 571, 377 P.3d 818.) \"[T]he one area where the law does intend to displace state law is with respect to laws governing title. In other areas, state and local law are granted free rein.\" (Ibid . ) \"The mining laws were neither a guarantee that mining would prove feasible nor a grant of immunity against local regulation, but simply an assurance that the ultimate original landowner, the United States, would not interfere by asserting its own property rights.\" (Id . at p. 666, 206 Cal.Rptr.3d 571, 377 P.3d 818.) \"[I]f Congress intended to do more, we can reasonably infer it would have said so. It did not; indeed, quite to the contrary, it specifically noted the continuing obligation of miners with possessory interests, such as Rinehart, to obey state law. [Citations.] Collectively, the text and legislative history reveal no intent to displace state law.\" (Id . at p. 667, 206 Cal.Rptr.3d 571, 377 P.3d 818.)\nMost of the cases relied on by Hardesty which address vested mining rights involve disputes between competing private claimants, not between miners and government entities seeking to regulate them, and most predateGranite Rock . (See, e.g., Watterson v. Cruse (1918) 179 Cal. 379, 176 P. 870 [competing claim locators sought injunction]; Ames v. Empire Star Mines Co., Ltd. (1941) 17 Cal.2d 213, 110 P.2d 13 [injunction and accounting]; Favot v. Kingsbury (1929) 98 Cal.App. 284, 287-289, 276 P. 1083 [suit to restrain issuance of state patent to competing claimants]; Brown v. Luddy (1932) 121 Cal.App. 494, 503-504, 9 P.2d 326 [quiet title]; Montgomery v. Gerlinger (1956) 146 Cal.App.2d 650, 304 P.2d 93 [quiet title].)\nIn his reply brief, Hardesty \"does not dispute that a state may impose permit requirements that qualify as 'environmental regulation.' \" He then cites cases holding that regulations were found preempted by federal mining law. His evident view is that if he cannot comply with a state law regarding vesting of nonconforming use (i.e., SMARA), that state law necessarily impairs his right to mine contrary to federal law. But, as just explained, Rinehart rejects this view of the law.\nFor example, Hardesty relies heavily onSouth Dakota Mining Ass'n, Inc. v. Lawrence County (8th Cir. 1998) 155 F.3d 1005, where a local ordinance prohibited new permits for surface mining, and companies that had mined for many years sued to enjoin the ordinance. (Id. at p. 1007.) Lawrence County held the ordinance was preempted because \"The ordinance's de facto ban on mining on federal land acts as a clear obstacle to the accomplishment of the Congressional purposes and objectives embodied in the Mining Act.\" (Id . at p. 1011.) However, our Supreme Court summarized Lawrence County and rejected its analysis as follows:\n\"We do not disagree that Congress adopted a real property regime in the Mining Law of 1872 with the larger purpose in mind of encouraging ongoing mineral exploration across the West. Where we part company is with the conclusion that such general, overarching goals would be frustrated by state and local determinations that the use of particular methods, in particular areas of the country, would disserve other compelling interests. Congress could have made express that it viewed mining as the highest and best use of federal land wherever minerals were found, or could have delegated to federal agencies exclusive authority to issue permits and make accommodations between mining and other purposes. It did neither, instead committing miners to continued compliance with state and local laws (30 U.S.C. \u00a7 26 ) and endorsing limits on destructive mining techniques imposed under such laws [citation]. These actions cannot be reconciled with the view that Congress intended preemption of such state and local determinations.\" (Rinehart , supra , 1 Cal.5th at p. 672, 206 Cal.Rptr.3d 571, 377 P.3d 818.)\nThus, Rinehart r ejected the view that state laws that make mining more difficult or even impracticable necessarily conflict with Congressional intent, and we are bound to do the same. (See Auto Equity Sales, Inc . v. Superior Court (1962) 57 Cal.2d 450, 455, 20 Cal.Rptr. 321, 369 P.2d 937.)\nHardesty also relies on Brubaker v. Bd. of County Commrs., El Paso County (Colo.1982) 652 P.2d 1050, where holders of unpatented mining claims unsuccessfully sought local permits for test drilling approved by the federal government to see if they had located \"valuable mineral deposits under federal mining law.\" (Id . at p. 1052.) Brubaker held the local entity sought \"to prohibit the very activities contemplated and authorized by federal law\" and therefore presented an obstacle to federal policy. (Id . at pp. 1056-1057.) However, as explained by our Supreme Court, Brubaker was decided before Granite Rock , and therefore is not persuasive. (Rinehart , supra , 1 Cal.5th at p. 671, 206 Cal.Rptr.3d 571, 377 P.3d 818.) Further, other cases have recognized the legitimacy of applying environmental laws, even if they increase the costs of mining. (See Andrus , supra , 97 Idaho at p. 797, 554 P.2d at p. 975 [\"Neither the requirement of obtaining a permit or of restoring the land render it impossible to exercise [mining] rights specifically granted by the federal legislation, although they may make it more difficult\"].)\nSMARA itself does not preclude Hardesty from mining. SMARA was enacted with respect for extant mining operations and merely requires assurances that surface mining operations develop adequate reclamation plans, a neutral state environmental rule. It also allowed then-active surface mines to bypass the need to obtain a local permit. The fact that application of SMARA's requirements to a particular operation might make it more expensive to mine, perhaps to the point where mining is infeasible, is not precluded under Rinehart . (See also Andrus , supra , 97 Idaho at p. 797, 554 P.2d at p. 975.)\nTo the extent Hardesty contends he has a vested right to surface mine under section 2776, he simply failed to carry his burden to prove any substantial surface mining on the property had been conducted by that date. As the trial court found, substantial evidence shows that prior mining had been hydraulic, tunnel, and drift mining, not surface mining, which began in the 1990's, and which represented a substantial change, contrary to former section 2776's requirement \"that no substantial changes may be made in any such operation except\" according to SMARA's terms. The evidence before the Board supports this finding.\nAccordingly, federal mining patents, alone, do not satisfy section 2776.\nB. Proof of a Nonconforming Use\nTo show he had a vested right to engage in mining on the property, Hardesty's briefing emphasizes evidence of mining on the property before 1976. However, Hardesty failed to prove any mining was occurring on or even reasonably before the date SMARA took effect. SMARA was designed to allow existing , operating surface mines to continue operating after its effective date without the need to obtain local permits. SMARA's grandfather provision does not extend to truly dormant mines.\nHansen Brothers Enterprises, Inc. v. Board of Supervisors (1996) 12 Cal.4th 533, 48 Cal.Rptr.2d 778, 907 P.2d 1324 (Hansen Brothers )-consistent with a long line of zoning cases-holds that a use must be present at the time a new law takes effect, to be considered a nonconforming use. (Id. at pp. 540-568, 48 Cal.Rptr.2d 778, 907 P.2d 1324 ; see Communities for a Better Environment v. South Coast Air Quality Management Dist . (2010) 48 Cal. 4th 310, 323, fn. 8, 106 Cal.Rptr.3d 502, 226 P.3d 985 [\"the traditional protection for nonconforming uses established at the time zoning restrictions become effective\"], italics added; McCaslin v. City of Monterey Park (1958) 163 Cal.App.2d 339, 346, 329 P.2d 522 [\"A nonconforming use is a lawful use existing on the effective date of the zoning restriction and continuing since that time in nonconformance to the ordinance\"], italics added.) Neither a dormant nor an abandoned use is a nonconforming use. (Hansen Brothers, at p. 552, 48 Cal.Rptr.2d 778, 907 P.2d 1324 [\"Nonuse is not a nonconforming use\"].) As stated by our Supreme Court, \" 'The ultimate purpose of zoning is...to reduce all nonconforming uses within the zone to conformity as speedily as is consistent with proper safeguards for the interests of those affected.' [Citation.] We have recognized that, given this purpose, courts should follow a strict policy against extension or expansion of those uses. [Citation.]\nThat policy necessarily applies to attempts to continue nonconforming uses which have ceased operation .\" (Hansen Brothers , at p. 568, 48 Cal.Rptr.2d 778, 907 P.2d 1324, italics added.)\nIt was Hardesty's burden to prove he was conducting a nonconforming use at the time the law changed . (See Hansen Brothers , supra , 12 Cal.4th at p. 564, 48 Cal.Rptr.2d 778, 907 P.2d 1324 ; Calvert v. County of Yuba (2006) 145 Cal.App.4th 613, 629, 51 Cal.Rptr.3d 797 (Calvert ); Melton v. City of San Pablo (1967) 252 Cal.App.2d 794, 804, 61 Cal.Rptr. 29 [\"The burden of proof is on the party asserting a right to a nonconforming use to establish the lawful and continuing existence of the use at the time of the enactment of the ordinance\"], second italics added.) Here, the relevant date is January 1, 1976, when SMARA took effect. The evidence, construed in the light most favorable to the Board's and the trial court's decisions, shows that no mining had been occurring for decades. Because, as explained, ante , Hardesty has forfeited any evidentiary contentions by portraying the evidence in the light most favorable to himself, we are not obliged to respond point-by-point to his many misstatements of the facts on this issue.\nIn Stokes v. Board of Permit Appeals (1997) 52 Cal.App.4th 1348, 61 Cal.Rptr.2d 181, Stokes bought a vacant property in 1993 that had been used as a bathhouse, but not for at least seven years. In 1985, new zoning rules took effect. (Id . at p. 1351, 61 Cal.Rptr.2d 181.) Local laws allowed legal, nonconforming uses to continue unless, inter alia, they had been discontinued or abandoned, and deemed a three-year period of disuse to reflect an intent to abandon. (Id . at pp. 1351-1352, 61 Cal.Rptr.2d 181.) Stokes obtained permits and began work, but was stopped on the ground the long vacancy meant he had to obtain a conditional use permit. (Id . at p. 1352, 61 Cal.Rptr.2d 181.) A local board upheld the stop order in part because the bathhouse had been closed for at least three years. (Id . at pp. 1352-1353, 61 Cal.Rptr.2d 181.) Acknowledging that mere discontinuance of use does not necessarily reflect an intent to abandon, though it is a factor that may help show abandonment, Stokes explained that \"Stokes's predecessors had completely vacated the building for seven years and the building had not been used for any purpose at the time [Stokes] took possession. There are no facts to which Stokes can point as evidence the prior owners intended to and in fact did continue to operate the property as a bathhouse or for a related use.\" (Id. at pp. 1355-1356, 61 Cal.Rptr.2d 181.)\nHere, the evidence shows Donovan bought a mine already in a state of disuse, much as Stokes bought a long-closed bathhouse. (See also Walnut Properties, Inc. v. City Council (1980) 100 Cal.App.3d 1018, 1024, 161 Cal.Rptr. 411 [party bought a closed movie theater, \"In other words, the property was not being put to a lawful use which use continued up to and after the time the use became unlawful or nonconforming\"].) Donovan then certified to the government that the mine was closed in order to sell it. In the Legacy Land depositions, Donovan testified his intent in trying to sell the property \"was to let them buy the property and [then] move on\"; his wife in turn testified \"everything was going to be closed so we could move and have our life together.\" This vitiates the claim he did not know what he was doing, or that he retained some subjective intention to mine, or have his successors mine the property, as Hardesty contends.\nFurther, the record shows a proposed significant change in use since pre-1976 times. \"The continuance of a nonconforming use 'is a continuance of the same use and not some other kind of use.' \" (County of San Diego v. McClurken (1951) 37 Cal.2d 683, 688, 234 P.2d 972 ; see Edmonds v. County of Los Angeles (1953) 40 Cal.2d 642, 651, 255 P.2d 772 [\"enlargement of plaintiffs' trailer court to accommodate 30 more trailers is clearly a different use\"]; County of Orange v. Goldring (1953) 121 Cal.App.2d 442, 446-447, 263 P.2d 321.) Surface mining is a changed use on Hardesty's property, when contrasted with the pre-SMARA use. Nor can Hardesty persuasively rely on post-1976 unpermitted surface mining-twice halted by the government-to show that surface mining was an extant use before 1976.\nC. Abandonment\nAs an alternate basis for decision, the Board and the trial court found any right to mine was abandoned.\nPreliminarily, we agree with Hardesty that extractive industries like mining often exist at the mercy of market forces. If the price dips, an operator may scale back or cease active operations, while retaining the intention to resume operations when prices recover. As an illustration of this, Hansen Brothers described a sister-state case where \"the failure to operate a concrete mixing facility for six months during a business slowdown, while the operator filled orders from another plant, was not a cessation of operation. There...the plant, equipment, inventory, and utilities were maintained throughout the period and the plant could be made operational within two hours.\" (Hansen Brothers , supra , 12 Cal.4th at p. 569, 48 Cal.Rptr.2d 778, 907 P.2d 1324, italics added.) The question in such cases is whether there is an intent to abandon or permanently cease operations, or instead a business judgment that a temporary-even if prolonged-hiatus should be made. Otherwise, as Hardesty suggests, an operator might be forced to continue operations at a loss-perhaps for decades-in order to await market recovery at some unknowable future point.\nBut this does not mean that every operator who closes a mine because of economic reasons retains an intention to reopen the mine one day, although we accept Hardesty's theoretical point that fluctuating mineral prices may induce an operator to close a mine temporarily while retaining the intention to reopen, to ride out the market. (See Hansen Brothers, supra, 12 Cal.4th at pp. 545-546, 569, 48 Cal.Rptr.2d 778, 907 P.2d 1324 ) [demand for mined aggregates fluctuates with the market; temporary closure during a business slowdown does not of itself constitute abandonment]; accord, Pardee Construction Co. v. California Coastal Com . (1979) 95 Cal.App.3d 471, 475, 481-482, 157 Cal.Rptr. 184 [after building most planned units, developer allowed permits to lapse during a recession, but intended to complete remaining units when \"sales warranted their construction\"; held, no abandonment of vested right]; cf. (Miscovich v. Tryc k (Alaska 1994) 875 P.2d 1293, 1296 [\"Because government control held gold prices at $35 per ounce...mining was not economically feasible\"].) But that does not mean all gold mines were closed because of low prices, with the intent to reopen when profitable. In other words, the fact national gold prices were low until shortly before SMARA took effect (January 1, 1976) does not compel a finding that future mining was intended by Hardesty's predecessors.\nAs stated byHansen Brothers , in the zoning context, \" '[A]bandonment of a nonconforming use ordinarily depends upon a concurrence of two factors: (1) An intention to abandon; and (2) an overt act, or failure to act, which carries the implication the owner does not claim or retain any interest in the right to the nonconforming use [citation]. Mere cessation of use does not of itself amount to abandonment although the duration of nonuse may be a factor in determining whether the nonconforming use has been abandoned [citation].' \" (Hansen Brothers , supra , 12 Cal.4th at p. 569, 48 Cal.Rptr.2d 778, 907 P.2d 1324, italics added.) Apart from adding his view that precedent states abandonment must be shown by clear and convincing evidence by the party relying on abandonment, Hardesty does not dispute the Hansen Brothers test as to abandonment.\nHardesty relies on cases such as Gerhard v. Stephens (1968) 68 Cal.2d 864, 69 Cal.Rptr. 612, 442 P.2d 692, which held \"abandonment hinges upon the intent of the owner to forego all future conforming uses of his property and the trier of fact must find the conduct demonstrating the intent 'so decisive and conclusive as to indicate a clear intent to abandon.' \" (Id . at p. 889, 69 Cal.Rptr. 612, 442 P.2d 692.) Assuming that equates to \"clear and convincing\" evidence, we find it difficult to conceive of clearer evidence of an intent to abandon than a certified statement by the owner to the government that the mine has been closed with no intent to reopen it, and the Board and the trial court could rationally find Donovan's statement meant what it said. Indeed, at the hearing one Board member gave his opinion that \"the statements signed by the operator that the site is abandoned and reclamation is complete really [are] dispositive at this point and that bell cannot be un-rung by creative discussion later.\" Although the statement of one Board member does not necessarily reflect the views of the entire Board, here it would be rational for the whole Board to adopt that view.\nAs for Hardesty's view that the Board misapplied both the standard of proof and burden of proof, the Board found \"clear and knowing intent\" by Hardesty's predecessors to abandon. In our view, that was an adequate finding under a \"clear and convincing\" standard, particularly because, like the trial court did, we must presume the Board applied the correct law. (Evid. Code, \u00a7 664 [presumption that official duty has been performed]; see Milligan v. Hearing Aid Dispensers Examining Com. (1983) 142 Cal.App.3d 1002, 1008, 191 Cal.Rptr. 490.) Further, the clear tenor of the factual findings, given the evidence, renders irrelevant any error about who bore the burden of proof.\nHere, the evidence of abandonment was overwhelming. Although possibly Triplett had dreams of someone finding the elusive deep blue lead, he did not actually mine for many, many years. Further, a person's subjective \"hope\" is not enough to preserve rights; a desire to mine when a land-use law takes effect is \"measured by objective manifestations and not by subjective intent.\" (Calvert , supra , 145 Cal.App.4th at p. 623, 51 Cal.Rptr.3d 797.) Critically, Donovan certified to the government that all mining had ceased, with no intent to resume, which was uniquely persuasive evidence of abandonment. Indeed, it is difficult to conceive of clearer evidence that the mine was permanently closed than Donavan's certification, which is direct evidence of Donovan's intent to classify the mine as closed with no intent to reopen. Hardesty contends Donovan was illiterate, and that Donovan had been directed how to fill out the forms by a County employee and therefore the forms do not accurately reflect his true intentions, which purportedly were that the property should always be mined. These points were discussed at the Board hearing, and the Board and the trial court were free to weigh the evidence and find the documents Donovan filed meant what they said.\nMoreover, two public commentators gave significant statements relevant to abandonment, not rebutted at the hearing and not mentioned in Hardesty's briefs. First, Mary Harris-Nugent, whose family has owned the Harris Ranch bordering the Big Cut Mine property since \"the mid-1800's\" and who had personally lived on the family ranch for 52 years, stated \"to my knowledge, there has been no operational surface mining of any kind...during my lifetime. [\u00b6] The property has remained dormant and abandoned until Mr. Donovan purchased it. He built his home and a road to his ranch and that is about all the activity we [have] seen as the closest neighbors to him.\" Second, a neighbor of hers, Gail Taxera, has lived on Harris Road, a mile from the proposed mine, for over 50 years and had \"never heard or seen signs of active mining with the exception of the activities during the time the Donovans occupied the property.\" (Recall that the Donovans did not buy the property until 1988, well after SMARA took effect.) The Board could rationally accept these public statements, corroborated by other information before the Board. They dovetail with Donovan's own documentation showing he ceased mining with no intention to resume. Thus, viewed through the appropriate lens, overwhelming evidence supports the Board's and the trial court's findings of abandonment.\nEven if the Board erred in assignment of the burden of proof, the trial court did not, and Hardesty has failed to show the outcome at the Board would have differed.\nII-III\nDISPOSITION\nThe judgment is affirmed. Hardesty shall pay the Board's costs of this appeal. (See Cal. Rules of Court, rule 8.278(a).)\nWe concur:\nNicholson, Acting P.J.\nButz, J.\nFurther undesignated statutory references are to the Public Resources Code.\nHardesty's trial court papers reflected the same flaw, which the Board pointed out to the trial court.\nUnder Board regulations, \"All information submitted pursuant to this section shall be accompanied by a declaration or affidavit attesting to the true and accurate nature of the materials provided.\" (Regs., \u00a7 3952.) Hardesty's lengthy 2010 RFD supplement does not appear to have been accompanied by a declaration. However, the parties treat the supplement with the same dignity as the material contained in the RFD. We will do the same.\nBecause it was part of Hardesty's evidentiary submission, the Board could credit the facts stated in the unpublished Tankersley opinion, although the case is not citable by a California court. (See Cal. Rules of Court, rule 8.1115.) We reference it only insofar as it was part of the evidence before the Board; we do not treat it as a legal precedent.\nFurther references to \"Regs.\" are to title 14 of the California Code of Regulations.\nThe Board agrees Triplett took control of the property in 1921 and accepts Hardesty's present ownership for purposes of this case.\nEach form was signed under the following statement: \"I certify that the information submitted herein is complete and accurate (failure to submit complete and accurate requisite information may result in an administrative penalty as provided for inPublic Resources Code Section 2774.1 ).\" The yearly report is required by section 2207, which has always required a mine owner or operator to specify \"[t]he mining operation's status as active, idle, reclaimed, or in the process of being reclaimed.\" (\u00a7 2207, subd. (a)(6); see Stats. 1990, ch. 1097, \u00a7 2, p. 4575.) Under the law in effect at the time of Donovan's reports, \" 'Idle' means to curtail for a period of one year or more surface mining operations by more than 90 percent of the operation's previous maximum annual mineral production, with the intent to resume those surface mining operations at a future date.\" (Former \u00a7 2727.1, italics added, see Stats. 1990, ch. 1097, \u00a7 3, p. 4578.) Therefore, had Donovan retained an intention to resume operations at a later date, he could have so declared on the annual forms, which contained a box to indicate the mine was idle, rather than closed.\nSection 2770 and some other sections were recently amended. (See Stats. 2016, ch. 7, \u00a7 5.) We cite to the provisions in effect during the trial court litigation, as do the parties.\nSome of this language incorporates the general definition of \"vesting\" as used in building development cases. (See Avco Community Developers, Inc. v. South Coast Regional Com. (1976) 17 Cal.3d 785, 791, 132 Cal.Rptr. 386, 553 P.2d 546 [\"if a property owner has performed substantial work and incurred substantial liabilities in good faith reliance upon a permit issued by the government, he acquires a vested right to complete construction in accordance with the terms of the permit\"], italics added.) It is also consistent with language from the then-recently adopted California Coastal Zone Conservation Act. (Former \u00a7 27404; see Ballot Pamp., Gen. Elec. (Nov. 7, 1972), text of Prop. 20, p. 32 [generally, a permit holder who \"diligently commenced construction and performed substantial work...and incurred substantial liabilities\" before act adopted was not required to obtain a regional coastal commission permit, if no substantial changes were made to the development]; see Urban Renewal Agency v. California Coastal Zone Conservation Com. (1975) 15 Cal.3d 577, 582-584, 125 Cal.Rptr. 485, 542 P.2d 645.)\nThere is a claim that at some point Donovan gave Legacy Land a box of documents detailing mining activities on the property, in aid of negotiating a sale of the property, but that those documents were lost to him, evidently after Legacy Land declared bankruptcy. This claim did not have to be believed.\nThis finding may be overbroad, as it is not clear any entity required \"authorization\" for surface mining before a County ordinance was adopted in 1979, as Hardesty insists. But this does not change the lack of proof his predecessors \"commenced surface mining operations\" (\u00a7 2776, italics added) before SMARA took effect in 1976. Contrary to Hardesty's reading, the Attorney General did not opine that the lack of need of further approvals precludes a finding of substantial changes in the nature of the mining, but opined that each case turned on its particular facts-i.e., whether changes were substantial-and that needing further approvals would \"certainly constitute\" a substantial change. (Surface Mining, supra, 59 Ops.Cal.Atty.Gen. at pp. 643, 655-656.)\nWe accept for purposes of this appeal that Hardesty's predecessors performed the work then required by the federal government. (See Rogers v. De Cambra (1901) 132 Cal. 502, 505-506, 64 P. 894 [federal land officials presumed to have followed proper procedures].)\nBecause Hardesty has not yet applied for a permit, it would be premature to hold that the permit process directly conflicts with some specific federal law. (See Granite Rock, supra, 480 U.S. at pp. 588-589, 107 S.Ct. at pp. 1428-1429, 94 L.Ed.2d at pp. 596-597 [party sought injunctive and declaratory relief, did not know what permit requirements would actually be imposed, and therefore was limited to arguing that no permit could be required under any circumstances].) References in the record and briefs to a 1979 County permit ordinance are unnecessary to address, because this appeal does not turn on it, nor were the Board's or trial court's findings hinged on noncompliance therewith, although an extraneous portion of the trial court's ruling references it and Testa's report mentioned it to explain that two separate periods of post -SMARA surface mining (by Barney's and by Donovan) were \"unpermitted.\"\nA leading treatise states that \"[a]n abandonment may be effected by an instrument of relinquishment filed in the land office.\" (2 Lindley on Mines (3d ed. 1914) Abandonment and Forfeiture, \u00a7 644, p. 1601.) Here, Donovan filed with the government an instrument stating with exquisite clarity his intent to discontinue mining, consistent with the treatise.\nHardesty suggests Donovan's declarations applied to only a very small part of the entire property. Even if true, that point would not account for decades of nonuse and lack of hard evidence of mining on the rest of the property.\nSee footnote *, ante.",
+        "type": "majority",
+        "author": "Duarte, J."
+      }
+    ],
+    "attorneys": [
+      "Certified for Partial Publication.",
+      "Diepenbrock Elkin Gleason LLP and Jennifer L. Dauer, Sacramento, for Plaintiffs and Appellants.",
+      "Kamala D. Harris, Attorney General, David Chaney, Chief Assistant Attorney General, John Saurenman, Senior Assistant Attorney General, Christiana Tiedemann, Deputy Attorney General, David G. Alderson and Tara L. Mueller, Deputy Attorneys General, for Defendant and Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Joe HARDESTY et al., Plaintiffs and Appellants,\nv.\nSTATE MINING AND GEOLOGY BOARD, Defendant and Respondent.\nC079617\nCourt of Appeal, Third District, California.\nFiled April 17, 2017\nRehearing Denied May 16, 2017\nAs Modified May 31, 2017\nCertified for Partial Publication.\nDiepenbrock Elkin Gleason LLP and Jennifer L. Dauer, Sacramento, for Plaintiffs and Appellants.\nKamala D. Harris, Attorney General, David Chaney, Chief Assistant Attorney General, John Saurenman, Senior Assistant Attorney General, Christiana Tiedemann, Deputy Attorney General, David G. Alderson and Tara L. Mueller, Deputy Attorneys General, for Defendant and Respondent.\nPursuant to California Rules of Court, rules 8.1105 and 8.1110, this opinion is certified for publication with the exception of parts II and III of the Discussion."
+  },
+  "file_name": "0028-01",
+  "first_page_order": 28,
+  "last_page_order": 46
+}

@@ -1,0 +1,93 @@
+{
+  "id": 12513555,
+  "name": "PEOPLE v. MARTIN",
+  "name_abbreviation": "People v. Martin",
+  "decision_date": "2017-06-28",
+  "docket_number": "S239205",
+  "first_page": "471",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 471"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "6 Cal.App.5th 666",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 5th",
+      "case_ids": [
+        12513354
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-rptr-3d/211/0559-01"
+      ]
+    },
+    {
+      "cite": "2 Cal.5th 858",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12513451
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-rptr-3d/216/0285-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 84,
+    "char_count": 733,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2586561996471609
+    },
+    "sha256": "37c32d8c999ab60e3a811c2105a01b88fdcef5d7d7222d54522ce62518d8c84d",
+    "simhash": "1:9b296e6db0f2abd2",
+    "word_count": 119
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PEOPLE\nv.\nMARTIN"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "PEOPLE\nv.\nMARTIN\nS239205\nSupreme Court of California\nJune 28, 2017\nThe above-captioned matter is transferred to the Court of Appeal, Fifth Appellate District with directions to vacate its decision and to reconsider the cause in light of the decision in People v. Gonzales (2017) 2 Cal.5th 858, 216 Cal.Rptr.3d 285, 392 P.3d 437. (Cal. Rules of Court, rule 8.528(d).) The Reporter of Decisions is directed not to publish in the Official Appellate Reports the opinion in the above-entitled appeal filed December 12, 2016, which appears at 6 Cal.App.5th 666, 211 Cal.Rptr.3d 559. (Cal. Const., art. VI, \u00a7 14 ; Cal. Rules of Court, rule 8.1105(e)(2).)\nVotes: Cantil-Sakauye, C.J., Werdegar, Chin, Corrigan, Liu, Cu\u00e9llar and Kruger, JJ."
+  },
+  "file_name": "0471-02",
+  "first_page_order": 471,
+  "last_page_order": 471
+}

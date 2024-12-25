@@ -1,0 +1,1020 @@
+{
+  "id": 12513549,
+  "name": "The PEOPLE, Petitioner, v. The SUPERIOR COURT of Riverside County, Respondent; Hossain Sahlolbei, Real Party in Interest.",
+  "name_abbreviation": "People v. Superior Court of Riverside Cnty.",
+  "decision_date": "2017-06-26",
+  "docket_number": "S232639",
+  "first_page": "436",
+  "last_page": "451",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "219 Cal. Rptr. 3d 436"
+    },
+    {
+      "type": "parallel",
+      "cite": "396 P.3d 568"
+    },
+    {
+      "type": "parallel",
+      "cite": "3 Cal. 5th 230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cal.",
+    "id": 14699,
+    "name": "California Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 30,
+    "name_long": "California",
+    "name": "Cal."
+  },
+  "cites_to": [
+    {
+      "cite": "100 Cal.Rptr.2d 120",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 Cal.App.4th 840",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        525243
+      ],
+      "pin_cites": [
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/83/0840-01"
+      ]
+    },
+    {
+      "cite": "886 P.2d 1229",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Cal.Rptr.2d 236",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Cal.4th 189",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1989408
+      ],
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/9/0189-01"
+      ]
+    },
+    {
+      "cite": "216 P.2d 859",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Cal.2d 49",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4400441
+      ],
+      "pin_cites": [
+        {
+          "page": "60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/35/0049-01"
+      ]
+    },
+    {
+      "cite": "853 P.2d 507",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Cal.Rptr.2d 341",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Cal.4th 561",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1998558
+      ],
+      "pin_cites": [
+        {
+          "page": "567"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/5/0561-01"
+      ]
+    },
+    {
+      "cite": "38 P.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Cal.Rptr.2d 403",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Cal.4th 49",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1103377
+      ],
+      "pin_cites": [
+        {
+          "page": "58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/27/0049-01"
+      ]
+    },
+    {
+      "cite": "376 P.3d 604",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "205 Cal.Rptr.3d 475",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cal.5th 376",
+      "category": "reporters:state",
+      "reporter": "Cal. 5th",
+      "case_ids": [
+        12446741
+      ],
+      "pin_cites": [
+        {
+          "page": "395, fn. 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-5th/1/0376-01"
+      ]
+    },
+    {
+      "cite": "4 P.3d 265",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Cal.Rptr.2d 431",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Cal.4th 896",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        276992
+      ],
+      "pin_cites": [
+        {
+          "page": "921"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/23/0896-01"
+      ]
+    },
+    {
+      "cite": "68 Cal.Rptr.3d 704",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Cal.App.4th 469",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4100491
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/157/0469-01"
+      ]
+    },
+    {
+      "cite": "188 P.3d 629",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 Cal.Rptr.3d 690",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.4th 876",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3887984
+      ],
+      "pin_cites": [
+        {
+          "page": "889"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/44/0876-01"
+      ]
+    },
+    {
+      "cite": "176 Cal.Rptr.3d 579",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Cal.App.4th 240",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4341771
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/229/0240-01"
+      ]
+    },
+    {
+      "cite": "250 P.2d 743",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Cal.App.2d 412",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2242860
+      ],
+      "pin_cites": [
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/114/0412-01"
+      ]
+    },
+    {
+      "cite": "136 Cal.Rptr. 429",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 Cal.App.3d 847",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        2029295
+      ],
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "865"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/67/0847-01"
+      ]
+    },
+    {
+      "cite": "113 Cal.Rptr.3d 384",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Cal.App.4th 1433",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6053454
+      ],
+      "pin_cites": [
+        {
+          "page": "1450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/186/1433-01"
+      ]
+    },
+    {
+      "cite": "699 P.2d 316",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "214 Cal.Rptr. 139",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Cal.3d 633",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1977059
+      ],
+      "pin_cites": [
+        {
+          "page": "645-646"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/38/0633-01"
+      ]
+    },
+    {
+      "cite": "115 Cal.Rptr. 532",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Cal.App.3d 1046",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4411705
+      ],
+      "pin_cites": [
+        {
+          "page": "1052"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/40/1046-01"
+      ]
+    },
+    {
+      "cite": "92 Cal.Rptr. 860",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Cal.App.3d 28",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 3d",
+      "case_ids": [
+        4416804
+      ],
+      "pin_cites": [
+        {
+          "page": "37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-3d/15/0028-01"
+      ]
+    },
+    {
+      "cite": "375 P.2d 289",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.Rptr. 441",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 Cal.2d 565",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4377343
+      ],
+      "pin_cites": [
+        {
+          "page": "569"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/58/0565-01"
+      ]
+    },
+    {
+      "cite": "364 U.S. 520",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172969
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "549"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/364/0520-01"
+      ]
+    },
+    {
+      "cite": "229 P. 1020",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Cal.App. 592",
+      "category": "reporters:state",
+      "reporter": "Cal. App.",
+      "case_ids": [
+        2142010
+      ],
+      "pin_cites": [
+        {
+          "page": "597"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app/68/0592-01"
+      ]
+    },
+    {
+      "cite": "187 Cal.Rptr.3d 798",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "237 Cal.App.4th 261",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6056143
+      ],
+      "pin_cites": [
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/237/0261-01"
+      ]
+    },
+    {
+      "cite": "112 Cal.Rptr.3d 647",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Cal.App.4th 1114",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4222071
+      ],
+      "pin_cites": [
+        {
+          "page": "1125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/186/1114-01"
+      ]
+    },
+    {
+      "cite": "56 Cal.Rptr.3d 92",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Cal.App.4th 682",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6046076
+      ],
+      "pin_cites": [
+        {
+          "page": "693"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/148/0682-01"
+      ]
+    },
+    {
+      "cite": "125 Cal.Rptr.2d 225",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Cal.App.4th 1271",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        981929
+      ],
+      "pin_cites": [
+        {
+          "page": "1287, fn. 3, 1302, fn. 10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/101/1271-01"
+      ]
+    },
+    {
+      "cite": "49 Cal.Rptr.2d 676",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Cal.App.4th 533",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6044524
+      ],
+      "pin_cites": [
+        {
+          "page": "541-542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/42/0533-01"
+      ]
+    },
+    {
+      "cite": "770 P.2d 732",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "257 Cal.Rptr. 320",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.3d 602",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4616858
+      ],
+      "pin_cites": [
+        {
+          "page": "609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/48/0602-01"
+      ]
+    },
+    {
+      "cite": "300 P.2d 119",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Cal.App.2d 198",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2176897
+      ],
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/143/0198-01"
+      ]
+    },
+    {
+      "cite": "295 P.2d 113",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 6,
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Cal.App.2d 278",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2174329
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "291"
+        },
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/140/0278-01"
+      ]
+    },
+    {
+      "cite": "884 P.2d 1003",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Cal.Rptr.2d 55",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cal.4th 1200",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        1985991
+      ],
+      "pin_cites": [
+        {
+          "page": "1211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/8/1200-01"
+      ]
+    },
+    {
+      "cite": "201 P. 120",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Cal. 181",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2135485
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/187/0181-01"
+      ]
+    },
+    {
+      "cite": "228 P. 1040",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "194 Cal. 516",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2156711
+      ],
+      "pin_cites": [
+        {
+          "page": "530"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/194/0516-01"
+      ]
+    },
+    {
+      "cite": "231 P.3d 259",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Cal.Rptr.3d 514",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Cal.4th 35",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3905026
+      ],
+      "pin_cites": [
+        {
+          "page": "64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/49/0035-01"
+      ]
+    },
+    {
+      "cite": "769 P.2d 399",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "256 Cal.Rptr. 543",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.3d 341",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4614245
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/48/0341-01"
+      ]
+    },
+    {
+      "cite": "84 P.3d 966",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Cal.Rptr.3d 857",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Cal.4th 491",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        801067
+      ],
+      "pin_cites": [
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/32/0491-01"
+      ]
+    },
+    {
+      "cite": "116 P.3d 1162",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Cal.Rptr.3d 483",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Cal.4th 1075",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3122424
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/36/1075-01"
+      ]
+    },
+    {
+      "cite": "222 P.3d 214",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 12,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Cal.Rptr.3d 767",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 12,
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Cal.4th 1050",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3899312
+      ],
+      "pin_cites": [
+        {
+          "page": "1072"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/47/1050-01"
+      ]
+    },
+    {
+      "cite": "157 Cal.Rptr.3d 451",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 12,
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Cal.App.4th 1181",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4265490
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/216/1181-01"
+      ]
+    },
+    {
+      "cite": "55 Cal.Rptr.2d 555",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 2d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Cal.App.4th 289",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6045054
+      ],
+      "pin_cites": [
+        {
+          "page": "333-336"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-4th/48/0289-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1619,
+    "char_count": 44734,
+    "pagerank": {
+      "raw": 9.24220272554608e-08,
+      "percentile": 0.5109917605234899
+    },
+    "sha256": "4ab342470762c24a378f1981a3db7f446f195d2b8df5621fedc94fbb33dbba12",
+    "simhash": "1:603efa07720b33f7",
+    "word_count": 7053
+  },
+  "last_updated": "2024-02-27T18:43:44.179687+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The PEOPLE, Petitioner,\nv.\nThe SUPERIOR COURT of Riverside County, Respondent;"
+    ],
+    "opinions": [
+      {
+        "text": "Liu, J.\nGovernment Code section 1090 prohibits public officers and employees from making contracts in which they have a financial interest when they act in their official capacities. Knowing and willful self-dealing can result in criminal liability. In this case, the District Attorney of Riverside County seeks to prosecute Dr. Hossain Sahlolbei under section 1090 for allegedly influencing the public hospital where he worked to hire another doctor and then profiting from that doctor's contract. The Court of Appeal held that because Sahlolbei was an independent contractor and not an employee of the hospital, section 1090 does not apply to Sahlolbei. We conclude that independent contractors are not categorically excluded from section 1090. Liability under the statute can extend to independent contractors who have duties to engage in or advise on public contracting. Because Sahlolbei's duties brought him within the scope of the statute, we reverse.\nI.\nSahlolbei was a surgeon at Palo Verde Hospital (the Hospital) in Blythe, Riverside County. The Hospital is a public entity under California law. It is undisputed that Sahlolbei was an independent contractor and never an employee of the Hospital. In addition to providing medical services as the Hospital's codirector of surgery, Sahlolbei served on the Hospital's medical executive committee (the Committee). The Committee, comprised of members of the medical staff, is independent of the Hospital and advises the board of governors of the Hospital (the Board) on the Hospital's operations, including physician hiring. Sahlolbei was at times the chief of staff or the vice-chief of staff of the Committee, and he is alleged to have had considerable influence over the Board's decisions in those roles.\nThe prosecution alleges that Sahlolbei in 2009 recruited an anesthesiologist, Dr. Brad Barth, to work at the Hospital. Sahlolbei negotiated a contract with Barth under which Barth would receive $36,000 a month with a one-time relocation fee of $10,000. But Sahlolbei pressured the Board into hiring Barth for $48,000 a month with a one-time relocation fee of $40,000 as well as a directorship position of $3,000 a month. Sahlolbei allegedly threatened to have the medical staff stop admitting patients to the Hospital if the Board did not agree to his terms. Sahlolbei instructed Barth to have Barth's paychecks deposited directly into Sahlolbei's account, out of which Sahlolbei remitted to Barth the $36,000 a month on which they had agreed. The Board was not aware that Sahlolbei was profiting from Barth's contract. When this was brought to the Board's attention, the Hospital renegotiated Barth's contract to pay Barth directly.\nThe Riverside County District Attorney charged Sahlolbei with grand theft and violation of Government Code section 1090, which provides in relevant part: \"Members of the Legislature, state, county, district, judicial district, and city officers or employees shall not be financially interested in any contract made by them in their official capacity, or by any body or board of which they are members.\" (Gov. Code, \u00a7 1090, subd. (a) ; all undesignated statutory references are to this code.) A willful and knowing violation of section 1090 is punishable by a fine of up to $1,000 or imprisonment, and disqualification \"from holding any office in this state.\" (\u00a7 1097, subd. (a); People v. Honig (1996) 48 Cal.App.4th 289, 333-336, 55 Cal.Rptr.2d 555 (Honig ).)\nThe trial court dismissed the section 1090 count. It considered itself bound by People v. Christiansen (2013) 216 Cal.App.4th 1181, 157 Cal.Rptr.3d 451 (Christiansen ), which held that independent contractors cannot be held criminally liable under section 1090. A divided panel of the Court of Appeal agreed with Christiansen and upheld the dismissal. The court also held that there was no evidence Sahlolbei was acting in an official capacity or performing an authorized public function. Justice Hollenhorst dissented, arguing that Christiansen was wrongly decided. He would have found that independent contractors can be criminally liable under section 1090 where the contractor exerts \"considerable\" influence over the contract decisions of a public entity. We granted review.\nII.\nWhether section 1090 applies to independent contractors is a question of statutory construction that we review de novo. (Lexin v. Superior Court (2010) 47 Cal.4th 1050, 1072, 103 Cal.Rptr.3d 767, 222 P.3d 214 (Lexin ).) Section 1090 does not define \"officer\" or \"employee.\" In Reynolds v. Bement (2005) 36 Cal.4th 1075, 32 Cal.Rptr.3d 483, 116 P.3d 1162 (Reynolds ), we observed that where \" 'a statute refer[s] to employees without defining the term[,] courts have generally applied the common law test of employment.' \" (Id . at p. 1087, 32 Cal.Rptr.3d 483, 116 P.3d 1162, quoting Metropolitan Water Dist. v. Superior Court (2004) 32 Cal.4th 491, 500, 9 Cal.Rptr.3d 857, 84 P.3d 966.) Sahlolbei argues that because it is undisputed Sahlolbei was not an employee of the Hospital under the common law test, Reynolds disposes of this case.\nLike the Court of Appeal, Sahlolbei relies primarily on Christiansen . In that case, the defendant Karen Christiansen, as Director of Planning and Facilities of the Beverly Hills Unified School District, advised the district to enter into contracts with Johnson Controls. (Christiansen , supra , 216 Cal.App.4th at pp. 1184-1187, 157 Cal.Rptr.3d 451.) At the same time, Christiansen's consulting business-of which she was the sole proprietor-was advising Johnson Controls on how to win business at another school district. (Id. at pp. 1185, 1187, 157 Cal.Rptr.3d 451.) Separately, Christiansen advised the district on a bond measure to raise funds to pay for seismic retrofits of school buildings, among other things. (Id. at p. 1187, 157 Cal.Rptr.3d 451.) Christiansen also advised the district to retain her consulting company for project management services for various projects funded by the bond, which the district did. (Ibid. ) Christiansen was convicted on four counts of violating section 1090 for these actions. (Id. at p. 1183, 157 Cal.Rptr.3d 451.) The Court of Appeal reversed, reasoning that section 1090 does not define \"employee\" and therefore Reynolds ties the definition to the common law test of employment. (Christiansen , at pp. 1188-1189, 157 Cal.Rptr.3d 451.) The court held that because Christiansen was an independent contractor and not an employee of the district under the common law test, section 1090 did not apply to her actions. (Christiansen , at p. 1190, 157 Cal.Rptr.3d 451.)\nBut the Court of Appeal in Christiansen misconstrued Reynolds . As Reynolds makes clear, its rule regarding the interpretation of \"employees\" was a specific application of the general rule that we do not presume the Legislature intends to abrogate the common law unless it \" ' \" 'clearly and unequivocally' \" ' \" says so. (Reynolds , supra , 36 Cal.4th at p. 1086, 32 Cal.Rptr.3d 483, 116 P.3d 1162.) The Reynolds rule therefore applies when the common law test of employment would have been appropriate in the same context at common law. But as we explained in S.G. Borello & Sons, Inc. v. Department of Industrial Relations (1989) 48 Cal.3d 341, 256 Cal.Rptr. 543, 769 P.2d 399, the common law test of employment is not always appropriate beyond the tort context in which it was originally developed. (Id. at pp. 350-351, 256 Cal.Rptr. 543, 769 P.2d 399.) Outside of tort, rather than \"rigidly\" applying the common law test, we look to the \" 'history and fundamental purposes' \" of the statute at issue to determine whether the Legislature intended the test to apply. (Ibid. [declining to apply the common law test in light of the history and purposes of the workers' compensation statute at issue]; Martinez v. Combs (2010) 49 Cal.4th 35, 64, 109 Cal.Rptr.3d 514, 231 P.3d 259 [declining to apply the common law test in light of the \"full historical and statutory context\" of the statute at issue].) In Reynolds itself, we observed that the plaintiff in that case \"ha[d] not persuaded us that one may infer from the history and purposes of [the statute at issue] a clear legislative intent to depart ... from the common law\" as to the question at issue. (Reynolds , at p. 1087, fn. 8, 32 Cal.Rptr.3d 483, 116 P.3d 1162.) Here, the history and purposes of section 1090 convince us that the Legislature, rather than intending to limit section 1090 in accordance with the common law test of employment, intended the statute to cover certain independent contractors.\nWe start with the legislative history of the 1963 revisions to section 1090. Prior to those revisions, section 1090 extended only to \"officers.\"\n(Former \u00a7 1090, as amended by Stats. 1961, ch. 381, \u00a7 1, p. 1435.) As now, a \"public officer\" was generally understood to be one who satisfied two criteria: \"First, a tenure of office 'which is not transient, occasional or incidental,' but is of such a nature that the office itself is an entity in which incumbents succeed one another ..., and, second, the delegation to the officer of some portion of the sovereign functions of government, either legislative, executive, or judicial.\" (Spreckels v. Graham (1924) 194 Cal. 516, 530, 228 P. 1040 (Spreckels ), quoting Coulter v. Pool (1921) 187 Cal. 181, 187, 201 P. 120 ; see Dibb v. County of San Diego (1994) 8 Cal.4th 1200, 1211, 36 Cal.Rptr.2d 55, 884 P.2d 1003.)\nIn Schaefer v. Berinstein (1956) 140 Cal.App.2d 278, 291, 295 P.2d 113 (Schaefer ) and Terry v. Bender (1956) 143 Cal.App.2d 198, 211, 300 P.2d 119, the courts concluded that an outside attorney hired by a city could be liable under section 1090. Neither decision cited Spreckels or related cases, and it does not appear that the attorney, who was hired \"as special attorney for the city to clear the title to tax-deeded land situated within the jurisdiction of the city\" (Schaefer , at p. 284, 295 P.2d 113 ), occupied an office \" 'which [was] not transient, occasional, or incidental' \" or was delegated \"some portion of the sovereign functions\" of the city (Spreckels , supra , 194 Cal. at p. 530, 228 P. 1040 ). Instead, Schaefer said that \"[s]tatutes prohibiting personal interests of public officers in public contracts are strictly enforced\" and that what mattered was that the attorney was hired to advise on city contracting. (Schaefer , at p. 291, 295 P.2d 113 [\"A person merely in an advisory position to a city is affected by the conflicts ... rule.\"].)\nAlthough Schaefer was seemingly in tension with Spreckels 's longstanding understanding of \"public officer\" as that term had generally been used in other statutory provisions, the Legislature endorsed Schaefer 's holding and reasoning when it amended section 1090 in 1963 to include \"employees.\" We ordinarily presume the Legislature to \"have enacted and amended statutes ' \" 'in the light of such decisions as have a direct bearing upon them' \" ' \" (Viking Pools, Inc. v. Maloney (1989) 48 Cal.3d 602, 609, 257 Cal.Rptr. 320, 770 P.2d 732 ), and that presumption is bolstered here by legislative history demonstrating that members of the Legislature were aware of Schaefer . In an appendix to its report on the 1963 amendments, the Assembly Interim Committee on Government Organization cited Schaefer for its view that \"[s]tatutes prohibiting personal interest of public officers in public contracts are strictly enforced. (Schaefer v. Berinstein (1956) 140 Cal.App.2d 278, 291 [295 P.2d 113].)\" (Assem. Interim Com. on Government Organization, Rep. on Conflict of Interest (Jan. 1963) p. 32 (Assembly Report).) Then, in a subsection titled Advisory Position, the committee repeated verbatim Schaefer 's holding that \"[a] contract may be contrary to public policy where an official in a position to advise or influence officials making the contract has a personal interest in the contract. A person in an advisory position to a city is affected by the conflicts of interest rule .... (Special Counsel) Schaefer v. Berinstein , [at p.] 291 [295 P.2d 113].\" (Assem. Rep., at p. 37, italics added.)\nIn light of this history, we conclude that the Legislature understood section 1090's reference to \"officers\" to apply to outside advisors with responsibilities for public contracting similar to those belonging to formal officers, notwithstanding Spreckels 's definition of \"public officer\" for other statutes. It stands to reason that when the Legislature added the term \"employees\" to section 1090, it similarly intended to include outside advisors with responsibilities for public contracting similar to those belonging to formal employees, notwithstanding the common law distinction between employees and independent contractors. (See Assem. Rep., supra , at p. 32 [recognizing that the \"tendency of the law is to widen rather than circumscribe the scope of 'conflict of interest' statutes such as Section 1090\"].) At the very least, it does not seem plausible to believe that the Legislature, in \"widen[ing]\" section 1090 to include \"employees,\" meant in the same breath to also \"circumscribe\" section 1090 by categorically excluding outside advisors previously understood to be within the statute's scope. (Assem. Rep., supra , at p. 32.) This understanding of the 1963 amendments to section 1090 is almost as old as the amendments themselves. Writing two years after the amendments, the Attorney General observed that Schaefer and Terry had applied \"the policy, if not the letter, of section 1090\" to include outside advisors. (46 Ops.Cal.Atty.Gen. 74, 79 (1965).) The Attorney General concluded that \"the Legislature in ... amending section 1090 to include 'employees' intended to apply the policy of the conflicts of interest law, as set out in the Schaefer and Terry cases, to independent contractors who perform a public function and to require of those who serve the public temporarily the same fealty expected from permanent officers and employees.\" (Ibid .) The Attorney General reasoned that \"a statute ... is presumed to have been enacted or amended in the light of such existing judicial decisions as have a direct bearing upon it.\" (Ibid .) The Courts of Appeal have generally agreed with the Attorney General. (See Campagna v. City of Sanger (1996) 42 Cal.App.4th 533, 541-542, 49 Cal.Rptr.2d 676 (Campagna ) [outside attorney was covered by section 1090 ]; People v. Gnass (2002) 101 Cal.App.4th 1271, 1287, fn. 3, 1302, fn. 10, 125 Cal.Rptr.2d 225 (Gnass ) [accepting that an outside attorney could be covered by section 1090, though the parties did not litigate the question]; California Housing Finance Agency v. Hanover/California Management and Accounting Center, Inc. (2007) 148 Cal.App.4th 682, 693, 56 Cal.Rptr.3d 92 (California Housing ) [outside attorney, though an independent contractor, was covered by section 1090 ]; Hub City Solid Waste Services, Inc. v. City of Compton (2010) 186 Cal.App.4th 1114, 1125, 112 Cal.Rptr.3d 647 (Hub City ) [independent contractor who provided waste management services came within section 1090 ]; Davis v. Fresno Unified School District (2015) 237 Cal.App.4th 261, 300, 187 Cal.Rptr.3d 798 [extending section 1090 to corporate consultants].) Only the courts in Christiansen and in this case have found that section 1090 categorically excludes independent contractors. We find that Campagna , California Housing , Hub City , Davis , and the Attorney General's opinion more accurately reflect the Legislature's intent than does Christiansen , which did not consider the legislative history or the purposes of section 1090.\nOther conflicts statutes confirm that the Legislature did not intend to categorically exclude independent contractors from the scope of section 1090. Section 87100 of the Political Reform Act of 1974 (\u00a7 81000 et seq.; the Act) addresses conflicts in government decisionmaking. We have said that section 1090 and section 87100\" 'are two of the most important statutes in California addressing the problem of conflict of interest by public officials and employees. They both deal with a relatively small class of people, public officers and employees, and share the same purpose or objective, the prevention of conflicts of interests, and hence can fairly be said to be in pari materia.' [Citations.]\" (Lexin , supra , 47 Cal.4th at p. 1091, 103 Cal.Rptr.3d 767, 222 P.3d 214.) \"Accordingly, to the extent their language permits, we will read section 1090 et seq. and the Political Reform Act as consistent\" (ibid. ) and will \"incorporat[e] congruent principles\" so as to \"render the laws governing government contracts consistent with those governing government decisions more generally\" (id. at p. 1092, 103 Cal.Rptr.3d 767, 222 P.3d 214 ).\nSection 82048, part of the Act, defines \" 'public official' \" to include any \"officer, employee, or consultant of a state or local government agency.\" (\u00a7 82048, subd. (a).) Sahlolbei argues that this shows that the Legislature knows how to include independent contractors when it wants to. But if we read the two statutes \"to the extent their language permits\" \"as incorporating congruent principles\" (Lexin , supra , 47 Cal.4th at pp. 1091, 1092, 103 Cal.Rptr.3d 767, 222 P.3d 214 ), section 82048's clarification that contractors are included among \"public official[s] at any level of state or local government\" under section 87100 is reasonably understood to mean that independent contractors are also included among \"[m]embers of the Legislature, state, county, district, judicial district, and city officers or employees\" under section 1090. We conclude that the Legislature did not intend to exclude from the scope of section 1090 outside advisors to public entities solely because they are independent contractors at common law.\nThis conclusion is consistent with, and helps give effect to, the purposes of section 1090. Section 1090\"codifies the long-standing common law rule that barred public officials from being personally financially interested in the contracts they formed in their official capacities.\" (Lexin , supra , 47 Cal.4th at p. 1072, 103 Cal.Rptr.3d 767, 222 P.3d 214 ; accord, Stockton Plumbing & Supply Co. v. Wheeler (1924) 68 Cal.App. 592, 597, 229 P. 1020.) The common law rule, like section 1090, protects the actual and perceived integrity of the public fisc. As a result, liability-even criminal liability-can accrue without \"actual fraud, dishonesty, unfairness or loss to the governmental entity.\" (Honig , supra , 48 Cal.App.4th at p. 314, 55 Cal.Rptr.2d 555.) As the United States Supreme Court explained in the context of a federal conflict of interest statute, this is because such rules are \"directed not only at dishonor, but also at conduct that tempts dishonor. This broad proscription embodies a recognition of the fact that an impairment of impartial judgment can occur in even the most well-meaning men when their personal economic interests are affected by the business they transact on behalf of the Government.\" (United States v. Mississippi Valley Co. (1961) 364 U.S. 520, 549, 81 S.Ct. 294, 5 L.Ed.2d 268.)\nRecognizing the prophylactic purposes of conflicts statutes, the case law makes clear that section 1090 should be construed broadly to ensure that the public has the official's \"absolute loyalty and undivided allegiance.\" (Stigall v. City of Taft (1962) 58 Cal.2d 565, 569, 25 Cal.Rptr. 441, 375 P.2d 289 (Stigall ).) The focus is on the substance, not the form, of the challenged transaction, \"disregard[ing] the technical relationships of the parties and look[ing] behind the veil which enshrouds their activities.\" (People v. Watson (1971) 15 Cal.App.3d 28, 37, 92 Cal.Rptr. 860.) To that end, we have held that the \"making\"\nof a contract for the purposes of section 1090 includes \"planning, preliminary discussions, compromises, drawing of plans and specifications and solicitation of bids,\" and not just the moment of signing. (Stigall , at p. 571, 25 Cal.Rptr. 441, 375 P.2d 289.) Building on Stigall , the Courts of Appeal have explained that officials can be liable if they \"had the opportunity to, and did, influence execution [of the contract] directly or indirectly to promote [their] personal interests.\" (People v. Sobel (1974) 40 Cal.App.3d 1046, 1052, 115 Cal.Rptr. 532 (Sobel ).) We have similarly interpreted \"financial interest\" broadly so as to include indirect interests and future expectations of profit or loss. (Thomson v. Call (1985) 38 Cal.3d 633, 645-646, 214 Cal.Rptr. 139, 699 P.2d 316 (Thomson ).) Indeed, any financial interest not explicitly excluded by the Legislature in sections 1091 and 1091.5 as too \" 'remote or minimal' \" is sufficient to incur criminal liability under section 1090.\n(Honig , supra , 48 Cal.App.4th at p. 317, 55 Cal.Rptr.2d 555, quoting Stigall , at p. 569, 25 Cal.Rptr. 441, 375 P.2d 289 ; see People v. Wong (2010) 186 Cal.App.4th 1433, 1450, 113 Cal.Rptr.3d 384 (Wong ); People v. Vallerga (1977) 67 Cal.App.3d 847, 865, 136 Cal.Rptr. 429 ; People v. Darby (1952) 114 Cal.App.2d 412, 425, 250 P.2d 743.) The same principles underlying these cases compel us to give a similarly broad construction as to which persons are covered by section 1090.\nThat said, we do not hold that all independent contractors are covered by section 1090. As the case law makes clear, section 1090 liability extends only to independent contractors who can be said to have been entrusted with \" 'transact[ing] on behalf of the Government' \" (Stigall , supra , 58 Cal.2d at p. 570, 25 Cal.Rptr. 441, 375 P.2d 289 ). (See Hub City , supra , 186 Cal.App.4th at p. 1125, 112 Cal.Rptr.3d 647 [\"An individual's status as an official under [section 1090 ] turns on the extent to which the person influences an agency's contracting decisions or otherwise acts in a capacity that demands the public trust.\"]; Schaefer , supra , 140 Cal.App.2d at p. 291, 295 P.2d 113 [\"[The special attorney] was an officer and agent of the city.\"]; see also Thomson , supra , 38 Cal.3d at pp. 647-648, 214 Cal.Rptr. 139, 699 P.2d 316 [\" 'The law ... will not permit one who acts in a fiduciary capacity to deal with himself in his individual capacity.' \"].) So, for example, a stationery supplier that sells paper to a public entity would ordinarily not be liable under section 1090 if it advised the entity to buy pens from its subsidiary because there is no sense in which the supplier, in advising on the purchase of pens, was transacting on behalf of the government.\nIn the ordinary case, a contractor who has been retained or appointed by a public entity and whose actual duties include engaging in or advising on public contracting is charged with acting on the government's behalf. Such a person would therefore be expected to subordinate his or her personal financial interests to those of the public in the same manner as a permanent officer or common law employee tasked with the same duties. (See 46 Ops.Cal.Atty.Gen., supra , at p. 79 [\"[Section 1090 ] require[s] of those who serve the public temporarily the same fealty expected from permanent officers and employees.\"].) Thus, for instance, a person who was initially hired as an officer or employee with responsibilities for contracting and then rehired as an independent contractor to perform the same duties and functions would be expected to continue to serve the public faithfully. Such a contractor would be subject to section 1090. This general rule might give way in circumstances where a contractor reasonably believed he or she was not expected to subordinate his or her financial interests to the public's. But we are not faced with any such circumstances here.\nSahlolbei argues that all independent contractors are exempt from section 1090 liability, but we do not find his arguments persuasive. It is true that in describing the conflicts statutes, we have never explicitly said they apply to independent contractors. We have characterized the statutes as \"barr [ing] public officials from being personally financially interested in the contracts they formed in their official capacities.\" (Lexin , supra , 47 Cal.4th at p. 1072, 103 Cal.Rptr.3d 767, 222 P.3d 214, italics added.) But we and other courts have repeatedly held that conflicts statutes look past \"[l]abels and titles and fictional divides.\" (Wong , supra , 186 Cal.App.4th at p. 1451, 113 Cal.Rptr.3d 384.) Our past cases have used the term \"public officials\" because the precise title of the person was never at issue. What mattered was that he or she was in a position to influence how a public entity spends the public's money, and \"public official\" was a convenient way to designate such a person. That is how section 87100 uses the term. (\u00a7 87100 [applying to any \"public official at any level of state or local government.\"].) As an historical matter, it is likely that only \"officers\" occupied such a position; today, with the expansion of government and public contracting, regular employees and even consultants can have control over the public purse. The history and purposes of section 1090 indicate that the Legislature did not intend liability to turn on the form of an official's employment.\nSahlolbei cites People v. Lofchie (2014) 229 Cal.App.4th 240, 176 Cal.Rptr.3d 579 for the proposition that courts interpret the \"what\" of section 1090 broadly but not the \"who.\" (Id. at p. 252, 176 Cal.Rptr.3d 579.) But Lofchie dealt with whether employees of the University of California were subject to section 1090, which in turn depended on whether the university is a public entity within the meaning of the statute. (Ibid. ) In light of the \"unique constitutional status of the University of California\" (Miklosy v. Regents of the University of California (2008) 44 Cal.4th 876, 889, 80 Cal.Rptr.3d 690, 188 P.3d 629 )-one which guarantees that the university is \"entirely independent of all political or sectarian influence\" (Cal. Const., art. IX, \u00a7 9, subd. (f))-the court decided that section 1090 does not cover the university. (Lofchie , at p. 254, 176 Cal.Rptr.3d 579.) There are no constitutional considerations here that warrant a departure from the general principles of the conflicts rules. It is undisputed that the Hospital is a public entity within the meaning of section 1090.\nSahlolbei also cites Klistoff v. Superior Court (2007) 157 Cal.App.4th 469, 68 Cal.Rptr.3d 704, but that case is also inapposite. The alleged misconduct there was a conspiracy between the former Treasurer of the City of South Gate and Klistoff, among others, to ensure that Klistoff's company would receive a waste collection contract from the city. (Id . at p. 474, 68 Cal.Rptr.3d 704.) The prosecution sought to hold Klistoff liable as a coconspirator under section 1090, even though Klistoff was not employed by the city and had no official position with the city or any other public entity at the time of the alleged misconduct. (Id. at pp. 478-480, 68 Cal.Rptr.3d 704.) The court held that since Klistoff could not himself violate section 1090, he could not be charged as a conspirator under the statute either. (Ibid. ) It is undisputed here that Sahlolbei did have an official position at the Hospital, albeit one as an independent contractor and not as a common law employee.\nThe California Medical Association (CMA), as amicus curiae, argues that physicians should not be subject to section 1090 because of the nature of their relationships with their hospitals. CMA observes that physicians serve as independent contractors of hospitals and, in that capacity, often play major roles in running hospitals. Expanding section 1090 to cover physicians, CMA argues, has the potential to criminalize much of what those physicians currently do. For example, a physician who advises a hospital about the effectiveness of certain drugs could be deemed to have participated in the making of a contract if the hospital enters into a contract with the supplier of those drugs. And, CMA contends, if the physician also has a relationship with the supplier, even if only to keep informed of new developments, the physician could be deemed financially interested in the contract. But CMA overlooks sections 1091 and 1091.5, which exempt interests that are remote or minute. At the same time, if the physician owned more than 3 percent of the drug supplier or derived more than 5 percent of his or her income from the supplier (see \u00a7 1091.5, subd. (a)(1)), we see nothing unreasonable about subjecting the physician to potential liability under section 1090 if the physician chooses to advise the hospital.\nMore fundamentally, we are not convinced that the practice of medicine cannot bear the weight of conflicts of interest statutes. Contrary to CMA's claim, section 1090 does not require public officials to have sole or undivided loyalty to the public entity . Section 1090 seeks to ensure that, to the extent the official has any responsibility to advise on how the public's money should be spent, the official's advice is independent of the official's own financial interests. Applied to physicians, the statute would not disturb their existing duties to the medical staff or their patients. It would simply require physicians, to the extent they spend taxpayer money in the exercise of their duties, not to spend that money in their own financial interest. As CMA notes, despite the general corporate bar on the practice of medicine, between 2004 and 2011 the Legislature temporarily exempted certain rural health care districts from the bar, allowing them to employ physicians directly. (Bus. & Prof. Code, former \u00a7 2401.1, added by Stats. 2003, ch. 411, \u00a7 2, p. 3058 and repealed by its own terms eff. Jan. 1, 2011.) Physicians who were employed by public hospitals pursuant to this exemption were indisputably subject to section 1090. Yet CMA does not contend that those physicians were impaired in the performance of their duties as a result.\nSahlolbei also notes that the Legislature considered, but did not pass, a bill amending section 1090 to explicitly include independent contractors shortly after Christiansen was decided. (See Assem. Bill No. 1059 (2013-2014 Reg.\nSess.), \u00a7 1.) The Legislature did pass Senate Bill No. 952 (2013-2014 Reg. Sess.) that same session, amending section 1090 to include aider and abettor liability. (Stats. 2014, ch. 483, \u00a7 1.) This, Sahlolbei argues, indicates that the Legislature ratified Christiansen . But Assembly Bill No. 1059 was introduced three months before Christiansen was decided; the bill could not have been intended as a response to Christiansen and does not indicate that the Legislature was even aware of Christiansen . Moreover, inferences from legislative inaction are necessarily speculative, and we are especially wary of using unpassed legislation as evidence of what the Legislature that enacted the original statute intended. (See People v. Mendoza (2000) 23 Cal.4th 896, 921, 98 Cal.Rptr.2d 431, 4 P.3d 265 [\"[T]he Legislature's failure to enact a proposed statutory amendment may indicate many things other than approval of a statute's judicial construction....\"].) Because Christiansen is in serious tension with a long line of other Court of Appeal cases (ante , 219 Cal.Rptr.3d at p. 443, 396 P.3d at p. 574), it seems especially tenuous to suggest that the Legislature endorsed Christiansen by inaction. (See Baral v. Schnitt (2016) 1 Cal.5th 376, 395, fn. 9, 205 Cal.Rptr.3d 475, 376 P.3d 604 [observing that the \"[t]he weak reed of legislative inaction provides little support\" for a rule \"that has not been widely accepted\"].)\nThe perverse consequences of exempting independent contractors from section 1090 provide another reason against ascribing to the Legislature such an intent. An official \"could manipulate the employment relationship to retain 'official capacity' influence, yet avoid liability under section 1090\" (California Housing , supra , 148 Cal.App.4th at p. 693, 56 Cal.Rptr.3d 92 ), a scenario illustrated by the facts of Christiansen . Christiansen was initially employed directly by the school district. (Christiansen , supra , 216 Cal.App.4th at p. 1184, 157 Cal.Rptr.3d 451.) Two years later, she entered into a new contract with the district under which she was treated as an independent contractor, although she continued to perform the same duties. (Ibid. ) Her alleged malfeasance occurred during the new contract. (Id. at pp. 1187-1188, 157 Cal.Rptr.3d 451.) As a result, she was able to escape liability for misspending the public's money in large part because at the time of her misconduct, she provided her own insurance (see id. at p. 1185, 157 Cal.Rptr.3d 451 ); if the exact same conduct had occurred under the old contract, she could have been liable. The Christiansen court did not explain why the Legislature would have intended this result.\nIn declining to follow California Housing and Hub City , the Christiansen court observed that those cases, like the ones they built on, involved only civil liability under section 1090, whereas Christiansen's case involved criminal liability. (Christiansen , supra , 216 Cal.App.4th at pp. 1189-1190, 157 Cal.Rptr.3d 451.) But we are not persuaded the Legislature intended any part of section 1090 to mean one thing in a civil case and another in a criminal case. There is no statutory basis for interpreting section 1090 differently in the criminal context. As we observed in Lexin , section 1097 criminalizes any knowing and willful violation of section 1090 without otherwise modifying any elements of section 1090. (Lexin , supra , 47 Cal.4th at p. 1074, 103 Cal.Rptr.3d 767, 222 P.3d 214.) And no court prior to Christiansen appears to have suggested that decisions involving section 1090 in civil contexts were inapposite in criminal cases. To the contrary, our decisions and those of the Courts of Appeal involving criminal prosecutions under section 1090 have consistently relied on civil precedent. (See Lexin , at p. 1075, 103 Cal.Rptr.3d 767, 222 P.3d 214 [criminal case relying on civil cases]; Gnass , supra , 101 Cal.App.4th at pp. 1290-1291, 125 Cal.Rptr.2d 225 [same]; Honig , supra , 48 Cal.App.4th at p. 313, 55 Cal.Rptr.2d 555 [same].)\nThe rule of lenity does not require a stricter interpretation of section 1090. We have held that lenity applies only when \" 'two reasonable interpretations of the same provision stand in relative equipoise, i.e., that resolution of the statute's ambiguities in a convincing manner is impracticable.' \" (People v. Avery (2002) 27 Cal.4th 49, 58, 115 Cal.Rptr.2d 403, 38 P.3d 1 ; see Pen. Code, \u00a7 4 [\"The rule of the common law, that penal statutes are to be strictly construed, has no application to this Code. All its provisions are to be construed according to the fair import of their terms, with a view to effect its objects and to promote justice.\"].) Here, we can do \" 'more than guess' \" at the Legislature's intentions regarding section 1090. (Avery , at p. 58, 115 Cal.Rptr.2d 403, 38 P.3d 1.)\nWe are mindful that a criminal defendant must have fair notice as to what conduct is prohibited. (Williams v. Garcetti (1993) 5 Cal.4th 561, 567, 20 Cal.Rptr.2d 341, 853 P.2d 507.) But this does not mean that it is \"necessary that [the statute] furnish detailed plans and specifications of the acts or conduct prohibited.\" (Lorenson v. Superior Court (1950) 35 Cal.2d 49, 60, 216 P.2d 859.) Rather, \"we 'require citizens to apprise themselves not only of statutory language, but also of legislative history, subsequent judicial construction, and underlying legislative purposes.' \" (People v. Heitzman (1994) 9 Cal.4th 189, 200, 37 Cal.Rptr.2d 236, 886 P.2d 1229.) In light of the unbroken line of cases holding that independent contractors can be liable under section 1090 and the consistent cross-pollination between criminal and civil cases interpreting section 1090, we find it was sufficiently clear at the time of Sahlolbei's alleged misconduct in 2009-after Hub City and before Christiansen -that independent contractors could be held criminally liable under section 1090. We express no view on whether an independent contractor can be held criminally liable under section 1097 for conduct occurring between Christiansen and this decision.\nSahlolbei's broader objection is that the standard advanced by the dissent in the Court of Appeal-that independent contractors come within the scope of section 1090 when they occupy positions \"that carry the potential to exert 'considerable' influence over public contracting\" (see California Housing , supra , 148 Cal.App.4th at p. 693, 56 Cal.Rptr.3d 92 )-is impermissibly vague in the criminal context. The California Housing court derived this \"considerable influence\"\nformulation from cases concerning when officials can be said to have \"made\" contracts in their official capacities. (See Gnass , supra , 101 Cal.App.4th at p. 1298, 125 Cal.Rptr.2d 225 [finding that the defendant made a contract in his official capacity within the meaning of section 1090 because he \"was in a position to exert considerable influence over the decisions [of the public agency], and probably did\"], quoted by California Housing , at p. 691, 56 Cal.Rptr.3d 92.) We express no view as to the correctness of Gnass 's\"considerable influence\" inquiry when it comes to the making of contracts. But we decline to adopt the \"considerable influence\" standard when it comes to defining who is covered by section 1090 in the first instance. As we have explained, independent contractors come within the scope of section 1090 when they have duties to engage in or advise on public contracting that they are expected to carry out on the government's behalf.\nIn this case, the Hospital's former CEO testified that Sahlolbei was asked around 2006 \"to try to bring physician services to the hospital because [Sahlolbei] had better connections than [the Hospital] did.\" The record does not specify whether Sahlolbei was asked because of his roles on the medical staff of the Hospital or his positions on the Committee, or both, but the distinction is immaterial. A physician who was an officer or a common law employee of the Hospital who was similarly tasked with engaging in and advising on physician recruitment would have been expected to be faithful to the public in performing those duties and would have come within the scope of section 1090. Sahlolbei is not exempt from section 1090 liability merely because he was an independent contractor.\nIII.\nSahlolbei contends that even if section 1090 can apply to some independent contractors, the Court of Appeal correctly held there is no evidence that he was acting in an official capacity when he negotiated Barth's contract with the Board. The Court of Appeal agreed with Sahlolbei that during the negotiations he was acting solely as Barth's representative, a fact the Board was well aware of given the antagonistic nature of the proceedings.\nThe Court of Appeal in this case appears to have construed section 1090 too narrowly. On a motion to dismiss a count under Penal Code section 995, we ask only \"whether the evidence is such that 'a reasonable person could harbor a strong suspicion of the defendant's guilt.' \" (Lexin , supra , 47 Cal.4th at p. 1072, 103 Cal.Rptr.3d 767, 222 P.3d 214.) This is an \"exceedingly low\" standard (Salazar v. Superior Court (2000) 83 Cal.App.4th 840, 846, 100 Cal.Rptr.2d 120 ), and we conclude it is satisfied here.\nAs explained, section 1090 prohibits officials from being \"financially interested in any contract made by them in their official capacity.\" Officials make contracts in their official capacities within the meaning of section 1090 if their positions afford them \"the opportunity to ... influence execution [of the contracts] directly or indirectly to promote [their] personal interests\" and they exploit those opportunities. (Sobel , supra , 40 Cal.App.3d at p. 1052, 115 Cal.Rptr. 532.) And officials cannot hide behind \"[l]abels and titles\" (Wong , supra , 186 Cal.App.4th at p. 1451, 113 Cal.Rptr.3d 384 ) or \" 'change hats' \" (Campagna , supra , 42 Cal.App.4th at p. 542, 49 Cal.Rptr.2d 676 ) to obscure the substance of their actions. Similarly, the fact that an official's written duties do not extend to contracting is irrelevant if the official was actually involved in the making of any public contracts and, in doing so, exploited an official position. (See Sobel , at p. 1052, 115 Cal.Rptr. 532 [rejecting the contention that section 1090\"only applies to those persons who actually have the legal authority to execute contracts, and do so\"]; id. at p. 1053, 115 Cal.Rptr. 532 [\"[T]he evidence was ample to support the conclusion that the defendant had the opportunity, whatever his job classification, to direct a steady flow of [public money] to a concern in which he was interested, personally, and that he did so.\"].)\nWe do not mean to suggest that the requirement that the contract have been made in the defendant's \"official capacity\" is an empty one. There may be instances where officials subject to section 1090 will be involved in the making of public contracts in which they benefit, but will not be liable because they were not acting in their official capacities. (See, e.g., Campagna , supra , 42 Cal.App.4th at pp. 539-540, 49 Cal.Rptr.2d 676 [holding that an outside attorney acted outside of his official capacity when directly renegotiating his own contract with the agency]; 80 Ops.Cal.Atty.Gen. 41, 41 (1997) [\"[C]ity firefighters who have developed a firefighting protective device may sell the device to the city's fire department without violating ... section 1090 if they contract with the city solely in their private capacities.\"].) But this is not such an instance.\nSahlolbei contends that he did not act in an official capacity because his written duties did not include finding doctors to serve on the hospital's staff. But this is immaterial because there is evidence that Sahlolbei was actually asked by Hospital leadership to assist in identifying physicians to recruit to the Hospital and that he did so. Moreover, even if the Board thought that Sahlolbei was acting exclusively as Barth's representative, a reasonable person could harbor a strong suspicion that Sahlolbei was only able to make the threats he allegedly made to secure Barth's contract-ordering the medical staff to stop admitting patients-because he occupied official positions on the Committee and on the medical staff. We therefore conclude that under Penal Code section 995, the evidence is sufficient for Sahlolbei to be held to account for making Barth's contract with the Hospital in Sahlolbei's official capacity at the Hospital. (Lexin , supra , 47 Cal.4th at p. 1072, 103 Cal.Rptr.3d 767, 222 P.3d 214.)\nFinally, Sahlolbei argues that because his own contract with the Hospital had lapsed between April and December of 2009, he was not even an independent contractor-and thus had no official position whatsoever-when the Hospital signed Barth's contracts in October 2009. The prosecution argues there is evidence that Barth's contracts were actually signed at a later date and backdated to October and notes that the making of a contract encompasses more than just the moment of signing. (Stigall , supra , 58 Cal.2d at p. 571, 25 Cal.Rptr. 441, 375 P.2d 289.) The Court of Appeal did not address this contention, and we do not address it here. On remand, the Court of Appeal may determine whether \"a reasonable person could harbor a 'strong suspicion' \" that Sahlolbei was, in fact, affiliated with the Hospital during the making of Barth's contracts. (Lexin , supra , 47 Cal.4th at p. 1077, 103 Cal.Rptr.3d 767, 222 P.3d 214.) If so, the section 1090 charge against Sahlolbei should be reinstated. (See id. at pp. 1071-1072, 103 Cal.Rptr.3d 767, 222 P.3d 214.)\nCONCLUSION\nWe reverse the judgment of the Court of Appeal and remand for proceedings consistent with this opinion. We disapprove People v. Christiansen (2013) 216 Cal.App.4th 1181, 157 Cal.Rptr.3d 451 to the extent it is inconsistent with this opinion.\nWe Concur:\nCantil-Sakauye, C.J.\nWerdegar, J.\nChin, J.\nCorrigan, J.\nCu\u00e9llar, J.\nKruger, J.",
+        "type": "majority",
+        "author": "Liu, J."
+      }
+    ],
+    "attorneys": [
+      "Paul E. Zellerbach and Michael A. Hestrin, District Attorneys, Elaina Gambera Bentley, Assistant District Attorney, Kelli M. Catlett and Emily R. Hanks, Deputy District Attorneys, for Petitioner.",
+      "No appearance for Respondent.",
+      "Brown White & Newhouse, Brown White & Osborn and Kenneth P. White, Los Angeles, for Real Party in Interest.",
+      "Francisco J. Silva, Sacramento, and Long X. Do for California Medical Association as Amicus Curiae on behalf of Real Party in Interest."
+    ],
+    "corrections": "",
+    "head_matter": "The PEOPLE, Petitioner,\nv.\nThe SUPERIOR COURT of Riverside County, Respondent;\nHossain Sahlolbei, Real Party in Interest.\nS232639\nSupreme Court of California\nFiled June 26, 2017\nPaul E. Zellerbach and Michael A. Hestrin, District Attorneys, Elaina Gambera Bentley, Assistant District Attorney, Kelli M. Catlett and Emily R. Hanks, Deputy District Attorneys, for Petitioner.\nNo appearance for Respondent.\nBrown White & Newhouse, Brown White & Osborn and Kenneth P. White, Los Angeles, for Real Party in Interest.\nFrancisco J. Silva, Sacramento, and Long X. Do for California Medical Association as Amicus Curiae on behalf of Real Party in Interest."
+  },
+  "file_name": "0436-01",
+  "first_page_order": 436,
+  "last_page_order": 451
+}
