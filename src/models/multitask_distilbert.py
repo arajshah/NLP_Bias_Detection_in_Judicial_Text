@@ -18,9 +18,6 @@ class MultiTaskOutputs:
 
 class DistilBertMultiTask(nn.Module):
     """Multi-task model: binary classification + regression on a shared DistilBERT encoder.
-
-    Designed to support the CV claim: a transformer-based multi-task pipeline
-    for trial occurrence (classification) and sentencing length (regression).
     """
 
     def __init__(
