@@ -26,7 +26,6 @@ class ProjectPaths:
 
 
 def find_project_root(start: Path | None = None) -> Path:
-    """Find project root by walking upward until `data/` and `notebooks/` exist."""
     cur = (start or Path.cwd()).resolve()
     for _ in range(10):
         if (cur / "data").exists() and (cur / "notebooks").exists():

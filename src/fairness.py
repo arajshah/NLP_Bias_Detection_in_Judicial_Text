@@ -18,7 +18,7 @@ class GroupMetrics:
 def demographic_parity_by_group(y_pred: np.ndarray, group: np.ndarray, positive_label: int = 1) -> dict[Any, float]:
     """Positive prediction rate per group (demographic parity slice).
 
-    This is a slice metric, not a causal statement.
+    This is a slice metric.
     """
     rates: dict[Any, float] = {}
     for g in np.unique(group):
