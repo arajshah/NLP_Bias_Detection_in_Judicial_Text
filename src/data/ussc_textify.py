@@ -8,11 +8,6 @@ import pandas as pd
 
 @dataclass(frozen=True)
 class UsscTextifyConfig:
-    """How to serialize a structured row into text for transformer ingestion.
-
-    This is the key technique that makes a transformer LM applicable to a tabular
-    USSC-style dataset when no raw narrative text field is available.
-    """
 
     include_cols: tuple[str, ...]
     sep: str = "; "
