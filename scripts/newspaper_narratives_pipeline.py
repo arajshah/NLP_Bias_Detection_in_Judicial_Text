@@ -14,11 +14,10 @@ from src.paths import get_paths
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(
         description=(
-            "Run a lightweight NLP pipeline on a user-supplied newspaper narrative CSV.\n"
-            "The repo does not ship a newspaper dataset; this script is the reusable pipeline component."
+            "Run a lightweight NLP pipeline on a user-supplied newspaper narrative CSV."
         )
     )
-    p.add_argument("--csv", required=True, help="Path to a CSV containing narrative text")
+    p.add_argument("--csv", required=True, help="Path to CSV with narrative text")
     p.add_argument("--text_col", default="text", help="Name of the text column")
     p.add_argument("--out_dir", default=None, help="Directory to write artifacts (topics, doc-topic matrix)")
     p.add_argument("--num_topics", type=int, default=8)
